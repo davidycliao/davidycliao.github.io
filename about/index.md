@@ -7,7 +7,7 @@ I am a PhD candidate in the Department of Government at the University of Essex.
 curriculum vitae from [here](https://raw.githack.com/davidycliao/CV/master/CV.pdf). 
 
 
-My PhD research project is funded by the Ministry of Education (July 2017 - June 2021) and the Council of Indigenous Peoples in Taiwan. If you're interested in researches related to Taiwan, cross-strait relations, Asia-Pacific region and would like to apply for fellowship or scholarship from Taiwan, please don't hesitate to reach out to me.
+My PhD research project is funded by [the Ministry of Education](https://www.roc-taiwan.org/uk_en/index.html) (July 2017 - June 2021) and [the Council of Indigenous Peoples](https://www.cip.gov.tw/portal/index.html?lang=en_US) in Taiwan. If you're interested in researches related to Taiwan, cross-strait relations, Asia-Pacific region and would like to apply for fellowship or scholarship from Taiwan, please don't hesitate to reach out to me.
 
 <br/><br/>
 
