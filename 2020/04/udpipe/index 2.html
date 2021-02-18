@@ -1,0 +1,585 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="robots" content="noodp" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+        <title>[Script] Parallelly Run Udpipe in R | DAVID LIAO</title>
+        <meta name="Description" content="parallelly run udpipe in R"><meta property="og:title" content="[Script] Parallelly Run Udpipe in R" />
+<meta property="og:description" content="parallelly run udpipe in R" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://davidycliao.github.io/2020/04/udpipe/" />
+<meta property="article:published_time" content="2020-04-19T21:29:01+08:00" />
+<meta property="article:modified_time" content="2020-04-19T21:29:01+08:00" />
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="[Script] Parallelly Run Udpipe in R"/>
+<meta name="twitter:description" content="parallelly run udpipe in R"/>
+<meta name="theme-color" content="#ffffff">
+<meta name="msapplication-TileColor" content="#da532c">
+<link rel="canonical" href="https://davidycliao.github.io/2020/04/udpipe/" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"><link rel="stylesheet" href="/lib/fontawesome-free/all.min.css"><link rel="stylesheet" href="/lib/animate/animate.min.css"><link rel="stylesheet" href="/css/style.min.css"><script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "BlogPosting",
+        "headline": "[Script] Parallelly Run Udpipe in R",
+        "inLanguage": "en",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https:\/\/davidycliao.github.io\/2020\/04\/udpipe\/"
+        },"image": {
+                "@type": "ImageObject",
+                "url": "https:\/\/davidycliao.github.io\/static\/mstile-150x150.png",
+                "width":  800 ,
+                "height":  600 
+            },"genre": "posts","keywords": "NLP, UDpipe","wordcount":  989 ,
+        "url": "https:\/\/davidycliao.github.io\/2020\/04\/udpipe\/","datePublished": "2020-04-19","dateModified": "2020-04-19","publisher": {
+                "@type": "Organization",
+                "name": "Yen-Chieh Liao",
+                "logo": {
+                "@type": "ImageObject",
+                "url": "https:\/\/davidycliao.github.io\/logo.png",
+                "width":  120 ,
+                "height":  40 
+                }
+            },"author": {
+                "@type": "Person",
+                "name": "David Yen-Chieh Liao"
+            },"description": "parallelly run udpipe in R"
+    }
+    </script></head>
+    <body><script>
+            if (!window.localStorage || !window.localStorage.getItem('theme')) {window.isDark = window.matchMedia('(prefers-color-scheme: dark)').matches;} else {
+                window.isDark = (window.localStorage && window.localStorage.getItem('theme')) === 'dark';
+            }
+            window.isDark && document.body.classList.add('dark-theme');
+        </script><div class="wrapper"><header class="desktop" id="header-desktop">
+    <div class="header-wrapper">
+        <div class="header-title">
+            <a href="/">DAVID LIAO</a>
+        </div>
+        <div class="menu"><a class="menu-item" href="/about/" rel="noopener noreffer">About</a><a class="menu-item" href="/research/" rel="noopener noreffer">Research</a><a class="menu-item" href="/teaching/" rel="noopener noreffer">Teaching</a><a class="menu-item" href="/resource/" rel="noopener noreffer">Resource</a><a class="menu-item" href="/data/" rel="noopener noreffer">Data</a><a class="menu-item" href="https://raw.githack.com/davidycliao/CV/master/CV.pdf" rel="noopener noreffer" target="_blank">CV</a><a class="menu-item" href="/categories/" rel="noopener noreffer"><i class=' fas fa-folder-open'></i></a><a class="menu-item" href="/posts/" rel="noopener noreffer"><i class=' far fa-comment-dots'></i></a><a class="menu-item" href="/tags/" rel="noopener noreffer"><i class=' fas fa-thumbtack'></i></a><a class="menu-item" href="https://github.com/davidycliao" title="GitHub" rel="noopener noreffer" target="_blank"><i class='fab fa-github fa-fw'></i></a><span class="menu-item">|</span>
+            <a href="javascript:void(0);" class="menu-item theme-switch" title="Switch Theme">
+                <i class="fas fa-adjust fa-fw"></i>
+            </a></div>
+    </div>
+</header><header class="mobile" id="header-mobile">
+    <div class="header-wrapper">
+        <div class="header-container">
+            <div class="header-title">
+                <a href="/">DAVID LIAO</a>
+            </div>
+            <div class="menu-toggle" id="menu-toggle-mobile">
+                <span></span><span></span><span></span>
+            </div>
+        </div>
+        <div class="menu" id="menu-mobile"><a class="menu-item" href="/about/" title="" rel="noopener noreffer">About</a><a class="menu-item" href="/research/" title="" rel="noopener noreffer">Research</a><a class="menu-item" href="/teaching/" title="" rel="noopener noreffer">Teaching</a><a class="menu-item" href="/resource/" title="" rel="noopener noreffer">Resource</a><a class="menu-item" href="/data/" title="" rel="noopener noreffer">Data</a><a class="menu-item" href="https://raw.githack.com/davidycliao/CV/master/CV.pdf" title="" rel="noopener noreffer" target="_blank">CV</a><a class="menu-item" href="/categories/" title="" rel="noopener noreffer"><i class=' fas fa-folder-open'></i></a><a class="menu-item" href="/posts/" title="" rel="noopener noreffer"><i class=' far fa-comment-dots'></i></a><a class="menu-item" href="/tags/" title="" rel="noopener noreffer"><i class=' fas fa-thumbtack'></i></a><a class="menu-item" href="https://github.com/davidycliao" title="GitHub" rel="noopener noreffer" target="_blank"><i class='fab fa-github fa-fw'></i></a><a href="javascript:void(0);" class="menu-item theme-switch" title="Switch Theme">
+                <i class="fas fa-adjust fa-fw"></i>
+            </a></div>
+    </div>
+</header>
+
+<script>
+    window.desktopHeaderMode = "fixed";
+    window.mobileHeaderMode = "auto";
+</script>
+<main class="main">
+                <div class="container"><article class="page single"><h1 class="single-title animated flipInX">[Script] Parallelly Run Udpipe in R</h1><div class="post-meta">
+            <div class="post-meta-line"><span class="post-author"><a href="/" title="Author" rel="noopener noreffer author" class="author"><i class="fas fa-user-circle fa-fw"></i>David Yen-Chieh Liao</a>
+</span>&nbsp;
+                    <span class="post-category">included in<a href="/categories/documentation">
+                                <i class="far fa-folder fa-fw"></i>Documentation
+                            </a></span></div>
+            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i><time datetime=2020-04-19>2020-04-19</time>&nbsp;
+                <i class="fas fa-pencil-alt fa-fw"></i>about 989 words&nbsp;
+                <i class="far fa-clock fa-fw"></i>5 min&nbsp;</div>
+        </div><div class="featured-image"><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-sizes="auto"
+        data-srcset="/images/pos_tagging.png, /images/pos_tagging.png 1.5x, /images/pos_tagging.png 2x"
+        data-src="/images/pos_tagging.png"
+        alt="parallelly run udpipe in R"
+        title="parallelly run udpipe in R" /></div><div class="toc" id="toc-auto">
+                <h2 class="toc-title">Contents</h2>
+                <div class="toc-content" id="toc-content-auto"></div>
+            </div>
+            <div class="toc" id="toc-static">
+                <details>
+                    <summary>
+                        <div class="toc-title">
+                            <span>Contents</span>
+                            <span><i class="details icon fas fa-angle-down"></i></span>
+                        </div>
+                    </summary>
+                    <div class="toc-content" id="toc-content-static"><nav id="TableOfContents">
+  <ul>
+    <li><a href="#1-nlp-in-udpipe">1. NLP in UDpipe</a></li>
+    <li><a href="#2-prerequisites">2. Prerequisites</a>
+      <ul>
+        <li><a href="#speech-dataset-uk-parliarment">Speech Dataset: UK Parliarment</a></li>
+        <li><a href="#2-necessary-libraries">(2) necessary libraries</a></li>
+      </ul>
+    </li>
+    <li><a href="#3-computing-competitions">3. Computing Competitions</a>
+      <ul>
+        <li>
+          <ul>
+            <li><a href="#1-no-paralleled-setting">(1) no paralleled setting</a></li>
+            <li><a href="#2-parallel-computing-type-1">(2) Parallel computing type 1</a></li>
+            <li><a href="#3-parallel-computing-type-2">(3) Parallel computing type 2</a></li>
+            <li><a href="#4-lets-compare-those-outputs">(4) Let&rsquo;s compare those outputs</a></li>
+            <li><a href="#5-gentle-advice">(5) Gentle advice:</a></li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+  </ul>
+</nav></div>
+                </details>
+            </div><div class="content" id="content"><h2 id="1-nlp-in-udpipe">1. NLP in UDpipe</h2>
+<div style="text-align: justify">
+<p>The NLP workflow mostly consists of tokenization, parts of speech tagging, lemmatization and dependency parsing. <a href="https://github.com/ufal/udpipe" target="_blank" rel="noopener noreffer">UDpipe</a>
+ is one of my favourite NLP library, initially designed in C++ dealing with multiple tasks in text processing. I highly recommend UDpipe because this not only works faster but also work well with pipe function, which can help R user organize own workflow. Now UDpipe is also available in CRAN hosted by <a href="https://cran.r-project.org/web/packages/udpipe/vignettes/udpipe-annotation.html" target="_blank" rel="noopener noreffer">Jan Wijffels</a>
+. The package also provides well-explained <a href="https://bnosac.github.io/udpipe/docs/doc0.html" target="_blank" rel="noopener noreffer">vignettes</a>
+ in various NLP techniques and made such resources openly accessible to a newbie. Here, I  demonstrate how to implement parrel computing in your code and make a tailored function for your analysis.</p>
+</div>
+<h2 id="2-prerequisites">2. Prerequisites</h2>
+<h3 id="speech-dataset-uk-parliarment">Speech Dataset: UK Parliarment</h3>
+<table>
+<thead>
+<tr>
+<th>Countries</th>
+<th align="center">Period</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>The UK House of Commons</td>
+<td align="center">1988/11-2019/01</td>
+</tr>
+</tbody>
+</table>
+<p>Source: ParlSpeech2 (Rauh and Schwalbach 2002)</p>
+<p><strong>R script</strong></p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">2
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-fallback" data-lang="fallback">str(Corp_HouseOfCommons)
+</code></pre></td></tr></table>
+</div>
+</div><p><strong>R console</strong></p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-fallback" data-lang="fallback">&#39;data.frame&#39;:	1956223 obs. of  11 variables:
+ $ date          : chr  &#34;1988-11-22&#34; &#34;1988-11-22&#34; &#34;1988-11-22&#34; &#34;1988-11-22&#34; ...
+ $ agenda        : chr  &#34;Queen&#39;s Speech&#34; &#34;First Day [Debate On The Address]&#34; &#34;First Day [Debate On The Address]&#34; &#34;First Day [Debate On The Address]&#34; ...
+ $ speechnumber  : int  1 2 3 4 5 6 7 8 9 10 ...
+ $ speaker       : chr  &#34;CHAIR&#34; &#34;CHAIR&#34; &#34;Giles Shaw&#34; &#34;John Maples&#34; ...
+ $ party         : chr  NA NA &#34;Con&#34; &#34;Con&#34; ...
+ $ party.facts.id: num  NA NA 1567 1567 1516 ...
+ $ chair         : logi  TRUE TRUE FALSE FALSE FALSE FALSE ...
+ $ terms         : num  74 55 2511 1470 2768 ...
+ $ text          : chr  &#34;I have to acquaint the House that this House has this day attended Her Majesty in the House of Peers, and that &#34;| __truncated__ &#34;It may be for the convenience of the House if I announce the proposed pattern of the remaining days of the deba&#34;| __truncated__ &#34;I beg to move,. That an humble Address be presented to Her Majesty, as follows: Most Gracious Sovereign, We, Yo&#34;| __truncated__ &#34;I am delighted to second the motion. When I had recovered from the pleasant surprise of being asked to make thi&#34;| __truncated__ ...
+ $ parliament    : chr  &#34;UK-HouseOfCommons&#34; &#34;UK-HouseOfCommons&#34; &#34;UK-HouseOfCommons&#34; &#34;UK-HouseOfCommons&#34; ...
+ $ iso3country   : chr  &#34;GBR&#34; &#34;GBR&#34; &#34;GBR&#34; &#34;GBR&#34; ...
+
+</code></pre></td></tr></table>
+</div>
+</div><h3 id="2-necessary-libraries">(2) necessary libraries</h3>
+<div style="text-align: justify"> 
+Most of the time we need to load many libraries to achieve one goal, then are being confused by those library functions. So, I suggest to set up a function to categorize them. </div>
+<table>
+<thead>
+<tr>
+<th>Packages</th>
+<th>Aims</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>readxl</code> , <code>lubridate</code> ,<code>tidyr</code> ,<code>stringr</code> ,<code>tidyverse</code></td>
+<td>tidy up data</td>
+</tr>
+<tr>
+<td><code>parallel</code> ,<code>future</code>, <code>future.apply</code> ,<code>doParallel</code>, <code>furrr</code></td>
+<td>Parallel computing</td>
+</tr>
+<tr>
+<td><code>udpipe</code></td>
+<td>NLP tool kits</td>
+</tr>
+</tbody>
+</table>
+<p><strong>R script</strong></p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-fallback" data-lang="fallback">pkg_install = function(pkg){
+  new.pkg = pkg[!(pkg %in% installed.packages()[, &#34;Package&#34;])] 
+  if (length(new.pkg)) 
+    install.packages(new.pkg, dependencies = TRUE)
+  sapply(pkg, require, character.only = TRUE, USE.NAMES = TRUE)}
+</code></pre></td></tr></table>
+</div>
+</div><p><strong>R script</strong></p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">2
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-fallback" data-lang="fallback">pkg_install(nlp_toolkits)
+</code></pre></td></tr></table>
+</div>
+</div><p><strong>Console</strong></p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-fallback" data-lang="fallback">&gt; udpipe 
+&gt; TRUE 
+</code></pre></td></tr></table>
+</div>
+</div><hr>
+<p><strong>R script</strong></p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">2
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-fallback" data-lang="fallback">pkg_install(wrangling_toolkits)
+</code></pre></td></tr></table>
+</div>
+</div><p><strong>Console</strong></p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-fallback" data-lang="fallback">&gt; readxl lubridate     tidyr   stringr  tidytext    scales tidyverse 
+&gt;   TRUE      TRUE      TRUE      TRUE      TRUE      TRUE      TRUE 
+</code></pre></td></tr></table>
+</div>
+</div><p><strong>R script</strong></p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">2
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-c" data-lang="c"><span class="n">pkg_install</span><span class="p">(</span><span class="n">pkg_parallel</span><span class="p">)</span>
+</code></pre></td></tr></table>
+</div>
+</div><p><strong>Console</strong></p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-fallback" data-lang="fallback">&gt; parallel       future future.apply   doParallel        furrr 
+&gt;     TRUE         TRUE         TRUE         TRUE         TRUE 
+</code></pre></td></tr></table>
+</div>
+</div><h2 id="3-computing-competitions">3. Computing Competitions</h2>
+<h4 id="1-no-paralleled-setting">(1) no paralleled setting</h4>
+<p>This is script that I modified from <a href="https://bnosac.github.io/udpipe/docs/doc0.html" target="_blank" rel="noopener noreffer">Jan Wijffels</a>
+.</p>
+<p><strong>R script</strong></p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-fallback" data-lang="fallback">set.seed(5)
+ho_textdf &lt;- Corp_HouseOfCommons %&gt;%
+  rowid_to_column(&#34;ID&#34;) %&gt;%
+  sample_n(ID, size = 1000, replace = TRUE)
+
+system.time({
+udmodel &lt;- udpipe_download_model(language = &#34;english&#34;)
+udmodel_english &lt;- udpipe_load_model(file = udmodel$file_model)
+hoc_parse &lt;- udpipe_annotate(udmodel_english, x = ho_textdf$text, doc_id = ho_textdf$ID)  
+hoc_pasrsed &lt;- as.data.frame(hoc_parse, detailed = TRUE)
+hoc_pasrsed})
+</code></pre></td></tr></table>
+</div>
+</div><p><strong>Console</strong></p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-fallback" data-lang="fallback">&gt;    user  system elapsed 
+&gt; 227.330   3.389 233.483 
+</code></pre></td></tr></table>
+</div>
+</div><h4 id="2-parallel-computing-type-1">(2) Parallel computing type 1</h4>
+<p><strong>R script</strong></p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span><span class="lnt">16
+</span><span class="lnt">17
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-fallback" data-lang="fallback">system.time({
+udmodel &lt;- udpipe_download_model(language = &#34;english&#34;)
+udmodel_english &lt;- udpipe_load_model(file = udmodel$file_model)
+annotate_splits &lt;- function(x, file) {
+  ud_model &lt;- udpipe_load_model(file)
+  x &lt;- as.data.table(udpipe_annotate(ud_model, 
+                                     x = x$text,
+                                     doc_id = x$ID))
+  return(x)
+}
+plan(multiprocess, workers = detectCores())
+corpus_splitted &lt;- split(ho_textdf , seq(1, nrow(ho_textdf), by =  round(nrow(ho_textdf) / detectCores())))
+annotation &lt;- future_lapply(corpus_splitted, annotate_splits, file = udmodel_english$file)
+hoc_pasrsed &lt;- rbindlist(annotation)
+hoc_pasrsed})
+
+</code></pre></td></tr></table>
+</div>
+</div><div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-fallback" data-lang="fallback">&gt;   user  system elapsed 
+&gt;  5.305   1.578  48.922 
+</code></pre></td></tr></table>
+</div>
+</div><h4 id="3-parallel-computing-type-2">(3) Parallel computing type 2</h4>
+<p><strong>R script</strong></p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span><span class="lnt">16
+</span><span class="lnt">17
+</span><span class="lnt">18
+</span><span class="lnt">19
+</span><span class="lnt">20
+</span><span class="lnt">21
+</span><span class="lnt">22
+</span><span class="lnt">23
+</span><span class="lnt">24
+</span><span class="lnt">25
+</span><span class="lnt">26
+</span><span class="lnt">27
+</span><span class="lnt">28
+</span><span class="lnt">29
+</span><span class="lnt">30
+</span><span class="lnt">31
+</span><span class="lnt">32
+</span><span class="lnt">33
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-fallback" data-lang="fallback">speech_tag = function (textdata, textvar, lang,...) {
+  textdata[[textvar]] = iconv(textdata[[textvar]], to = &#34;UTF-8&#34;,sub = &#34;&#34;)
+  textdata = textdata %&gt;%
+    mutate(year = year(date)) %&gt;%
+    split(.$year)
+  if (lang == &#34;English&#34;){udmodel_lang &lt;- udpipe_load_model(file = udpipe_download_model(language = &#34;english&#34;)$file_model)$file}
+  if (lang == &#34;German&#34;){udmodel_lang &lt;- udpipe_load_model(file = udpipe_download_model(language = &#34;german&#34;)$file_model)$file }
+  if (lang == &#34;Spanish&#34;){udmodel_lang &lt;- udpipe_load_model(file = udpipe_download_model(language = &#34;spanish&#34;)$file_model)$file }
+  if (lang == &#34;Dutch&#34;){udmodel_lang &lt;- udpipe_load_model(file = udpipe_download_model(language = &#34;dutch&#34;)$file_model)$file }
+  if (lang == &#34;Czech&#34;){udmodel_lang &lt;- udpipe_load_model(file = udpipe_download_model(language = &#34;czech&#34;)$file_model)$file }
+  if (lang == &#34;Finnish&#34;){udmodel_lang &lt;- udpipe_load_model(file = udpipe_download_model(language = &#34;finnish&#34;)$file_model)$file }
+  if (lang == &#34;Swedish&#34;){udmodel_lang = udpipe_load_model(file = udpipe_download_model(language = &#34;swedish&#34;)$file_model)$file }
+  if (lang == &#34;Denish&#34;){udmodel_lang = udpipe_load_model(file = udpipe_download_model(language = &#34;denish&#34;)$file_model)$file }
+  future::plan(future::multiprocess, workers = parallel::detectCores()-1)
+  Sys.sleep(0.1) 
+  annotation = future.apply::future_lapply(textdata, function(x, file) {
+    ud_model = udpipe::udpipe_load_model(file)
+    x = data.table::as.data.table(udpipe::udpipe_annotate(ud_model, x = x$text, doc_id = x$ID))
+    return(x)}, file = udmodel_lang) %&gt;%
+    rbindlist()%&gt;%
+    mutate(doc_id = as.integer(doc_id)) %&gt;%
+    as.data.frame()
+  Sys.sleep(0.1) 
+  return(annotation)}
+
+ho_textdf &lt;- Corp_HouseOfCommons %&gt;%
+  rowid_to_column(&#34;ID&#34;) %&gt;%
+  sample_n(ID, size = 1000, replace = TRUE)
+
+system.time({
+hoc_pasrsed &lt;-speech_tag(textdata = ho_textdf, textvar = &#34;text&#34;, lang = &#34;English&#34;)
+})
+</code></pre></td></tr></table>
+</div>
+</div><p><strong>Console</strong></p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-fallback" data-lang="fallback">&gt;  user  system elapsed 
+&gt;  7.068   2.362  76.236 
+</code></pre></td></tr></table>
+</div>
+</div><h4 id="4-lets-compare-those-outputs">(4) Let&rsquo;s compare those outputs</h4>
+<table>
+<thead>
+<tr>
+<th></th>
+<th align="left">user</th>
+<th align="left">system</th>
+<th align="center">elapsed</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>no paralleled setting</td>
+<td align="left">227.330</td>
+<td align="left">3.389</td>
+<td align="center">233.483</td>
+</tr>
+<tr>
+<td>type 1</td>
+<td align="left">5.305</td>
+<td align="left">1.578</td>
+<td align="center">48.922</td>
+</tr>
+<tr>
+<td>type 2</td>
+<td align="left">7.068</td>
+<td align="left">2.362</td>
+<td align="center">76.236</td>
+</tr>
+</tbody>
+</table>
+<h4 id="5-gentle-advice">(5) Gentle advice:</h4>
+<ul>
+<li>
+<p>Do not run the whole batch of speech dataset on <code>AWS EC2</code> if you are not ready for it, from my personal experience. You might end up eating pasta until your monthly payment comes next time.</p>
+</li>
+<li>
+<p>Please cite Straka and  Strakov&rsquo;s work , big thank to <a href="http://ufal.mff.cuni.cz/udpipe" target="_blank" rel="noopener noreffer">UDpipe</a>
+ research group; as well as <a href="https://cran.r-project.org/web/packages/udpipe/index.html" target="_blank" rel="noopener noreffer">Wijffels</a>
+ to  make this efforts openly.</p>
+</li>
+</ul>
+</div><div class="post-footer" id="post-footer">
+    <div class="post-info">
+        <div class="post-info-line">
+            <div class="post-info-mod">
+                <span>The article was updated on 2020-04-19</span>
+            </div>
+            <div class="post-info-license"></div>
+        </div>
+        <div class="post-info-line">
+            <div class="post-info-md"><span>
+                            <a class="link-to-markdown" href="/2020/04/udpipe/index.md" target="_blank">Read Markdown</a>
+                        </span></div>
+            <div class="post-info-share">
+                <span><a href="javascript:void(0);" title="Share on Twitter" data-sharer="twitter" data-url="https://davidycliao.github.io/2020/04/udpipe/" data-title="[Script] Parallelly Run Udpipe in R" data-via="liaoyenchieh" data-hashtags="NLP,UDpipe"><i class="fab fa-twitter fa-fw"></i></a><a href="javascript:void(0);" title="Share on Facebook" data-sharer="facebook" data-url="https://davidycliao.github.io/2020/04/udpipe/" data-hashtag="NLP"><i class="fab fa-facebook-square fa-fw"></i></a><a href="javascript:void(0);" title="Share on Linkedin" data-sharer="linkedin" data-url="https://davidycliao.github.io/2020/04/udpipe/"><i class="fab fa-linkedin fa-fw"></i></a></span>
+            </div>
+        </div>
+    </div>
+
+    <div class="post-info-more">
+        <section><i class="fas fa-tags fa-fw"></i>&nbsp;<a href="/tags/nlp">NLP</a>,&nbsp;<a href="/tags/udpipe">UDpipe</a></section>
+        <section>
+            <span><a href="javascript:window.history.back();">Back</a></span>&nbsp;|&nbsp;<span><a href="/">Home</a></span>
+        </section>
+    </div>
+
+    <div class="post-nav"></div>
+</div>
+<div class="comment"></div>
+    </article></div>
+            </main><footer class="footer">
+    <div class="copyright"><div class="copyright-line">Powered by <a href="https://gohugo.io/" target="_blank" rel="external nofollow noopener noreffer">Hugo</a> | Theme - <a href="https://github.com/dillonzq/LoveIt" target="_blank" rel="external nofollow noopener noreffer"><i class="far fa-heart fa-fw"></i> LoveIt</a>
+        </div>
+
+        <div class="copyright-line"><i class="far fa-copyright fa-fw"></i><span itemprop="copyrightYear">2020 - 2021</span><span class="author" itemprop="copyrightHolder">&nbsp;<a href="/" target="_blank">Yen-Chieh Liao</a></span>&nbsp;|&nbsp;<span class="license"><a rel="href="https://www.essex.ac.uk/departments/government" target="_blank">University of Essex</a></span><span class="icp-splitter">&nbsp;|&nbsp;</span><br class="icp-br"/>
+                <span class="icp">Colchester UK</span></div>
+    </div>
+</footer>
+</div><a href="#" class="dynamic-to-top animated faster" id="dynamic-to-top">
+            <i class="fas fa-chevron-up fa-fw"></i>
+        </a><script>
+        document.addEventListener('DOMContentLoaded', function () {
+            lightGallery(document.getElementById('content'), {
+                selector: '.lightgallery',
+                speed: 400,
+                hideBarsDelay: 2000,
+                thumbnail: true,
+                exThumbImage: 'data-thumbnail',
+                thumbWidth: 80,
+                thumbContHeight: 80,
+            });
+        });
+    </script><link rel="stylesheet" href="/lib/lightgallery/lightgallery.min.css"><script src="/lib/smooth-scroll/smooth-scroll.polyfills.min.js"></script><script src="/lib/sharer/sharer.min.js"></script><script src="/lib/lazysizes/lazysizes.min.js"></script><script src="/lib/lightgallery/lightgallery.min.js"></script><script src="/lib/lightgallery/lg-thumbnail.min.js"></script><script src="/lib/lightgallery/lg-zoom.min.js"></script><script src="/js/theme.min.js"></script></body>
+</html>
