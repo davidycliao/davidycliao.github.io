@@ -34,7 +34,7 @@
 
 <div style="text-align: justify">
 
-**Graduate Research Assistant** to Professor Royce Carroll, Jun 2019-Oct 2019 [[Github](https://github.com/yl17124/2019-SUMMER-RA)]
+**Graduate Research Assistant** to Professor Royce Carroll, Jun 2019-Oct 2019 [[Github](https://github.com/davidycliao/2019-SUMMER-RA)]
 
 I was hired as a part-time research officer in University of Essex to assist several research projects, which explore party polarization in seven parliament speeches using lexicon-based sentiment analysis. I was mainly responsible for setting up a pipeline, which parsed speech dataset with tokens, part of speech tag, and language dependency using UDPIPE language model. Apart from that, I set up a grid engineer to automatically process the speeches data in a high-speed computing cluster. I also assisted to analyse language emotions by applying different types of dictionaries and to massively visualize correlation pattern from tokenized textual data.  
 
