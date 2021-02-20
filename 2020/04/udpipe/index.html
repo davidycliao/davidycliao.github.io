@@ -5,8 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="robots" content="noodp" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
-        <title>[Script] Parallelly Run Udpipe in R | DAVID LIAO</title>
-        <meta name="Description" content="parallelly run udpipe in R"><meta property="og:title" content="[Script] Parallelly Run Udpipe in R" />
+        <title>[Script] Parallelly Run Udpipe in R - DAVID LIAO</title><meta name="Description" content="parallelly run udpipe in R"><meta property="og:title" content="[Script] Parallelly Run Udpipe in R" />
 <meta property="og:description" content="parallelly run udpipe in R" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://davidycliao.github.io/2020/04/udpipe/" />
@@ -15,15 +14,10 @@
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="[Script] Parallelly Run Udpipe in R"/>
 <meta name="twitter:description" content="parallelly run udpipe in R"/>
-<meta name="theme-color" content="#ffffff">
-<meta name="msapplication-TileColor" content="#da532c">
-<link rel="canonical" href="https://davidycliao.github.io/2020/04/udpipe/" />
-<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-<link rel="manifest" href="/site.webmanifest">
-<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"><link rel="stylesheet" href="/lib/fontawesome-free/all.min.css"><link rel="stylesheet" href="/lib/animate/animate.min.css"><link rel="stylesheet" href="/css/style.min.css"><script type="application/ld+json">
+<meta name="application-name" content="DAVID LIAO">
+<meta name="apple-mobile-web-app-title" content="DAVID LIAO"><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="manifest" href="/site.webmanifest"><link rel="canonical" href="https://davidycliao.github.io/2020/04/udpipe/" /><link rel="stylesheet" href="/lib/normalize/normalize.min.css"><link rel="stylesheet" href="/css/style.min.css"><link rel="stylesheet" href="/lib/fontawesome-free/all.min.css"><link rel="stylesheet" href="/lib/animate/animate.min.css"><script type="application/ld+json">
     {
         "@context": "http://schema.org",
         "@type": "BlogPosting",
@@ -32,92 +26,71 @@
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https:\/\/davidycliao.github.io\/2020\/04\/udpipe\/"
-        },"image": {
-                "@type": "ImageObject",
-                "url": "https:\/\/davidycliao.github.io\/static\/mstile-150x150.png",
-                "width":  800 ,
-                "height":  600 
-            },"genre": "posts","keywords": "NLP, UDpipe","wordcount":  989 ,
-        "url": "https:\/\/davidycliao.github.io\/2020\/04\/udpipe\/","datePublished": "2020-04-19","dateModified": "2020-04-19","publisher": {
-                "@type": "Organization",
-                "name": "Yen-Chieh Liao",
-                "logo": {
-                "@type": "ImageObject",
-                "url": "https:\/\/davidycliao.github.io\/logo.png",
-                "width":  120 ,
-                "height":  40 
-                }
-            },"author": {
+        },"genre": "posts","keywords": "NLP, UDpipe","wordcount":  987 ,
+        "url": "https:\/\/davidycliao.github.io\/2020\/04\/udpipe\/","datePublished": "2020-04-19T21:29:01+08:00","dateModified": "2020-04-19T21:29:01+08:00","publisher": {
+            "@type": "Organization",
+            "name": "David Yen-Chieh Liao"},"author": {
                 "@type": "Person",
                 "name": "David Yen-Chieh Liao"
             },"description": "parallelly run udpipe in R"
     }
     </script></head>
-    <body><script>
-            if (!window.localStorage || !window.localStorage.getItem('theme')) {window.isDark = window.matchMedia('(prefers-color-scheme: dark)').matches;} else {
-                window.isDark = (window.localStorage && window.localStorage.getItem('theme')) === 'dark';
-            }
-            window.isDark && document.body.classList.add('dark-theme');
-        </script><div class="wrapper"><header class="desktop" id="header-desktop">
+    <body header-desktop="fixed" header-mobile="auto"><script type="text/javascript">(window.localStorage && localStorage.getItem('theme') ? localStorage.getItem('theme') === 'dark' : ('auto' === 'auto' ? window.matchMedia('(prefers-color-scheme: dark)').matches : 'auto' === 'dark')) && document.body.setAttribute('theme', 'dark');</script>
+
+        <div id="mask"></div><div class="wrapper"><header class="desktop" id="header-desktop">
     <div class="header-wrapper">
         <div class="header-title">
-            <a href="/">DAVID LIAO</a>
+            <a href="/" title="DAVID LIAO">DAVID LIAO</a>
         </div>
-        <div class="menu"><a class="menu-item" href="/about/" rel="noopener noreffer">About</a><a class="menu-item" href="/research/" rel="noopener noreffer">Research</a><a class="menu-item" href="/teaching/" rel="noopener noreffer">Teaching</a><a class="menu-item" href="/resource/" rel="noopener noreffer">Resource</a><a class="menu-item" href="/data/" rel="noopener noreffer">Data</a><a class="menu-item" href="https://raw.githack.com/davidycliao/CV/master/CV.pdf" rel="noopener noreffer" target="_blank">CV</a><a class="menu-item" href="/categories/" rel="noopener noreffer"><i class=' fas fa-folder-open'></i></a><a class="menu-item" href="/posts/" rel="noopener noreffer"><i class=' far fa-comment-dots'></i></a><a class="menu-item" href="/tags/" rel="noopener noreffer"><i class=' fas fa-thumbtack'></i></a><a class="menu-item" href="https://github.com/davidycliao" title="GitHub" rel="noopener noreffer" target="_blank"><i class='fab fa-github fa-fw'></i></a><span class="menu-item">|</span>
-            <a href="javascript:void(0);" class="menu-item theme-switch" title="Switch Theme">
-                <i class="fas fa-adjust fa-fw"></i>
-            </a></div>
+        <div class="menu">
+            <div class="menu-inner"><a class="menu-item" href="/about/"> About </a><a class="menu-item" href="/research/"> Research </a><a class="menu-item" href="/teaching/"> Teaching </a><a class="menu-item" href="/resource/"> Resource </a><a class="menu-item" href="/data/"> Data </a><a class="menu-item" href="https://raw.githack.com/davidycliao/CV/master/CV.pdf" rel="noopener noreffer" target="_blank"> CV </a><a class="menu-item" href="/categories/"><i class=' fas fa-folder-open'></i>  </a><a class="menu-item" href="/posts/"><i class=' far fa-comment-dots'></i>  </a><a class="menu-item" href="/tags/"><i class=' fas fa-thumbtack'></i>  </a><a class="menu-item" href="https://github.com/davidycliao" title="GitHub" rel="noopener noreffer" target="_blank"><i class='fab fa-github fa-fw'></i>  </a><span class="menu-item delimiter"></span><a href="javascript:void(0);" class="menu-item theme-switch" title="Switch Theme">
+                    <i class="fas fa-adjust fa-fw"></i>
+                </a>
+            </div>
+        </div>
     </div>
 </header><header class="mobile" id="header-mobile">
-    <div class="header-wrapper">
-        <div class="header-container">
+    <div class="header-container">
+        <div class="header-wrapper">
             <div class="header-title">
-                <a href="/">DAVID LIAO</a>
+                <a href="/" title="DAVID LIAO">DAVID LIAO</a>
             </div>
             <div class="menu-toggle" id="menu-toggle-mobile">
                 <span></span><span></span><span></span>
             </div>
         </div>
-        <div class="menu" id="menu-mobile"><a class="menu-item" href="/about/" title="" rel="noopener noreffer">About</a><a class="menu-item" href="/research/" title="" rel="noopener noreffer">Research</a><a class="menu-item" href="/teaching/" title="" rel="noopener noreffer">Teaching</a><a class="menu-item" href="/resource/" title="" rel="noopener noreffer">Resource</a><a class="menu-item" href="/data/" title="" rel="noopener noreffer">Data</a><a class="menu-item" href="https://raw.githack.com/davidycliao/CV/master/CV.pdf" title="" rel="noopener noreffer" target="_blank">CV</a><a class="menu-item" href="/categories/" title="" rel="noopener noreffer"><i class=' fas fa-folder-open'></i></a><a class="menu-item" href="/posts/" title="" rel="noopener noreffer"><i class=' far fa-comment-dots'></i></a><a class="menu-item" href="/tags/" title="" rel="noopener noreffer"><i class=' fas fa-thumbtack'></i></a><a class="menu-item" href="https://github.com/davidycliao" title="GitHub" rel="noopener noreffer" target="_blank"><i class='fab fa-github fa-fw'></i></a><a href="javascript:void(0);" class="menu-item theme-switch" title="Switch Theme">
+        <div class="menu" id="menu-mobile"><a class="menu-item" href="/about/" title="">About</a><a class="menu-item" href="/research/" title="">Research</a><a class="menu-item" href="/teaching/" title="">Teaching</a><a class="menu-item" href="/resource/" title="">Resource</a><a class="menu-item" href="/data/" title="">Data</a><a class="menu-item" href="https://raw.githack.com/davidycliao/CV/master/CV.pdf" title="" rel="noopener noreffer" target="_blank">CV</a><a class="menu-item" href="/categories/" title=""><i class=' fas fa-folder-open'></i></a><a class="menu-item" href="/posts/" title=""><i class=' far fa-comment-dots'></i></a><a class="menu-item" href="/tags/" title=""><i class=' fas fa-thumbtack'></i></a><a class="menu-item" href="https://github.com/davidycliao" title="GitHub" rel="noopener noreffer" target="_blank"><i class='fab fa-github fa-fw'></i></a><a href="javascript:void(0);" class="menu-item theme-switch" title="Switch Theme">
                 <i class="fas fa-adjust fa-fw"></i>
             </a></div>
     </div>
 </header>
-
-<script>
-    window.desktopHeaderMode = "fixed";
-    window.mobileHeaderMode = "auto";
-</script>
+<div class="search-dropdown desktop">
+    <div id="search-dropdown-desktop"></div>
+</div>
+<div class="search-dropdown mobile">
+    <div id="search-dropdown-mobile"></div>
+</div>
 <main class="main">
-                <div class="container"><article class="page single"><h1 class="single-title animated flipInX">[Script] Parallelly Run Udpipe in R</h1><div class="post-meta">
-            <div class="post-meta-line"><span class="post-author"><a href="/" title="Author" rel="noopener noreffer author" class="author"><i class="fas fa-user-circle fa-fw"></i>David Yen-Chieh Liao</a>
-</span>&nbsp;
-                    <span class="post-category">included in<a href="/categories/documentation">
-                                <i class="far fa-folder fa-fw"></i>Documentation
-                            </a></span></div>
-            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i><time datetime=2020-04-19>2020-04-19</time>&nbsp;
-                <i class="fas fa-pencil-alt fa-fw"></i>about 989 words&nbsp;
-                <i class="far fa-clock fa-fw"></i>5 min&nbsp;</div>
+                <div class="container"><div class="toc" id="toc-auto">
+            <h2 class="toc-title">Contents</h2>
+            <div class="toc-content" id="toc-content-auto"></div>
+        </div><article class="page single"><h1 class="single-title animated flipInX">[Script] Parallelly Run Udpipe in R</h1><div class="post-meta">
+            <div class="post-meta-line"><span class="post-author"><a href="/" title="Author" rel=" author" class="author"><i class="fas fa-user-circle fa-fw"></i>David Yen-Chieh Liao</a></span>&nbsp;<span class="post-category">included in <a href="/categories/documentation/"><i class="far fa-folder fa-fw"></i>documentation</a></span></div>
+            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="2020-04-19">2020-04-19</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;987 words&nbsp;
+                <i class="far fa-clock fa-fw"></i>&nbsp;5 minutes&nbsp;</div>
         </div><div class="featured-image"><img
         class="lazyload"
         src="/svg/loading.min.svg"
-        data-sizes="auto"
-        data-srcset="/images/pos_tagging.png, /images/pos_tagging.png 1.5x, /images/pos_tagging.png 2x"
         data-src="/images/pos_tagging.png"
-        alt="parallelly run udpipe in R"
-        title="parallelly run udpipe in R" /></div><div class="toc" id="toc-auto">
-                <h2 class="toc-title">Contents</h2>
-                <div class="toc-content" id="toc-content-auto"></div>
-            </div>
-            <div class="toc" id="toc-static">
-                <details>
-                    <summary>
-                        <div class="toc-title">
-                            <span>Contents</span>
-                            <span><i class="details icon fas fa-angle-down"></i></span>
-                        </div>
-                    </summary>
-                    <div class="toc-content" id="toc-content-static"><nav id="TableOfContents">
+        data-srcset="/images/pos_tagging.png, /images/pos_tagging.png 1.5x, /images/pos_tagging.png 2x"
+        data-sizes="auto"
+        alt="/images/pos_tagging.png"
+        title="parallelly run udpipe in R" /></div><div class="details toc" id="toc-static"  kept="">
+                <div class="details-summary toc-title">
+                    <span>Contents</span>
+                    <span><i class="details-icon fas fa-angle-right"></i></span>
+                </div>
+                <div class="details-content toc-content" id="toc-content-static"><nav id="TableOfContents">
   <ul>
     <li><a href="#1-nlp-in-udpipe">1. NLP in UDpipe</a></li>
     <li><a href="#2-prerequisites">2. Prerequisites</a>
@@ -141,13 +114,9 @@
     </li>
   </ul>
 </nav></div>
-                </details>
             </div><div class="content" id="content"><h2 id="1-nlp-in-udpipe">1. NLP in UDpipe</h2>
 <div style="text-align: justify">
-<p>The NLP workflow mostly consists of tokenization, parts of speech tagging, lemmatization and dependency parsing. <a href="https://github.com/ufal/udpipe" target="_blank" rel="noopener noreffer">UDpipe</a>
- is one of my favourite NLP library, initially designed in C++ dealing with multiple tasks in text processing. I highly recommend UDpipe because this not only works faster but also work well with pipe function, which can help R user organize own workflow. Now UDpipe is also available in CRAN hosted by <a href="https://cran.r-project.org/web/packages/udpipe/vignettes/udpipe-annotation.html" target="_blank" rel="noopener noreffer">Jan Wijffels</a>
-. The package also provides well-explained <a href="https://bnosac.github.io/udpipe/docs/doc0.html" target="_blank" rel="noopener noreffer">vignettes</a>
- in various NLP techniques and made such resources openly accessible to a newbie. Here, I  demonstrate how to implement parrel computing in your code and make a tailored function for your analysis.</p>
+<p>The NLP workflow mostly consists of tokenization, parts of speech tagging, lemmatization and dependency parsing. <a href="https://github.com/ufal/udpipe" target="_blank" rel="noopener noreffer">UDpipe</a> is one of my favourite NLP library, initially designed in C++ dealing with multiple tasks in text processing. I highly recommend UDpipe because this not only works faster but also work well with pipe function, which can help R user organize own workflow. Now UDpipe is also available in CRAN hosted by <a href="https://cran.r-project.org/web/packages/udpipe/vignettes/udpipe-annotation.html" target="_blank" rel="noopener noreffer">Jan Wijffels</a>. The package also provides well-explained <a href="https://bnosac.github.io/udpipe/docs/doc0.html" target="_blank" rel="noopener noreffer">vignettes</a> in various NLP techniques and made such resources openly accessible to a newbie. Here, I  demonstrate how to implement parrel computing in your code and make a tailored function for your analysis.</p>
 </div>
 <h2 id="2-prerequisites">2. Prerequisites</h2>
 <h3 id="speech-dataset-uk-parliarment">Speech Dataset: UK Parliarment</h3>
@@ -313,8 +282,7 @@ Most of the time we need to load many libraries to achieve one goal, then are be
 </div>
 </div><h2 id="3-computing-competitions">3. Computing Competitions</h2>
 <h4 id="1-no-paralleled-setting">(1) no paralleled setting</h4>
-<p>This is script that I modified from <a href="https://bnosac.github.io/udpipe/docs/doc0.html" target="_blank" rel="noopener noreffer">Jan Wijffels</a>
-.</p>
+<p>This is script that I modified from <a href="https://bnosac.github.io/udpipe/docs/doc0.html" target="_blank" rel="noopener noreffer">Jan Wijffels</a>.</p>
 <p><strong>R script</strong></p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
@@ -525,16 +493,14 @@ hoc_pasrsed &lt;-speech_tag(textdata = ho_textdf, textvar = &#34;text&#34;, lang
 <p>Do not run the whole batch of speech dataset on <code>AWS EC2</code> if you are not ready for it, from my personal experience. You might end up eating pasta until your monthly payment comes next time.</p>
 </li>
 <li>
-<p>Please cite Straka and  Strakov&rsquo;s work , big thank to <a href="http://ufal.mff.cuni.cz/udpipe" target="_blank" rel="noopener noreffer">UDpipe</a>
- research group; as well as <a href="https://cran.r-project.org/web/packages/udpipe/index.html" target="_blank" rel="noopener noreffer">Wijffels</a>
- to  make this efforts openly.</p>
+<p>Please cite Straka and  Strakov&rsquo;s work , big thank to <a href="http://ufal.mff.cuni.cz/udpipe" target="_blank" rel="noopener noreffer">UDpipe</a> research group; as well as <a href="https://cran.r-project.org/web/packages/udpipe/index.html" target="_blank" rel="noopener noreffer">Wijffels</a> to  make this efforts openly.</p>
 </li>
 </ul>
 </div><div class="post-footer" id="post-footer">
     <div class="post-info">
         <div class="post-info-line">
             <div class="post-info-mod">
-                <span>The article was updated on 2020-04-19</span>
+                <span>Updated on 2020-04-19</span>
             </div>
             <div class="post-info-license"></div>
         </div>
@@ -543,43 +509,32 @@ hoc_pasrsed &lt;-speech_tag(textdata = ho_textdf, textvar = &#34;text&#34;, lang
                             <a class="link-to-markdown" href="/2020/04/udpipe/index.md" target="_blank">Read Markdown</a>
                         </span></div>
             <div class="post-info-share">
-                <span><a href="javascript:void(0);" title="Share on Twitter" data-sharer="twitter" data-url="https://davidycliao.github.io/2020/04/udpipe/" data-title="[Script] Parallelly Run Udpipe in R" data-via="liaoyenchieh" data-hashtags="NLP,UDpipe"><i class="fab fa-twitter fa-fw"></i></a><a href="javascript:void(0);" title="Share on Facebook" data-sharer="facebook" data-url="https://davidycliao.github.io/2020/04/udpipe/" data-hashtag="NLP"><i class="fab fa-facebook-square fa-fw"></i></a><a href="javascript:void(0);" title="Share on Linkedin" data-sharer="linkedin" data-url="https://davidycliao.github.io/2020/04/udpipe/"><i class="fab fa-linkedin fa-fw"></i></a></span>
+                <span></span>
             </div>
         </div>
     </div>
 
     <div class="post-info-more">
-        <section><i class="fas fa-tags fa-fw"></i>&nbsp;<a href="/tags/nlp">NLP</a>,&nbsp;<a href="/tags/udpipe">UDpipe</a></section>
+        <section class="post-tags"><i class="fas fa-tags fa-fw"></i>&nbsp;<a href="/tags/nlp/">NLP</a>,&nbsp;<a href="/tags/udpipe/">UDpipe</a></section>
         <section>
-            <span><a href="javascript:window.history.back();">Back</a></span>&nbsp;|&nbsp;<span><a href="/">Home</a></span>
+            <span><a href="javascript:void(0);" onclick="window.history.back();">Back</a></span>&nbsp;|&nbsp;<span><a href="/">Home</a></span>
         </section>
     </div>
 
     <div class="post-nav"></div>
 </div>
-<div class="comment"></div>
-    </article></div>
+<div id="comments"></div></article></div>
             </main><footer class="footer">
-    <div class="copyright"><div class="copyright-line">Powered by <a href="https://gohugo.io/" target="_blank" rel="external nofollow noopener noreffer">Hugo</a> | Theme - <a href="https://github.com/dillonzq/LoveIt" target="_blank" rel="external nofollow noopener noreffer"><i class="far fa-heart fa-fw"></i> LoveIt</a>
+        <div class="footer-container"><div class="footer-line">Powered by <a href="https://gohugo.io/" target="_blank" rel="noopener noreffer" title="Hugo 0.69.0">Hugo</a> | Theme - <a href="https://github.com/dillonzq/LoveIt" target="_blank" rel="noopener noreffer" title="LoveIt 0.2.10"><i class="far fa-kiss-wink-heart fa-fw"></i> LoveIt</a>
+                </div><div class="footer-line"><i class="far fa-copyright fa-fw"></i><span itemprop="copyrightYear">2020 - 2021</span><span class="author" itemprop="copyrightHolder">&nbsp;<a href="/" target="_blank">Yen-Chieh Liao</a></span>&nbsp;|&nbsp;<span class="license"><a rel="href="https://www.essex.ac.uk/departments/government" target="_blank">University of Essex</a></span><span class="icp-splitter">&nbsp;|&nbsp;</span><br class="icp-br"/>
+                    <span class="icp">Colchester UK</span></div>
         </div>
+    </footer></div>
 
-        <div class="copyright-line"><i class="far fa-copyright fa-fw"></i><span itemprop="copyrightYear">2020 - 2021</span><span class="author" itemprop="copyrightHolder">&nbsp;<a href="/" target="_blank">Yen-Chieh Liao</a></span>&nbsp;|&nbsp;<span class="license"><a rel="href="https://www.essex.ac.uk/departments/government" target="_blank">University of Essex</a></span><span class="icp-splitter">&nbsp;|&nbsp;</span><br class="icp-br"/>
-                <span class="icp">Colchester UK</span></div>
-    </div>
-</footer>
-</div><a href="#" class="dynamic-to-top animated faster" id="dynamic-to-top">
-            <i class="fas fa-chevron-up fa-fw"></i>
-        </a><script>
-        document.addEventListener('DOMContentLoaded', function () {
-            lightGallery(document.getElementById('content'), {
-                selector: '.lightgallery',
-                speed: 400,
-                hideBarsDelay: 2000,
-                thumbnail: true,
-                exThumbImage: 'data-thumbnail',
-                thumbWidth: 80,
-                thumbContHeight: 80,
-            });
-        });
-    </script><link rel="stylesheet" href="/lib/lightgallery/lightgallery.min.css"><script src="/lib/smooth-scroll/smooth-scroll.polyfills.min.js"></script><script src="/lib/sharer/sharer.min.js"></script><script src="/lib/lazysizes/lazysizes.min.js"></script><script src="/lib/lightgallery/lightgallery.min.js"></script><script src="/lib/lightgallery/lg-thumbnail.min.js"></script><script src="/lib/lightgallery/lg-zoom.min.js"></script><script src="/js/theme.min.js"></script></body>
+        <div id="fixed-buttons"><a href="#" id="back-to-top" class="fixed-button" title="Back to Top">
+                <i class="fas fa-arrow-up fa-fw"></i>
+            </a><a href="#" id="view-comments" class="fixed-button" title="View Comments">
+                <i class="fas fa-comment fa-fw"></i>
+            </a>
+        </div><link rel="stylesheet" href="/lib/lightgallery/lightgallery.min.css"><script type="text/javascript" src="/lib/smooth-scroll/smooth-scroll.min.js"></script><script type="text/javascript" src="/lib/lazysizes/lazysizes.min.js"></script><script type="text/javascript" src="/lib/lightgallery/lightgallery.min.js"></script><script type="text/javascript" src="/lib/lightgallery/lg-thumbnail.min.js"></script><script type="text/javascript" src="/lib/lightgallery/lg-zoom.min.js"></script><script type="text/javascript" src="/lib/clipboard/clipboard.min.js"></script><script type="text/javascript" src="/lib/sharer/sharer.min.js"></script><script type="text/javascript">window.config={"code":{"copyTitle":"Copy to clipboard","maxShownLines":10},"comment":{},"lightGallery":{"actualSize":false,"exThumbImage":"data-thumbnail","hideBarsDelay":2000,"selector":".lightgallery","speed":400,"thumbContHeight":80,"thumbWidth":80,"thumbnail":true}};</script><script type="text/javascript" src="/js/theme.min.js"></script></body>
 </html>
