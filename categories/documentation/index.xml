@@ -13,15 +13,6 @@
     
     <item>
       <title>[Script] Parallelly Run Udpipe in R</title>
-      <link>https://davidycliao.github.io/2020/04/udpipe-2/</link>
-      <pubDate>Sun, 19 Apr 2020 21:29:01 +0800</pubDate>
-      
-      <guid>https://davidycliao.github.io/2020/04/udpipe-2/</guid>
-      <description>1. NLP in UDpipe The NLP workflow mostly consists of tokenization, parts of speech tagging, lemmatization and dependency parsing. UDpipe is one of my favourite NLP library, initially designed in C++ dealing with multiple tasks in text processing. I highly recommend UDpipe because this not only works faster but also work well with pipe function, which can help R user organize own workflow. Now UDpipe is also available in CRAN hosted by Jan Wijffels .</description>
-    </item>
-    
-    <item>
-      <title>[Script] Parallelly Run Udpipe in R</title>
       <link>https://davidycliao.github.io/2020/04/udpipe/</link>
       <pubDate>Sun, 19 Apr 2020 21:29:01 +0800</pubDate>
       
