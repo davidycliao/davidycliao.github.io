@@ -111,7 +111,6 @@ curriculum vitae from &lt;a href=&#34;https://raw.githack.com/davidycliao/CV/mas
 &lt;div style=&#34;text-align: justify&#34;&gt;
 &lt;p&gt;UDPipe is a trainable pipeline for tokenization, tagging, lemmatization and dependency parsing of CoNLL-U files. UDPipe is language-agnostic and can be trained given annotated data in CoNLL-U format. Trained models are provided for nearly all UD treebanks. Third-party R CRAN package is hosted by &lt;a href=&#34;https://github.com/bnosac/udpipe.models.ud&#34; target=&#34;_blank&#34; rel=&#34;noopener noreffer&#34;&gt;@jwijffels&lt;/a&gt;
 .&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/davidycliao/UD_Chinese-GSD&#34;&gt;https://github.com/davidycliao/UD_Chinese-GSD&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;NLP Pipeline in Spacy and its Language Models&lt;/strong&gt;&lt;/p&gt;

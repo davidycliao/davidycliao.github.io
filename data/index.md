@@ -15,7 +15,6 @@
   
 UDPipe is a trainable pipeline for tokenization, tagging, lemmatization and dependency parsing of CoNLL-U files. UDPipe is language-agnostic and can be trained given annotated data in CoNLL-U format. Trained models are provided for nearly all UD treebanks. Third-party R CRAN package is hosted by [@jwijffels](https://github.com/bnosac/udpipe.models.ud). 
 
-https://github.com/davidycliao/UD_Chinese-GSD
 
 </div>
 
