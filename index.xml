@@ -82,41 +82,6 @@
 &lt;p&gt;This is R interface package that facilitates access to the Taiwan Legislative Database. The dataset includes legislator&amp;rsquo;s voting decisions, political and sociodemographics. &lt;em&gt;Requesting granting of authorization for public-use data via this package.&lt;/em&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
-&lt;div style=&#34;text-align: center&#34;&gt;
-&lt;h3 id=&#34;resources--links&#34;&gt;Resources &amp;amp; Links&lt;/h3&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;strong&gt;UDpipe Linguistic Models&lt;/strong&gt;&lt;/p&gt;
-&lt;div style=&#34;text-align: justify&#34;&gt;
-&lt;p&gt;UDPipe is a trainable pipeline for tokenization, tagging, lemmatization and dependency parsing of CoNLL-U files. UDPipe is language-agnostic and can be trained given annotated data in CoNLL-U format. Trained models are provided for nearly all UD treebanks. Third-party R CRAN package is hosted by &lt;a href=&#34;https://github.com/bnosac/udpipe.models.ud&#34; target=&#34;_blank&#34; rel=&#34;noopener noreffer&#34;&gt;@jwijffels&lt;/a&gt;
-.&lt;/p&gt;
-&lt;/div&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;NLP Pipeline in Spacy and its Language Models&lt;/strong&gt;&lt;/p&gt;
-&lt;div style=&#34;text-align: justify&#34;&gt;  
-&lt;p&gt;The language models provide multiple tasks for processing linguistic features such as text processing, dependency, POS tagging, named entities as well as a portal to train/improve existing language model for your own purpose.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;ParlSpeech Database&lt;/strong&gt;&lt;/p&gt;
-&lt;div style=&#34;text-align: justify&#34;&gt;
-&lt;p&gt;&lt;a href=&#34;https://dataverse.harvard.edu/dataverse/ParlSpeech&#34; target=&#34;_blank&#34; rel=&#34;noopener noreffer&#34;&gt;ParlSpeech V2&lt;/a&gt;
- updates more than 6.3 million parliamentary speeches in the key legislative chambers of Austria, the Czech Republic, Germany, Denmark, the Netherlands, New Zealand, Spain, Sweden, and the United Kingdom, covering periods between 21 and 32 years. The database is built by &lt;a href=&#34;https://twitter.com/ChRauh&#34; target=&#34;_blank&#34; rel=&#34;noopener noreffer&#34;&gt;Christian Rauh&lt;/a&gt;
- and &lt;a href=&#34;https://twitter.com/JanSchwalbach&#34; target=&#34;_blank&#34; rel=&#34;noopener noreffer&#34;&gt;Jan Schwalbach&lt;/a&gt;
-. Please see &lt;a href=&#34;https://yl17124.github.io/Parliament-Speech-Processing/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreffer&#34;&gt;@yl17124&lt;/a&gt;
- if you would like to know what NLP techniques can be applied to this dataset.&lt;/p&gt;
-&lt;/div&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;The Centre of Taiwan Legislative Studies, Soochow University&lt;/strong&gt;&lt;/p&gt;
-&lt;div style=&#34;text-align: justify&#34;&gt;
-&lt;p&gt;The research centre inventories legislative roll calls from 2nd session to 8th in the Legislative Yuan (立法院), Taiwan.  Plesee check @yl17124 if you would like to know what ideal point estimates  can be applied to this dataset.&lt;/p&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
-&lt;div style=&#34;text-align: center&#34;&gt;
-&lt;h3 id=&#34;tools&#34;&gt;Tools&lt;/h3&gt;
-&lt;/div&gt;
-&lt;div style=&#34;text-align: justify&#34;&gt;
-&lt;p&gt;&lt;strong&gt;CERES, HPC at University of Essex&lt;/strong&gt;&lt;/p&gt;
-&lt;div style=&#34;text-align: justify&#34;&gt;
-&lt;p&gt;For those poor Essex rebels who can not afford AWS EC2 or other web service platforms, need high-performance computing and temporarily shelter bulky output. That is it.&lt;/p&gt;
-&lt;/div&gt;
 </description>
             </item><item>
                 <title>About</title>
@@ -139,7 +104,47 @@ curriculum vitae from &lt;a href=&#34;https://raw.githack.com/davidycliao/CV/mas
                 <title>Data</title>
                 <link>https://davidycliao.github.io/data/</link>
                 <pubDate>Sun, 20 Sep 2020 00:00:00 &#43;0000</pubDate><guid>https://davidycliao.github.io/data/</guid>
-                <description></description>
+                <description>&lt;div style=&#34;text-align: center&#34;&gt;
+&lt;h3 id=&#34;nlp-and-relevant-tookits&#34;&gt;NLP and Relevant Tookits&lt;/h3&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;UDpipe Linguistic Models&lt;/strong&gt;&lt;/p&gt;
+&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;p&gt;UDPipe is a trainable pipeline for tokenization, tagging, lemmatization and dependency parsing of CoNLL-U files. UDPipe is language-agnostic and can be trained given annotated data in CoNLL-U format. Trained models are provided for nearly all UD treebanks. Third-party R CRAN package is hosted by &lt;a href=&#34;https://github.com/bnosac/udpipe.models.ud&#34; target=&#34;_blank&#34; rel=&#34;noopener noreffer&#34;&gt;@jwijffels&lt;/a&gt;
+.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/davidycliao/UD_Chinese-GSD&#34;&gt;https://github.com/davidycliao/UD_Chinese-GSD&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;NLP Pipeline in Spacy and its Language Models&lt;/strong&gt;&lt;/p&gt;
+&lt;div style=&#34;text-align: justify&#34;&gt;  
+&lt;p&gt;The language models provide multiple tasks for processing linguistic features such as text processing, dependency, POS tagging, named entities as well as a portal to train/improve existing language model for your own purpose.&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;div style=&#34;text-align: center&#34;&gt;
+&lt;h3 id=&#34;the-database-for-legislative-studies&#34;&gt;The Database for Legislative Studies&lt;/h3&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://dataverse.harvard.edu/dataverse/ParlSpeech&#34; target=&#34;_blank&#34; rel=&#34;noopener noreffer&#34;&gt;ParlSpeech Database&lt;/a&gt;
+&lt;/strong&gt;&lt;/p&gt;
+&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://dataverse.harvard.edu/dataverse/ParlSpeech&#34; target=&#34;_blank&#34; rel=&#34;noopener noreffer&#34;&gt;ParlSpeech V2&lt;/a&gt;
+ updates more than 6.3 million parliamentary speeches in the key legislative chambers of Austria, the Czech Republic, Germany, Denmark, the Netherlands, New Zealand, Spain, Sweden, and the United Kingdom, covering periods between 21 and 32 years. The database is built by &lt;a href=&#34;https://twitter.com/ChRauh&#34; target=&#34;_blank&#34; rel=&#34;noopener noreffer&#34;&gt;Christian Rauh&lt;/a&gt;
+ and &lt;a href=&#34;https://twitter.com/JanSchwalbach&#34; target=&#34;_blank&#34; rel=&#34;noopener noreffer&#34;&gt;Jan Schwalbach&lt;/a&gt;
+. Please see &lt;a href=&#34;https://yl17124.github.io/Parliament-Speech-Processing/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreffer&#34;&gt;@yl17124&lt;/a&gt;
+ if you would like to know what NLP techniques can be applied to this dataset.&lt;/p&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.chesdata.eu/our-surveys&#34; target=&#34;_blank&#34; rel=&#34;noopener noreffer&#34;&gt;CHESDATA&lt;/a&gt;
+&lt;/strong&gt;&lt;/p&gt;
+&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;p&gt;The Chapel Hill expert surveys estimate party positioning on European integration, ideology and policy issues for national parties in a variety of European countries. The first survey was conducted in 1999, with subsequent waves in 2002, 2006, 2010, 2014, 2019.&lt;/p&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://twcongress.weebly.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreffer&#34;&gt;The Centre of Taiwan Legislative Studies, Soochow University&lt;/a&gt;
+&lt;/strong&gt;&lt;/p&gt;
+&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;p&gt;The research centre inventories legislative roll calls from 2nd session to 8th in the Legislative Yuan (立法院), Taiwan.  Plesee check @yl17124 if you would like to know what ideal point estimates  can be applied to this dataset.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+</description>
             </item><item>
                 <title>Research</title>
                 <link>https://davidycliao.github.io/research/</link>
