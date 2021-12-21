@@ -51,7 +51,7 @@ This paper studies an important political channel, through which income inequali
 
 <div style="text-align: justify">
 
-**Topic Models for Short Text** (with [<span style="color:#323434"> **Julia, Ju Yuon Park**</span>](http://www.juyeonpark.com/research.html))
+**Topic Models for Short Text** (with [<span style="color:#323434"> **Julia, Ju Yuon Park, Essex**</span>](http://www.juyeonpark.com/research.html))
 
 </div>
 
