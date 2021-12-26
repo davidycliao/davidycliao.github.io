@@ -57,7 +57,7 @@ This paper studies an important political channel, through which income inequali
 
 ---
 
-**Training Algorithms to Detect China's Nationalistic Sentiments for Weibo Texts** (with [<span style="color:#323434"> **Dechun Zhang, Leiden University**</span>](https://www.universiteitleiden.nl/en/staffmembers/dechun-zhang#tab-1))
+**Measuring China’s Online Nationalists on Weibo** (with [<span style="color:#323434"> **Dechun Zhang, Leiden University**</span>](https://www.universiteitleiden.nl/en/staffmembers/dechun-zhang#tab-1))
 
 
 
