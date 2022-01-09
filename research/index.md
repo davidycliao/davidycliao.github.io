@@ -42,15 +42,6 @@ This paper studies an important political channel, through which income inequali
 
 <div style="text-align: justify">
 
-**Estimating Fiscal Policy Objectives in the UK with Text Analysis** (with [<span style="color:#323434"> **Li Tang, University of Essex**</span>](https://sites.google.com/view/litang2020) and [<span style="color:#323434"> **Pei Kuang, University of Birmingham**</span>](https://sites.google.com/site/peikuang2011/research?authuser=0))
-
-
-</div>
-
----
-
-<div style="text-align: justify">
-
 **Topic Models for Short Text** (with [<span style="color:#323434"> **Julia, Ju Yuon Park, Essex**</span>](http://www.juyeonpark.com/research.html))
 
 </div>
