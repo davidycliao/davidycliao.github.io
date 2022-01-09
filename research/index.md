@@ -77,7 +77,7 @@ This paper studies an important political channel, through which income inequali
 
 **2021 Factionalism and the Red Guards under Mao’s China: Ideal Point Estimation Using Text Data** 
 
-(with Yi-Nung Tsai, National Chengchi University; Dechun Zhang, Leiden University, presented in 2021 AsianPolmeth Presentation VIII | 2021 EPSA) [[`code`](https://github.com/davidycliao/redguards)][[`slides`]()][[`paper`]()]
+(with Yi-Nung Tsai, National Chengchi University; Dechun Zhang, Leiden University, presented in 2021 AsianPolmeth Presentation VIII | 2021 EPSA) [[`code`](https://github.com/davidycliao/redguards)][[`slides`](https://raw.githack.com/davidycliao/redguards/master/slides/slides.pdf)][[`paper`]()]
 
 This article estimates the spatial positioning of the political elites and participants in the Cultural Revolution through analyzing expressed political views in propaganda publication in China. Prior theoretical research indicates that the political elites and the Red Guards lost control of the social movement, and it evolved into sheer verbal violence and physical skirmishes across all provinces in the end. We show that in this political chaos, the Red Guards and the elite were dynamically fractioned, as is reflected in self-printed propaganda, such as big-character posters (Dazibao 大字报) and tabloids (Xiaobao 小报). This paper also develops a novel approach that augments TextRank algorithm to extract keywords and Chinese phrases, on top of the Poisson scaling model (Wordfish) to estimate the differences of spatial positions using the extracted textual key terms. Results are shown to be consistent with the literature on the Cultural Revolution.
 
