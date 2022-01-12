@@ -48,7 +48,7 @@ This paper studies an important political channel, through which income inequali
 
 ---
 
-**Measuring China’s Online Nationalists on Weibo** (with [<span style="color:#323434"> **Dechun Zhang, Leiden University**</span>](https://www.universiteitleiden.nl/en/staffmembers/dechun-zhang#tab-1))
+**Measuring China’s Online Nationalists on Weibo with Transformers** (with [<span style="color:#323434"> **Dechun Zhang, Leiden University**</span>](https://www.universiteitleiden.nl/en/staffmembers/dechun-zhang#tab-1))
 
 
 
