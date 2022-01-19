@@ -86,7 +86,7 @@ Understanding the positions of parties and legislators is key to conceptualizing
 
 <div style="text-align: center">
 
-## Other Working Paper and Works in Progress : 
+## Working Papers and Works in Progress : 
 
 </div>
 
