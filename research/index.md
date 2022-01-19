@@ -6,25 +6,93 @@
 
 <div style="text-align: center">
 
+## PhD Dissertation Project: 
 
-## In Progress
 </div>
 
 <div style="text-align: justify">
 
-**Electoral Incentives and Pork: Exploring Parliamentary Questions Using Convolutional Neural Networks** (Paper III / PhD Dissertation Project)
+***“Title: Polarization and Competition within the Congress: The Applications of Computational Social Science”***
 
-(Presented a [poster](https://github.com/davidycliao/elp) at 2021 Machine Learning Summer School [`programme`](https://aintu.org/mlss2021/landing-page/))
+Estimating the politician positions of parties and politicians is key to understanding party polarization and electoral competition. This thesis quantitatively investigates how 2008 Tai- wan electoral reform through single non-transferable voting (SNTV) to single-member dis- tricts (SMDs) impacts the behavior of legislators and their electoral strategies, by analyzing roll calls and parliamentary questions. I aim to deliver several pieces of empirical evidence to revisit the following research questions: (1) Does the switch of the electoral system to SMDs mitigate political polarization among parties? (2) Does the reform influence the intra-party competition, and thus, change legislators’ policy positions? (3) Does the reform reduce re- gional particularism expressed in declared opinions, like in textual archives, but increase the promises of universalism policies? The thesis is expected to apply ideal point estimation and natural language processing techniques that are currently deployed by the forefront study of legislatures and strengthen the understanding of Taiwan party politics and party competition inside The Legislative Yuan. These potential findings can further help policymakers clarify possible outcomes of the electoral reform, shedding light on party competition and party polarization in modern democracies.
+
+</div>
+
+
+
+<div style="text-align: justify">
+
+
+**Chapter 1: Mayors and Pork Barrel: Legislative Experience Bias in Intergovernmental Transfers to Taiwan Municipalities**  [[`slides`](https://raw.githack.com/davidycliao/pcpb/main/slides/slides.pdf)][[`paper`](https://raw.githack.com/davidycliao/pcpb/main/paper/Mayors_and_Pork_Barrel.pdf)]
+
+This paper examines the contribution of mayor’s political career within governments in obtaining more distributive benefits to her own municipality. Mayors with more sophisticated experience have stronger electoral ties to the central government, which is useful for them to enhance their chances of staying in office. Using panel dataset of Revenue Support Grant, we find that municipalities whose mayors with longer career spent in the legislature are more likely to be allocated higher fiscal expenditures. The effect is even stronger if the mayors have worked in legislative standing committees. On the contrary, mayors’ prior political career in ministries does not significantly help their municipalities obtain the grant. The findings suggest that compared to experience as a central government official, a legislative career has a leading impact on grant transfer to municipalities.
+
+**Keywords**：*distributive politics, pork barrel, intergovernmental grants*
+
+</div>
+
+---
+
+
+<div style="text-align: justify">
+
+**Chapter 2: Electoral Reform and Disunited Polarization: Evidence from Legislative Roll Calls** (with [<span style="color:#323434"> Li Tang, Middlesex University London</span>](https://sites.google.com/view/litang2020)) [[`slides`](https://raw.githack.com/davidycliao/erdp/master/slides/slides.html#1)][[`paper`](https://raw.githack.com/davidycliao/erdp/master/paper/David-YCLIAO-POPE-Feb-24.pdf)]
+
+This article investigates the strategic (inter- and intra-) party positioning in re- sponse to an electoral system transition from single non-transferable vote (SNTV) to single-member districts (SMDs) by studying the electoral reform in Taiwan and pro- vides empirical evidence to the following questions. Does the switch of electoral system from SNTV to SMDs mitigate political polarization among parties? Does it influence the intra-party unitedness (cohesiveness), and thus, change legislators’ ideological positioning? To this end, we estimate individual legislator’s ideological positions from sessional roll call votes continuously covering ex-ante and ex-post periods of the reform. Expectation Maximization (EM) algorithm is applied to a dynamic ideal point model to estimate each legislator’s position from 1992 to 2015, where individual recursively updates her prior of ideal point. The preliminary finding suggests that in the electoral transition from SNTV to SMDs, ideological positions between two major parties are drastically polarized. In the meanwhile, this electoral transition significantly dis-unifies co-partisan legislators on the ideological spectrum. In addition, co-partisan legislators became ideologically distant (disunited) while opponents polarized themselves. These findings help clarify possible outcomes of the electoral reform from SNTV to SMDs, shedding light on party polarization and party competition in modern democracies.
+
+**Keywords**：*electoral reform, single-member districts (SMDs), roll call, political polarization*
+
+</div>
+
+---
+
+<div style="text-align: justify">
+
+**Chapter 3: Electoral Incentives and Pork: Exploring Parliamentary Questions Using Convolutional Neural Networks**  [[`poster`](https://github.com/davidycliao/elp)] [[`code`](https://github.com/davidycliao/PorkCNN)]
 
 In this paper, we quantitatively investigate legislators' electoral strategies and communication style by applying a deep learning model for measuring pork-barrel features on the parliamentary questions from 1993 to 2020.  To incorporate this application into our analysis, we have trained a convolutional neural network with TensorFlow 2.6 on the human-labelled pork-barrel legislation, including the bills and the amendments from Taiwan Legislative Yuan. The collection of legislation was manually labelled with binary-instance classification by reading the text, devoted either to promoting the pork-barrel project in a district (earmarked projects) or cultivating favoured minorities by providing subsidies. In the context of the text classification task, the trained model essentially learns the condensed features of bag-of-words instead of learning the pattern from the entire corpus. With the pork-barrel style features measured by the model, we find that legislators under SNTV (single non-transferable voting ) are likely to express political intension with regards to pork barrel projects in the parliamentary questions and seek personal votes by promising particularistic benefits to their targeted supporters. Consistent with the literature, switching from SNTV to Single-Member Districts reduces legislators' incentives to propose particularistic benefits but increases the attention to universalism (national) policies.
 
 **Keywords**：*electoral reform, single-member districts (SMDs), distributive politics, deep learning, CNN*
 
+</div>
+
+---
+
+<div style="text-align: justify">
+
+
+**Chapter 4: Measuring Party Cohesion Using Keywords on Parliamentary Questions** 
+
+
+Understanding the positions of parties and legislators is key to conceptualizing party cohesion and their representation in most democracies. This study is to measure intra-party heterogeneity and variance in issue attention by looking at what and why legislators are more likely to oversight the ministry officials on one specific topic or another during the question time. We answer this question using the case of Taiwan Legislative Yuan, and data on written parliamentary questions through an electoral reform from 1993 to 2020. We estimate the position of each legislator on the left-right dimensions using the keywords extracted from the questions that they request for information on policies and activities of ministries. We document how the electoral system shape legislators' spatial position on their issue attention: party cohesion increase when the variance of issue attention decreased in single member district plurality system (SMD), and party cohesion decrease when the variance of issue attention increase in Single non-transferable vote (SNTV). These findings shed new light on providing a different approach to estimating party cohesion as well as representation and political accountability in new democracies.
+
+**Keywords**：*party cohesion, intra-party heterogeneity, electoral reform, parliamentary questions*
+
 
 </div>
 
 
-----
+<br/><br/>
+
+<div style="text-align: center">
+
+## Other Works in Progress : 
+
+</div>
+
+
+<div style="text-align: justify">
+
+**2021 Factionalism and the Red Guards under Mao’s China: Ideal Point Estimation Using Text Data** 
+
+(with Yi-Nung Tsai, National Chengchi University; Dechun Zhang, Leiden University, presented in 2021 AsianPolmeth Presentation VIII | 2021 EPSA) [[`code`](https://github.com/davidycliao/redguards)][[`slides`](https://raw.githack.com/davidycliao/redguards/master/slides/slides.pdf)][[`paper`]()] 
+
+This article estimates the spatial positioning of the political elites and participants in the Cultural Revolution through analyzing expressed political views in propaganda publication in China. Prior theoretical research indicates that the political elites and the Red Guards lost control of the social movement, and it evolved into sheer verbal violence and physical skirmishes across all provinces in the end. We show that in this political chaos, the Red Guards and the elite were dynamically fractioned, as is reflected in self-printed propaganda, such as big-character posters (Dazibao 大字报) and tabloids (Xiaobao 小报). This paper also develops a novel approach that augments TextRank algorithm to extract keywords and Chinese phrases, on top of the Poisson scaling model (Wordfish) to estimate the differences of spatial positions using the extracted textual key terms. Results are shown to be consistent with the literature on the Cultural Revolution.
+
+**Keywords**：*Text as Data, Cultural Revolution, Mass movements, the Red Guards*
+</div>
+
+
 
 <div style="text-align: justify">
 
@@ -40,15 +108,35 @@ This paper studies an important political channel, through which income inequali
 
 ---
 
+
 <div style="text-align: justify">
 
-**Topic Models for Short Text** (with [<span style="color:#323434"> **Julia, Ju Yuon Park, Essex**</span>](http://www.juyeonpark.com/research.html))
+**This is What We Hope: Estimating Perceptions on Political Trust** 
+
+(with Royce Carroll, University of Essex; Li Tang, University of Essex; and  Tzu-Ping Liu, University of Taipei)
+
+We propose a new approach to estimating voters' preferences on party positions, including aggregate subjective targets of Conservative Party's and Labour Party's positions, based on their political confidence towards the government, that requires no priors on the underlying data-generating process of the targets. Our approach entails directly measuring voters' confidence from the self-reported public trust towards the Parliament surveyed by British Election Study during 2017 and 2019. This paper first documents robust evidence that voters with different partisan affiliations prefer parties to locate differently: when parties move closer to the targets, the corresponding representative voter gains satisfaction and trust in the Parliament. Then, we find the estimated targets persistently deviate from perceptions of experts from the Chapel Hill Expert Survey in varying degrees, regardless of personal attributes and party affiliations. Interestingly, low-income voters from Conservative Party have targets that are more prone to disagree with experts' perceptions than high-income voters. These findings shed new light on new approach to capturing voters' preference on party positions as well as discrepancy between actual party positions and voters' perception on political parties.
+
+**Keywords**：*party perceptions, expert surveys, political trust*
 
 </div>
 
 ---
 
-**Measuring China’s Online Nationalists on Weibo with Transformers** (with [<span style="color:#323434"> **Dechun Zhang, Leiden University**</span>](https://www.universiteitleiden.nl/en/staffmembers/dechun-zhang#tab-1))
+
+
+
+
+<div style="text-align: justify">
+
+**Topic Models for Short Text** 
+(with [<span style="color:#323434"> Julia, Ju Yuon Park, Essex</span>](http://www.juyeonpark.com/research.html))
+
+</div>
+
+---
+
+**Measuring China’s Online Nationalists on Weibo with Transformers** (with [<span style="color:#323434"> Dechun Zhang, Leiden University</span>](https://www.universiteitleiden.nl/en/staffmembers/dechun-zhang#tab-1))
 
 
 
@@ -68,7 +156,7 @@ This paper studies an important political channel, through which income inequali
 
 **2021 Factionalism and the Red Guards under Mao’s China: Ideal Point Estimation Using Text Data** 
 
-(with Yi-Nung Tsai, National Chengchi University; Dechun Zhang, Leiden University, presented in 2021 AsianPolmeth Presentation VIII | 2021 EPSA) [[`code`](https://github.com/davidycliao/redguards)][[`slides`](https://raw.githack.com/davidycliao/redguards/master/slides/slides.pdf)][[`paper`]()]
+(with Yi-Nung Tsai, National Chengchi University; Dechun Zhang, Leiden University, presented in 2021 AsianPolmeth Presentation VIII | 2021 EPSA) [[`code`](https://github.com/davidycliao/redguards)][[`slides`](https://raw.githack.com/davidycliao/redguards/master/slides/slides.pdf)][[`paper`]()] 
 
 This article estimates the spatial positioning of the political elites and participants in the Cultural Revolution through analyzing expressed political views in propaganda publication in China. Prior theoretical research indicates that the political elites and the Red Guards lost control of the social movement, and it evolved into sheer verbal violence and physical skirmishes across all provinces in the end. We show that in this political chaos, the Red Guards and the elite were dynamically fractioned, as is reflected in self-printed propaganda, such as big-character posters (Dazibao 大字报) and tabloids (Xiaobao 小报). This paper also develops a novel approach that augments TextRank algorithm to extract keywords and Chinese phrases, on top of the Poisson scaling model (Wordfish) to estimate the differences of spatial positions using the extracted textual key terms. Results are shown to be consistent with the literature on the Cultural Revolution.
 
@@ -89,20 +177,6 @@ This article investigates the strategic (inter- and intra-) party positioning in
 **Keywords**：*electoral reform, single-member districts (SMDs), roll call, political polarization*
 </div>
 
----
-
-<div style="text-align: justify">
-
-
-**2019 Mayors and Pork Barrel: Legislative Experience Bias in Intergovernmental Transfers to Taiwan Municipalities** (Paper I / PhD Dissertation Project) 
-
-(Presented in 2019 EPSA | 2021 Annual Conference of the American Association for Chinese Studies) [[`slides`](https://raw.githack.com/davidycliao/pcpb/main/slides/slides.pdf)][[`paper`](https://raw.githack.com/davidycliao/pcpb/main/paper/Mayors_and_Pork_Barrel.pdf)]
-
-This paper examines the contribution of mayor’s political career within governments in obtaining more distributive benefits to her own municipality. Mayors with more sophisticated experience have stronger electoral ties to the central government, which is useful for them to enhance their chances of staying in office. Using panel dataset of Revenue Support Grant, we find that municipalities whose mayors with longer career spent in the legislature are more likely to be allocated higher fiscal expenditures. The effect is even stronger if the mayors have worked in legislative standing committees. On the contrary, mayors’ prior political career in ministries does not significantly help their municipalities obtain the grant. The findings suggest that compared to experience as a central government official, a legislative career has a leading impact on grant transfer to municipalities.
-
-**Keywords**：*distributive politics, pork barrel, intergovernmental grants*
-
-</div>
 
 
 
