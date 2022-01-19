@@ -8,10 +8,15 @@
 
 My name is David (Yen-Chieh) Liao. I’m a researcher of the LACAN  ([<span style="color:#323434">**Legislators between Accountability and Collective Agency**</span>](https://projectlacan.wordpress.com)) in the Chair of Comparative Politics at the University of Bamberg.  I have a BA in Public Administration and MA in Public Policy from National Taipei University in Taiwan.  I am also a PhD candidate in the University of Essex Department of Government.
 
+<br/>
+
 I study <span style="color:#323434"> **distributive politics**</span>, <span style="color:#323434"> **roll call polarization**</span> and <span style="color:#323434"> **legislative politics**</span>  with a focus on  Taiwan's legislature (the Legislative Yuan). Specifically, I am interested in how electoral motives shape preference, representation and ideological positionings. For my dissertation, I use ideal point estimation and computational methods to evaluate  the impact of the electoral reform on legislators' representation and behaviour, hence decreasing or increasing incentives to pay attention to pork-barrel programmes. 
+
+<br/>
 
 Apart from my dissertation, I am interested in applying various natural language processing techniques to study European parliamentary speeches, political discourse during the Cultural Revolution and accommodate a deep learning approach to measure internal conflict and inter-party divisions from facial and vocal expressions of the legislators in the US context.
 
+<br/>
 
 For working papers relelated my reserach, please visit [<span style="color:#323434"> **research profile**</span>](https://davidycliao.github.io/research/) and my [<span style="color:#323434"> **GitHub**</span>](https://github.com/davidycliao). Thank you.
 
