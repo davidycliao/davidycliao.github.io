@@ -18,7 +18,7 @@ Estimating the politician positions of parties and politicians is key to underst
 
 </div>
 
-
+<br/>
 
 <div style="text-align: justify">
 
@@ -92,7 +92,7 @@ This article estimates the spatial positioning of the political elites and parti
 **Keywords**：*Text as Data, Cultural Revolution, Mass movements, the Red Guards*
 </div>
 
-
+---
 
 <div style="text-align: justify">
 
@@ -124,9 +124,6 @@ We propose a new approach to estimating voters' preferences on party positions, 
 ---
 
 
-
-
-
 <div style="text-align: justify">
 
 **Topic Models for Short Text** 
@@ -142,44 +139,4 @@ We propose a new approach to estimating voters' preferences on party positions, 
 
 
 <br/><br/>
-
-<br/>
-
-<div style="text-align: center">
-
-## Working Papers
-
-</div>
-
-
-<div style="text-align: justify">
-
-**2021 Factionalism and the Red Guards under Mao’s China: Ideal Point Estimation Using Text Data** 
-
-(with Yi-Nung Tsai, National Chengchi University; Dechun Zhang, Leiden University, presented in 2021 AsianPolmeth Presentation VIII | 2021 EPSA) [[`code`](https://github.com/davidycliao/redguards)][[`slides`](https://raw.githack.com/davidycliao/redguards/master/slides/slides.pdf)][[`paper`]()] 
-
-This article estimates the spatial positioning of the political elites and participants in the Cultural Revolution through analyzing expressed political views in propaganda publication in China. Prior theoretical research indicates that the political elites and the Red Guards lost control of the social movement, and it evolved into sheer verbal violence and physical skirmishes across all provinces in the end. We show that in this political chaos, the Red Guards and the elite were dynamically fractioned, as is reflected in self-printed propaganda, such as big-character posters (Dazibao 大字报) and tabloids (Xiaobao 小报). This paper also develops a novel approach that augments TextRank algorithm to extract keywords and Chinese phrases, on top of the Poisson scaling model (Wordfish) to estimate the differences of spatial positions using the extracted textual key terms. Results are shown to be consistent with the literature on the Cultural Revolution.
-
-**Keywords**：*Text as Data, Cultural Revolution, Mass movements, the Red Guards*
-</div>
-
----
-
-
-<div style="text-align: justify">
-
-**2020 Electoral Reform and Disunited Polarization: Evidence from Legislative Roll Calls** (Paper II / PhD Dissertation Project)
-
-(Presented in the Virtual 2020 APSA with [<span style="color:#323434"> **Li Tang, University of Birmingham**</span>](https://sites.google.com/view/litang2020)) [[`slides`](https://raw.githack.com/davidycliao/erdp/master/slides/slides.html#1)][[`paper`](https://raw.githack.com/davidycliao/erdp/master/paper/David-YCLIAO-POPE-Feb-24.pdf)]
-
-This article investigates the strategic (inter- and intra-) party positioning in re- sponse to an electoral system transition from single non-transferable vote (SNTV) to single-member districts (SMDs) by studying the electoral reform in Taiwan and pro- vides empirical evidence to the following questions. Does the switch of electoral system from SNTV to SMDs mitigate political polarization among parties? Does it influence the intra-party unitedness (cohesiveness), and thus, change legislators’ ideological positioning? To this end, we estimate individual legislator’s ideological positions from sessional roll call votes continuously covering ex-ante and ex-post periods of the reform. Expectation Maximization (EM) algorithm is applied to a dynamic ideal point model to estimate each legislator’s position from 1992 to 2015, where individual recursively updates her prior of ideal point. The preliminary finding suggests that in the electoral transition from SNTV to SMDs, ideological positions between two major parties are drastically polarized. In the meanwhile, this electoral transition significantly dis-unifies co-partisan legislators on the ideological spectrum. In addition, co-partisan legislators became ideologically distant (disunited) while opponents polarized themselves. These findings help clarify possible outcomes of the electoral reform from SNTV to SMDs, shedding light on party polarization and party competition in modern democracies.
-
-**Keywords**：*electoral reform, single-member districts (SMDs), roll call, political polarization*
-</div>
-
-
-
-
-
-
 
