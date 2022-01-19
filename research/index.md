@@ -16,7 +16,7 @@
 
 Estimating the politician positions of parties and politicians is key to understanding party polarization and electoral competition. This thesis quantitatively investigates how 2008 Taiwan electoral reform through single non-transferable voting (SNTV) to single-member dis- tricts (SMDs) impacts the behavior of legislators and their electoral strategies, by analyzing roll calls and parliamentary questions. I aim to deliver several pieces of empirical evidence to revisit the following research questions: (1) Does the switch of the electoral system to SMDs mitigate political polarization among parties? (2) Does the reform influence the intra-party competition, and thus, change legislators’ policy positions? (3) Does the reform reduce re- gional particularism expressed in declared opinions, like in textual archives, but increase the promises of universalism policies? The thesis is expected to apply ideal point estimation and natural language processing techniques that are currently deployed by the forefront study of legislatures and strengthen the understanding of Taiwan party politics and party competition inside The Legislative Yuan. These potential findings can further help policymakers clarify possible outcomes of the electoral reform, shedding light on party competition and party polarization in modern democracies.
 
-(The PhD dissertation project is supported by the 2021 Taiwanese Overseas Pioneers Grants for PhD Candidates from  Ministry of Science and Technology Taiwan, USD$ 32000)
+
 </div>
 
 <br/>
@@ -25,6 +25,8 @@ Estimating the politician positions of parties and politicians is key to underst
 
 
 **Chapter 1: Mayors and Pork Barrel: Legislative Experience Bias in Intergovernmental Transfers to Taiwan Municipalities**  [[`slides`](https://raw.githack.com/davidycliao/pcpb/main/slides/slides.pdf)][[`paper`](https://raw.githack.com/davidycliao/pcpb/main/paper/Mayors_and_Pork_Barrel.pdf)]
+
+###### (The PhD dissertation project is supported by the 2021 Taiwanese Overseas Pioneers Grants for PhD Candidates from  Ministry of Science and Technology Taiwan)
 
 This paper examines the contribution of mayor’s political career within governments in obtaining more distributive benefits to her own municipality. Mayors with more sophisticated experience have stronger electoral ties to the central government, which is useful for them to enhance their chances of staying in office. Using panel dataset of Revenue Support Grant, we find that municipalities whose mayors with longer career spent in the legislature are more likely to be allocated higher fiscal expenditures. The effect is even stronger if the mayors have worked in legislative standing committees. On the contrary, mayors’ prior political career in ministries does not significantly help their municipalities obtain the grant. The findings suggest that compared to experience as a central government official, a legislative career has a leading impact on grant transfer to municipalities.
 
@@ -66,7 +68,8 @@ In this article, I quantitatively investigate legislators' electoral strategies 
 
 **Chapter 4: Measuring Party Cohesion on Parliamentary Question Keywords** 
 
-(with Calvin, Yu-Ceng Liao, Post Doctoral Research Fellow at Taiwan Studies Center, National Chengchi University)
+([<span style="color:#323434"> Calvin, Yu-Ceng Liao, Post Doctoral Research Fellow at Taiwan Studies Center, National Chengchi University</span>](https://sites.google.com/view/calvin-yuceng-liao/home) )
+
 
 Understanding the positions of parties and legislators is key to conceptualizing party cohesion and their representation in most democracies. This study is to measure intra-party heterogeneity and variability in issue attention by looking at what and why legislators are more likely to oversight the ministry officials on one specific topic or another during the question time. We answer this question using the case of Taiwan Legislative Yuan, and data on written parliamentary questions through an electoral reform from 1993 to 2020. We estimate the position of each legislator on the left-right dimensions using the keywords extracted from the questions that legislators request for information on policies and activities of ministries. We document how the electoral reform shapes legislators' ideological position and variability on their issue attentions: party cohesion increases when high variability in issue attention in Single Member District (SMD) and decreases when low variability under Single Non-transferable Vote (SNTV). These findings shed new light on providing a different approach to estimating party cohesion as well as representation and political accountability in new democracies.
 
@@ -117,7 +120,7 @@ This paper studies an important political channel, through which income inequali
 
 **This is What We Hope: Estimating Perceptions on Political Trust** 
 
-(with Royce Carroll, University of Essex; Li Tang, University of Essex; and  Tzu-Ping Liu, University of Taipei)
+(with Royce Carroll, University of Essex; Li Tang,  Middlesex University London and Univeristy of Essex; and  Tzu-Ping Liu, University of Taipei)
 
 We propose a new approach to estimating voters' preferences on party positions, including aggregate subjective targets of Conservative Party's and Labour Party's positions, based on their political confidence towards the government, that requires no priors on the underlying data-generating process of the targets. Our approach entails directly measuring voters' confidence from the self-reported public trust towards the Parliament surveyed by British Election Study during 2017 and 2019. This paper first documents robust evidence that voters with different partisan affiliations prefer parties to locate differently: when parties move closer to the targets, the corresponding representative voter gains satisfaction and trust in the Parliament. Then, we find the estimated targets persistently deviate from perceptions of experts from the Chapel Hill Expert Survey in varying degrees, regardless of personal attributes and party affiliations. Interestingly, low-income voters from Conservative Party have targets that are more prone to disagree with experts' perceptions than high-income voters. These findings shed new light on new approach to capturing voters' preference on party positions as well as discrepancy between actual party positions and voters' perception on political parties.
 
@@ -131,6 +134,7 @@ We propose a new approach to estimating voters' preferences on party positions, 
 <div style="text-align: justify">
 
 **Topic Models for Short Text** 
+
 (with [<span style="color:#323434"> Julia, Ju Yuon Park, Univeristy of Essex</span>](http://www.juyeonpark.com/research.html))
 
 </div>
@@ -139,7 +143,9 @@ We propose a new approach to estimating voters' preferences on party positions, 
 
 <div style="text-align: justify">
 
-**Measuring China’s Online Nationalists on Weibo** (with [<span style="color:#323434"> Dechun Zhang, Leiden University</span>](https://www.universiteitleiden.nl/en/staffmembers/dechun-zhang#tab-1) and [<span style="color:#323434"> Dechun Zhang, Leiden University</span>](https://www.universiteitleiden.nl/en/staffmembers/dechun-zhang#tab-1) )
+**Measuring China’s Online Nationalists on Weibo** 
+
+(with [<span style="color:#323434"> Dechun Zhang, Leiden University</span>](https://www.universiteitleiden.nl/en/staffmembers/dechun-zhang#tab-1))
 
 
 </div>
@@ -148,7 +154,9 @@ We propose a new approach to estimating voters' preferences on party positions, 
 
 <div style="text-align: justify">
 
-**Estimating Fiscal Policy Objectives in the UK with Text analysis** (with [<span style="color:#323434"> Pei Kuang, University of Birmingham</span>](https://sites.google.com/site/peikuang2011/research) and [<span style="color:#323434"> Tang Li, Middlesex University London and Univeristy of Essex</span>](https://sites.google.com/view/litang2020))
+**Estimating Fiscal Policy Objectives in the UK with Text analysis** 
+
+(with [<span style="color:#323434"> Pei Kuang, University of Birmingham</span>](https://sites.google.com/site/peikuang2011/research) and [<span style="color:#323434"> Tang Li, Middlesex University London and Univeristy of Essex</span>](https://sites.google.com/view/litang2020))
 
 
 
