@@ -71,8 +71,8 @@ Understanding the positions of parties and legislators is key to conceptualizing
 
 </div>
 
-
 <br/><br/>
+
 
 <div style="text-align: center">
 
@@ -127,13 +127,32 @@ We propose a new approach to estimating voters' preferences on party positions, 
 <div style="text-align: justify">
 
 **Topic Models for Short Text** 
-(with [<span style="color:#323434"> Julia, Ju Yuon Park, Essex</span>](http://www.juyeonpark.com/research.html))
+(with [<span style="color:#323434"> Julia, Ju Yuon Park, Univeristy of Essex</span>](http://www.juyeonpark.com/research.html))
 
 </div>
 
 ---
 
-**Measuring China’s Online Nationalists on Weibo with Transformers** (with [<span style="color:#323434"> Dechun Zhang, Leiden University</span>](https://www.universiteitleiden.nl/en/staffmembers/dechun-zhang#tab-1))
+<div style="text-align: justify">
+
+**Measuring China’s Online Nationalists on Weibo** (with [<span style="color:#323434"> Dechun Zhang, Leiden University</span>](https://www.universiteitleiden.nl/en/staffmembers/dechun-zhang#tab-1) and [<span style="color:#323434"> Dechun Zhang, Leiden University</span>](https://www.universiteitleiden.nl/en/staffmembers/dechun-zhang#tab-1) )
+
+
+</div>
+
+---
+
+<div style="text-align: justify">
+
+**Estimating Fiscal Policy Objectives in the UK with Text analysis** (with [<span style="color:#323434"> Pei Kuang, University of Birmingham</span>](https://sites.google.com/site/peikuang2011/research) and [<span style="color:#323434"> Tang Li, Middlesex University London and Univeristy of Essex</span>](https://sites.google.com/view/litang2020))
+
+
+
+
+
+
+</div>
+
 
 
 
