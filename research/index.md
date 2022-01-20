@@ -120,11 +120,12 @@ This paper studies an important political channel, through which income inequali
 
 **This is What We Hope: Estimating Perceptions on Political Trust** 
 
-(with Royce Carroll, University of Essex; Li Tang,  Middlesex University London and Univeristy of Essex; and  Tzu-Ping Liu, University of Taipei)
+(with Li Tang,  Middlesex University London and Univeristy of Essex; and  Tzu-Ping Liu, University of Taipei)
 
 We propose a new approach to estimating voters' preferences on party positions, including aggregate subjective targets of Conservative Party's and Labour Party's positions, based on their political confidence towards the government, that requires no priors on the underlying data-generating process of the targets. Our approach entails directly measuring voters' confidence from the self-reported public trust towards the Parliament surveyed by British Election Study during 2017 and 2019. This paper first documents robust evidence that voters with different partisan affiliations prefer parties to locate differently: when parties move closer to the targets, the corresponding representative voter gains satisfaction and trust in the Parliament. Then, we find the estimated targets persistently deviate from perceptions of experts from the Chapel Hill Expert Survey in varying degrees, regardless of personal attributes and party affiliations. Interestingly, low-income voters from Conservative Party have targets that are more prone to disagree with experts' perceptions than high-income voters. These findings shed new light on new approach to capturing voters' preference on party positions as well as discrepancy between actual party positions and voters' perception on political parties.
 
 **Keywords**：*party perceptions, expert surveys, political trust*
+
 
 </div>
 
