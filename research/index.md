@@ -54,7 +54,7 @@ This article investigates the strategic (inter- and intra-) party positioning in
 
 <div style="text-align: justify">
 
-**Chapter 3: When Speaking of Porks: Exploring Parliamentary Questions Using NLP Transformers**   [[`poster`](https://github.com/davidycliao/elp)] [[`code`](https://github.com/davidycliao/PorkCNN)]
+**Chapter 3: When Speaking of Pork: Exploring Parliamentary Questions Using NLP Transformers**   [[`poster`](https://github.com/davidycliao/elp)] [[`code`](https://github.com/davidycliao/PorkCNN)]
 
 In this article, I quantitatively investigate legislators' electoral strategies and communication style by applying an encoder-decoder-based models to measure pork-barrel features on the parliamentary questions proposed by the legislators from 1993 to 2020. To incorporate this application into our analysis, I have trained a deep learning classifier with BERT (Bidirectional Encoder Representative from Transformers) on the human-labelled pork-barrel legislation, including the bills and the amendments from Taiwan’s legislature (the Legislative Yuan). The collection of legislation are annotated with binary-instance classification by reading the text, devoted either to promoting the pork-barrel project (earmarked projects) or cultivating favoured minorities by providing subsidies. With attention mechanisms in transformers architecture, BERT model not only learns the condensed features of bag-of-words but also has better tokenization algorithms for handling unseen words. With the pork-barrel style features measured by the trained model, I find that legislators under SNTV (single non-transferable voting ) are likely to express political intension with regards to pork barrel projects in written parliamentary questions and seek personal votes by promising particularistic benefits to their targeted supporters. Consistent with the literature, switching from SNTV to Single-Member Districts reduces legislators' incentives to propose particularistic benefits but increases the attention to universalism (national) policies.
 
@@ -105,7 +105,7 @@ This article estimates the spatial positioning of the political elites and parti
 
 **Income Inequality, Party Misperception and Democracy Distrust** 
 
-(with Royce Carroll, University of Essex; Li Tang, University of Essex; and  Tzu-Ping Liu, University of Taipei)
+(with Royce Carroll, University of Essex; Li Tang, University of Essex; and Tzu-Ping Liu, University of Taipei)
 
 This paper studies an important political channel, through which income inequality transforms into dissatisfaction with democracy and distrust towards government, using multiple waves of the British Election Study from 2015 t o 2019. We first document that households of different wealth have persistent gaps in the degree of satisfaction with democracy and governmental trust, regardless of their gender, education, party affiliation, survey waves, etc. Low-income earners are more dissatisfied with how democracy works and more distrustful of the government than affluent households. Then we show that income inequality has causal effects on misperceptions about political parties, that is, the extent to which households wrongly placed their beliefs towards parties' left-right position from reality, measured by the British Election Study Expert Survey. Households of low income perceive party positions less accurately than households of affluence and, therefore, have more significant misperceptions. Finally, we verify the causality from the size of party misperception to dissatisfaction with democracy and distrust towards the government: observing the actual party positions, low-income households are more disapp ointed by the more significant discrepancy between th eir perceived and actual party position and become more dissatisfied and distrustful of the democracy and the government.
 
@@ -120,7 +120,7 @@ This paper studies an important political channel, through which income inequali
 
 **This is What We Hope: Estimating Perceptions on Political Trust** 
 
-(with Li Tang,  Middlesex University London and Univeristy of Essex; and  Tzu-Ping Liu, University of Taipei)
+(with Li Tang, Middlesex University London and Univeristy of Essex and Tzu-Ping Liu, University of Taipei)
 
 We propose a new approach to estimating voters' preferences on party positions, including aggregate subjective targets of Conservative Party's and Labour Party's positions, based on their political confidence towards the government, that requires no priors on the underlying data-generating process of the targets. Our approach entails directly measuring voters' confidence from the self-reported public trust towards the Parliament surveyed by British Election Study during 2017 and 2019. This paper first documents robust evidence that voters with different partisan affiliations prefer parties to locate differently: when parties move closer to the targets, the corresponding representative voter gains satisfaction and trust in the Parliament. Then, we find the estimated targets persistently deviate from perceptions of experts from the Chapel Hill Expert Survey in varying degrees, regardless of personal attributes and party affiliations. Interestingly, low-income voters from Conservative Party have targets that are more prone to disagree with experts' perceptions than high-income voters. These findings shed new light on new approach to capturing voters' preference on party positions as well as discrepancy between actual party positions and voters' perception on political parties.
 
@@ -155,7 +155,7 @@ We propose a new approach to estimating voters' preferences on party positions, 
 
 <div style="text-align: justify">
 
-**Estimating Fiscal Policy Objectives in the UK with Text analysis** 
+**Estimating Fiscal Policy Objectives in the UK with Text Analysis** 
 
 (with [<span style="color:#323434"> Pei Kuang, University of Birmingham</span>](https://sites.google.com/site/peikuang2011/research) and [<span style="color:#323434"> Tang Li, Middlesex University London and Univeristy of Essex</span>](https://sites.google.com/view/litang2020))
 
