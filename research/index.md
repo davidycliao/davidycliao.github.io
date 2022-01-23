@@ -97,6 +97,7 @@ Understanding the positions of parties and legislators is key to conceptualizing
 This article estimates the spatial positioning of the political elites and participants in the Cultural Revolution through analyzing expressed political views in propaganda publication in China. Prior theoretical research indicates that the political elites and the Red Guards lost control of the social movement, and it evolved into sheer verbal violence and physical skirmishes across all provinces in the end. We show that in this political chaos, the Red Guards and the elite were dynamically fractioned, as is reflected in self-printed propaganda, such as big-character posters (Dazibao 大字报) and tabloids (Xiaobao 小报). This paper also develops a novel approach that augments TextRank algorithm to extract keywords and Chinese phrases, on top of the Poisson scaling model (Wordfish) to estimate the differences of spatial positions using the extracted textual key terms. Results are shown to be consistent with the literature on the Cultural Revolution.
 
 **Keywords**：*Text as Data, Cultural Revolution, Mass movements, the Red Guards*
+
 </div>
 
 ---
@@ -136,7 +137,7 @@ We propose a new approach to estimating voters' preferences on party positions, 
 
 **Topic Models for Short Text** 
 
-(with [<span style="color:#323434"> Julia, Ju Yuon Park, Univeristy of Essex</span>](http://www.juyeonpark.com/research.html))
+(with [<span style="color:#778899"> Julia, Ju Yuon Park, Univeristy of Essex</span>](http://www.juyeonpark.com/research.html))
 
 </div>
 
@@ -146,7 +147,7 @@ We propose a new approach to estimating voters' preferences on party positions, 
 
 **Measuring China’s Online Nationalists on Weibo** 
 
-(with [<span style="color:#323434"> Dechun Zhang, Leiden University</span>](https://www.universiteitleiden.nl/en/staffmembers/dechun-zhang#tab-1))
+(with [<span style="color:#778899"> Dechun Zhang, Leiden University</span>](https://www.universiteitleiden.nl/en/staffmembers/dechun-zhang#tab-1))
 
 
 </div>
@@ -157,7 +158,7 @@ We propose a new approach to estimating voters' preferences on party positions, 
 
 **Estimating Fiscal Policy Objectives in the UK with Text Analysis** 
 
-(with [<span style="color:#323434"> Pei Kuang, University of Birmingham</span>](https://sites.google.com/site/peikuang2011/research) and [<span style="color:black"> Tang Li, Middlesex University London and Univeristy of Essex</span>](https://sites.google.com/view/litang2020))
+(with [<span style="color:#778899"> Pei Kuang, University of Birmingham</span>](https://sites.google.com/site/peikuang2011/research) and [<span style="color:#778899"> Tang Li, Middlesex University London and Univeristy of Essex</span>](https://sites.google.com/view/litang2020))
 
 
 </div>
