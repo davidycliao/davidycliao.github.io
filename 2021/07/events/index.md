@@ -3,7 +3,9 @@
 
 
 
-### Presentation Ⅰ: Income Inequality, Party Misperception and Democracy Distrust 
+### Presentation Ⅰ
+
+#### Income Inequality, Party Misperception and Democracy Distrust 
 
 (with Royce Carroll, University of Essex; Li Tang, Middlesex University London and Univeristy of Essex; Tzu-Ping Liu, University of Taipei)
 
