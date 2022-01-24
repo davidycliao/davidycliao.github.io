@@ -110,7 +110,7 @@ This article estimates the spatial positioning of the political elites and parti
 
 This paper studies an important political channel, through which income inequality transforms into dissatisfaction with democracy and distrust towards government, using multiple waves of the British Election Study from 2015 to 2019. We first document that households of different wealth have persistent gaps in the degree of satisfaction with democracy and governmental trust, regardless of their gender, education, party affiliation, survey waves, etc. Low-income earners are more dissatisfied with how democracy works and more distrustful of the government than affluent households. Then we show that income inequality has causal effects on misperceptions about political parties, that is, the extent to which households wrongly placed their beliefs towards parties' left-right position from reality, measured by the British Election Study Expert Survey. Households of low income perceive party positions less accurately than households of affluence and, therefore, have more significant misperceptions. Finally, we verify the causality from the size of party misperception to dissatisfaction with democracy and distrust towards the government: observing the actual party positions, low-income households are more disapp ointed by the more significant discrepancy between th eir perceived and actual party position and become more dissatisfied and distrustful of the democracy and the government.
 
-**Keywords**：*income inequality, expert surveys, party misperception, political trust*
+**Keywords**：*income inequality, Chapel Hill Expert Survey, party misperception, political trust*
 
 </div>
 
@@ -125,7 +125,7 @@ This paper studies an important political channel, through which income inequali
 
 We propose a new approach to estimating voters' preferences on party positions, including aggregate subjective targets of Conservative Party's and Labour Party's positions, based on their political confidence towards the government, that requires no priors on the underlying data-generating process of the targets. Our approach entails directly measuring voters' confidence from the self-reported public trust towards the Parliament surveyed by British Election Study during 2017 and 2019. This paper first documents robust evidence that voters with different partisan affiliations prefer parties to locate differently: when parties move closer to the targets, the corresponding representative voter gains satisfaction and trust in the Parliament. Then, we find the estimated targets persistently deviate from perceptions of experts from the Chapel Hill Expert Survey in varying degrees, regardless of personal attributes and party affiliations. Interestingly, low-income voters from Conservative Party have targets that are more prone to disagree with experts' perceptions than high-income voters. These findings shed new light on new approach to capturing voters' preference on party positions as well as discrepancy between actual party positions and voters' perception on political parties.
 
-**Keywords**：*party perceptions, expert surveys, political trust*
+**Keywords**：*party perceptions, expert surveys, political trust, inverse U-shape trust function, asymmetric inverse V-shape trust function*
 
 
 </div>
