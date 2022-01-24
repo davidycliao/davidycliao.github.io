@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Taiwan Politics - Tag - DAVID LIAO</title>
+        <link>https://davidycliao.github.io/tags/taiwan-politics/</link>
+        <description>Taiwan Politics - Tag - DAVID LIAO</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 24 Jan 2022 21:29:01 &#43;0800</lastBuildDate><atom:link href="https://davidycliao.github.io/tags/taiwan-politics/" rel="self" type="application/rss+xml" /><item>
+    <title>第十四屆國會國際學術研討會「民主危機下的國會角色」</title>
+    <link>https://davidycliao.github.io/2022/01/event2/</link>
+    <pubDate>Mon, 24 Jan 2022 21:29:01 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://davidycliao.github.io/2022/01/event2/</guid>
+    <description><![CDATA[Presentation: When Speaking of Pork: Exploring Parliamentary Questions Using NLP Transformers In this article, I quantitatively investigate legislators' electoral strategies and communication style by applying an encoder-decoder-based models to measure pork-barrel features on the parliamentary questions proposed by the legislators from 1993 to 2020. To incorporate this application into our analysis, I have trained a deep learning classifier with BERT (Bidirectional Encoder Representative from Transformers) on the human-labelled pork-barrel legislation, including the bills and the amendments from Taiwan’s legislature (the Legislative Yuan).]]></description>
+</item></channel>
+</rss>
