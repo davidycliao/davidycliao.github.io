@@ -1,4 +1,4 @@
-#  Upcoming Presentations @ MPSA
+#  Upcoming In-person Presentations @ MPSA
 
 
 
