@@ -3,7 +3,7 @@
         <title>DAVID LIAO</title>
         <link>https://davidycliao.github.io/</link>
         <description>PhD Candidate | Department of Government | UoESSEX </description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 24 Jan 2022 21:29:01 &#43;0800</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 23 Jan 2022 21:29:01 &#43;0800</lastBuildDate>
             <atom:link href="https://davidycliao.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title> Upcoming In-person Presentations @ MPSA</title>
@@ -12,13 +12,6 @@
     <author>Author</author>
     <guid>https://davidycliao.github.io/2022/01/event1/</guid>
     <description><![CDATA[Presentation Ⅰ: Electoral Reform and Disunited Polarization: Evidence from Legislative Roll Calls This article investigates the strategic (inter- and intra-) party positioning in response to an electoral system transition from single non-transferable vote (SNTV) to single-member districts (SMDs) by studying the electoral reform in Taiwan and pro- vides empirical evidence to the following questions. Does the switch of electoral system from SNTV to SMDs mitigate political polarization among parties? Does it influence the intra-party unitedness (cohesiveness), and thus, change legislators’ ideological positioning?]]></description>
-</item><item>
-    <title>第十四屆國會國際學術研討會「民主危機下的國會角色」</title>
-    <link>https://davidycliao.github.io/2022/01/event2/</link>
-    <pubDate>Mon, 24 Jan 2022 21:29:01 &#43;0800</pubDate>
-    <author>Author</author>
-    <guid>https://davidycliao.github.io/2022/01/event2/</guid>
-    <description><![CDATA[Presentation: When Speaking of Pork: Exploring Parliamentary Questions Using NLP Transformers In this article, I quantitatively investigate legislators' electoral strategies and communication style by applying an encoder-decoder-based models to measure pork-barrel features on the parliamentary questions proposed by the legislators from 1993 to 2020. To incorporate this application into our analysis, I have trained a deep learning classifier with BERT (Bidirectional Encoder Representative from Transformers) on the human-labelled pork-barrel legislation, including the bills and the amendments from Taiwan’s legislature (the Legislative Yuan).]]></description>
 </item><item>
     <title>原住民族資料分析線上讀書會：R的基礎與應用</title>
     <link>https://davidycliao.github.io/2021/07/databoot-camp/</link>
