@@ -22,7 +22,7 @@ This paper studies an important political channel, through which income inequali
 
 **Time**: Thu, April 7, 11:30am to 1:00pm CDT (5:30 to 7:00pm BST), TBA
 
-**Paper**: 
+**File**: 
 
 </div>
 
@@ -40,7 +40,7 @@ This article investigates the strategic (inter- and intra-) party positioning in
 
 **Time**: Sat, April 9, 9:45 to 11:15am CDT (3:45 to 5:15pm BST), TBA
 
-**Paper**: 
+**File**:  
 
 </div>
 
