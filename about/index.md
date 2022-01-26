@@ -6,7 +6,8 @@
 <div style="text-align: justify">
 
 
-My name is David (Yen-Chieh) Liao. I’m a researcher of [<span style="color:#323434">*Legislators between Accountability and Collective Agency*</span>](https://projectlacan.wordpress.com/team/) at the Chair of Comparative Politics in the University of Bamberg.  I have a BA in Public Administration and MA in Public Policy from National Taipei University in Taiwan.  I am also a PhD candidate in the University of Essex Department of Government.
+My name is David (Yen-Chieh) Liao. I am a PhD Candidate in the University of Essex Department of Government and a researcher of [<span style="color:#323434">*Legislators between Accountability and Collective Agency*</span>](https://projectlacan.wordpress.com/team/) at the Chair of Comparative Politics in the University of Bamberg.  I have a BA in Public Administration and MA in Public Policy from National Taipei University in Taiwan.
+
 
 <br/>
 
