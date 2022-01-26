@@ -6,7 +6,7 @@
 <div style="text-align: justify">
 
 
-My name is David (Yen-Chieh) Liao. I am a PhD Candidate in the University of Essex Department of Government and a researcher of [<span style="color:#323434">*Legislators between Accountability and Collective Agency*</span>](https://projectlacan.wordpress.com/team/) at the Chair of Comparative Politics in the University of Bamberg.  I have a BA in Public Administration and MA in Public Policy from National Taipei University in Taiwan.
+My name is David (Yen-Chieh) Liao. I am a PhD Candidate in the University of Essex Department of Government and a researcher of [<span style="color:#323434">*Legislators between Accountability and Collective Agency (LACAN)*</span>](https://projectlacan.wordpress.com/team/) at the Chair of Comparative Politics in the University of Bamberg.  I have a BA in Public Administration and MA in Public Policy from National Taipei University in Taiwan.
 
 
 <br/>
@@ -15,11 +15,13 @@ I study <span style="color:#323434"> **distributive politics**</span>, <span sty
 
 <br/>
 
-Apart from my dissertation, I am interested in applying various natural language processing techniques to study European parliamentary speeches, political discourse during the Cultural Revolution and accommodate a deep learning approach to measure internal conflict and inter-party divisions from facial and vocal expressions of the legislators in the US context.
+Apart from my dissertation, I am interested in applying various natural language processing techniques to study European parliamentary speeches, social media data (Twitter and Weibo), political discourse during the Cultural Revolution and accommodate a deep learning approach to measure internal conflict and inter-party divisions from facial and vocal expressions of the legislators in the US context.
 
 <br/>
 
 For working papers relelated my reserach, please visit [<span style="color:#323434"> **research profile**</span>](https://davidycliao.github.io/research/) and my [<span style="color:#323434"> **GitHub**</span>](https://github.com/davidycliao). Thank you.
+
+
 
 
 
