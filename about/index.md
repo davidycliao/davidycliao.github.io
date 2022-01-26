@@ -6,12 +6,12 @@
 <div style="text-align: justify">
 
 
-My name is David (Yen-Chieh) Liao. I am a PhD Candidate in the University of Essex Department of Government and a researcher of [<span style="color:#778899">*Legislators between Accountability and Collective Agency (LACAN)*</span>](https://projectlacan.wordpress.com/team/) at the Chair of Comparative Politics in the University of Bamberg.  I have a BA and a MA in Public Administration & Policy from National Taipei University in Taiwan.
+My name is David (Yen-Chieh) Liao. I am a PhD Candidate in the University of Essex Department of Government and a researcher of [<span style="color:#778899">***Legislators between Accountability and Collective Agency (LACAN)***</span>](https://projectlacan.wordpress.com/team/) at the Chair of Comparative Politics in the University of Bamberg.  I have a BA and a MA in Public Administration & Policy from National Taipei University in Taiwan.
 
 
 <br/>
 
-I study <span style="color:#778899"> **distributive politics**</span>, <span style="color:#778899"> **roll call polarization**</span> and <span style="color:#323434"> **legislative politics**</span>  with a focus on  Taiwan's legislature (the Legislative Yuan). Specifically, I am interested in how electoral motives shape preference, representation and ideological positionings. For my dissertation, I use ideal point estimation and computational methods to evaluate  the impact of the electoral reform on legislators' representation and behaviour, hence decreasing or increasing incentives to pay attention to pork-barrel programmes. 
+I study **distributive politics**, **roll call polarization** and **legislative politics** with a focus on  Taiwan's legislature (the Legislative Yuan). Specifically, I am interested in how electoral motives shape preference, representation and ideological positionings. For my dissertation, I use ideal point estimation and computational methods to evaluate  the impact of the electoral reform on legislators' representation and behaviour, hence decreasing or increasing incentives to pay attention to pork-barrel programmes. 
 
 <br/>
 
