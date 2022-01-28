@@ -19,7 +19,7 @@ This article investigates the strategic (inter- and intra-) party positioning in
 
 **Time**: Sat, April 9, 9:45 to 11:15am CDT (3:45 to 5:15pm BST), TBA
 
-**File**: [[`pdf`](https://raw.githack.com/davidycliao/erdp/master/paper/David-YCLIAO-POPE-Feb-24.pdf)] [[`slides`](https://raw.githack.com/davidycliao/erdp/master/slides/slides.html)]
+**Documents**: [[`pdf`](https://raw.githack.com/davidycliao/erdp/master/paper/David-YCLIAO-POPE-Feb-24.pdf)] [[`slides`](https://raw.githack.com/davidycliao/erdp/master/slides/slides.html)]
 
 </div>
 
@@ -37,7 +37,7 @@ Does economic inequality bias respondents' perception about party positions? To 
 
 **Time**: Thu, April 7, 11:30am to 1:00pm CDT (5:30 to 7:00pm BST), TBA
 
-**File**: [[`pdf`]()] [[`slides`]()]
+**Documents**: [[`pdf`]()] [[`slides`]()]
 
 </div>
 
