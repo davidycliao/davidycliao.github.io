@@ -19,7 +19,7 @@ This article investigates the strategic (inter- and intra-) party positioning in
 
 **Time**: Sat, April 9, 9:45 to 11:15am CDT (3:45 to 5:15pm BST), TBA
 
-**Documents**: [[`pdf`](https://raw.githack.com/davidycliao/erdp/master/paper/David-YCLIAO-POPE-Feb-24.pdf)] [[`slides`](https://raw.githack.com/davidycliao/erdp/master/slides/slides.html)]
+**Documents**: [[`paper`](https://raw.githack.com/davidycliao/erdp/master/paper/Electoral_Reform_and_Disunited_Polarization.pdf)] [[`slides`](https://raw.githack.com/davidycliao/erdp/master/slides/slides.html)]
 
 </div>
 
