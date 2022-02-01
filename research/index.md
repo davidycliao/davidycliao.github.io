@@ -108,7 +108,12 @@ This article estimates the spatial positioning of the political elites and parti
 
 (with Royce Carroll, University of Essex; Li Tang, Middlesex University London and Univeristy of Essex; and Tzu-Ping Liu, University of Taipei)
 
-Does economic inequality bias respondents' perception about party positions? To what degree do biased perceptions decrease respondents' political trust towards the government. We investigate the questions using the case of the British parties in the UK and data from the British Election Survey and the Chapel Hill Expert Survey. This article documents how economic inequality is associated with respondents' misperceptions about each party, subsequently deteriorating their trusts in the UK Parliament. We find that income gaps have a causal effect on misperceptions about British parties (Conservatives, Labour, Liberal Democrats, UKIP and Green Party): misperception decreases as the household income increases, trust and satisfaction towards the UK Parliament increase as misperception decreases. These findings suggest respondents on lower incomes who are prone to be inaccurate about the party positions have less trust in the government than the high-income.
+Why do households standing on the lower end of incomes persistently express dismay towards politicians? 
+This article offers an explanation using the case of the British parties in the UK and data from the British Election Survey and the Chapel Hill Expert Survey. 
+We document how economic inequality contributes to respondents' misperceptions about parties, subsequently deteriorating their trust in the UK Parliament. 
+From our analysis, income insufficiency causes the widening disagreement about British parties with experts: the poor demonstrates larger perceptional biasedness in judging political positions than the rich. 
+Party's deviation from households' perceived position challenges their beliefs and confidence. This perceptional gap further transmits to deteriorate their trust towards the political system, contributing to a larger extend of dismay from the lower income families.
+
 
 **Keywords**：*income inequality, Chapel Hill Expert Survey, party misperception, political trust*
 
@@ -129,6 +134,30 @@ We propose a new approach to estimating voters' preferences on party positions, 
 
 
 </div>
+
+---
+
+
+<div style="text-align: justify">
+
+**官僚團體如何「重寫」意識形態陳述：以《人民日報》習近平思想的評論為例** 
+
+(with Yi-Nung Tsai, National Chengchi University)
+
+意識形態體系在維繫中共政權的執政穩定，長期扮演了重要角色。雖然部分觀察透過分析中共制定意識形態的過程，指出官定的意識形態非鐵板一塊，而是黨內政治衝突的折衷結果。
+不過，類似研究卻較少觸及意識形態建構完成後，黨內的官僚團體，如何透過各自的話語體系，將意識形態「改寫」成符合其利益偏好的政治陳述。在本文，我們以《人民日報》習近平思想的報刊評論為例，
+並根據Tsai與Kao（2013）發展的「寫作組」概念，在資料蒐集過程根據評論的主題與作者，標記其所屬官僚團體。
+在分析策略上，我們使用使用自動摘要生成技術（Automatic Text Summarization）的TextRank演算法，萃取文本的關鍵詞建立主題模型（topic model）。
+研究發現，我們認為這些討論習近平思想的評論，會依據不同主題與作者，在關鍵詞的使用存在差異，這反映其代表官僚團體，透過差異性的話語敘事，標示其政治立場。
+整體而言，我們的研究呈示了官僚團體，透過意識形態「包裝」其利益表達的陳述政治（discourse politics）。
+
+**Keywords**：*意識形態分析*、*文本資料研究*、*主題模型*、*習近平思想*
+
+
+</div>
+
+
+
 
 ---
 
