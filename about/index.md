@@ -12,7 +12,7 @@ My name is David (Yen-Chieh) Liao. I am a PhD Candidate in the University of Ess
 <br/>
 
 I study *distributive politics*, *roll call polarization* and *legislative oversight*, with a focus on Taiwan Legislative Yuan (the Legislature). For my PhD dissertation project, I use ideal point estimation and computational methods to study the impact of the electoral reform in Taiwan and investigate how the reform shapes legislators' representation.
-Specifically, I am interested in how electoral motives shape legislators' pork-barrel behaviour, ideological positionings and Preferences.
+Specifically, I am interested in how electoral motives shape legislators' pork-barrel behaviour, ideological positionings and preferences.
 
 <br/>
 
@@ -20,7 +20,7 @@ Apart from my dissertation, I am interested in applying various natural language
 
 <br/>
 
-For working papers relelated my reserach, please visit [<span style="color:#778899"> *research profile*</span>](https://davidycliao.github.io/research/) and my [<span style="color:#778899"> *GitHub*</span>](https://github.com/davidycliao). Thank you.
+For working papers relelated my reserach, please visit [<span style="color:#778899"> *research profile*</span>](https://davidycliao.github.io/research/) and my [<span style="color:#778899"> *GitHub*</span>](https://github.com/davidycliao) :bookmark_tabs:. Thank you.
 
 
 
