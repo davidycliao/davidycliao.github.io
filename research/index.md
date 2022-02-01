@@ -70,7 +70,7 @@ In this article, I quantitatively investigate legislators' electoral strategies 
 <div style="text-align: justify">
 
 
-**Chapter 4: Measuring Party Cohesion and Heterogeneity on Parliamentary Question Keywords** 
+**Chapter 4: Measuring Party Cohesion on Parliamentary Question Keywords** 
 
 ([<span style="color:#778899"> co-authored with Calvin Yu-Ceng Liao, Post Doctoral Research Fellow at Taiwan Studies Center, National Chengchi University</span>](https://sites.google.com/view/calvin-yuceng-liao/home))
 
