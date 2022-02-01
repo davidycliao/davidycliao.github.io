@@ -19,7 +19,10 @@
 <div style="text-align: justify">
 Estimating the politician positions of parties and politicians is key to understanding party polarization and electoral competition. This thesis quantitatively investigates how 2008 Taiwan electoral reform through single non-transferable voting (SNTV) to single-member districts system(SMDs) impacts the behavior of legislators and their electoral strategies, by analyzing roll calls and parliamentary questions. I aim to deliver several pieces of empirical evidence to revisit the following research questions: (1) Does the switch of the electoral system to SMDs mitigate political polarization among parties? (2) Does the reform influence the intra-party competition, and thus, change legislators’ policy positions? (3) Does the reform reduce re- gional particularism expressed in declared opinions, like in textual archives, but increase the promises of universalism policies? The thesis is expected to apply ideal point estimation and natural language processing techniques that are currently deployed by the forefront study of legislatures and strengthen the understanding of Taiwan party politics and party competition inside The Legislative Yuan. These potential findings can further help policymakers clarify possible outcomes of the electoral reform, shedding light on party competition and party polarization in modern democracies.
 
-(The dissertation project is supported by the 2021 Taiwanese Overseas Pioneers Grants for PhD Candidates from *Ministry of Science and Technology Taiwan* and  *National Applied Research Laboratories*, August 2021 - August 2022)
+(The PhD dissertation project is supported by the 2021 Taiwanese Overseas Pioneers Grant from *Ministry of Science and Technology Taiwan*, August 2021 - August 2022)
+
+
+
 
 </div>
 
@@ -67,7 +70,7 @@ In this article, I quantitatively investigate legislators' electoral strategies 
 <div style="text-align: justify">
 
 
-**Chapter 4: Measuring Party Cohesion on Parliamentary Question Keywords** 
+**Chapter 4: Measuring Party Cohesion and Heterogeneity on Parliamentary Question Keywords** 
 
 ([<span style="color:#778899"> co-authored with Calvin Yu-Ceng Liao, Post Doctoral Research Fellow at Taiwan Studies Center, National Chengchi University</span>](https://sites.google.com/view/calvin-yuceng-liao/home))
 
@@ -92,7 +95,7 @@ Understanding the positions of parties and legislators is key to conceptualizing
 
 **Factionalism and the Red Guards under Mao’s China: Ideal Point Estimation Using Text Data** 
 
-(with Yi-Nung Tsai, National Chengchi University; Dechun Zhang, Leiden University) [[`code`](https://github.com/davidycliao/redguards)][[`slides`](https://raw.githack.com/davidycliao/redguards/master/slides/slides.pdf)][[`paper`]()] 
+ (with Yi-Nung Tsai, National Chengchi University; Dechun Zhang, Leiden University) [[`code`](https://github.com/davidycliao/redguards)][[`slides`](https://raw.githack.com/davidycliao/redguards/master/slides/slides.pdf)][[`paper`]()] 
 
 This article estimates the spatial positioning of the political elites and participants in the Cultural Revolution through analyzing expressed political views in propaganda publication in China. Prior theoretical research indicates that the political elites and the Red Guards lost control of the social movement, and it evolved into sheer verbal violence and physical skirmishes across all provinces in the end. We show that in this political chaos, the Red Guards and the elite were dynamically fractioned, as is reflected in self-printed propaganda, such as big-character posters (Dazibao 大字报) and tabloids (Xiaobao 小报). This paper also develops a novel approach that augments TextRank algorithm to extract keywords and Chinese phrases, on top of the Poisson scaling model (Wordfish) to estimate the differences of spatial positions using the extracted textual key terms. Results are shown to be consistent with the literature on the Cultural Revolution.
 
