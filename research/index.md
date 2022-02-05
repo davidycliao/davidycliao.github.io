@@ -79,11 +79,9 @@ Understanding the positions of parties and legislators is key to conceptualizing
 
 **Keywords**：*party cohesion, intra-party heterogeneity, electoral reform, parliamentary questions*
 
-
 </div>
 
 <br/><br/>
-
 
 <div style="text-align: center">
 
@@ -120,7 +118,6 @@ Why do households standing on the lower end of incomes persistently express dism
 </div>
 
 ---
-
 
 <div style="text-align: justify">
 
@@ -166,7 +163,7 @@ We propose a new approach to estimating voters' preferences on party positions, 
 
 **Topic Models for Short Text** 
 
-(with [<span style="color:#778899"> Julia, Ju Yuon Park, Univeristy of Essex</span>](http://www.juyeonpark.com/research.html))
+(with [<span style="color:#778899"> Julia, Ju Yuon Park, Univeristy of Essex</span>](http://www.juyeonpark.com))
 
 </div>
 
@@ -177,7 +174,6 @@ We propose a new approach to estimating voters' preferences on party positions, 
 **Measuring China’s Online Nationalists on Weibo** 
 
 (with [<span style="color:#778899"> Dechun Zhang, Leiden University</span>](https://www.universiteitleiden.nl/en/staffmembers/dechun-zhang#tab-1))
-
 
 </div>
 
@@ -191,8 +187,6 @@ We propose a new approach to estimating voters' preferences on party positions, 
 
 
 </div>
-
-
 
 
 
