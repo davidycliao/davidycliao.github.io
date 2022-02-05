@@ -112,7 +112,6 @@ This article estimates the spatial positioning of the political elites and parti
 
 Why do households standing on the lower end of incomes persistently express dismay towards politicians? This paper offers an explanation using the case of the British parties in the UK and data from the British Election Survey and the Chapel Hill Expert Survey. We document how economic inequality contributes to respondents' misperceptions about parties, subsequently deteriorating their trust in the UK Parliament. From our analysis, income insufficiency causes the widening disagreement about British parties with CHES experts: the poor demonstrates larger perceptional biasedness in judging political positions than the rich. Party's deviation from households' perceived position challenges their beliefs and confidence. This perceptional gap further transmits to deteriorate their trust towards the political system, contributing to a larger extent of dismay from the lower income families.
 
-
 **Keywords**：*income inequality, Chapel Hill Expert Survey, party misperception, political trust*
 
 </div>
@@ -129,11 +128,9 @@ We propose a new approach to estimating voters' preferences on party positions, 
 
 **Keywords**：*party perceptions, expert surveys, political trust, inverse U-shape trust function, asymmetric inverse V-shape trust function*
 
-
 </div>
 
 ---
-
 
 <div style="text-align: justify">
 
@@ -150,11 +147,7 @@ We propose a new approach to estimating voters' preferences on party positions, 
 
 **Keywords**：*意識形態分析*、*文本資料研究*、*主題模型*、*習近平思想*
 
-
 </div>
-
-
-
 
 ---
 
@@ -185,10 +178,7 @@ We propose a new approach to estimating voters' preferences on party positions, 
 
 (with [<span style="color:#778899"> Pei Kuang, University of Birmingham</span>](https://sites.google.com/site/peikuang2011/research) and [<span style="color:#778899"> Tang Li, Middlesex University London and Univeristy of Essex</span>](https://sites.google.com/view/litang2020))
 
-
 </div>
-
-
 
 <br/><br/>
 
