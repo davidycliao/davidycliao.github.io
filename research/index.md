@@ -110,7 +110,7 @@ This article estimates the spatial positioning of the political elites and parti
 
 **Income Insufficiency, Party Misperception and Political Distrust** 
 
-(with Royce Carroll, University of Essex; Li Tang, Middlesex University London and Univeristy of Essex; and Tzu-Ping Liu, University of Taipei)
+(with Li Tang, Middlesex University London and Univeristy of Essex; and Tzu-Ping Liu, University of Taipei)
 
 Why do households standing on the lower end of incomes persistently express dismay towards politicians? This paper offers an explanation using the case of the British parties in the UK and data from the British Election Survey and the Chapel Hill Expert Survey. We document how economic inequality contributes to respondents' misperceptions about parties, subsequently deteriorating their trust in the UK Parliament. From our analysis, income insufficiency causes the widening disagreement about British parties with CHES experts: the poor demonstrates larger perceptional biasedness in judging political positions than the rich. Party's deviation from households' perceived position challenges their beliefs and confidence. This perceptional gap further transmits to deteriorate their trust towards the political system, contributing to a larger extent of dismay from the lower income families.
 
