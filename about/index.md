@@ -16,7 +16,8 @@ Specifically, I am interested in how electoral motives shape legislators' pork-b
 
 <br/>
 
-Apart from my dissertation, I am interested in applying various natural language processing techniques to analyze European parliamentary speeches, social media text (Twitter and Weibo) and the Cultural Revolution publications (big-character posters), as well as using deep learning methods to measure internal conflict and inter-party divisions from facial and vocal expressions of the legislators in the US context.
+Apart from my dissertation, I am interested in applying various natural language processing techniques to analyze European parliamentary speeches,
+ social media text (Twitter and Weibo) and the Cultural Revolution publications (big-character posters), as well as using deep learning methods to measure internal conflict and inter-party divisions from facial and vocal expressions of the legislators in the US context.
 
 <br/>
 
