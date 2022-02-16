@@ -19,7 +19,7 @@ The parliamentary questions  (專案質詢) from the Website of Legislative Yuan
 including categories of information with regards to the topic, keywords and the type.  The dataset available upon request. 
 
 
-<img src="images/dataimage.png">
+<img src="https://raw.githack.com/davidycliao/davidycliao.github.io/main/images/dataimage.png">
 
 </div>
 
@@ -58,7 +58,7 @@ Extracted Central Bankers' Speeches on the Website of **Bank for International S
 The dataset available upon request. 
 
 
-<img src="images/dataimage2.png">
+<img src="https://raw.githack.com/davidycliao/davidycliao.github.io/main/images/dataimage2.png">
 
 </div>
 
