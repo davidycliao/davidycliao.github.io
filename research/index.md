@@ -6,7 +6,7 @@
 
 <div style="text-align: center">
 
-## PhD Dissertation Project: 
+## PhD Dissertation: 
 
 </div> 
 
@@ -41,7 +41,7 @@ from single non-transferable vote (SNTV) to single-member districts (SMDs) by st
 
 <div style="text-align: justify">
 
-**Chapter 2: When Speaking of *Pork*: Exploring Parliamentary Questions Using NLP Transformers**   [[`poster`](https://github.com/davidycliao/elp)] [[`code`](https://github.com/davidycliao/PorkCNN)][[`slides`](https://raw.githack.com/davidycliao/elp/main/slides/slides.html#1)]
+**Chapter 2: When Speaking of *Pork*: Exploring Parliamentary Questions Using NLP Transformers** [[`code`](https://github.com/davidycliao/PorkCNN)][[`slides`](https://raw.githack.com/davidycliao/elp/main/slides/slides.html#1)]
 
 (***Original Titles: Electoral Incentives and Porks:Exploring Parliamentary Questions Using Convolutional Neural Networks***)
 
