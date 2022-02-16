@@ -71,7 +71,7 @@ img {
 
 <div style="text-align: justify">
 
-**PORKCNN: Pork Barrel Classification Task for Taiwan Pork Barrel Context**   
+**PorkCNN: Pork Barrel Classification Task for Taiwan Pork Barrel Context**   
 
 The collection of legislation manually labelled with binary-instance is gold standard dataset provided 
 by [<span style="color:#778899"> **Prof. Dr Luor Ching-Jyuhn**</span>](https://pa.ntpu.edu.tw/teacher_detail/74).
