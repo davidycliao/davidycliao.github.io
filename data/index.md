@@ -19,7 +19,7 @@ The parliamentary questions  (專案質詢) from the Website of Legislative Yuan
 including categories of information with regards to the topic, keywords and the type.  The dataset available upon request. 
 
 
-<img src="https://raw.githack.com/davidycliao/figures/master/dataimage.png">
+<img src="images/dataimage.png">
 
 </div>
 
@@ -29,7 +29,7 @@ including categories of information with regards to the topic, keywords and the 
 
 <div style="text-align: justify">
 
-**Pre-trained Model: Pork Barrel Legislation Classification Using DCNN in Taiwan Legislative Context**   
+**DCNN Pork Barrel Legislation Classification Model for Taiwan Legislative Context**   
 
 The collection of legislation manually labelled with binary-instance is gold standard dataset provided 
 by [<span style="color:#778899"> **Prof. Dr Luor Ching-Jyuhn**</span>](https://pa.ntpu.edu.tw/teacher_detail/74).
@@ -58,7 +58,7 @@ Extracted Central Bankers' Speeches on the Website of **Bank for International S
 The dataset available upon request. 
 
 
-<img src="https://github.com/davidycliao/davidycliao.github.io/blob/main/images/dataimage2.png">
+<img src="images/dataimage2.png">
 
 </div>
 
