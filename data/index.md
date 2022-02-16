@@ -50,7 +50,7 @@ by [<span style="color:#778899"> **Prof. Dr Luor Ching-Jyuhn**</span>](https://p
 
 </div>
 
-**Ｗritten Parliamentary Questions of Taiwan Legislative Yuan**
+**Central Bankers' Speeches**
 
 <div style="text-align: justify">
 
@@ -58,7 +58,7 @@ Extracted Central Bankers' Speeches on the Website of **Bank for International S
 The dataset available upon request. 
 
 
-<img src="https://raw.githack.com/davidycliao/figures/master/dataimage2.png">
+<img src="https://github.com/davidycliao/davidycliao.github.io/blob/main/images/dataimage2.png">
 
 </div>
 
