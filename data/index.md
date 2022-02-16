@@ -58,7 +58,7 @@ Extracted Central Bankers' Speeches on the Website of **Bank for International S
 The dataset available upon request. 
 
 
-<img src="https://raw.githack.com/davidycliao/figures/master/dataimage2.png.png">
+<img src="https://raw.githack.com/davidycliao/figures/master/dataimage2.png">
 
 </div>
 
