@@ -54,7 +54,7 @@ by [<span style="color:#778899"> **Prof. Dr Luor Ching-Jyuhn**</span>](https://p
 
 <div style="text-align: justify">
 
-Extracted Central Bankers' Speeches on the Website of **Bank for International Settlements (https://www.bis.org)**. 
+Extracted Central Bankers' Speeches on the Website of **Bank for International Settlements (https://www.bis.org)** from 1997 to 2020. 
 The dataset available upon request. 
 
 
