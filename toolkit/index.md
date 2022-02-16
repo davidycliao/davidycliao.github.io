@@ -15,7 +15,6 @@
 
 The `asmcjr` package supports the book “___2nd Analyzing Spatial Models of Choice and Judgment___”, and streamlined functions for scaling and visualising estimates with ggplot2. 
 
-
 </div>
 
 ----
