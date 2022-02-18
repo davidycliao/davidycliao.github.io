@@ -30,6 +30,8 @@ Estimating the politician positions of parties and politicians is key to underst
 
 **Chapter 1: Electoral Reform and Disunited Polarization: Evidence from Legislative Roll Calls** [[`slides`](https://raw.githack.com/davidycliao/erdp/master/slides/slides.html#1)][[`paper`](https://raw.githack.com/davidycliao/erdp/master/paper/Electoral_Reform_and_Disunited_Polarization.pdf)]
 
+（Presentation at APSA 2020)
+
 This article investigates the strategic (inter- and intra-) party positioning in response to an electoral system transition 
 from single non-transferable vote (SNTV) to single-member districts (SMDs) by studying the electoral reform in Taiwan and provides empirical evidence to the following questions. Does the switch of electoral system from SNTV to SMDs mitigate political polarization among parties? Does it influence the intra-party unitedness (cohesiveness), and thus, change legislators’ ideological positioning? To this end, we estimate individual legislator’s ideological positions from sessional roll call votes continuously covering ex-ante and ex-post periods of the reform, from 1992 to 2015. The preliminary finding suggests that in the electoral transition from SNTV to SMDs, ideological positions between two major parties are drastically polarized. In the meanwhile, this electoral transition significantly dis-unifies co-partisan legislators on the ideological spectrum. In addition, co-partisan legislators became ideologically distant (disunited) while opponents polarized themselves. These findings help clarify possible outcomes of the electoral reform from SNTV to SMDs, shedding light on party polarization and party competition in modern democracies.
 
@@ -42,6 +44,9 @@ from single non-transferable vote (SNTV) to single-member districts (SMDs) by st
 <div style="text-align: justify">
 
 **Chapter 2: When Speaking of *Pork*: Exploring Parliamentary Questions Using NLP Transformers** [[`code`](https://github.com/davidycliao/PorkCNN)][[`slides`](https://raw.githack.com/davidycliao/elp/main/slides/slides.html#1)]
+
+（Presentation at COMPTEXT 2022)
+
 
 (***Original Titles: Electoral Incentives and Porks:Exploring Parliamentary Questions Using Convolutional Neural Networks***)
 
@@ -70,6 +75,9 @@ Understanding the positions of parties and legislators is key to conceptualizing
 
 **Chapter 4: Mayors and Pork Barrel: Legislative Experience Bias in Intergovernmental Transfers to Taiwan Municipalities** [[`slides`](https://raw.githack.com/davidycliao/pcpb/main/slides/slides.pdf)][[`paper`](https://raw.githack.com/davidycliao/pcpb/main/paper/Mayors_and_Pork_Barrel.pdf)]
 
+（Presentation at EPSA 2019)
+
+
 This paper examines the contribution of mayor’s political career within governments in obtaining more distributive benefits to her own municipality. Mayors with more sophisticated experience have stronger electoral ties to the central government, which is useful for them to enhance their chances of staying in office. Using panel dataset of Revenue Support Grant, we find that municipalities whose mayors with longer career spent in the legislature are more likely to be allocated higher fiscal expenditures. The effect is even stronger if the mayors have worked in legislative standing committees. On the contrary, mayors’ prior political career in ministries does not significantly help their municipalities obtain the grant. The findings suggest that compared to experience as a central government official, a legislative career has a leading impact on grant transfer to municipalities.
 
 **Keywords**：*distributive politics, pork barrel, intergovernmental grants*
@@ -89,7 +97,7 @@ This paper examines the contribution of mayor’s political career within govern
 
 **Factionalism and the Red Guards under Mao’s China: Ideal Point Estimation Using Text Data** 
 
- (with Yi-Nung Tsai, National Chengchi University; Dechun Zhang, Leiden University) [[`code`](https://github.com/davidycliao/redguards)][[`slides`](https://raw.githack.com/davidycliao/redguards/master/slides/slides.pdf)][[`paper`]()] 
+ (with Yi-Nung Tsai, National Chengchi University; Daniel Tene, Univeristy of Essex;  Dechun Zhang, Leiden University | Presentation at Asian PolMeth VIII 2020) [[`code`](https://github.com/davidycliao/redguards)][[`slides`](https://raw.githack.com/davidycliao/redguards/master/slides/slides.pdf)][[`paper`]()] 
 
 This article estimates the spatial positioning of the political elites and participants in the Cultural Revolution through analyzing expressed political views in propaganda publication in China. Prior theoretical research indicates that the political elites and the Red Guards lost control of the social movement, and it evolved into sheer verbal violence and physical skirmishes across all provinces in the end. We show that in this political chaos, the Red Guards and the elite were dynamically fractioned, as is reflected in self-printed propaganda, such as big-character posters (Dazibao 大字报) and tabloids (Xiaobao 小报). This paper also develops a novel approach that augments TextRank algorithm to extract keywords and Chinese phrases, on top of the Poisson scaling model (Wordfish) to estimate the differences of spatial positions using the extracted textual key terms. Results are shown to be consistent with the literature on the Cultural Revolution.
 
@@ -103,7 +111,7 @@ This article estimates the spatial positioning of the political elites and parti
 
 **Income Insufficiency, Party Misperception and Political Distrust** 
 
-(with Li Tang, Middlesex University London and Univeristy of Essex; and Tzu-Ping Liu, University of Taipei)
+(with Li Tang, Middlesex University London and Univeristy of Essex; and Tzu-Ping Liu, University of Taipei | Presentation at MPSA 2022)
 
 Why do households standing on the lower end of incomes persistently express dismay towards politicians? This paper offers an explanation using the case of the British parties in the UK and data from the British Election Survey and the Chapel Hill Expert Survey. We document how economic inequality contributes to respondents' misperceptions about parties, subsequently deteriorating their trust in the UK Parliament. From our analysis, income insufficiency causes the widening disagreement about British parties with CHES experts: the poor demonstrates larger perceptional biasedness in judging political positions than the rich. Party's deviation from households' perceived position challenges their beliefs and confidence. This perceptional gap further transmits to deteriorate their trust towards the political system, contributing to a larger extent of dismay from the lower income families.
 
