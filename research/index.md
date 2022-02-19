@@ -139,7 +139,7 @@ We propose a new approach to estimating voters' preferences on party positions, 
 
 **Measuring China’s Online Nationalists on Weibo** (with [<span style="color:#778899"> Dechun Zhang, Leiden University</span>](https://www.universiteitleiden.nl/en/staffmembers/dechun-zhang#tab-1))
 
-Measuring Chinese nationalism on social media platforms is essential to understand the operation of propaganda strategies used by
+Measuring Chinese nationalism on social media is essential to understand the operation of propaganda strategies used by
 the government to advance advertisements in its legitimacy and governance in China. 
 This research note follows the literature on Chinese nationalism and documents five nationalistic 
 concepts commonly found in Sina Weibo (China's most popular social media platform). 
