@@ -96,6 +96,27 @@ This article estimates the spatial positioning of the political elites and parti
 
 <div style="text-align: justify">
 
+**Measuring China’s Online Nationalists on Weibo** (with [<span style="color:#778899"> Dechun Zhang, Leiden University</span>](https://www.universiteitleiden.nl/en/staffmembers/dechun-zhang#tab-1))
+
+Measuring Chinese nationalism on social media is essential to understand the operation of propaganda strategies used by
+the government to advance advertisements in its legitimacy and governance in China. 
+This research note follows the literature on Chinese nationalism and operationalizes five nationalistic 
+concepts commonly found in Sina Weibo (China's most popular social media platform). 
+We introduce a deep learning classifier that identify nationalistic attributes and its probability of being categorized as an attitude of belligerent nationalism on Weibo. 
+We train our model using comments and posts from China's state-controlled media, *People's Daily*, on more than one million spanning 
+different political incidents through 2018 to 2022. The training source consists of 13,200 Weibo comments, 4,871 nationalistic comments and 8,329 non-nationalistic comments, respectively. 
+With CNN trained on top of the BERT layer, the model performance achieves 91\% in F1-Score and 92\% in the weighted average, respectively. 
+Recommendations are also included on applying our classifier to related textual sources for future research on Chinese politics.
+
+**Keywords**：*Chinese  nationalists*、*nationalism*、*CNN*、*BERT* 、*Weibo* 
+
+</div>
+
+---
+
+
+<div style="text-align: justify">
+
 **Income Insufficiency, Party Misperception and Political Distrust** (with Li Tang, Middlesex University London and Univeristy of Essex; and Tzu-Ping Liu, University of Taipei | Presentation at MPSA 2022)
 
 Why do households standing on the lower end of incomes persistently express dismay towards politicians? This paper offers an explanation using the case of the British parties in the UK and data from the British Election Survey and the Chapel Hill Expert Survey. We document how economic inequality contributes to respondents' misperceptions about parties, subsequently deteriorating their trust in the UK Parliament. From our analysis, income insufficiency causes the widening disagreement about British parties with CHES experts: the poor demonstrates larger perceptional biasedness in judging political positions than the rich. Party's deviation from households' perceived position challenges their beliefs and confidence. This perceptional gap further transmits to deteriorate their trust towards the political system, contributing to a larger extent of dismay from the lower income families.
@@ -130,27 +151,6 @@ We propose a new approach to estimating voters' preferences on party positions, 
 整體而言，我們的研究呈示了官僚團體，透過意識形態「包裝」其利益表達的陳述政治（discourse politics）。
 
 **Keywords**：*意識形態分析*、*文本資料研究*、*主題模型*、*習近平思想*
-
-</div>
-
----
-
-<div style="text-align: justify">
-
-**Measuring China’s Online Nationalists on Weibo** (with [<span style="color:#778899"> Dechun Zhang, Leiden University</span>](https://www.universiteitleiden.nl/en/staffmembers/dechun-zhang#tab-1))
-
-Measuring Chinese nationalism on social media is essential to understand the operation of propaganda strategies used by
-the government to advance advertisements in its legitimacy and governance in China. 
-This research note follows the literature on Chinese nationalism and operationalizes five nationalistic 
-concepts commonly found in Sina Weibo (China's most popular social media platform). 
-We introduce a deep learning classifier that identify nationalistic attributes and its probability of being categorized as an attitude of belligerent nationalism on Weibo. 
-We train our model using comments and posts from China's state-controlled media, *People's Daily*, on more than one million spanning 
-different political incidents through 2018 to 2022. The training source consists of 13,200 Weibo comments, 4,871 nationalistic comments and 8,329 non-nationalistic comments, respectively. 
-With CNN trained on top of the BERT layer, the model performance achieves 91\% in F1-Score and 92\% in the weighted average, respectively. 
-Recommendations are also included on applying our classifier to related textual sources for future research on Chinese politics.
-
-**Keywords**：*Chinese  nationalists*、*nationalism*、*CNN*、*BERT* 、*Weibo* 
-
 
 </div>
 
