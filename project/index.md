@@ -11,6 +11,30 @@
 
 
 
+
+<div style="text-align: justify">
+
+
+**Exporing Parliamentary Speeches in Major European Democracies**   
+
+Exporing Parspeech Dataset using various types of sentiment dictionaries and topic models. _The repo can be found from [here](https://github.com/davidycliao/2019-SUMMER-RA)_. 
+
+<p align="center">
+  <img width="500" height= "200"  src="https://raw.githack.com/davidycliao/figures/master/hoc_NRC.gif" >
+  <img width="350" height= "200" src="https://raw.githack.com/davidycliao/figures/master/uk_top_animate.gif">
+  <img width="500" height= "200"  src="https://raw.githack.com/davidycliao/2019-SUMMER-RA/master/images/dtf_uk_textrank_plot.png">
+  <img width="500" height= "200"  src="https://raw.githack.com/davidycliao/figures/master/first_example_plot.png" >
+
+</p>
+
+
+
+
+
+</div>
+
+---
+
 <div style="text-align: justify">
 
 ***PorkCNN*: Pork Barrel Classification Task for Taiwan Pork Barrel Context**   
@@ -41,6 +65,8 @@ img {
 </p>
 
 </div>
+
+
 
 
 
