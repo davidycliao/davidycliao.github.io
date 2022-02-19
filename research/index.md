@@ -41,7 +41,7 @@ from single non-transferable vote (SNTV) to single-member districts (SMDs) by st
 
 <div style="text-align: justify">
 
-**Chapter 2: When Speaking of *Pork*: Exploring Parliamentary Questions Using NLP Transformers** [[`code`](https://github.com/davidycliao/PorkCNN)][[`slides`](https://raw.githack.com/davidycliao/elp/main/slides/slides.html#1)] (*Original Titles: Electoral Incentives and Porks : Exploring Parliamentary Questions Using Convolutional Neural Networks* | Presentation at COMPTEXT 2022)
+**Chapter 2: When Speaking of *Pork*: Exploring Parliamentary Questions Using NLP Transformers** [[`code`](https://github.com/davidycliao/PorkCNN)][[`slides`](https://raw.githack.com/davidycliao/elp/main/slides/slides.html#1)] (*Original Title: Electoral Incentives and Porks : Exploring Parliamentary Questions Using Convolutional Neural Networks* | Presentation at COMPTEXT 2022)
 
 In this article, I quantitatively investigate legislators' electoral strategies and communication style by applying an encoder-decoder-based models to measure pork-barrel features on the parliamentary questions proposed by the legislators from 1993 to 2020. To incorporate this application into our analysis, I have trained a deep learning classifier with BERT (Bidirectional Encoder Representative from Transformers) on the human-labelled pork-barrel legislation, including the bills and the amendments from Taiwan’s legislature (the Legislative Yuan). The collection of legislation are annotated with binary-instance classification by reading the text, devoted either to promoting the pork-barrel project (earmarked projects) or cultivating favoured minorities by providing subsidies. With attention mechanisms in transformers architecture, BERT model not only learns the condensed features of bag-of-words but also has better tokenization algorithms for handling unseen words. With the pork-barrel  features identified by the trained model, I find that legislators under SNTV (single non-transferable voting ) are likely to express political intension with regards to pork barrel projects in written parliamentary questions and seek personal votes by promising particularistic benefits to their targeted supporters. Consistent with the literature, switching from SNTV to Single-Member Districts decrease legislators' incentives to bring home the bacon but increases their attention to universalism (national) policies.
 
@@ -145,8 +145,8 @@ This research note follows the literature on Chinese nationalism and documents f
 concepts commonly found in Sina Weibo (China's most popular social media platform). 
 We introduce a deep learning classifier that estimates contents' probability of being categorized as nationalistic on Weibo. 
 We train our model using comments and posts from China's state-controlled media, *People's Daily*, on more than one million spanning 
-different political incidents across time through 2018 to 2022. The training source consists of 13,200 Weibo comments, 4,871 nationalistic comments and 8,329 non-nationalistic comments, respectively. 
-With CNN trained on top of the BERT layer, the model's performance achieves 89\% in F1-Score and 89\% in the weighted average, respectively. 
+different political incidents through 2018 to 2022. The training source consists of 13,200 Weibo comments, 4,871 nationalistic comments and 8,329 non-nationalistic comments, respectively. 
+With CNN trained on top of the BERT layer, the model performance achieves 89\% in F1-Score and 89\% in the weighted average, respectively. 
 Recommendations are also included on applying our classifier to related textual sources for future research on Chinese politics.
 
 **Keywords**：*Chinese  nationalists*、*nationalism*、*CNN*、*BERT* 、*Weibo* 
