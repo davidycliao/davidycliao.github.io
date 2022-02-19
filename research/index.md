@@ -154,17 +154,6 @@ We propose a new approach to estimating voters' preferences on party positions, 
 
 ---
 
-
-<div style="text-align: justify">
-
-**Topic Models for Short Text** 
-
-(with [<span style="color:#778899"> Julia, Ju Yuon Park, Univeristy of Essex</span>](http://www.juyeonpark.com))
-
-</div>
-
----
-
 <div style="text-align: justify">
 
 **Measuring China’s Online Nationalists on Weibo** 
@@ -175,9 +164,28 @@ Measuring Chinese nationalism on social media platforms is essential to understa
 the governments to advance advertisements in its legitimacy and governance in China. 
 This research note follows the literature on Chinese nationalism and documents five nationalistic 
 concepts commonly found in Sina Weibo (China's most popular social media platform). 
-We introduce a  deep learning classifier that estimates the probability of being driven nationalistic on Weibo comments. We train our model using Weibo comments from China's state-controlled media, People's Daily, on more than one million spanning different political incidents across time through 2018 to 2022. The training source consists of 1,3200 Weibo comments, 4871 nationalistic comments and 8329 non-nationalistic comments, respectively. With CNN trained on top of the BERT layer,  our model performance achieves 89\% in F1-Score and 89\% in the weighted average, respectively. Recommendations are also included on applying our pre-trained classifier to related textual sources for future research on Chinese politics.
+We introduce a  deep learning classifier that estimates the probability of being driven nationalistic on Weibo comments. 
+We train our model using Weibo comments from China's state-controlled media, People's Daily, on more than one million spanning 
+different political incidents across time through 2018 to 2022. The training source consists of 1,3200 Weibo comments, 4871 nationalistic comments and 8329 non-nationalistic comments, respectively. 
+With CNN trained on top of the BERT layer, the model's performance achieves 89\% in F1-Score and 89\% in the weighted average, respectively. 
+Recommendations are also included on applying our classifier to related textual sources for future research on Chinese politics.
+
+**Keywords**：*Chinese  nationalists*、*nationalism*、*CNN*、*BERT* 、*Weibo* 
+
 
 </div>
+
+---
+
+
+<div style="text-align: justify">
+
+**Topic Models for Short Text** 
+
+(with [<span style="color:#778899"> Julia, Ju Yuon Park, Univeristy of Essex</span>](http://www.juyeonpark.com))
+
+</div>
+
 
 ---
 
@@ -186,6 +194,7 @@ We introduce a  deep learning classifier that estimates the probability of being
 **Estimating Fiscal Policy Objectives in the UK with Text Analysis** 
 
 (with [<span style="color:#778899"> Pei Kuang, University of Birmingham</span>](https://sites.google.com/site/peikuang2011/research) and [<span style="color:#778899"> Tang Li, Middlesex University London and Univeristy of Essex</span>](https://sites.google.com/view/litang2020))
+
 
 </div>
 
