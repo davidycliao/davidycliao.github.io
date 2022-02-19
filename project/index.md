@@ -20,10 +20,18 @@
 Exporing Parspeech Dataset using various types of sentiment dictionaries and topic models. _The repo can be found from [here](https://github.com/davidycliao/2019-SUMMER-RA)_. 
 
 <p align="center">
-  <img width="500" height= "200"  src="https://raw.githack.com/davidycliao/figures/master/hoc_NRC.gif" >
-  <img width="350" height= "200" src="https://raw.githack.com/davidycliao/figures/master/uk_top_animate.gif">
-  <img width="500" height= "200"  src="https://raw.githack.com/davidycliao/2019-SUMMER-RA/master/images/dtf_uk_textrank_plot.png">
-  <img width="500" height= "200"  src="https://raw.githack.com/davidycliao/figures/master/first_example_plot.png" >
+<style>
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
+</style>
+  <img width="500" height= "210"  src="https://raw.githack.com/davidycliao/figures/master/hoc_NRC.gif" >
+  <img width="350" height= "210" src="https://raw.githack.com/davidycliao/figures/master/uk_top_animate.gif">
+  <img width="500" height= "210"  src="https://raw.githack.com/davidycliao/2019-SUMMER-RA/master/images/dtf_uk_textrank_plot.png">
+  <img width="500" height= "210"  src="https://raw.githack.com/davidycliao/figures/master/first_example_plot.png" >
 
 </p>
 
