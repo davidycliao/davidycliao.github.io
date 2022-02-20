@@ -104,7 +104,7 @@ how student participants were dynamically divided into multiple factions that  f
 
 <div style="text-align: justify">
 
-**State-led Nationalism：Measuring China’s Online Nationalists on Weibo** (with [<span style="color:#778899"> Dechun Zhang, Leiden University</span>](https://www.universiteitleiden.nl/en/staffmembers/dechun-zhang#tab-1))
+**State-led Nationalism: Measuring China’s Online Nationalists on Weibo** (with [<span style="color:#778899"> Dechun Zhang, Leiden University</span>](https://www.universiteitleiden.nl/en/staffmembers/dechun-zhang#tab-1))
 
 Measuring Chinese nationalism on social media is essential to understand the operation of propaganda strategies used by
 the government to advance advertisements in its legitimacy and governance in China. 
