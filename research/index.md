@@ -89,7 +89,7 @@ This paper examines the contribution of mayor’s political career within govern
 
 <div style="text-align: center">
 
-## Working Papers and Works in Progress : 
+## Works in Progress : 
 
 </div>
 
