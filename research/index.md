@@ -28,16 +28,15 @@ Estimating the politician positions of parties and politicians is key to underst
 and electoral competition. This thesis quantitatively investigates how 2008 Taiwan electoral reform through 
 single non-transferable voting (SNTV) to single-member districts system (SMDs) impacts the behavior of legislators
  and their electoral strategies, by analyzing roll calls and parliamentary questions. I aim to deliver several pieces 
- of empirical evidence to revisit the following research questions: *(1) Does the switch of the electoral system to 
- SMDs mitigate political polarization among parties?* *(2) Does the reform influence the intra-party competition, and thus,
-change legislators’ policy positions?* *(3) Does the reform reduce regional particularism expressed in declared 
-opinions, like in textual archives, but increase the promises of universalism policies?* (4) How does the reform impact local politics at 
-municipal level? *Does mayor with more prior years of experience as an elected legislator have a wider privileged access to increase their chances of securing
-the money to their municipality and if so, how?*
+ of empirical evidence to revisit the following research questions: (1) Does the switch of the electoral system to 
+ SMDs mitigate political polarization among parties? (2) Does the reform influence the intra-party competition, and thus,
+change legislators’ policy positions? (3) Does the reform reduce regional particularism expressed in declared 
+opinions in parliamentary questions, but increase the promises of universalism policies? (4) How does the reform impact local politics at 
+municipal level? Does mayor with more prior years of experience as an elected legislator have a wider privileged access to increase their chances of securing
+the money to their municipality and if so, how?
 The dissertation project is to apply ideal point estimation and natural language processing techniques that are currently deployed by the 
 forefront study of legislatures and strengthen the understanding of Taiwan party politics and party competition inside 
-the Legislative Yuan. 
-These potential findings can further help policymakers clarify possible outcomes of the electoral reform, shedding light on party competition and party polarization in modern democracies.
+the Legislative Yuan. These potential findings can further help policymakers clarify possible outcomes of the electoral reform, shedding light on party competition and party polarization in modern democracies.
 
 (The PhD dissertation project is supported by the 2021 Taiwanese Overseas Pioneers Grant from *Ministry of Science and Technology Taiwan*, August 2021 - August 2022)
 
