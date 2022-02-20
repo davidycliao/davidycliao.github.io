@@ -110,7 +110,7 @@ Measuring Chinese nationalism on social media is essential to understand the ope
 the government to advance advertisements in its legitimacy and governance in China. 
 This research note follows the literature on Chinese nationalism and operationalizes five nationalistic 
 concepts commonly found in Sina Weibo (China's most popular social media platform). 
-We introduce a deep learning classifier that identify nationalistic attributes and its probability of being categorized as an attitude of belligerent nationalism on Weibo. 
+We introduce a machine classifier that identify nationalistic attributes and its probability of being categorized as an attitude of belligerent nationalism on Weibo. 
 We train our model using comments and posts from China's state-controlled media, *People's Daily*, on more than one million spanning 
 different political incidents through 2018 to 2022. The training source consists of 13,200 Weibo comments, 4,871 nationalistic comments and 8,329 non-nationalistic comments, respectively. 
 With CNN trained on top of the BERT layer, the model performance achieves 91\% in F1-Score and 92\% in the weighted average, respectively. 
