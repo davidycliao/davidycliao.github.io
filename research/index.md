@@ -108,7 +108,7 @@ This paper examines the contribution of mayor’s political career within govern
 
 <div style="text-align: justify">
 
-**Factionalism and the Red Guards under Mao’s China: Ideal Point Estimation Using Text Data**(with Yi-Nung Tsai, National Chengchi University; Daniel Tene, Univeristy of Essex;  Dechun Zhang, Leiden University | Presentation at Asian PolMeth VIII 2020)
+**Factionalism and the Red Guards under Mao’s China: Ideal Point Estimation Using Text Data** (with Yi-Nung Tsai, National Chengchi University; Daniel Tene, Univeristy of Essex;  Dechun Zhang, Leiden University | Presentation at Asian PolMeth VIII 2020)
 
 This article estimates student participants' ideal points  during the Cultural Revolution through analyzing expressed political views in propaganda publication. In this paper, we design a new strain of text scaling method as we called Slogan-based Wordfish (Sworfish) that takes advantage of the facilitation of the TextRank algorithm to extract the most representative major noun phrases, and estimates Bayesian Generalized Wordfish with those extracted text variables. Our findings point to evidence of re(de)alignments within the factions and demonstrate how the students from different areas follow Mao Zedong and Xiaohongshu (Little Red Book) then fall into a fratricidal conflict that divided families, the classes and the society.
 how student participants were dynamically divided into multiple factions that  fought for controls the movement across times. The results estimated by our estimation approach are shown to be consistent with the important works of factionalism emerging in the Cultural Revolution.
