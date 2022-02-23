@@ -114,7 +114,7 @@ This article estimates student participants' ideal points  during the Cultural R
 how student participants were dynamically divided into multiple factions that  fought for controls the movement across times. The results estimated by our estimation approach are shown to be consistent with the important works of factionalism emerging in the Cultural Revolution.
 
 **Keywords**：*Text as Data, Cultural Revolution, Mass movements, the Red Guards* <br> 
-**Documents**: [`code`](https://github.com/davidycliao/redguards) | [`slides`](https://raw.githack.com/davidycliao/redguards/master/slides/slides.pdf) | [`paper`]() 
+**Documents**: [`code`](https://davidycliao.github.io/redguards/) | [`slides`](https://raw.githack.com/davidycliao/redguards/master/slides/slides.pdf) | [`paper`]() 
 </div>
 
 ---
