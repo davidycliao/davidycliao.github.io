@@ -52,7 +52,13 @@ the Legislative Yuan. These potential findings can further help policymakers cla
 
 This article investigates the strategic (inter- and intra-) party positioning in response to an electoral system transition 
 from single non-transferable vote (SNTV) to single-member districts (SMDs) by studying the electoral reform in Taiwan and 
-provides empirical evidence to the following questions. Does the switch of electoral system from SNTV to SMDs mitigate political polarization among parties? Does it influence the intra-party unitedness (cohesiveness), and thus, change legislators’ ideological positioning? To this end, we estimate individual legislator’s ideological positions from sessional roll call votes continuously covering ex-ante and ex-post periods of the reform, from 1992 to 2015. The preliminary finding suggests that in the electoral transition from SNTV to SMDs, ideological positions between two major parties are drastically polarized. In the meanwhile, this electoral transition significantly dis-unifies co-partisan legislators on the ideological spectrum. In addition, co-partisan legislators became ideologically distant (disunited) while opponents polarized themselves. These findings help clarify possible outcomes of the electoral reform from SNTV to SMDs, shedding light on party polarization and party competition in modern democracies.
+provides empirical evidence to the following questions. Does the switch of electoral system from SNTV to SMDs mitigate political polarization 
+among parties? Does it influence the intra-party unitedness (cohesiveness), and thus, change legislators’ ideological positioning? 
+To this end, I estimate individual legislator’s ideological positions from sessional roll call votes continuously covering ex-ante and ex-post
+periods of the reform, from 1992 to 2015. The preliminary finding suggests that in the electoral transition from SNTV to SMDs,
+ideological positions between two major parties are drastically polarized. 
+In the meanwhile, this electoral transition significantly dis-unifies co-partisan legislators on the ideological spectrum. 
+In addition, co-partisan legislators became ideologically distant (disunited) while opponents polarized themselves. These findings help clarify possible outcomes of the electoral reform from SNTV to SMDs, shedding light on party polarization and party competition in modern democracies.
 
 **Keywords**：*electoral reform, single-member districts (SMDs), roll call, political polarization*  <br> 
 **Documents**: [`slides`](https://raw.githack.com/davidycliao/erdp/master/slides/slides.html#1) | [`paper`](https://raw.githack.com/davidycliao/erdp/master/paper/Electoral_Reform_and_Disunited_Polarization.pdf)
@@ -67,7 +73,13 @@ provides empirical evidence to the following questions. Does the switch of elect
 
 In this article, I quantitatively investigate legislators' electoral strategies and 
 communication style by applying an encoder-decoder-based models to measure pork-barrel 
-features on the parliamentary questions proposed by the legislators from 1993 to 2020. To incorporate this application into our analysis, I have trained a deep learning classifier with BERT (Bidirectional Encoder Representative from Transformers) on the human-labelled pork-barrel legislation, including the bills and the amendments from Taiwan’s legislature (the Legislative Yuan). The collection of legislation are annotated with binary-instance classification by reading the text, devoted either to promoting the pork-barrel project (earmarked projects) or cultivating favoured minorities by providing subsidies. With attention mechanisms in transformers architecture, BERT model not only learns the condensed features of bag-of-words but also has better tokenization algorithms for handling unseen words. With the pork-barrel  features identified by the trained model, I find that legislators under SNTV (single non-transferable voting ) are likely to express political intension with regards to pork barrel projects in written parliamentary questions and seek personal votes by promising particularistic benefits to their targeted supporters. Consistent with the literature, switching from SNTV to Single-Member Districts decrease legislators' incentives to bring home the bacon but increases their attention to universalism (national) policies.
+features on the parliamentary questions proposed by the legislators from 1993 to 2020. 
+To incorporate this application into the analysis, I have trained a deep learning classifier with BERT on the human-labelled
+pork-barrel legislation, including the bills and the amendments from Taiwan’s legislature. 
+With attention mechanisms in transformers architecture, BERT not only learns the condensed features of bag-of-words but also has better tokenization algorithms for handling unseen words. 
+With the pork-barrel features identified by the trained model, I find that legislators under SNTV (single non-transferable voting ) are likely to express electoral intension with regards to 
+pork barrel projects in written parliamentary questions and seek personal votes by promising particularistic benefits to their targeted supporters.
+ Consistent with the literature, switching from SNTV to Single-Member Districts decrease legislators' incentives to bring home the bacon but increases their attention to universalism (national) policies.
 
 **Keywords**：*electoral reform, single-member districts (SMDs), distributive politics, Transformers, BERT*  <br> 
 **Documents**: [`code`](https://github.com/davidycliao/PorkCNN) | [`slides`](https://raw.githack.com/davidycliao/elp/main/slides/slides.html#1)
