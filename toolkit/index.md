@@ -12,9 +12,9 @@
 
 <div style="text-align: justify">
 
-**[asmcjr](https://uniofessex.github.io/asmcjr/authors.html)** (with Dave Armstrong, Royce Carroll, Christopher Hare, Ryan Bakker, Keith Poole, Howard Rosenthal)
+**[<span style="color:#5a5a5a">**asmcjr**</span>](https://uniofessex.github.io/asmcjr.html)** (with Dave Armstrong, Royce Carroll, Christopher Hare, Ryan Bakker, Keith Poole, Howard Rosenthal)
 
-The `asmcjr` package supports the book “___2nd Analyzing Spatial Models of Choice and Judgment___”, and streamlined functions for scaling and visualising estimates with ggplot2. 
+The `asmcjr` package in R supports the book “_2nd Analyzing Spatial Models of Choice and Judgment_”, and streamlined functions for scaling and visualising estimates with ggplot2 in . 
 
 </div>
 
@@ -22,26 +22,32 @@ The `asmcjr` package supports the book “___2nd Analyzing Spatial Models of Cho
 
 <div style="text-align: justify">
 
-**[legisCrawler](https://davidycliao.github.io/legisCrawler/)** 
 
-An automation web crawling framework 🕸️ for retrieving parliamentary questions on **The Website of Legislative Yuan (https://lis.ly.gov.tw/)** based on Selenium in Python and Chrome browser.
+**[<span style="color:#5a5a5a">**legisCrawler**</span>](https://davidycliao.github.io/legisCrawler/)**
+
+
+An automation web crawling 🕸️ framework for retrieving parliamentary questions on  [<span style="color:#778899">***The Website of Taiwan Legislative Yuan (https://www.bis.org)***</span>](https://lis.ly.gov.tw/) in Python.
  
+
 
 ----
 
 <div style="text-align: justify">
 
-**[bisCrawler](https://github.com/davidycliao/bisCrawler)** 
 
-An automation web crawling framework for retrieving for Extracting Central Bankers' Speeches on the Website of **Bank for International Settlements (https://www.bis.org)** based on Selenium and Chrome browser.
+**[<span style="color:#5a5a5a">**bisCrawler**</span>](https://github.com/davidycliao/bisCrawler)**
+
+An automation web crawling 🕸️ framework for retrieving for Extracting Central Bankers' Speeches on the Website of [<span style="color:#778899">***Bank for International Settlements (https://www.bis.org)***</span>](https://www.bis.org) in Python.
 
  
+
 
 ----
 
 <div style="text-align: justify">
 
-**[legisTaiwan](https://davidycliao.github.io/legisCrawler/)** (in progress and coming soon) 
+
+**[<span style="color:#5a5a5a">**legisCrawler**</span>](https://davidycliao.github.io/legisCrawler/)** (*in progress and coming soon*) 
 
 An R package 📦 for searching and retrieving the titles of budgets, the bills, the speeches and legislator demographics from Taiwan Parliamentary Data Catalogs via Parliamentary Library API .
 
