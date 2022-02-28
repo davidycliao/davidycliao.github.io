@@ -102,7 +102,6 @@ Understanding the positions of parties and legislators is key to conceptualizing
 
 **Chapter 4: Mayors and Pork Barrel: Legislative Experience Bias in Intergovernmental Transfers to Taiwan Municipalities**（Presentation at EPSA 2019)
 
-
 This paper examines the contribution of mayor’s political career within governments in obtaining more distributive benefits to her own municipality. Mayors with more sophisticated experience have stronger electoral ties to the central government, which is useful for them to enhance their chances of staying in office. Using panel dataset of Revenue Support Grant, we find that municipalities whose mayors with longer career spent in the legislature are more likely to be allocated higher fiscal expenditures. The effect is even stronger if the mayors have worked in legislative standing committees. On the contrary, mayors’ prior political career in ministries does not significantly help their municipalities obtain the grant. The findings suggest that compared to experience as a central government official, a legislative career has a leading impact on grant transfer to municipalities.
 
 **Keywords**：*distributive politics, pork barrel, intergovernmental grants* <br> 
@@ -159,7 +158,7 @@ Recommendations are also included on applying our machine classifier to related 
 Why do households standing on the lower end of incomes persistently express dismay towards politicians? This paper offers an explanation using the case of the British parties in the UK and data from the British Election Survey and the Chapel Hill Expert Survey. We document how economic inequality contributes to respondents' misperceptions about parties, subsequently deteriorating their trust in the UK Parliament. From our analysis, income insufficiency causes the widening disagreement about British parties with CHES experts: the poor demonstrates larger perceptional biasedness in judging political positions than the rich. Party's deviation from households' perceived position challenges their beliefs and confidence. This perceptional gap further transmits to deteriorate their trust towards the political system, contributing to a larger extent of dismay from the lower income families.
 
 **Keywords**：*income inequality, Chapel Hill Expert Survey, party misperception, political trust* <br> 
-**Documents**: [`slides`]() | [`paper`]() 
+**Documents**: [`slides`](https://raw.githack.com/davidycliao/figures/master/Income_Insufficiency__Party_Misperception_and_Political_Distrust.pdf) | [`paper`]() 
 
 </div>
 
