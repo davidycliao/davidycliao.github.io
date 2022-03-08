@@ -71,16 +71,7 @@ In addition, co-partisan legislators became ideologically distant (disunited) wh
 
 **Chapter 2: When Speaking of *Pork*: Exploring Parliamentary Questions Using NLP Transformers** (*Original Title: Electoral Incentives and Porks : Exploring Parliamentary Questions Using Convolutional Neural Networks* | Presentation at COMPTEXT 2022)
 
-In this article, I quantitatively investigate legislators' electoral strategies and 
-communication style by applying an encoder-decoder-based models to measure pork-barrel 
-features on the parliamentary questions proposed by the legislators from 1993 to 2020. 
-To incorporate this application into the analysis, I have trained a deep learning classifier with BERT on the human-labelled
-pork-barrel legislation, including the bills and the amendments from Taiwan’s legislature. 
-With attention mechanisms in transformers architecture, BERT not only learns the condensed features of bag-of-words but also has better tokenization algorithms for handling unseen words. 
-With the pork-barrel features identified by the trained model, I find that legislators under SNTV (single non-transferable voting ) are likely to express electoral intension with regards to 
-pork barrel projects in written parliamentary questions and seek personal votes by promising particularistic benefits to their targeted supporters.
- Consistent with the literature, switching from SNTV to Single-Member Districts decrease legislators' incentives to bring home the bacon but increases their attention to universalism (national) policies.
-
+Measuring legislator behaviours and tendencies towards constituencies under the different systems is important. This paper quantitatively investigates the topic using Taiwan Legislative Yuan's case and data on written parliamentary questions through an electoral reform from multi-member districts (MMD) to single-member districts (SMD). With existing labelled pork legislation, I train a deep learning model to measure pork-barrel features on parliamentary questions. Evidence exists to show that legislators under MMD are more likely to express political intention about pork-barrel projects in written parliamentary questions. The reform subsequently demonstrates heterogeneous effects on major parties vis-à-vis to the minority parties, respectively.  
 **Keywords**：*electoral reform, single-member districts (SMDs), distributive politics, Transformers, BERT*  <br> 
 **Documents**: [`code`](https://github.com/davidycliao/PorkCNN) | [`slides`](https://raw.githack.com/davidycliao/elp/main/slides/slides.html#1)
 </div>
