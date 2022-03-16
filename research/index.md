@@ -71,7 +71,12 @@ In addition, co-partisan legislators became ideologically distant (disunited) wh
 
 **Chapter 2: Electoral Reform and Pork Barrel in Parliamentary Questions** (*Original Title: Electoral Incentives and Porks : Exploring Parliamentary Questions Using Convolutional Neural Networks* | Presentation at COMPTEXT 2022)
 
-Measuring legislator behaviours and tendencies towards constituencies under the different systems is important. This paper quantitatively investigates the topic using Taiwan Legislative Yuan's case and data on written parliamentary questions through an electoral reform from multi-member districts (MMD) to single-member districts (SMD). With existing labelled pork legislation, I train a deep learning model to measure pork-barrel features on parliamentary questions. Evidence exists to show that legislators under MMD are more likely to express political intention about pork-barrel projects in written parliamentary questions. The reform subsequently demonstrates heterogeneous effects on major parties vis-à-vis to the minority parties, respectively.  
+Measuring legislator behaviours and tendencies towards constituencies under the different systems is important. This paper quantitatively investigates 
+the topic using Taiwan Legislative Yuan's case and data on written parliamentary questions through an electoral reform 
+from multi-member districts (MMD) to single-member districts (SMD). With existing labelled pork legislation, I 
+train a deep learning model to measure pork-barrel features on parliamentary questions. Evidence exists to show that legislators under 
+MMD are more likely to express political intention about pork-barrel projects in written parliamentary questions. 
+The reform subsequently demonstrates heterogeneous effects on major parties vis-à-vis minority parties, respectively.  
 **Keywords**：*electoral reform, single-member districts (SMDs), distributive politics, Transformers, BERT*  <br> 
 **Documents**: [`code`](https://github.com/davidycliao/PorkCNN) | [`slides`](https://raw.githack.com/davidycliao/elp/main/slides/slides.html#1)
 </div>
