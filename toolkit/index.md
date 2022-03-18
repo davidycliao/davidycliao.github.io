@@ -12,7 +12,7 @@
 
 <div style="text-align: justify">
 
-**[<span style="color:#5a5a5a">**asmcjr**</span>](https://uniofessex.github.io/asmcjr.html)** (with Dave Armstrong, Royce Carroll, Christopher Hare, Ryan Bakker, Keith Poole, Howard Rosenthal)
+**[<span style="color:#5a5a5a">**asmcjr**</span>](https://uniofessex.github.io/asmcjr/)** (with Dave Armstrong, Royce Carroll, Christopher Hare, Ryan Bakker, Keith Poole, Howard Rosenthal)
 
 The `asmcjr` package in R supports the book “_2nd Analyzing Spatial Models of Choice and Judgment_”, and streamlined functions for scaling and visualising estimates with ggplot2 in . 
 
