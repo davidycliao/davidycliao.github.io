@@ -79,7 +79,7 @@ MMD are more likely to express political intention about pork-barrel projects in
 The reform subsequently demonstrates heterogeneous effects on major parties vis-à-vis minority parties, respectively.  
 
 **Keywords**：*electoral reform, single-member districts (SMDs), distributive politics, Transformers, BERT*  <br> 
-**Documents**: [`code`](https://github.com/davidycliao/PorkCNN) | [`slides`](https://raw.githack.com/davidycliao/elp/main/slides/slides.html#1)
+**Documents**: [`code`](https://github.com/davidycliao/PorkCNN) | [`slides`](https://raw.githack.com/davidycliao/erpb/master/slides/slides.html#1)
 
 </div>
 
