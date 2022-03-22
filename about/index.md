@@ -21,7 +21,7 @@ Apart from my dissertation, I am interested in applying various natural language
 
 <br/>
 
-For working papers relelated my reserach, please visit [<span style="color:#778899"> **research profile**</span>](https://davidycliao.github.io/research/) and my [<span style="color:#778899"> **GitHub**</span>](https://github.com/davidycliao). Thank you.
+For working papers relelated my reserach, please visit [<span style="color:#778899"> **Research Portfolio**</span>](https://davidycliao.github.io/research/) and my [<span style="color:#778899"> **GitHub**</span>](https://github.com/davidycliao). Thank you.
 
 
 
@@ -35,4 +35,4 @@ __如果您也是原住民，渴望繼續升學或出國進修，也歡迎與我
 
 
 <br/><br/>
-
+   
