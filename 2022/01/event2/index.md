@@ -1,8 +1,6 @@
 # Presentation @ COMPTEXT 2022
 
 
-
-
 <div style="text-align: justify">
 
 ### Presentation: Electoral Reform and Pork Barrel in Parliamentary Questions
@@ -20,4 +18,16 @@ Measuring legislator behaviours and tendencies towards constituencies under diff
 
 
 </div>
+
+<p align="center">
+<style>
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
+</style>
+
+</p>
 
