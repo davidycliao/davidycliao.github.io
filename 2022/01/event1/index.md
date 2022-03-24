@@ -3,7 +3,6 @@
 
 
 
-<img src="https://raw.githack.com/davidycliao/davidycliao.github.io/main/images/mpsa.png"  width="220" height= "120" />  
 
 
 <div style="text-align: justify">
