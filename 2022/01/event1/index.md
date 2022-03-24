@@ -40,6 +40,16 @@ Why do households standing on the lower end of incomes persistently express dism
 </div>
 
 
+<p align="center">
+<style>
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
+</style>
 
+</p>
 
 
