@@ -69,7 +69,7 @@ In addition, co-partisan legislators became ideologically distant (disunited) wh
 
 <div style="text-align: justify">
 
-**Chapter 2: Electoral Reform and Pork Barrel in Parliamentary Questions** (Presentation at COMPTEXT 2022)
+**Chapter 2: Electoral Reform and Pork Barrel in Parliamentary Questions** (Presentation at COMPTEXT 2022 | [ECPR 2022](https://ecpr.eu/Events/Event/PanelDetails/12193))
 
 Measuring legislator behaviours and tendencies towards constituencies under the different systems is important. This paper quantitatively investigates 
 the topic using Taiwan Legislative Yuan's case and data on written parliamentary questions through an electoral reform 
