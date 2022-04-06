@@ -35,7 +35,7 @@ Why do households standing on the lower end of incomes persistently express dism
 
 **Time**: Thu, April 7, 11:30am to 1:00pm CDT (5:30 to 7:00pm BST), TBA
 
-**Documents**: [[`paper`]()] [[`slides`](https://raw.githack.com/davidycliao/figures/master/Income_Insufficiency__Party_Misperception_and_Political_Distrust.pdf)]
+**Documents**: [[`paper`](https://raw.githack.com/davidycliao/figures/master/Party_Misperception__Party_voter_Incongruence_and_Political_Distrust.pdf)] [[`slides`](https://raw.githack.com/davidycliao/figures/master/Party_Misperception__Party_voter_Incongruence_and_Political_Distrust.pdf)]
 
 </div>
 

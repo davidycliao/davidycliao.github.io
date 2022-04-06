@@ -151,12 +151,12 @@ Recommendations are also included on applying our machine classifier to related 
 
 <div style="text-align: justify">
 
-**Income Insufficiency, Party Misperception and Political Distrust** (with Li Tang, Middlesex University London and Univeristy of Essex; and Tzu-Ping Liu, University of Taipei | Presentation at MPSA 2022)
+**Party Misperception, Party-voter Incongruence and Political Distrust** (with Li Tang, Middlesex University London and Univeristy of Essex | Presentation at MPSA 2022)
 
-Why do households standing on the lower end of incomes persistently express dismay towards politicians? This paper offers an explanation using the case of the British parties in the UK and data from the British Election Survey and the Chapel Hill Expert Survey. We document how economic inequality contributes to respondents' misperceptions about parties, subsequently deteriorating their trust in the UK Parliament. From our analysis, income insufficiency causes the widening disagreement about British parties with CHES experts: the poor demonstrates larger perceptional biasedness in judging political positions than the rich. Party's deviation from households' perceived position challenges their beliefs and confidence. This perceptional gap further transmits to deteriorate their trust towards the political system, contributing to a larger extent of dismay from the lower income families.
+To what extent do misperceptions of party positions affect voters' perception of representation and satisfaction with democracy? This paper offers an explanation using the case of the UK and data from the British Election Survey (BES) and the Chapel Hill Expert Survey (CHES). We show that voters' perceptional gaps in understanding party positions contribute to political incongruence between party and voters, subsequently deteriorating their trust and satisfaction with government. From our analysis, the misperceptions about UK parties increase both perceived and actual incongruence between voters and parties, with those with higher perceptional gaps demonstrating higher party–voter incongruence. This perceptional gap further contributes to citizen distrust and dissatisfaction towards the political system. 
 
 **Keywords**：*income inequality, Chapel Hill Expert Survey, party misperception, political trust* <br> 
-**Documents**: [`slides`](https://raw.githack.com/davidycliao/figures/master/Income_Insufficiency__Party_Misperception_and_Political_Distrust.pdf) | [`paper`]() 
+**Documents**: [`slides`](https://raw.githack.com/davidycliao/figures/master/Party_Misperception__Party_voter_Incongruence_and_Political_Distrust.pdf) | [`paper`](https://raw.githack.com/davidycliao/figures/master/Party_Misperception__Party_voter_Incongruence_and_Political_Distrust.pdf) 
 
 </div>
 
