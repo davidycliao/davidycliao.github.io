@@ -1,13 +1,11 @@
-# Presentation @ MPSA 2022
-
-
+# Presentation @ Chicago MPSA 2022
 
 
 
 
 <div style="text-align: justify">
 
-### Presentation Ⅰ: Electoral Reform and Disunited Polarization: Evidence from Legislative Roll Calls
+### Electoral Reform and Disunited Polarization: Evidence from Legislative Roll Calls
 
 This article investigates the strategic (inter- and intra-) party positioning in response to an electoral system transition from single non-transferable vote (SNTV) to single-member districts (SMDs) by studying the electoral reform in Taiwan and provides empirical evidence to the following questions. Does the switch of electoral system from SNTV to SMDs mitigate political polarization among parties? Does it influence the intra-party unitedness (cohesiveness), and thus, change legislators’ ideological positioning? To this end, we estimate individual legislator’s ideological positions from sessional roll call votes continuously covering ex-ante and ex-post periods of the reform, from 1992 to 2015. The preliminary finding suggests that in the electoral transition from SNTV to SMDs, ideological positions between two major parties are drastically polarized. In the meanwhile, this electoral transition significantly dis-unifies co-partisan legislators on the ideological spectrum. In addition, co-partisan legislators became ideologically distant (disunited) while opponents polarized themselves. These findings help clarify possible outcomes of the electoral reform from SNTV to SMDs, shedding light on party polarization and party competition in modern democracies.
 
@@ -25,7 +23,7 @@ This article investigates the strategic (inter- and intra-) party positioning in
 
 <div style="text-align: justify">
 
-### Presentation ⅠⅠ: Party Misperception, Party-voter Incongruence and Political Distrust
+### Party Misperception, Party-voter Incongruence and Political Distrust
 
 To what extent do misperceptions of party positions affect voters' perception of representation and satisfaction with democracy? This paper offers an explanation using the case of the UK and data from the British Election Survey (BES) and the Chapel Hill Expert Survey (CHES). We show that voters' perceptional gaps in understanding party positions contribute to political incongruence between party and voters, subsequently deteriorating their trust and satisfaction with government. From our analysis, the misperceptions about UK parties increase both perceived and actual incongruence between voters and parties, with those with higher perceptional gaps demonstrating higher party–voter incongruence. This perceptional gap further contributes to citizen distrust and dissatisfaction towards the political system. 
 
@@ -35,7 +33,7 @@ To what extent do misperceptions of party positions affect voters' perception of
 
 **Time**: Thu, April 7, 11:30am to 1:00pm CDT (5:30 to 7:00pm BST), TBA
 
-**Documents**: [[`paper`](https://raw.githack.com/davidycliao/figures/master/Party_Misperception__Party_voter_Incongruence_and_Political_Distrust.pdf)] [[`slides`](https://raw.githack.com/davidycliao/figures/master/Party_Misperception__Party_voter_Incongruence_and_Political_Distrust.pdf)]
+**Documents**: [[`paper`](https://raw.githack.com/davidycliao/figures/master/Party_Misperception__Party_voter_Incongruence_and_Political_Distrust.pdf)] | [[`slides`](https://raw.githack.com/davidycliao/figures/master/Party_Misperception__Party_voter_Incongruence_and_Political_Distrust.pdf)]
 
 </div>
 
