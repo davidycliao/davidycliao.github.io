@@ -13,7 +13,7 @@ This article investigates the strategic (inter- and intra-) party positioning in
 
 **Session**: Parties, Party Organizations, and Electoral Reform (JSS)
 
-**Time**: Sat, April 9, 9:45 to 11:15am CDT (3:45 to 5:15pm BST), TBA
+**Time**: Sat, April 9, 9:45 to 11:15am CDT (3:45 to 5:15pm BST)
 
 **Documents**: [`paper`](https://raw.githack.com/davidycliao/erdp/master/paper/Electoral_Reform_and_Disunited_Polarization.pdf) |  [`slides`](https://raw.githack.com/davidycliao/erdp/master/slides/slides.html)
 
@@ -31,7 +31,7 @@ To what extent do misperceptions of party positions affect voters' perception of
 
 **Session**: Comparative Public Opinion and Economic Perceptions
 
-**Time**: Thu, April 7, 11:30am to 1:00pm CDT (5:30 to 7:00pm BST), TBA
+**Time**: Thu, April 7, 11:30am to 1:00pm CDT (5:30 to 7:00pm BST)
 
 **Documents**: [`paper`](https://raw.githack.com/davidycliao/figures/master/Party_Misperception__Party_voter_Incongruence_and_Political_Distrust.pdf) | [`slides`](https://raw.githack.com/davidycliao/figures/master/Party_Misperception__Party_voter_Incongruence_and_Political_Distrust.pdf)
 
