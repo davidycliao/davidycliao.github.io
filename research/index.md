@@ -1,7 +1,7 @@
 # Research
 
 
-<br/><br/><br/><br/>
+<br/><br/>
 
 
 <div style="text-align: justify">
