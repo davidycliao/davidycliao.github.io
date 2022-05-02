@@ -79,7 +79,7 @@ MMD are more likely to express political intention about pork-barrel projects in
 The reform subsequently demonstrates heterogeneous effects on major parties vis-à-vis minority parties, respectively.  
 
 **Keywords**：*electoral reform, single-member districts (SMDs), distributive politics, Transformers, BERT*  <br> 
-**Documents**: [`slides`](https://raw.githack.com/davidycliao/erpb/master/slides/slides.html#1) | `paper`](https://raw.githack.com/davidycliao/erpb/master/paper/paper.pdf)
+**Documents**: [`slides`](https://raw.githack.com/davidycliao/erpb/master/slides/slides.html#1) | [`paper`](https://raw.githack.com/davidycliao/erpb/master/paper/paper.pdf)
 
 </div>
 
@@ -151,7 +151,7 @@ Recommendations are also included on applying our machine classifier to related 
 To what extent do misperceptions of party positions affect voters' perception of representation and satisfaction with democracy? This paper offers an explanation using the case of the UK and data from the British Election Survey (BES) and the Chapel Hill Expert Survey (CHES). We show that voters' perceptional gaps in understanding party positions contribute to political incongruence between party and voters, subsequently deteriorating their trust and satisfaction with government. From our analysis, the misperceptions about UK parties increase both perceived and actual incongruence between voters and parties, with those with higher perceptional gaps demonstrating higher party–voter incongruence. This perceptional gap further contributes to citizen distrust and dissatisfaction towards the political system. 
 
 **Keywords**：*income inequality, Chapel Hill Expert Survey, party misperception, political trust* <br> 
-**Documents**: [`slides`](https://raw.githack.com/davidycliao/figures/master/Party_Misperception__Party_voter_Incongruence_and_Political_Distrust.pdf) | [`paper`](https://raw.githack.com/davidycliao/figures/master/Party_Misperception__Party_voter_Incongruence_and_Political_Distrust.pdf) 
+**Documents**: [`slides`]() | [`paper`](https://raw.githack.com/davidycliao/figures/master/Party_Misperception__Party_voter_Incongruence_and_Political_Distrust.pdf) 
 
 </div>
 
