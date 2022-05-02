@@ -26,8 +26,9 @@ Measuring legislator behaviours and tendencies towards constituencies under diff
 
 **Time**: 14:00–15:30 Saturday, 6th May
 
-**Documents**: [`slides`](https://raw.githack.com/davidycliao/erpb/master/slides/slides.html#1) | [`paper`](https://raw.githack.com/davidycliao/erpb/master/slides/slides.html#1)
+**Documents**: [`slides`](https://raw.githack.com/davidycliao/erpb/master/slides/slides.html#1) | [`paper`](https://raw.githack.com/davidycliao/erpb/master/paper/paper.pdf)
 
+</div>
 
 </div>
 
