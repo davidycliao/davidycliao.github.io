@@ -11,7 +11,7 @@ My name is David (Yen-Chieh) Liao. I am PhD Candidate funded by Taiwan Ministry 
 
 <br/>
 
-I study __distributive politics__, __roll call polarization__ and __legislative oversight__, with a focus on Taiwan Legislative Yuan (the Legislature). For my PhD dissertation project, I use ideal point estimation and computational methods to study the impact of the electoral reform in Taiwan and investigate how the reform shapes legislators' representation.
+I study __distributive politics__, __roll call polarization__ and __legislative oversight__, with a main focus on Taiwan Legislative Yuan (the Legislature). For my PhD dissertation project, I use ideal point estimation and computational methods to study the impact of the electoral reform in Taiwan and investigate how the reform shapes legislators' representation.
 Specifically, I am interested in how electoral motives shape legislators' pork-barrel behaviour, ideological positionings and preferences. This dissertation project is awarded 2021 Taiwanese Overseas Pioneers Grants by Taiwan Ministry of Science and Technology.
 
 
