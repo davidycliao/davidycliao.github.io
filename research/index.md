@@ -58,7 +58,7 @@ To this end, I estimate individual legislator’s ideological positions from ses
 periods of the reform, from 1992 to 2015. The preliminary finding suggests that in the electoral transition from SNTV to SMDs,
 ideological positions between two major parties are drastically polarized. 
 In the meanwhile, this electoral transition significantly dis-unifies co-partisan legislators on the ideological spectrum. 
-In addition, co-partisan legislators became ideologically distant (disunited) while opponents polarized themselves. These findings help clarify possible outcomes of the electoral reform from SNTV to SMDs, shedding light on party polarization and party competition in modern democracies.
+In addition, co-partisan legislators became ideologically distant (disunited) while opponents polarized themselves.
 
 **Keywords**：*electoral reform, single-member districts (SMDs), roll call, political polarization*  <br> 
 **Documents**: [`slides`](https://raw.githack.com/davidycliao/erdp/master/slides/slides.html#1) | [`paper`](https://raw.githack.com/davidycliao/erdp/master/paper/Electoral_Reform_and_Disunited_Polarization.pdf)
