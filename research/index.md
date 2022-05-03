@@ -48,7 +48,7 @@ the Legislative Yuan. These potential findings can further help policymakers cla
 <div style="text-align: justify">
 
 **Chapter 1: Electoral Reform and Disunited Polarization: Evidence from Legislative Roll Calls**
-(Presentation at APSA 2020 & MPSA 2022)
+(Presentation at APSA 2020)
 
 This article investigates the strategic (inter- and intra-) party positioning in response to an electoral system transition 
 from single non-transferable vote (SNTV) to single-member districts (SMDs) by studying the electoral reform in Taiwan and 
