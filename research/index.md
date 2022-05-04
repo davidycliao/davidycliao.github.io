@@ -69,7 +69,7 @@ In addition, co-partisan legislators became ideologically distant (disunited) wh
 
 <div style="text-align: justify">
 
-**Chapter 2: Electoral Reform and Pork Barrel in Parliamentary Questions** (Presentation at [COMPTEXT 2022](https://www.comptextconference.org/) | [ECPR 2022](https://ecpr.eu/Events/Event/PanelDetails/12193))
+**Chapter 2: Electoral Reform and Pork Barrel in Parliamentary Questions**  (Presentation at [COMPTEXT 2022](https://www.comptextconference.org/) | [ECPR 2022](https://ecpr.eu/Events/Event/PanelDetails/12193) | [POLMETH 2022](https://polmeth.wustl.edu))
 
 Measuring legislator behaviours and tendencies towards constituencies under the different systems is important. This paper quantitatively investigates 
 the topic using Taiwan Legislative Yuan's case and data on written parliamentary questions through an electoral reform 
@@ -117,7 +117,7 @@ This paper examines the contribution of mayor’s political career within govern
 
 <div style="text-align: justify">
 
-**Factionalism and the Red Guards under Mao’s China: Ideal Point Estimation Using Text Data** (with Yi-Nung Tsai, National Chengchi University; Daniel Tene, Univeristy of Essex;  Dechun Zhang, Leiden University | Presentation at Asian PolMeth VIII 2020)
+**Factionalism and the Red Guards under Mao’s China: Ideal Point Estimation Using Text Data** (with Yi-Nung Tsai, National Chengchi University; Daniel Tene, Univeristy of Essex;  Dechun Zhang, Leiden University | Presentation at [AsianPolMeth 2020](https://sites.google.com/view/asian-polmeth-2021/home) | [COMPTEXT 2022](https://www.comptextconference.org/))
 
 In this paper, we design a new strain of text scaling method, Swordfish (Slogan-featured Wordfish), that takes advantage of the TextRank algorithm to extract the most representative political slogans in a given context and estimates \textsf{Wordfish} with those extracted text variables. We test this method using the case of the Great Proletarian Cultural Revolution in China and the historical archive of handwritten big-character posters and self-printed tabloids from 1966. We estimate student protests' ideal points by analyzing expressed political views in propaganda publications. Our findings point to evidence of factional re(de)alignments within the movement and demonstrate how the students from different educational backgrounds followed Mao Zedong and Xiaohongshu 小紅書 (Little Red Book) and then fell into armed conflicts that divided families, the classes and the society. The results estimated by our approach are shown to be consistent with the representative qualitative literature of factionalism regarding the Cultural Revolution.</div>
 
@@ -150,7 +150,7 @@ Recommendations are also included on applying our machine classifier to related 
 
 <div style="text-align: justify">
 
-**Party Misperception, Party-voter Incongruence and Political Distrust** (with Li Tang, Middlesex University London and Univeristy of Essex | Presentation at MPSA 2022)
+**Party Misperception, Party-voter Incongruence and Political Distrust** (with Li Tang, Middlesex University London and Univeristy of Essex)
 
 To what extent do misperceptions of party positions affect voters' perception of representation and satisfaction with democracy? This paper offers an explanation using the case of the UK and data from the British Election Survey (BES) and the Chapel Hill Expert Survey (CHES). We show that voters' perceptional gaps in understanding party positions contribute to political incongruence between party and voters, subsequently deteriorating their trust and satisfaction with government. From our analysis, the misperceptions about UK parties increase both perceived and actual incongruence between voters and parties, with those with higher perceptional gaps demonstrating higher party–voter incongruence. This perceptional gap further contributes to citizen distrust and dissatisfaction towards the political system. 
 
