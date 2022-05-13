@@ -11,24 +11,11 @@ Measuring legislator behaviours and tendencies towards constituencies under diff
 
 **Keywords**：*electoral reform, single-member districts (SMDs), distributive politics, deep learning, Transformers, BERT*
 
-**Session**: Panel 3D - Targeted Rhetoric in Parliamentary Debates
+**Session**: 
 
-**Time**: 14:00–15:30 Saturday, 6th May
+**Time**: 
 
 **Documents**: [`slides`](https://raw.githack.com/davidycliao/erpb/master/slides/slides.html#1) | [`paper`](https://raw.githack.com/davidycliao/erpb/master/paper/paper.pdf)
 
 </div>
 
-</div>
-
-<p align="center">
-<style>
-img {
-  border: 1px solid #ddd;
-  border-radius: 4px;
-  padding: 5px;
-  width: 150px;
-}
-</style>
-
-</p>
