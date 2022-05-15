@@ -20,45 +20,12 @@ My research projects include a PhD dissertation on legislative politics in Taiwa
 
 ### ***“Title: Pork Barrel, Polarization and Competition within the Congress : The Applications of Computational Social Science”***  
 
-<div style="text-align: center">Abstract<br/>
-
-<div style="text-align: justify">
-
-Estimating the politician positions of parties and politicians is key to understanding party polarization 
-and electoral competition. This thesis quantitatively investigates how 2008 Taiwan electoral reform through 
-single non-transferable voting (SNTV) to single-member districts system (SMDs) impacts the behavior of legislators
- and their electoral strategies, by analyzing roll calls and parliamentary questions. I aim to deliver several pieces 
- of empirical evidence to revisit the following research questions: (1) Does the switch of the electoral system to 
- SMDs mitigate political polarization among parties? (2) Does the reform influence the intra-party competition, and thus,
-change legislators’ policy positions? (3) Does the reform reduce regional particularism expressed in declared 
-opinions in parliamentary questions, but increase the promises of universalism policies? (4) How does the reform impact local politics at 
-municipal level? Does mayor with more prior years of experience as an elected legislator have a wider privileged access to increase their chances of securing
-the money to their municipality and if so, how?
-The dissertation project is to apply ideal point estimation and natural language processing techniques that are currently deployed by the 
-forefront study of legislatures and strengthen the understanding of Taiwan party politics and party competition inside 
-the Legislative Yuan. These potential findings can further help policymakers clarify possible outcomes of the electoral reform, shedding light on party competition and party polarization in modern democracies.
-
-(The PhD dissertation project is supported by the 2021 Taiwanese Overseas Pioneers Grant from *Ministry of Science and Technology Taiwan*, August 2021 - August 2022)
-
-</div>
-
-
----
 
 <div style="text-align: justify">
 
 **Chapter 1: Electoral Reform and Disunited Polarization: Evidence from Legislative Roll Calls**
 (Presentation at APSA 2020)
-
-This article investigates the strategic (inter- and intra-) party positioning in response to an electoral system transition 
-from single non-transferable vote (SNTV) to single-member districts (SMDs) by studying the electoral reform in Taiwan and 
-provides empirical evidence to the following questions. Does the switch of electoral system from SNTV to SMDs mitigate political polarization 
-among parties? Does it influence the intra-party unitedness (cohesiveness), and thus, change legislators’ ideological positioning? 
-To this end, I estimate individual legislator’s ideological positions from sessional roll call votes continuously covering ex-ante and ex-post
-periods of the reform, from 1992 to 2015. The preliminary finding suggests that in the electoral transition from SNTV to SMDs,
-ideological positions between two major parties are drastically polarized. 
-In the meanwhile, this electoral transition significantly dis-unifies co-partisan legislators on the ideological spectrum. 
-In addition, co-partisan legislators became ideologically distant (disunited) while opponents polarized themselves.
+The extent to which electoral systems change legislative preference and representation remains debatable. This paper investigates how parties and legislators strategically position themselves in response to an institutional change using the case of Taiwan's electoral reform through the Single Non-transferable Vote (SNTV) to the Single-Member Districts (SMDs). To this end, I apply dynamic ideal point estimation to measure legislators' ideological preferences and study whether the reform moderates the level of intra-party disagreement induced by the change in the systems. The empirical evidence shows that the reform increases intra-party fractionalization and aggregates party polarization. Controlling for yearly effects during the presence of the reform, however,  I find the impacts of party polarized division become weaker as time goes by. This paper complements mounting evidence that electoral systems play an important role in explaining lawmakers' preferences and ideological positionings, shedding light on party polarization and party competition in modern democracies.
 
 **Keywords**：*electoral reform, single-member districts (SMDs), roll call, political polarization*  <br> 
 **Documents**: [`slides`](https://raw.githack.com/davidycliao/erdp/master/slides/slides.html#1) | [`paper`](https://raw.githack.com/davidycliao/erdp/master/paper/Electoral_Reform_and_Disunited_Polarization.pdf)
@@ -105,7 +72,10 @@ This paper examines the contribution of mayor’s political career within govern
 **Keywords**：*distributive politics, pork barrel, intergovernmental grants* <br> 
 **Documents**: [`slides`](https://raw.githack.com/davidycliao/pcpb/main/slides/slides.pdf) | [`paper`](https://raw.githack.com/davidycliao/pcpb/main/paper/Mayors_and_Pork_Barrel.pdf)
 
+(The PhD dissertation project is supported by the 2021 Taiwanese Overseas Pioneers Grant from *Ministry of Science and Technology Taiwan*, August 2021 - August 2022)
+
 </div>
+
 
 <br/><br/>
 
@@ -163,7 +133,7 @@ To what extent do misperceptions of party positions affect voters' perception of
 
 <div style="text-align: justify">
 
-**This is What We Hope: Estimating Perceptions on Political Trust** (with Li Tang, Middlesex University London and Univeristy of Essex; Tzu-Ping Liu, University of Taipei)
+**This is What We Hope: Estimating Perceptions on Political Trust** (with Li Tang, Middlesex University London and Univeristy of Essex)
 
 We propose a new approach to estimating voters' preferences on party positions, including aggregate subjective targets of Conservative Party's and Labour Party's positions, based on their political confidence towards the government, that requires no priors on the underlying data-generating process of the targets. Our approach entails directly measuring voters' confidence from the self-reported public trust towards the Parliament surveyed by British Election Study during 2017 and 2019. This paper first documents robust evidence that voters with different partisan affiliations prefer parties to locate differently: when parties move closer to the targets, the corresponding representative voter gains satisfaction and trust in the Parliament. Then, we find the estimated targets persistently deviate from perceptions of experts from the Chapel Hill Expert Survey in varying degrees, regardless of personal attributes and party affiliations. Interestingly, low-income voters from Conservative Party have targets that are more prone to disagree with experts' perceptions than high-income voters. These findings shed new light on new approach to capturing voters' preference on party positions as well as discrepancy between actual party positions and voters' perception on political parties.
 
