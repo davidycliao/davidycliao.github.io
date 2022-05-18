@@ -6,7 +6,7 @@
 <div style="text-align: justify">
 
 
-My name is David (Yen-Chieh) Liao. I am PhD Candidate funded by Taiwan Ministry of Education (2017 - 2021) at Department of Government in University of Essex and Pre-doctoral Researcher of [<span style="color:#778899">**Legislators between Accountability and Collective Agency (LACAN)**</span>](https://projectlacan.wordpress.com/team/) at the Chair of Comparative Politics in University of Bamberg 
+My name is David (Yen-Chieh) Liao. I am PhD Candidate funded by Taiwan Ministry of Education (Jul 2017 - Aug 2021) at Department of Government in University of Essex and Predoctoral Researcher (Dec 2021-)  of [<span style="color:#778899">**Legislators between Accountability and Collective Agency (LACAN)**</span>](https://projectlacan.wordpress.com/team/) at the Chair of Comparative Politics in University of Bamberg.  
 
 
 <br/>
@@ -17,13 +17,10 @@ Specifically, I am interested in how electoral motives shape legislators' pork-b
 
 <br/>
 
-Apart from my dissertation, I am interested in applying various natural language processing techniques to analyze European parliamentary speeches, parliamentary questions,
- social media text (e.g. Twitter and Weibo) and the Cultural Revolution publications (big-character posters), and using deep learning methods to measure internal conflict and inter-party divisions from facial and vocal expressions of the legislators in the US context.
-
-<br/>
+Apart from my dissertation, I am interested in applying various computational methods to measure parties' internal conflict and communication strategies in 
+European democracies' speeches and parliamentary questions, social media (*Twitter* and *Weibo*) and archival data related to contemporary China. Currently, I am looking at utilising the pre-trained model to measure intra-party divisions via legislators' facial expressions and vocal dimensions. <br/>
 
 For working papers relelated my reserach, please visit [<span style="color:#778899"> **Research Portfolio**</span>](https://davidycliao.github.io/research/) and my [<span style="color:#778899"> **GitHub**</span>](https://github.com/davidycliao). Thank you.
-
 
 
 

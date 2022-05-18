@@ -6,7 +6,10 @@
 
 <div style="text-align: justify">
 
-My research projects include a PhD dissertation on legislative politics in Taiwan,  the quantitative study of party misperception about British parties, and data science applied to social media and contemporary China. 
+
+My research projects include:  *a PhD dissertation on legislative politics in Taiwan*, *quantitative studies of party misperception and political ideology*, and *computational methods applied to social media and contemporary China*.  
+
+
 </div>
 
 
@@ -42,8 +45,7 @@ Measuring legislator behaviours and tendencies towards constituencies under the 
 the topic using Taiwan Legislative Yuan's case and data on written parliamentary questions through an electoral reform 
 from multi-member districts (MMD) to single-member districts (SMD). With existing labelled pork legislation, I 
 train a deep learning model to measure pork-barrel features on parliamentary questions. Evidence exists to show that legislators under 
-MMD are more likely to express political intention about pork-barrel projects in written parliamentary questions. 
-The reform subsequently demonstrates heterogeneous effects on major parties vis-à-vis minority parties, respectively.  
+MMD are more likely to express political intention about pork-barrel projects in written parliamentary questions. Yet, the reform subsequently demonstrates heterogeneous effects on major parties vis-à-vis minority parties. 
 
 **Keywords**：*electoral reform, single-member districts (SMDs), distributive politics, Transformers, BERT*  <br> 
 **Documents**: [`slides`](https://raw.githack.com/davidycliao/erpb/master/slides/slides.html#1) | [`paper`](https://raw.githack.com/davidycliao/erpb/main/paper/paper.pdf)
@@ -89,7 +91,8 @@ This paper examines the contribution of mayor’s political career within govern
 
 **Factionalism and the Red Guards under Mao’s China: Ideal Point Estimation Using Text Data** (with Yi-Nung Tsai, National Chengchi University; Daniel Tene, Univeristy of Essex;  Dechun Zhang, Leiden University | Presentation at [AsianPolMeth 2020](https://sites.google.com/view/asian-polmeth-2021/home) | [COMPTEXT 2022](https://www.comptextconference.org/))
 
-In this paper, we design a new strain of text scaling method, Swordfish (Slogan-featured Wordfish), that takes advantage of the TextRank algorithm to extract the most representative political slogans in a given context and estimates \textsf{Wordfish} with those extracted text variables. We test this method using the case of the Great Proletarian Cultural Revolution in China and the historical archive of handwritten big-character posters and self-printed tabloids from 1966. We estimate student protests' ideal points by analyzing expressed political views in propaganda publications. Our findings point to evidence of factional re(de)alignments within the movement and demonstrate how the students from different educational backgrounds followed Mao Zedong and Xiaohongshu 小紅書 (Little Red Book) and then fell into armed conflicts that divided families, the classes and the society. The results estimated by our approach are shown to be consistent with the representative qualitative literature of factionalism regarding the Cultural Revolution.</div>
+In this paper, we design a new strain of text scaling method, Swordfish (__Slogan-featured Wordfish__), that takes advantage of the TextRank 
+algorithm to extract the most representative political slogans in a given context and estimates _Wordfish_ with those extracted text variables. We test this method using the case of the Great Proletarian Cultural Revolution in China and the historical archive of handwritten big-character posters and self-printed tabloids from 1966. We estimate student protests' ideal points by analyzing expressed political views in propaganda publications. Our findings point to evidence of factional re(de)alignments within the movement and demonstrate how the students from different educational backgrounds followed Mao Zedong and Xiaohongshu 小紅書 (Little Red Book) and then fell into armed conflicts that divided families, the classes and the society. The results estimated by our approach are shown to be consistent with the representative qualitative literature of factionalism regarding the Cultural Revolution.</div>
 
 **Keywords**：*Red Guards, TextRank, wordfish* <br> 
 
