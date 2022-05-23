@@ -166,7 +166,7 @@ We propose a new approach to estimating voters' preferences on party positions, 
 
 <div style="text-align: justify">
 
-**Topic Models for Short Text** (with [<span style="color:#778899"> Julia, Ju Yuon Park, Univeristy of Essex</span>](http://www.juyeonpark.com))
+**Topic Models for Political Short Texts: An Application, Validation and Compromises** (with [<span style="color:#778899"> Julia, Ju Yuon Park, Univeristy of Essex</span>](http://www.juyeonpark.com))
 
 </div>
 
