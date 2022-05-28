@@ -56,10 +56,9 @@ An R package 📦 for searching and retrieving archive of bill, the speeches and
 
 <div style="text-align: justify">
 
-
 **[<span style="color:#5a5a5a">**lacanCrawlers**</span>](https://davidycliao.github.io/lacanCrawlers/)**  
 
-An Automation Webcrawler for Extracting Parliamentary Questions from Janpan's Diet, UK Parliarment and Scotish Parliament. 
+An Automation Webcrawler for Extracting Parliamentary Questions from Janpan's Diet, the UK Parliarment and the Scottish Parliament. 
  
 </div>
 
