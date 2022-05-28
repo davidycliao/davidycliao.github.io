@@ -54,5 +54,30 @@ An R package 📦 for searching and retrieving archive of bill, the speeches and
  
 </div>
 
+
+----
+
+<div style="text-align: justify">
+
+
+**[<span style="color:#5a5a5a">**legisTaiwan**</span>](https://davidycliao.github.io/legisCrawler/)** (*in progress and coming soon*) 
+
+An R package 📦 for searching and retrieving archive of bill, the speeches and legislators' demographic from Taiwan Parliamentary Library API (https://www.ly.gov.tw).
+
+ 
+</div>
+
+
+----
+
+<div style="text-align: justify">
+
+
+**[<span style="color:#5a5a5a">**legisTaiwan**</span>](https://davidycliao.github.io/lacanCrawlers/)**  
+
+An Automation Webcrawler for Extracting Parliamentary Questions from Janpan's Diet, UK Parliarment and Scotish Parliament. 
+ 
+</div>
+
 <br/><br/>
 
