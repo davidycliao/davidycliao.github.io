@@ -6,11 +6,12 @@
 ### Factionalism and the Red Guards under Mao's China: Ideal Point Estimation Using Text Data
 
 In this paper, we design a new strain of text scaling method, Swordfish (Slogan-featured Wordfish), that takes advantage of the TextRank algorithm to extract the most representative political slogans in a given context and estimates _Wordfish_ with those extracted text variables. We test this method using the case of the Great Proletarian Cultural Revolution in China and the historical archive of handwritten big-character posters and self-printed tabloids from 1966. We estimate student protests' ideal points by analyzing expressed political views in propaganda publications. Our findings point to evidence of factional re(de)alignments within the movement and demonstrate how the students from different educational backgrounds followed Mao Zedong and Xiaohongshu 小紅書 (Little Red Book) and then fell into armed conflicts that divided families, the classes and the society. The results estimated by our approach are shown to be consistent with the representative qualitative literature of factionalism regarding the Cultural Revolution.
+
 **Session**: Panel 5C Political Speech Around The World
 
 **Time**: 11:30–13:00 Saturday, 7th May
 
-**Documents**: [`slides`](https://raw.githack.com/davidycliao/redguards/master/slides/slides.pdf) | [`paper`](https://raw.githack.com/davidycliao/erpb/main/paper/paper.pdf)
+**Documents**: [`slides`](https://raw.githack.com/davidycliao/redguards/master/slides/slides.pdf) | [`paper`](https://raw.githack.com/davidycliao/redguards/master/slides/slides.pdf)
 
 
 ---
@@ -30,17 +31,4 @@ Measuring legislator behaviours and tendencies towards constituencies under diff
 
 </div>
 
-</div>
-
-<p align="center">
-<style>
-img {
-  border: 1px solid #ddd;
-  border-radius: 4px;
-  padding: 5px;
-  width: 150px;
-}
-</style>
-
-</p>
 
