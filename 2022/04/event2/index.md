@@ -11,7 +11,7 @@ In this paper, we design a new strain of text scaling method, Swordfish (Slogan-
 
 **Time**: 11:30–13:00 Saturday, 7th May
 
-**Documents**: [`slides`](https://raw.githack.com/davidycliao/redguards/master/slides/slides.pdf) | [`paper`](https://raw.githack.com/davidycliao/redguards/master/slides/slides.pdf)
+**Documents**: [`slides`](https://raw.githack.com/davidycliao/redguards/master/slides/slides.pdf) | [`paper`](https://raw.githack.com/davidycliao/redguards/master/slides/paper.pdf)
 
 
 ---
