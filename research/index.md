@@ -26,12 +26,30 @@ My research projects include:  *a PhD dissertation on legislative politics in Ta
 
 <div style="text-align: justify">
 
-**Chapter 1: Electoral Reform and Disunited Polarization: Evidence from Legislative Roll Calls** (Presentation at APSA 2020)
+**Chapter 1: Electoral Reform and Disunited Polarization: Evidence from Legislative Roll Calls**
 
 The extent to which electoral systems change legislative preference and representation remains debatable. This paper investigates how parties and legislators strategically position themselves in response to an institutional change using the case of Taiwan's electoral reform through the Single Non-transferable Vote (SNTV) to the Single-Member Districts (SMDs). To this end, I apply dynamic ideal point estimation to measure legislators' ideological preferences and study whether the reform moderates the level of intra-party disagreement induced by the change in the systems. The empirical evidence shows that intra-party fractionalization increases while ideological differences between major parties are drastically polarized in the SMD.   Controlling for yearly effects during the presence of the reform, however,  I find the impacts of party division become weaker as time goes by. This paper complements mounting evidence that electoral systems play an important role in explaining lawmakers' preferences and ideological positionings, shedding light on party polarization and party competition in modern democracies.
 
+<!-- <p align="center">
+<style>
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
+</style>
+  <img width="500" height= "110"  src="https://raw.githack.com/davidycliao/erdp/main/paper/images/seven_legis.png" >
+  <img width="500" height= "110" src="https://raw.githack.com/davidycliao/erdp/main/paper/images/partywhip_mean.png">
+  <img width="500" height= "110"  src="https://raw.githack.com/davidycliao/erdp/main/paper/images/minor_postions_year.png">
+  <img width="500" height= "110"  src="https://raw.githack.com/davidycliao/erdp/main/paper/images/major_postions_year.png" >
+
+</p> -->
+
 **Keywords**：*electoral reform, single-member districts (SMDs), roll call, political polarization*  <br> 
 **Documents**: [`slides`](https://raw.githack.com/davidycliao/erdp/master/slides/slides.html#1) | [`paper`](https://raw.githack.com/davidycliao/erdp/master/paper/Electoral_Reform_and_Disunited_Polarization.pdf)
+
+
 
 </div>
 
@@ -39,7 +57,7 @@ The extent to which electoral systems change legislative preference and represen
 
 <div style="text-align: justify">
 
-**Chapter 2: Electoral Reform and Pork Barrel in Parliamentary Questions**  (Presentation at [COMPTEXT 2022](https://www.comptextconference.org/) | [ECPR 2022](https://ecpr.eu/Events/Event/PanelDetails/12193) | [POLMETH 2022](https://polmeth.wustl.edu))
+**Chapter 2: Electoral Reform and Pork Barrel in Parliamentary Questions** 
 
 Measuring legislator behaviours and tendencies towards constituencies under the different systems is important. This paper quantitatively investigates 
 the topic using Taiwan Legislative Yuan's case and data on written parliamentary questions through an electoral reform 
@@ -50,7 +68,24 @@ MMD are more likely to express political intention about pork-barrel projects in
 **Keywords**：*electoral reform, single-member districts (SMDs), distributive politics, Transformers, BERT*  <br> 
 **Documents**: [`slides`](https://raw.githack.com/davidycliao/erpb/master/slides/slides.html#1) | [`paper`](https://raw.githack.com/davidycliao/erpb/main/paper/paper.pdf)
 
-</div>
+<!-- <p align="center">
+<style>
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
+</style>
+  <img width="500" height= "110"  src="https://raw.githack.com/davidycliao/erpb/main/slides/images/p2.png" >
+  <img width="500" height= "110" src="https://raw.githack.com/davidycliao/erpb/main/slides/images/top30.png">
+  <img width="500" height= "110"  src="https://raw.githack.com/davidycliao/erpb/main/slides/images/mean.png">
+  <img width="500" height= "110"  src="https://raw.githack.com/davidycliao/erpb/main/slides/images/num.png" >
+
+</p>
+
+
+</div> -->
 
 ---
 
@@ -67,12 +102,31 @@ Understanding the positions of parties and legislators is key to conceptualizing
 
 <div style="text-align: justify">
 
-**Chapter 4: Mayors and Pork Barrel: Legislative Experience Bias in Intergovernmental Transfers to Taiwan Municipalities**（Presentation at EPSA 2019)
+**Chapter 4: Mayors and Pork Barrel: Legislative Experience Bias in Intergovernmental Transfers to Taiwan Municipalities**
 
 This paper examines the contribution of mayor’s political career within governments in obtaining more distributive benefits to her own municipality. Mayors with more sophisticated experience have stronger electoral ties to the central government, which is useful for them to enhance their chances of staying in office. Using panel dataset of Revenue Support Grant, we find that municipalities whose mayors with longer career spent in the legislature are more likely to be allocated higher fiscal expenditures. The effect is even stronger if the mayors have worked in legislative standing committees. On the contrary, mayors’ prior political career in ministries does not significantly help their municipalities obtain the grant. The findings suggest that compared to experience as a central government official, a legislative career has a leading impact on grant transfer to municipalities.
 
+
 **Keywords**：*distributive politics, pork barrel, intergovernmental grants* <br> 
 **Documents**: [`slides`](https://raw.githack.com/davidycliao/pcpb/main/slides/slides.pdf) | [`paper`](https://raw.githack.com/davidycliao/pcpb/main/paper/Mayors_and_Pork_Barrel.pdf)
+
+<!-- 
+<p align="center">
+<style>
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
+</style>
+  <img width="500" height= "110"  src="https://raw.githack.com/davidycliao/erpb/main/slides/images/p2.png" >
+  <img width="500" height= "110" src="https://raw.githack.com/davidycliao/erpb/main/slides/images/top30.png">
+  <img width="500" height= "110"  src="https://raw.githack.com/davidycliao/erpb/main/slides/images/mean.png">
+  <img width="500" height= "110"  src="https://raw.githack.com/davidycliao/erpb/main/slides/images/num.png" >
+
+</p> -->
+
 
 (The PhD dissertation project is supported by the 2021 Taiwanese Overseas Pioneers Grant from *Ministry of Science and Technology Taiwan*, August 2021 - August 2022)
 
@@ -89,8 +143,7 @@ This paper examines the contribution of mayor’s political career within govern
 
 <div style="text-align: justify">
 
-**Factionalism and the Red Guards under Mao’s China: Ideal Point Estimation Using Text Data** (with Yi-Nung Tsai, National Chengchi University; Daniel Tene, Univeristy of Essex;  Dechun Zhang, Leiden University | Presentation at [AsianPolMeth 2020](https://sites.google.com/view/asian-polmeth-2021/home) | [COMPTEXT 2022](https://www.comptextconference.org/))
-
+**Factionalism and the Red Guards under Mao’s China: Ideal Point Estimation Using Text Data** (with Yi-Nung Tsai, National Chengchi University; Daniel Tene, Univeristy of Essex;  Dechun Zhang, Leiden University )
 In this paper, we design a new strain of text scaling method, Swordfish (__Slogan-featured Wordfish__), that takes advantage of the TextRank 
 algorithm to extract the most representative political slogans in a given context and estimates _Wordfish_ with those extracted text variables. We test this method using the case of the Great Proletarian Cultural Revolution in China and the historical archive of handwritten big-character posters and self-printed tabloids from 1966. We estimate student protests' ideal points by analyzing expressed political views in propaganda publications. Our findings point to evidence of factional re(de)alignments within the movement and demonstrate how the students from different educational backgrounds followed Mao Zedong and Xiaohongshu 小紅書 (Little Red Book) and then fell into armed conflicts that divided families, the classes and the society. The results estimated by our approach are shown to be consistent with the representative qualitative literature of factionalism regarding the Cultural Revolution.</div>
 
