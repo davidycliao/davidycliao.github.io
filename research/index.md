@@ -201,7 +201,20 @@ We propose a new approach to estimating voters' preferences on party positions, 
 
 <div style="text-align: justify">
 
-**官僚團體如何「重寫」意識形態陳述：以《人民日報》習近平思想的評論為例** (with Yi-Nung Tsai, National Chengchi University)
+**Estimating Heterogeneity Preference in the United Nations with Voting Records and Their Debates** (with Winnie Xia, National Chengchi University)
+
+Analyzing the preference of the United Nations is essential to understanding the origin of conflicts within major international organizations. This paper examines when and why members of the United Nations express their preferences consistently in both voting and speeches while some members do not. We answer this question using the subject of international security discussed and voted on by the representative of the states during the United Nations Security Council between 1980 and 2021. We parallelly estimate state ideal points on a left-right dimension using both the general debates and voting records with regards to topics on international security across time. Finally, we show how the state's voting preference correlates with their speech ideal points while some of them do not: heterogeneity between their speeches and voting decreases when political competitions at home increase.  
+
+**Keywords**：*the United Nations*、*the United Nations Security Council*、*ideal point estimation*
+
+</div>
+
+---
+
+
+<div style="text-align: justify">
+
+**官僚團體如何「重寫」意識形態陳述：以《人民日報》習近平思想的評論為例** (with Yi-Nung Tsai, University of Essex)
 
 意識形態體系在維繫中共政權的執政穩定，長期扮演了重要角色。雖然部分觀察透過分析中共制定意識形態的過程，指出官定的意識形態非鐵板一塊，而是黨內政治衝突的折衷結果。
 不過，類似研究卻較少觸及意識形態建構完成後，黨內的官僚團體，如何透過各自的話語體系，將意識形態「改寫」成符合其利益偏好的政治陳述。在本文，我們以《人民日報》習近平思想的報刊評論為例，
