@@ -17,8 +17,8 @@ Specifically, I am interested in how electoral motives shape legislators' pork-b
 
 <br/>
 
-Apart from my dissertation, I am interested in applying various computational methods to measure parties' internal conflict and communication strategies in 
-European democracies' speeches and parliamentary questions, social media (*Twitter* and *Weibo*) and archival data related to contemporary China. Currently, I am looking at utilising the pre-trained model to measure intra-party divisions via legislators' facial expressions and vocal dimensions. <br/>
+Apart from my dissertation, I am interested in applying various computational methods to estimate European party competition and communication strategies. Currently, I am looking at utilising the pre-trained models and *the transformer* to measure intra-party divisions via legislators' facial expressions and vocal dimensions, and start research papers about China's propaganda strategy and intra-party relations. 
+
 
 For working papers relelated my reserach, please visit [<span style="color:#778899"> **Research Portfolio**</span>](https://davidycliao.github.io/research/) and my [<span style="color:#778899"> **GitHub**</span>](https://github.com/davidycliao). Thank you.
 
