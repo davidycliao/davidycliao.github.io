@@ -5,6 +5,7 @@
 
 <div style="text-align: justify">
 
+Hi There!
 
 My name is David (Yen-Chieh) Liao. I am PhD Candidate funded by Taiwan Ministry of Education (Jul 2017 - Aug 2021) at Department of Government in University of Essex and Predoctoral Researcher (Dec 2021-)  of [<span style="color:#778899">*Legislators between Accountability and Collective Agency (LACAN)*</span>](https://projectlacan.wordpress.com/team/) at the Chair of Comparative Politics in University of Bamberg.  
 
@@ -29,8 +30,12 @@ For working papers relelated my reserach, please visit [<span style="color:#7788
 
 
 <br/><br/>
-我是目前於英國艾塞克斯大學攻讀政治學博士，，研究方向國會代表行為、比較政治以及利用機器學習了解國會議員的代表行為。
-__如果也是原住民，希望能夠繼續升學或出國進修，歡迎與我聯繫。我的學習經驗或多或少能夠幫助差點放棄學業的您。__
+
+
+Embiyax Su Hug (太魯閣族 Hello),  
+
+我是目前就讀英國艾塞克斯大學攻讀政治學的博士候選人，同時也受聘於德國班貝格大學大學政治系比較政治研究群擔任博士級研究人員。
+在過去，我學習族群政治競爭與原住民資源分配等問題；現在，我也開始關注計算社會科學方法應用在台灣政黨競爭、比較立法代表行為與當代中國政治研究，例如：理想點空間估計（Ideal Point Estimation）與機器學習。__如果也是原住民，希望能夠繼續升學或出國進修，歡迎與我聯繫。我的學習經驗或多或少能夠幫助差點放棄學業的您。__
 
 </div>
 
