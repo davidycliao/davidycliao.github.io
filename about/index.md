@@ -21,7 +21,9 @@ Specifically, I am interested in how electoral motives shape legislators' pork-b
 
 Apart from my dissertation, I am interested in applying various computational methods to estimate European party competition and communication strategies. Currently, 
 I am looking at utilising the pre-trained models and *the transformer* to measure intra-party divisions via legislators' facial expressions and vocal dimensions, 
-and start research papers about propaganda strategy in Contemporary China. 
+and start research projects about China's propaganda techniques and state-backed information operation. 
+
+propaganda technique dataset of state-backed information 
 
 For working papers relelated my reserach, please visit [<span style="color:#778899"> *Research Portfolio*</span>](https://davidycliao.github.io/research/) and my [<span style="color:#778899"> *GitHub*</span>](https://github.com/davidycliao). Thank you.
 
@@ -34,7 +36,7 @@ For working papers relelated my reserach, please visit [<span style="color:#7788
 
 Embiyax Su Hug (太魯閣族語 Hello),  
 
-我是目前就讀英國艾塞克斯大學攻讀政治學的博士候選人，同時也受聘於德國班貝格大學大學政治系比較政治研究群擔任博士級研究人員。
+我是目前就讀英國艾塞克斯大學攻讀政治學的博士候選人，同時也受聘於德國班貝格大學政治系比較政治研究群擔任博士級研究人員。
 在過去，我學習族群政治競爭與原住民資源分配等問題；現在，我也開始關注計算社會科學方法應用在台灣政黨競爭、比較立法代表行為與當代中國政治。__如果也是原住民，計畫繼續升學或出國進修，歡迎與我聯繫。我的學習經驗或多或少能有些幫助。__
 
 </div>
