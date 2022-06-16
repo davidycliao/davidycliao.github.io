@@ -23,8 +23,6 @@ Apart from my dissertation, I am interested in applying various computational me
 I am looking at utilising the pre-trained models and *the transformer* to measure intra-party divisions via legislators' facial expressions and vocal dimensions, 
 and start research projects about China's propaganda techniques and state-backed information operation. 
 
-propaganda technique dataset of state-backed information 
-
 For working papers relelated my reserach, please visit [<span style="color:#778899"> *Research Portfolio*</span>](https://davidycliao.github.io/research/) and my [<span style="color:#778899"> *GitHub*</span>](https://github.com/davidycliao). Thank you.
 
 
