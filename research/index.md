@@ -252,7 +252,7 @@ Analyzing the preference of the United Nations is essential to understanding the
 
 <div style="text-align: center">
 
-## Prior Publications Before PhD:
+## Prior Research Before PhD:
 
 </div> 
 
