@@ -292,7 +292,7 @@ Analyzing the preference of the United Nations is essential to understanding the
 
 <div style="text-align: justify">
 
-**2015 The Rationale for Supporting Nuclear Power: Analysis of Taiwanese Public Opinion Survey _International Relations ofthe Asia-Pacific_ 15 (1): 147-176**（Su, Xiaochen, Chung-li Wu, Yen-chieh Liao, Tai-De Lee, and Chen Tsao
+**2015 The Rationale for Supporting Nuclear Power: Analysis of Taiwanese Public Opinion Survey _International Relations ofthe Asia-Pacific_ 15 (1): 147-176**（Su, Xiaochen, Chung-li Wu, Yen-chieh Liao, Tai-De Lee, and Chen Tsao)
 
 The future of nuclear energy use has become increasingly contentious across the world. This is especially the case in Taiwan, which simultaneously suffers from the instabilities associated with fossil fuel imports and widespread public doubts about the government's ability to handle a Fukushima-scale disaster, while also being increasingly dependent on nuclear energy. This study employs the 2013 Taiwan Election and Democratization Study (TEDS) survey on the Lungmen Nuclear Power Plant to gauge public opinion on the nuclear issue. The results demonstrate that while the public tends to be pro-nuclear when they are informed about the financial consequences of abandoning nuclear power and reassured about safety concerns, opponents of nuclear power, though numerically fewer, tend to be more vocal. Further research is needed to determine the exact logic of the public's decision making, based on a more precise set of preconditions.
 
