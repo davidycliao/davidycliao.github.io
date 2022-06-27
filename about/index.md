@@ -24,7 +24,7 @@ For working papers relelated my reserach, please visit [<span style="color:#2525
 Embiyax Su Hug (太魯閣族語 Hello),  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="25" height="25" alt="hi">
 
 我是目前就讀[<span style="color:#778899">**英國艾塞克斯大學**</span>](https://www.essex.ac.uk/departments/government)攻讀政治學的博士候選人，廖彥傑 (太魯閣族)。同時，我也受聘於[<span style="color:#778899">**德國班貝格大學政治系比較政治研究群**</span>](https://projectlacan.wordpress.com/team/)擔任博士級研究人員，協助執行德國與英國議會質詢資料之搜集、建立與自然語言分析之工作。
-在過去，我學習族群政治競爭與原住民資源分配等問題；除了我的論文計畫外，我也開始關注計算社會科學方法應用在台灣政黨競爭、比較立法代表行為與當代中國政治。今年十月完成博士論文答辯後，我將會加入[<span style="color:#778899">**丹麥奧胡斯大學全球研究系部門**</span>](https://cas.au.dk/en/about-the-school/departments/global-studies)擔任博士後研究人員。
+在過去，我學習族群政治競爭與原住民資源分配等問題；除了我的論文計畫外，我也開始關注計算社會科學方法應用在台灣政黨競爭、比較立法代表行為與當代中國政治。今年十月完成博士論文答辯後，我將會加入[<span style="color:#778899">**丹麥奧胡斯大學文化與社會學院全球事務研究系**</span>](https://cas.au.dk/en/about-the-school/departments/global-studies)擔任博士後研究人員。
 __如果也是原住民，計畫繼續升學或出國進修，歡迎與我聯繫。我的學習經驗或多或少能有些幫助。__
 
 </div>
