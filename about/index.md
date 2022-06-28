@@ -15,7 +15,7 @@ Specifically, I am interested in how electoral motives shape legislators' pork-b
 
 Apart from my dissertation, I am also interested in applying various computational methods to estimate European party competition and communication strategies. Currently, 
 I am looking at utilising the pre-trained models and *the transformer* to measure intra-party divisions via legislators' facial expressions and vocal dimensions, 
-and start research projects about China's propaganda techniques and state-backed information operation in contemporary China.  For working papers relelated my reserach, please visit [<span style="color:#252525"> **Research Portfolio**</span>](https://davidycliao.github.io/research/) and my [<span style="color:#252525"> **GitHub**</span>](https://github.com/davidycliao). Thank you.
+and start research projects about China's propaganda techniques and state-backed information operation.  For working papers relelated my reserach, please visit [<span style="color:#252525"> **Research Portfolio**</span>](https://davidycliao.github.io/research/) and my [<span style="color:#252525"> **GitHub**</span>](https://github.com/davidycliao). Thank you.
 
 ---
 Embiyax Su Hug (太魯閣族語 Hello),  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="25" height="25" alt="hi">
