@@ -41,7 +41,7 @@ img {
 
 </div>
 
----
+<!-- ---
 
 <div style="text-align: justify">
 
@@ -73,7 +73,7 @@ img {
 </p>
 
 </div>
-
+ -->
 
 
 
