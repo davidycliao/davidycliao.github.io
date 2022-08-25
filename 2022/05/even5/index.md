@@ -1,4 +1,4 @@
-# Poster Presentation @ University of Innsbruck2022 ECPR General Conference
+# Presentation @ University of Innsbruck2022 ECPR General Conference
 
 
 <div style="text-align: justify">
