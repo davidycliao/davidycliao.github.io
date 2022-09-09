@@ -87,22 +87,12 @@ img {
 
 </div> -->
 
----
-
-<div style="text-align: justify">
-
-
-**Chapter 3: Measuring Party Cohesion on Parliamentary Question Keywords** ([<span style="color:#778899"> co-authored with Calvin Yu-Ceng Liao, Post Doctoral Research Fellow at Taiwan Studies Center, National Chengchi University</span>](https://sites.google.com/view/calvin-yuceng-liao/home))
-
-Understanding the positions of parties and legislators is key to conceptualizing party cohesion and their representation in most democracies. This study is to measure intra-party heterogeneity and variability in issue attention by looking at what and why legislators are more likely to oversight the ministry officials on one specific topic or another during the question time. We answer this question using the case of Taiwan Legislative Yuan, and data on written parliamentary questions through an electoral reform from 1993 to 2020. We estimate the position of each legislator on the left-right dimensions using the keywords extracted from the questions that legislators request for information on policies and activities of ministries from executive officials. We document how the electoral reform shapes legislators' ideological position and variability on their issue attentions: party cohesion increases when high variability in issue attention in Single Member District (SMD) and decreases when low variability under Single Non-transferable Vote (SNTV). These findings shed new light on providing a different approach to estimating party cohesion as well as to understanding the changes of political behaviour in representation and political accountability through the electoral reform.
-
-**Keywords**：*party cohesion, intra-party heterogeneity, electoral reform, parliamentary questions*
 
 ---
 
 <div style="text-align: justify">
 
-**Chapter 4: Mayors and Pork Barrel: Legislative Experience Bias in Intergovernmental Transfers to Taiwan Municipalities**
+**Chapter 3: Mayors and Pork Barrel: Legislative Experience Bias in Intergovernmental Transfers to Taiwan Municipalities**
 
 This paper examines the contribution of mayor’s political career within governments in obtaining more distributive benefits to her own municipality. Mayors with more sophisticated experience have stronger electoral ties to the central government, which is useful for them to enhance their chances of staying in office. Using panel dataset of Revenue Support Grant, we find that municipalities whose mayors with longer career spent in the legislature are more likely to be allocated higher fiscal expenditures. The effect is even stronger if the mayors have worked in legislative standing committees. On the contrary, mayors’ prior political career in ministries does not significantly help their municipalities obtain the grant. The findings suggest that compared to experience as a central government official, a legislative career has a leading impact on grant transfer to municipalities.
 
@@ -177,7 +167,7 @@ Recommendations are also included on applying our machine classifier to related 
 
 <div style="text-align: justify">
 
-**Party Misperception, Party-voter Incongruence and Political Distrust** (with Li Tang, Middlesex University London and Univeristy of Essex)
+**Party Misperception, Party-voter Incongruence and Political Distrust** (with Royce Carroll, Essex; Li Tang, Middlesex University London)
 
 To what extent do misperceptions of party positions affect voters' perception of representation and satisfaction with democracy? This paper offers an explanation using the case of the UK and data from the British Election Survey (BES) and the Chapel Hill Expert Survey (CHES). We show that voters' perceptional gaps in understanding party positions contribute to political incongruence between party and voters, subsequently deteriorating their trust and satisfaction with government. From our analysis, the misperceptions about UK parties increase both perceived and actual incongruence between voters and parties, with those with higher perceptional gaps demonstrating higher party–voter incongruence. This perceptional gap further contributes to citizen distrust and dissatisfaction towards the political system. 
 
@@ -190,13 +180,12 @@ To what extent do misperceptions of party positions affect voters' perception of
 
 <div style="text-align: justify">
 
-**This is What We Hope: Estimating Perceptions on Political Trust** (with Li Tang, Middlesex University London and Univeristy of Essex)
 
-We propose a new approach to estimating voters' preferences on party positions, including aggregate subjective targets of Conservative Party's and Labour Party's positions, based on their political confidence towards the government, that requires no priors on the underlying data-generating process of the targets. Our approach entails directly measuring voters' confidence from the self-reported public trust towards the Parliament surveyed by British Election Study during 2017 and 2019. This paper first documents robust evidence that voters with different partisan affiliations prefer parties to locate differently: when parties move closer to the targets, the corresponding representative voter gains satisfaction and trust in the Parliament. Then, we find the estimated targets persistently deviate from perceptions of experts from the Chapel Hill Expert Survey in varying degrees, regardless of personal attributes and party affiliations. Interestingly, low-income voters from Conservative Party have targets that are more prone to disagree with experts' perceptions than high-income voters. These findings shed new light on new approach to capturing voters' preference on party positions as well as discrepancy between actual party positions and voters' perception on political parties.
+**Measuring Party Cohesion on Parliamentary Question Keywords** ([<span style="color:#778899"> co-authored with Calvin Yu-Ceng Liao, Post Doctoral Research Fellow at Taiwan Studies Center, National Chengchi University</span>](https://sites.google.com/view/calvin-yuceng-liao/home))
 
-**Keywords**：*party perceptions, expert surveys, political trust, inverse U-shape trust function, asymmetric inverse V-shape trust function*
+Understanding the positions of parties and legislators is key to conceptualizing party cohesion and their representation in most democracies. This study is to measure intra-party heterogeneity and variability in issue attention by looking at what and why legislators are more likely to oversight the ministry officials on one specific topic or another during the question time. We answer this question using the case of Taiwan Legislative Yuan, and data on written parliamentary questions through an electoral reform from 1993 to 2020. We estimate the position of each legislator on the left-right dimensions using the keywords extracted from the questions that legislators request for information on policies and activities of ministries from executive officials. We document how the electoral reform shapes legislators' ideological position and variability on their issue attentions: party cohesion increases when high variability in issue attention in Single Member District (SMD) and decreases when low variability under Single Non-transferable Vote (SNTV). These findings shed new light on providing a different approach to estimating party cohesion as well as to understanding the changes of political behaviour in representation and political accountability through the electoral reform.
 
-</div>
+**Keywords**：*party cohesion, intra-party heterogeneity, electoral reform, parliamentary questions*
 
 ---
 
@@ -237,14 +226,7 @@ Analyzing the preference of the United Nations is essential to understanding the
 
 </div>
 
----
 
-<div style="text-align: justify">
-
-**Estimating Fiscal Policy Objectives in the UK with Text Analysis** (with [<span style="color:#778899"> Pei Kuang, University of Birmingham</span>](https://sites.google.com/site/peikuang2011/research) and [<span style="color:#778899"> Tang Li, Middlesex University London and Univeristy of Essex</span>](https://sites.google.com/view/litang2020))
-
-
-</div>
 
 
 <br/><br/>
