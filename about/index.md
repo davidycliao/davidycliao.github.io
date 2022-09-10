@@ -12,13 +12,7 @@ Hi There!
 My name is David (Yen-Chieh) Liao. I am a PhD Candidate funded by the Taiwan Ministry of Education (Jul 2017 - Aug 2021) [<span style="color:#778899">**Department of Government in University of Essex**</span>](https://www.essex.ac.uk/departments/government) and a Predoctoral Researcher (Dec 2021-) of [<span style="color:#778899">**Legislators between Accountability and Collective Agency (LACAN)**</span>](https://projectlacan.wordpress.com/team/)  at the Chair of Comparative Politics in University of Bamberg.
 
 I study __distributive politics__, __roll call polarization__ and __legislative oversight__, mainly focusing on Taiwan Legislative Yuan (the Legislature). For my PhD dissertation project, I use ideal point estimation and computational methods to study the impact of the electoral reform in Taiwan and investigate how the reform changes legislators' representation. Specifically, I am interested in how electoral motives shape legislators' pork-barrel behaviour, ideological positionings and preferences. 
-This dissertation project has been awarded the 2021 Taiwanese Overseas Pioneers Grants by [<span style="color:#778899">**the Taiwan Ministry of Science and Technology**</span>](https://www.most.gov.tw/?l=en)  (July 2021 - August 2022). After my thesis defence, I will join the Department of Global Studies as a Post-doctoral Researcher to conduct the DEMINOVA Project (*DEMINOVA: A Cross-national Exploration of Democratic Imaginaries and Innovation in Social Movements*) at 
- [<span style="color:#778899">**Aarhus University**</span>](https://international.au.dk).
-
-
-Apart from my dissertation, I am also interested in applying computational methods to study social movement and political communication. 
-I also start research projects about discovering China's state-backed information operations on social media. Please visit Research Portfolio and my GitHub if you are interested in my research topics. Thank you.
-
+This dissertation project has been awarded the 2021 Taiwanese Overseas Pioneers Grants by [<span style="color:#778899">**the Taiwan Ministry of Science and Technology**</span>](https://www.most.gov.tw/?l=en)  (July 2021 - August 2022). After my thesis defence, I will join the Department of Global Studies as a Post-doctoral Researcher to be part of [<span style="color:#778899">**DEMINOVA Research Group**</span>](https://projects.au.dk/deminova) at [<span style="color:#778899">**Aarhus University**</span>](https://international.au.dk).
 
 
 
