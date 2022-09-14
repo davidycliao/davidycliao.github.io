@@ -127,7 +127,7 @@ img {
 
 <div style="text-align: center">
 
-## Works in Progress : 
+## Working Papers and Works in Progress : 
 
 </div>
 
@@ -164,7 +164,6 @@ Recommendations are also included on applying our machine classifier to related 
 
 ---
 
-
 <div style="text-align: justify">
 
 **Party Misperception, Party-voter Incongruence and Political Distrust** (with Royce Carroll, Essex; Li Tang, Middlesex University London)
@@ -181,11 +180,48 @@ To what extent do misperceptions of party positions affect voters' perception of
 <div style="text-align: justify">
 
 
+**Estimating Politically Expressive Preference with Context-Aware Named Entities** ([<span style="color:#778899">with Thomas Saalfeld and  David Beck, University of Bamberg</span>](https://sites.google.com/view/calvin-yuceng-liao/home))
+
+Ideological positions of political parties are commonly measured using text scaling
+ methods, such as Wordfiish (Slapin and Proksch 2008) and Wordscore (Laver,
+Benoit, and Garry 2003; Lowe 2008; Lowe and Benoit 2013). These analysis methods 
+are not only useful for extracting latent dimension of parties and politicians,
+but also for testing political theories, e.g., intra-party competition (Haber 2015;
+Däubler and Benoit 2015), and party positionings (e.g. Catalinac 2017; Proksch
+and Slapin 2010). Concerns have been raised around the performances in inter-
+nal validity (Bruinsma and Gemenis 2019), and around the assumptions that both
+Wordscores and Wordfish make of their input data (Egerod and Klemmensen 2020;
+Proksch and Slapin 2009). In this paper, we propose a novel estimation strategy
+that augments the text scaling methods used in political science with named entity
+recognition (NER) that recognizes various types of entity objects. We first extract
+named entities using state-of-the-art language models in German and English and
+scale them with Wordfish Model. We illustrate our strategy using the case of parlia-
+mentary debates on the topics of immigration issues discussed in the UK House
+of Commons and the German Bundestag from 2014 to 2019. Party positions are
+estimated and validated with the Chapel Hill Expert Survey (CHES). We find
+that (1) parties’ positions estimated by our approach are highly consistent with the
+CHES expert's judgment, and (2) our approach achieves better internal validity
+in terms of perplexity performance than the basic text scaling model without the
+pre-processing step using NER.
+
+
+**Keywords**：*flairNLP, CHES, Named Entity Recognition, parliamentary debates, wordfish, wordscore, party cohesion*
+
+</div>
+
+---
+
+
+<div style="text-align: justify">
+
+
 **Measuring Party Cohesion on Parliamentary Question Keywords** ([<span style="color:#778899"> co-authored with Calvin Yu-Ceng Liao, Post Doctoral Research Fellow at Taiwan Studies Center, National Chengchi University</span>](https://sites.google.com/view/calvin-yuceng-liao/home))
 
 Understanding the positions of parties and legislators is key to conceptualizing party cohesion and their representation in most democracies. This study is to measure intra-party heterogeneity and variability in issue attention by looking at what and why legislators are more likely to oversight the ministry officials on one specific topic or another during the question time. We answer this question using the case of Taiwan Legislative Yuan, and data on written parliamentary questions through an electoral reform from 1993 to 2020. We estimate the position of each legislator on the left-right dimensions using the keywords extracted from the questions that legislators request for information on policies and activities of ministries from executive officials. We document how the electoral reform shapes legislators' ideological position and variability on their issue attentions: party cohesion increases when high variability in issue attention in Single Member District (SMD) and decreases when low variability under Single Non-transferable Vote (SNTV). These findings shed new light on providing a different approach to estimating party cohesion as well as to understanding the changes of political behaviour in representation and political accountability through the electoral reform.
 
 **Keywords**：*party cohesion, intra-party heterogeneity, electoral reform, parliamentary questions*
+
+</div>
 
 ---
 
