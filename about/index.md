@@ -12,7 +12,9 @@ Hi There!
 My name is David (Yen-Chieh) Liao. I am a PhD Candidate funded by the Taiwan Ministry of Education (Jul 2017 - Aug 2021) [<span style="color:#778899">**Department of Government in University of Essex**</span>](https://www.essex.ac.uk/departments/government) and a Predoctoral Researcher (Dec 2021-) of [<span style="color:#778899">**Legislators between Accountability and Collective Agency (LACAN)**</span>](https://projectlacan.wordpress.com/team/)  at the Chair of Comparative Politics in University of Bamberg.
 
 I study __distributive politics__, __roll call polarization__ and __legislative oversight__, mainly focusing on Taiwan Legislative Yuan (the Legislature). For my PhD dissertation project, I use ideal point estimation and computational methods to study the impact of the electoral reform in Taiwan and investigate how the reform changes legislators' representation. Specifically, I am interested in how electoral motives shape legislators' pork-barrel behaviour, ideological positionings and preferences. 
-This dissertation project is awarded the 2021 Taiwanese Overseas Pioneers Grants by [<span style="color:#778899">**the 2021 National Science and Technology Council Taiwanese Overseas Pioneers Grants（TOP Grants）**</span>](https://www.most.gov.tw/?l=en)  (July 2021 - August 2022). After my thesis defence, I will join the Department of Global Studies as a Post-doctoral Researcher to be part of [<span style="color:#778899">**DEMINOVA Research Group**</span>](https://projects.au.dk/deminova) at [<span style="color:#778899">**Aarhus University**</span>](https://international.au.dk).
+This dissertation project is awarded the 2021 Taiwanese Overseas Pioneers Grants by [<span style="color:#778899">*The 2021 National Science and Technology Council Taiwanese Overseas Pioneers Grants（TOP Grants）*</span>](https://www.most.gov.tw/?l=en)  (July 2021 - August 2022). 
+After my thesis defence, I will join [<span style="color:#778899">**the Department of Global Studies**</span>](https://pure.au.dk/portal/en/persons/yenchieh-liao(0a64ba05-9c47-40b2-8ff6-c3d8aeab26f7).html)
+ as a Post-doctoral Researcher to be part of [<span style="color:#778899">**DEMINOVA**</span>](https://projects.au.dk/deminova) at [<span style="color:#778899">**Aarhus University**</span>](https://international.au.dk).
 
 
 
@@ -22,7 +24,9 @@ Embiyax Su Hug (太魯閣族語 Hello),  <img src="https://user-images.githubuse
 
 我是目前就讀[<span style="color:#778899">**英國艾塞克斯大學**</span>](https://www.essex.ac.uk/departments/government)攻讀政治學的博士候選人，廖彥傑 (太魯閣族)。同時，也擔任[<span style="color:#778899">**德國班貝格大學政治系比較政治研究中心**</span>](https://projectlacan.wordpress.com/team/)博士生研究人員，協助執行德國與英國議會質詢資料之搜集、建立與自然語言分析之工作。 
 在碩士求學階段，關注台灣原住民族群政治、大族政治、資源分配與競爭等議題。在博士論文主題方面，我學習利用計算機社會科學方法，分析選舉制度如何改變台灣政黨競爭與肉桶立法代表行為，該論文計畫也獲得[<span style="color:#778899">**110年度台灣科技部人文及社會科學研究海外人才培育計畫**</span>](https://www.stpi.narl.org.tw/public/show?id=4b1141647ad2a353017af136d1ae0fa5)。
-與此同時，也結合文本分析技術研究當代中國政治，以及利用開源預預訓練模型，分析社會運動及其對民主參與價值的影響。於今年10月完成博士論文答辯後，我將於11月加入[<span style="color:#778899">**丹麥奧胡斯大學文化與社會學院全球事務研究系**</span>](https://cas.au.dk/en/about-the-school/departments/global-studies)擔任博士後研究人員。 空閒之餘，喜歡跟我的伴侶研究如何做地道的重慶料理。 若同為原住民，未來也計畫繼續升學或出國進修，歡迎與我聯繫，希望能藉由過往的學習歷程提供個人淺見及協助。
+與此同時，也結合文本分析技術研究當代中國政治，以及利用開源預預訓練模型，分析社會運動及其對民主參與價值的影響。於今年10月完成博士論文答辯後，我將於11月加入[<span style="color:#778899">**丹麥奧胡斯大學文化與社會學院全球事務研究系**</span>](https://pure.au.dk/portal/en/persons/yenchieh-liao(0a64ba05-9c47-40b2-8ff6-c3d8aeab26f7).html)擔任博士後研究人員。空閒之餘，喜歡跟我的伴侶研究如何做地道的重慶料理。 若同為原住民，未來也計畫繼續升學或出國進修，歡迎與我聯繫，希望能藉由過往的學習歷程提供個人淺見及協助。
+
+
 
 
 
