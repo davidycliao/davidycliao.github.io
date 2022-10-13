@@ -268,7 +268,7 @@ Analyzing the preference of the United Nations is essential to understanding the
 
 <br/><br/>
 
-
+<!-- 
 <div style="text-align: center">
 
 ## Prior Research Before PhD:
@@ -333,5 +333,5 @@ The future of nuclear energy use has become increasingly contentious across the 
 **Documents**: [`paper`](https://www.airitilibrary.com/Publication/alDetailedMesh?DocID=P20161117001-201406-201611180016-201611180016-27-45&PublishTypeID=P001) 
 
 
-</div>
+</div> -->
 
