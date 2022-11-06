@@ -19,16 +19,16 @@ My research projects include:  *a PhD dissertation on legislative politics in Ta
 
 </div> 
 
+<div style="text-align: center">
+
+### ***“Electoral Reform, Distributive Politics, and Parties in the Taiwanese Congress”***  
+
+
 <div style="text-align: justify">
 
-### ***“Title: Pork Barrel, Polarization and Competition within the Congress : The Applications of Computational Social Science”***  
+**Abstract**
 
-
-<div style="text-align: justify">
-
-**Chapter 1: Electoral Reform and Disunited Polarization: Evidence from Legislative Roll Calls**
-
-The extent to which electoral systems change legislative preference and representation remains debatable. This paper investigates how parties and legislators strategically position themselves in response to an institutional change using the case of Taiwan's electoral reform through the Single Non-transferable Vote (SNTV) to the Single-Member Districts (SMD). To this end, I apply dynamic ideal point estimation to measure legislators' ideological preferences and study whether the reform moderates the level of intra-party disagreement induced by the change in the systems. The empirical evidence shows that intra-party fractionalization increases while ideological differences between major parties are drastically polarized in the SMD. Controlling for yearly effects during the presence of the reform, however, I find the impact of party division decreases as time goes by. This paper complements mounting evidence that electoral systems play an important role in explaining lawmakers' preferences and the changes in ideological positioning shedding light on party polarization and party competition in modern democracies.
+ Estimating the preference of parties and politicians is key to understanding interparty relations, polarisation, and electoral competition. This thesis investigates how the 2008 Taiwan electoral reform from a single non-transferable voting system (SNTV) to single-member districts (SMD) impacts the behaviour of legislators and their electoral strategies by analysing historic roll calls and parliamentary questions. I present several pieces of empirical evidence to answer the following research questions: (1) Does the electoral reform mitigate intraparty competition and increase party cohesion? (2) Does the reform reduce regional particularism expressed in parliamentary questions but increase the promises of universalism policies? Last, many legislators changed careers to become municipal mayors due to the reduced number of seats after the reform. (3) Do mayors having longer years of career in congress correspondingly assist the municipalities to receive more distributive spending? The thesis applies ideal point estimation and natural language processing techniques currently deployed by the frontier study of legislatures and strengthens the understanding of Taiwan party politics and party competition inside the congress (the Legislative Yuan). With the unique legislative data covering the pre- and post-reform periods, the reform did not immediately reduce intraparty competition but shortly polarised interparty relations, leaving congress in chaos during the transition. However, legislators' incentive to run on personal votes by asking particularistic parliamentary questions decreased while attention to regulatory policies increased after the reform. Last, the thesis finds municipalities whose mayors with longer careers spent in the legislature are more likely to be allocated higher distributive benefits. The effect is even more substantial if those mayors had previously been connected to the legislative standing committees. 
 
 <!-- <p align="center">
 <style>
@@ -47,76 +47,9 @@ img {
 </p> -->
 
 **Keywords**：*electoral reform, single-member districts (SMDs), roll call, political polarization*  <br> 
-**Documents**: [`slides`](https://raw.githack.com/davidycliao/erdp/master/slides/slides.html#1) | [`paper`](https://raw.githack.com/davidycliao/erdp/master/paper/Electoral_Reform_and_Disunited_Polarization.pdf)
+**Documents**: [`slides`]() | [`thesis`](https://github.com/davidycliao/phd-thesis/blob/main/Yen_Chieh_Liao_PhD_Dissertation.pdf)
 
-
-
-</div>
-
----
-
-<div style="text-align: justify">
-
-**Chapter 2: Electoral Reform and Pork Barrel in Parliamentary Questions** 
-
-Measuring legislator behaviours and tendencies towards constituencies under the different systems is important. This paper quantitatively investigates 
-the topic using Taiwan Legislative Yuan's case and data on written parliamentary questions through an electoral reform 
-from multi-member districts (MMD) to single-member districts (SMD). With existing labelled pork legislation, I 
-train a deep learning model to measure pork-barrel features on parliamentary questions. Evidence exists to show that legislators under 
-MMD are more likely to express political intention about pork-barrel projects in written parliamentary questions. Yet, the reform subsequently demonstrates heterogeneous effects on major parties vis-à-vis minority parties. 
-
-**Keywords**：*electoral reform, single-member districts (SMDs), distributive politics, Transformers, BERT*  <br> 
-**Documents**: [`slides`](https://raw.githack.com/davidycliao/erpb/master/slides/slides.html#1) | [`paper`](https://raw.githack.com/davidycliao/erpb/main/paper/paper.pdf)
-
-<!-- <p align="center">
-<style>
-img {
-  border: 1px solid #ddd;
-  border-radius: 4px;
-  padding: 5px;
-  width: 150px;
-}
-</style>
-  <img width="500" height= "110"  src="https://raw.githack.com/davidycliao/erpb/main/slides/images/p2.png" >
-  <img width="500" height= "110" src="https://raw.githack.com/davidycliao/erpb/main/slides/images/top30.png">
-  <img width="500" height= "110"  src="https://raw.githack.com/davidycliao/erpb/main/slides/images/mean.png">
-  <img width="500" height= "110"  src="https://raw.githack.com/davidycliao/erpb/main/slides/images/num.png" >
-
-</p>
-
-
-</div> -->
-
-
----
-
-<div style="text-align: justify">
-
-**Chapter 3: Mayors and Pork Barrel: Legislative Experience Bias in Intergovernmental Transfers to Taiwan Municipalities**
-
-This paper examines the contribution of mayor’s political career within governments in obtaining more distributive benefits to her own municipality. Mayors with more sophisticated experience have stronger electoral ties to the central government, which is useful for them to enhance their chances of staying in office. Using panel dataset of Revenue Support Grant, we find that municipalities whose mayors with longer career spent in the legislature are more likely to be allocated higher fiscal expenditures. The effect is even stronger if the mayors have worked in legislative standing committees. On the contrary, mayors’ prior political career in ministries does not significantly help their municipalities obtain the grant. The findings suggest that compared to experience as a central government official, a legislative career has a leading impact on grant transfer to municipalities.
-
-
-**Keywords**：*distributive politics, pork barrel, intergovernmental grants* <br> 
-**Documents**: [`slides`](https://raw.githack.com/davidycliao/pcpb/main/slides/slides.pdf) | [`paper`](https://raw.githack.com/davidycliao/pcpb/main/paper/Mayors_and_Pork_Barrel.pdf)
-
-<!-- 
-<p align="center">
-<style>
-img {
-  border: 1px solid #ddd;
-  border-radius: 4px;
-  padding: 5px;
-  width: 150px;
-}
-</style>
-  <img width="500" height= "110"  src="https://raw.githack.com/davidycliao/erpb/main/slides/images/p2.png" >
-  <img width="500" height= "110" src="https://raw.githack.com/davidycliao/erpb/main/slides/images/top30.png">
-  <img width="500" height= "110"  src="https://raw.githack.com/davidycliao/erpb/main/slides/images/mean.png">
-  <img width="500" height= "110"  src="https://raw.githack.com/davidycliao/erpb/main/slides/images/num.png" >
-
-</p> -->
-
+<br> 
 
 (The PhD dissertation project is supported by the 2021 Taiwanese Overseas Pioneers Grant from *Ministry of Science and Technology Taiwan*, August 2021 - August 2022)
 
@@ -172,6 +105,8 @@ pre-processing step using NER.
 
 In this paper, we design a new strain of text scaling method, Swordfish (__Slogan-featured Wordfish__), that takes advantage of the TextRank 
 algorithm to extract the most representative political slogans in a given context and estimates _Wordfish_ with those extracted text variables. We test this method using the case of the Great Proletarian Cultural Revolution in China and the historical archive of handwritten big-character posters and self-printed tabloids from 1966. We estimate student protests' ideal points by analyzing expressed political views in propaganda publications. Our findings point to evidence of factional re(de)alignments within the movement and demonstrate how the students from different educational backgrounds followed Mao Zedong and Xiaohongshu 小紅書 (Little Red Book) and then fell into armed conflicts that divided families, the classes and the society. The results estimated by our approach are shown to be consistent with the representative qualitative literature of factionalism regarding the Cultural Revolution.</div>
+
+</div>
 
 **Keywords**：*Red Guards, TextRank, wordfish* <br> 
 

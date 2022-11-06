@@ -16,10 +16,9 @@ My name is David (Yen-Chieh) Liao. I am a Post-doctoral Fellow at [<span style="
 ---
 Embiyax Su Hug (太魯閣族語 Hello),  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="25" height="25" alt="hi">
 
-
-我是目前就讀[<span style="color:#778899">**英國艾塞克斯大學**</span>](https://www.essex.ac.uk/departments/government)攻讀政治學的博士候選人，廖彥傑 (太魯閣族)。同時，也擔任[<span style="color:#778899">**德國班貝格大學政治系比較政治研究中心**</span>](https://projectlacan.wordpress.com/team/)博士生研究人員，協助執行德國與英國議會質詢資料之搜集、建立與自然語言分析之工作。 
+我目前於[<span style="color:#778899">**丹麥奧胡斯大學文化與社會學院全球事務研究系**</span>](https://pure.au.dk/portal/en/persons/yenchieh-liao(0a64ba05-9c47-40b2-8ff6-c3d8aeab26f7).html)擔任博士後研究人員。與此同時時，也參與[<span style="color:#778899">**德國班貝格大學政治系比較政治研究中心**</span>](https://projectlacan.wordpress.com/team/)，協助執行德國與英國議會質詢資料之搜集、建立與自然語言分析之工作。 
 在碩士求學階段，關注台灣原住民族群政治、大族政治、資源分配與競爭等議題。在博士論文主題方面，我學習利用計算機社會科學方法，分析選舉制度如何改變台灣政黨競爭與肉桶立法代表行為，該論文計畫也獲得[<span style="color:#778899">**110年度台灣科技部人文及社會科學研究海外人才培育計畫**</span>](https://www.stpi.narl.org.tw/public/show?id=4b1141647ad2a353017af136d1ae0fa5)。
-與此同時，也結合文本分析技術研究當代中國政治，以及利用開源預預訓練模型，分析社會運動及其對民主參與價值的影響。於今年10月完成博士論文答辯後，我將於11月加入[<span style="color:#778899">**丹麥奧胡斯大學文化與社會學院全球事務研究系**</span>](https://pure.au.dk/portal/en/persons/yenchieh-liao(0a64ba05-9c47-40b2-8ff6-c3d8aeab26f7).html)擔任博士後研究人員。空閒之餘，喜歡跟我的伴侶研究如何做地道的重慶料理。 若同為原住民，未來也計畫繼續升學或出國進修，歡迎與我聯繫，希望能藉由過往的學習歷程提供個人淺見及協助。
+與此同時，也結合文本分析技術研究當代中國政治，以及利用開源預預訓練模型，分析社會運動及其對民主參與價值的影響。空閒之餘，喜歡跟我的伴侶研究如何做地道的重慶料理。 若同為原住民，未來也計畫繼續升學或出國進修，歡迎與我聯繫，希望能藉由過往的學習歷程提供個人淺見及協助。
 
 
 
