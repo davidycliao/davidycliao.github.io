@@ -24,7 +24,7 @@ Embiyax Su Hug (太魯閣族語 Hello),  <img src="https://user-images.githubuse
 
 <div style="text-align: center">
 
-*Update: 28 June 2022*
+*Update: 12 Nov 2022*
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/authwall?trk=gf&trkInfo=AQERrkO9JeuxgQAAAYGIXxZw-IMriZ16fxaCyQ9B4fcr8SgrQXFIA4WvPBytf98cJPl4KsPT6KiRHzqt-s3Ozl8_IoJ8cn9_lBY1_kQiozmVJV_bXf0xolwYZIIc_TwCBrvqjMU=&original_referer=https://davidycliao.github.io/&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdavid-yen-chieh-liao-51a0a3168%2F)
 [![Twitter Badge](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/liaoyenchieh)
