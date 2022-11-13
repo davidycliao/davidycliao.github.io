@@ -161,18 +161,6 @@ Understanding the positions of parties and legislators is key to conceptualizing
 
 ---
 
-<div style="text-align: justify">
-
-**Estimating Heterogeneity Preference in the United Nations with Voting Records and Their Debates** (with Winnie Xia, University of Essex)
-
-Analyzing the preference of the United Nations is essential to understanding the origin of conflicts within major international organizations. This paper examines when and why members of the United Nations express their preferences consistently in both voting and speeches while some members do not. We answer this question using the subject of international security discussed and voted on by the representative of the states during the United Nations Security Council between 1980 and 2021. We parallelly estimate state ideal points on a left-right dimension using both the general debates and voting records with regards to topics on international security across time. Finally, we show how the state's voting preference correlates with their speech ideal points while some of them do not: heterogeneity between their speeches and voting decreases when political competitions at home increase.  
-
-**Keywords**：*the United Nations*、*the United Nations Security Council*、*ideal point estimation*
-
-</div>
-
----
-
 
 <div style="text-align: justify">
 
