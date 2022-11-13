@@ -37,17 +37,6 @@ An automation web crawling 🕸️ framework for retrieving parliamentary questi
 
 An automation web crawling 🕸️ framework for retrieving for Extracting Central Bankers' Speeches on the Website of [<span style="color:#778899">***Bank for International Settlements (https://www.bis.org)***</span>](https://www.bis.org) in Python.
 
-
-----
-
-<div style="text-align: justify">
-
-**[<span style="color:#5a5a5a">**lacanCrawlers**</span>](https://davidycliao.github.io/lacanCrawlers/)**  
-
-An Automation Webcrawler for Extracting Parliamentary Questions from Janpan's Diet, the UK Parliarment and the Scottish Parliament. 
- 
-</div>
-
 ----
 
 <div style="text-align: justify">
