@@ -7,7 +7,7 @@
 <div style="text-align: justify">
 
 
-My research projects include:  *a PhD dissertation on Taiwan's legislative politics*, *quantitative studies of party misperception, political ideology and collective actions in the House of Commons*, and *computational methods applied to social media and contemporary China*.  
+My research projects include:  *my PhD dissertation on Taiwan's legislative politics*, *quantitative studies of party misplacement, political ideology and collective actions in parliarmentary democracies*, and *computational methods applied to social media and contemporary China*.  
 
 
 </div>
@@ -21,7 +21,7 @@ My research projects include:  *a PhD dissertation on Taiwan's legislative polit
 
 <div style="text-align: center">
 
-### ***“Electoral Reform, Distributive Politics, and Parties in the Taiwanese Congress”***  
+### ***“Electoral Reform, Distributive Politics, and Parties in the Taiwanese Congress” [`pdf`](https://github.com/davidycliao/phd-thesis/blob/main/Yen_Chieh_Liao_PhD_Dissertation.pdf)***  
 
 
 <div style="text-align: justify">
@@ -46,9 +46,6 @@ img {
 
 </p> -->
 
-**Keywords**：*electoral reform, single-member districts (SMDs), roll call, political polarization*  <br> 
-**Documents**: [`slides`]() | [`thesis`](https://github.com/davidycliao/phd-thesis/blob/main/Yen_Chieh_Liao_PhD_Dissertation.pdf)
-
 <br> 
 
 (The PhD dissertation project is supported by the 2021 Taiwanese Overseas Pioneers Grant from *Ministry of Science and Technology Taiwan*, August 2021 - August 2022)
@@ -58,9 +55,10 @@ img {
 
 <br/><br/>
 
+
 <div style="text-align: center">
 
-## Working Papers and *In-Progress* : 
+## Working Papers: 
 
 </div>
 
@@ -71,12 +69,28 @@ img {
 **Factionalism and the Red Guards under Mao’s China: Ideal Point Estimation Using Text Data** (with Yi-Nung Tsai, National Chengchi University; Daniel Tene, Univeristy of Essex;  Dechun Zhang, Leiden University) [`slides`](https://raw.githack.com/davidycliao/redguards/master/slides/slides.pdf) | [`paper`](https://raw.githack.com/davidycliao/redguards/master/slides/paper.pdf)
 
 **Party Misperception, Party-voter Incongruence and Political Distrust** (with Royce Carroll, Essex; Li Tang, Middlesex University London [`slides`]() | [`paper`](https://raw.githack.com/davidycliao/figures/master/Party_Misperception__Party_voter_Incongruence_and_Political_Distrust.pdf) 
+</div>
 
 
-**Estimating Politically Expressive Preference with Context-Aware Named Entities** ([<span style="color:#778899">with Thomas Saalfeld and David Beck, University of Bamberg & LACAN Research Group</span>](https://projectlacan.wordpress.com))
+<br/><br/>
 
 
-**State-led Nationalism: Measuring China’s Online Nationalists on Weibo** (with [<span style="color:#778899"> Dechun Zhang, Leiden University</span>](https://www.universiteitleiden.nl/en/staffmembers/dechun-zhang#tab-1))
+---
+
+<div style="text-align: center">
+
+## *In-Progress*: 
+
+</div>
+
+<div style="text-align: justify">
+
+
+**Estimating Politically Expressive Preference with Context-Aware Named Entities** ([<span style="color:#778899">with Thomas Saalfeld and David Beck, University of Bamberg</span>](https://projectlacan.wordpress.com))
+
+**Creating and Reproducing Collective Agency through Rituals in the British House of Commons, 1990-2019: A Text-Based Approach to Conceptualisation and Measurement**  ([<span style="color:#778899">with Thomas Saalfeld and David Beck</span>](https://projectlacan.wordpress.com))
+
+<!-- **State-led Nationalism: Measuring China’s Online Nationalists on Weibo** (with [<span style="color:#778899"> Dechun Zhang, Leiden University</span>](https://www.universiteitleiden.nl/en/staffmembers/dechun-zhang#tab-1)) -->
 
 
 **Measuring Party Cohesion on Parliamentary Question Keywords** ([<span style="color:#778899"> co-authored with Calvin Yu-Ceng Liao, Post Doctoral Research Fellow at Taiwan Studies Center, National Chengchi University</span>](https://sites.google.com/view/calvin-yuceng-liao/home))
@@ -84,8 +98,8 @@ img {
 **Topic Models for Political Short Texts: An Application, Validation and Compromises** (with [<span style="color:#778899"> Julia, Ju Yuon Park, Univeristy of Essex</span>](http://www.juyeonpark.com))
 
 **官僚團體如何「重寫」意識形態陳述：以《人民日報》習近平思想的評論為例** (與蔡儀儂)
-<div style="text-align: justify">
 
+</div>
 
 
 
