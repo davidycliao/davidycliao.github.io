@@ -7,7 +7,7 @@
 <div style="text-align: justify">
 
 
-My research projects include:  *a PhD dissertation on legislative politics in Taiwan*, *quantitative studies of party misperception and political ideology*, and *computational methods applied to social media and contemporary China*.  
+My research projects include:  *a PhD dissertation on Taiwan's legislative politics*, *quantitative studies of party misperception, political ideology and collective actions in the House of Commons*, and *computational methods applied to social media and contemporary China*.  
 
 
 </div>
@@ -68,123 +68,25 @@ img {
 
 <div style="text-align: justify">
 
+**Factionalism and the Red Guards under Mao’s China: Ideal Point Estimation Using Text Data** (with Yi-Nung Tsai, National Chengchi University; Daniel Tene, Univeristy of Essex;  Dechun Zhang, Leiden University) [`slides`](https://raw.githack.com/davidycliao/redguards/master/slides/slides.pdf) | [`paper`](https://raw.githack.com/davidycliao/redguards/master/slides/paper.pdf)
+
+**Party Misperception, Party-voter Incongruence and Political Distrust** (with Royce Carroll, Essex; Li Tang, Middlesex University London [`slides`]() | [`paper`](https://raw.githack.com/davidycliao/figures/master/Party_Misperception__Party_voter_Incongruence_and_Political_Distrust.pdf) 
+
+
 **Estimating Politically Expressive Preference with Context-Aware Named Entities** ([<span style="color:#778899">with Thomas Saalfeld and David Beck, University of Bamberg & LACAN Research Group</span>](https://projectlacan.wordpress.com))
 
-Ideological positions of political parties are commonly measured using text scaling
- methods, such as Wordfiish (Slapin and Proksch 2008) and Wordscore (Laver,
-Benoit, and Garry 2003; Lowe 2008; Lowe and Benoit 2013). These analysis methods 
-are not only useful for extracting latent dimension of parties and politicians,
-but also for testing political theories, e.g., intra-party competition (Haber 2015;
-Däubler and Benoit 2015), and party positionings (e.g. Catalinac 2017; Proksch
-and Slapin 2010). Concerns have been raised around the performances in internal 
-validity (Bruinsma and Gemenis 2019), and around the assumptions that both
-Wordscores and Wordfish make of their input data (Egerod and Klemmensen 2020;
-Proksch and Slapin 2009). In this paper, we propose a novel estimation strategy
-that augments the text scaling methods used in political science with named entity
-recognition (NER) that recognizes various types of entity objects. We first extract
-named entities using state-of-the-art language models in German and English and
-scale them with Wordfish Model. We illustrate our strategy using the case of parliamentary 
-debates on the topics of immigration issues discussed in the UK House
-of Commons and the German Bundestag from 2014 to 2019. Party positions are
-estimated and validated with the Chapel Hill Expert Survey (CHES). We find
-that (1) parties’ positions estimated by our approach are highly consistent with the
-CHES expert's judgment, and (2) our approach achieves better internal validity
-in terms of perplexity performance than the basic text scaling model without the
-pre-processing step using NER.
-
-
-**Keywords**：*flairNLP, CHES, Named Entity Recognition, parliamentary debates, wordfish, wordscore, party cohesion*
-
-</div>
-
----
-
-<div style="text-align: justify">
-
-**Factionalism and the Red Guards under Mao’s China: Ideal Point Estimation Using Text Data** (with Yi-Nung Tsai, National Chengchi University; Daniel Tene, Univeristy of Essex;  Dechun Zhang, Leiden University )
-
-In this paper, we design a new strain of text scaling method, Swordfish (__Slogan-featured Wordfish__), that takes advantage of the TextRank 
-algorithm to extract the most representative political slogans in a given context and estimates _Wordfish_ with those extracted text variables. We test this method using the case of the Great Proletarian Cultural Revolution in China and the historical archive of handwritten big-character posters and self-printed tabloids from 1966. We estimate student protests' ideal points by analyzing expressed political views in propaganda publications. Our findings point to evidence of factional re(de)alignments within the movement and demonstrate how the students from different educational backgrounds followed Mao Zedong and Xiaohongshu 小紅書 (Little Red Book) and then fell into armed conflicts that divided families, the classes and the society. The results estimated by our approach are shown to be consistent with the representative qualitative literature of factionalism regarding the Cultural Revolution.</div>
-
-</div>
-
-**Keywords**：*Red Guards, TextRank, wordfish* <br> 
-
-**Documents**: [`slides`](https://raw.githack.com/davidycliao/redguards/master/slides/slides.pdf) | [`paper`](https://raw.githack.com/davidycliao/redguards/master/slides/paper.pdf)
-
----
-
-<div style="text-align: justify">
 
 **State-led Nationalism: Measuring China’s Online Nationalists on Weibo** (with [<span style="color:#778899"> Dechun Zhang, Leiden University</span>](https://www.universiteitleiden.nl/en/staffmembers/dechun-zhang#tab-1))
-
-Measuring Chinese nationalism on social media is essential to understand the operation of propaganda strategies used by
-the government to advance advertisements in its legitimacy and governance in China. 
-This research note follows the literature on Chinese nationalism and operationalizes major nationalistic 
-concepts commonly found in Sina Weibo (China's most popular social media platform). 
-We introduce a machine classifier that identify nationalistic attributes and its probability of being categorized as an attitude of belligerent nationalism on Weibo. 
-We train our model using comments and posts from China's state-controlled media, *People's Daily*, on more than one million spanning 
-different political incidents through 2018 to 2022. The training source consists of 13,200 Weibo comments, 4,871 nationalistic comments and 8,329 non-nationalistic comments, respectively. 
-With CNN trained on top of the BERT layer, the model performance achieves 91\% in F1-Score and 92\% in the weighted average, respectively. 
-Recommendations are also included on applying our machine classifier to related textual sources for future research on Chinese politics.
-
-**Keywords**：*Chinese  nationalists*、*nationalism*、*CNN*、*BERT* 、*Weibo* 
-
-</div>
-
----
-
-<div style="text-align: justify">
-
-**Party Misperception, Party-voter Incongruence and Political Distrust** (with Royce Carroll, Essex; Li Tang, Middlesex University London)
-
-To what extent do misperceptions of party positions affect voters' perception of representation and satisfaction with democracy? This paper offers an explanation using the case of the UK and data from the British Election Survey (BES) and the Chapel Hill Expert Survey (CHES). We show that voters' perceptional gaps in understanding party positions contribute to political incongruence between party and voters, subsequently deteriorating their trust and satisfaction with government. From our analysis, the misperceptions about UK parties increase both perceived and actual incongruence between voters and parties, with those with higher perceptional gaps demonstrating higher party–voter incongruence. This perceptional gap further contributes to citizen distrust and dissatisfaction towards the political system. 
-
-**Keywords**：*income inequality, Chapel Hill Expert Survey, party misperception, political trust* <br> 
-**Documents**: [`slides`]() | [`paper`](https://raw.githack.com/davidycliao/figures/master/Party_Misperception__Party_voter_Incongruence_and_Political_Distrust.pdf) 
-
-</div>
-
----
-
-
-<div style="text-align: justify">
 
 
 **Measuring Party Cohesion on Parliamentary Question Keywords** ([<span style="color:#778899"> co-authored with Calvin Yu-Ceng Liao, Post Doctoral Research Fellow at Taiwan Studies Center, National Chengchi University</span>](https://sites.google.com/view/calvin-yuceng-liao/home))
 
-Understanding the positions of parties and legislators is key to conceptualizing party cohesion and their representation in most democracies. This study is to measure intra-party heterogeneity and variability in issue attention by looking at what and why legislators are more likely to oversight the ministry officials on one specific topic or another during the question time. We answer this question using the case of Taiwan Legislative Yuan, and data on written parliamentary questions through an electoral reform from 1993 to 2020. We estimate the position of each legislator on the left-right dimensions using the keywords extracted from the questions that legislators request for information on policies and activities of ministries from executive officials. We document how the electoral reform shapes legislators' ideological position and variability on their issue attentions: party cohesion increases when high variability in issue attention in Single Member District (SMD) and decreases when low variability under Single Non-transferable Vote (SNTV). These findings shed new light on providing a different approach to estimating party cohesion as well as to understanding the changes of political behaviour in representation and political accountability through the electoral reform.
-
-**Keywords**：*party cohesion, intra-party heterogeneity, electoral reform, parliamentary questions*
-
-</div>
-
----
-
-
-<div style="text-align: justify">
-
-**官僚團體如何「重寫」意識形態陳述：以《人民日報》習近平思想的評論為例** (與蔡儀儂)
-
-意識形態體系在維繫中共政權的執政穩定，長期扮演了重要角色。雖然 部分觀察透過分析中共制定意識形態的過程，指出官定的意識形態非鐵板一塊，而是黨內政治衝突的折衷結果。
-不過，類似研究卻較少觸及意識形態建 構完成後，黨內的官僚組織，如何透過各自的話語體系，將意識形態「改寫」成符合其利益偏好的政治陳述。
-在本文，我們以《人民日報》習近平外 交思想的報刊評論為例，並根據 Tsai 與 Kao(2013)發展的「寫作組」概 念，在資料蒐集過程根據評論作者，標記其所屬官僚組織。
-在分析策略上，我們結合「自動摘要生成技術」(Automated Text Summmerization)與分析空 間點估計的 Wordfish 泊松空間模型(Poisson Scaling Model)。
-在預期發現，我們認為這些討論習近平外交思想的評論，會依據不同作者所屬的不同官僚 組織差別，在關鍵詞的使用存在差異，這反映其代表官僚組織，透過差異性 的話語敘事，標示其政治立場。
-整體而言，我們的研究呈示了官僚組織，透 過意識形態「包裝」其利益表達的陳述政治(discourse politics)。
-
-**Keywords**：*意識形態分析*、*文本資料研究*、*習近平思想*
-
-</div>
-
----
-
-
-<div style="text-align: justify">
-
 **Topic Models for Political Short Texts: An Application, Validation and Compromises** (with [<span style="color:#778899"> Julia, Ju Yuon Park, Univeristy of Essex</span>](http://www.juyeonpark.com))
 
-</div>
+**官僚團體如何「重寫」意識形態陳述：以《人民日報》習近平思想的評論為例** (與蔡儀儂)
+<div style="text-align: justify">
+
+
 
 
 
