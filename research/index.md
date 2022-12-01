@@ -30,6 +30,7 @@ My research projects include:  *my PhD dissertation on Taiwan's legislative poli
 
 Estimating the preference of parties and politicians is key to understanding interparty relations, polarisation, and electoral competition. This thesis investigates how the 2008 Taiwan electoral reform from a single non-transferable voting system (SNTV) to single-member districts (SMD) impacts the behaviour of legislators and their electoral strategies by analysing historic roll calls and parliamentary questions. I present several pieces of empirical evidence to answer the following research questions: (1) Does the electoral reform mitigate intraparty competition and increase party cohesion (Chapter II)? (2) Does the reform reduce regional particularism expressed in parliamentary questions but increase the promises of universalism policies? Last, many legislators changed careers to become municipal mayors due to the reduced number of seats after the reform (Chapter III)? (3) Do mayors having longer years of career in congress correspondingly assist the municipalities to receive more distributive spending (Chapter IV)?  The thesis applies ideal point estimation and natural language processing techniques currently deployed by the frontier study of legislatures and strengthens the understanding of Taiwan party politics and party competition inside the congress (the Legislative Yuan). With the unique legislative data covering the pre- and post-reform periods, the reform did not immediately reduce intraparty competition but shortly polarised interparty relations, leaving congress in chaos during the transition. However, legislators' incentive to run on personal votes by asking particularistic parliamentary questions decreased while attention to regulatory policies increased after the reform. Last, the thesis finds municipalities whose mayors with longer careers spent in the legislature are more likely to be allocated higher distributive benefits. The effect is even more substantial if those mayors had previously been connected to the legislative standing committees. 
 
+
 <!-- <p align="center">
 <style>
 img {
@@ -52,8 +53,7 @@ img {
 
 </div>
 
-
-<br/><br/>
+---
 
 
 <div style="text-align: center">
@@ -62,18 +62,12 @@ img {
 
 </div>
 
----
-
 <div style="text-align: justify">
 
 **Factionalism and the Red Guards under Mao’s China: Ideal Point Estimation Using Text Data** (with Yi-Nung Tsai, National Chengchi University; Daniel Tene, Univeristy of Essex;  Dechun Zhang, Leiden University) [`slides`](https://raw.githack.com/davidycliao/redguards/master/slides/slides.pdf) | [`paper`](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5048552)
 
 **Party Misperception, Party-voter Incongruence and Political Distrust** (with Royce Carroll, Essex; Li Tang, Middlesex University London [`slides`]() | [`paper`](https://raw.githack.com/davidycliao/figures/master/Party_Misperception__Party_voter_Incongruence_and_Political_Distrust.pdf) 
 </div>
-
-
-<br/><br/>
-
 
 ---
 
