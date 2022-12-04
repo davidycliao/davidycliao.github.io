@@ -3,13 +3,13 @@
         <title>All Posts - DAVID LIAO</title>
         <link>https://davidycliao.github.io/posts/</link>
         <description>All Posts | DAVID LIAO</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 19 May 2022 21:29:01 &#43;0800</lastBuildDate><atom:link href="https://davidycliao.github.io/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>Presentation @ University of Innsbruck2022 ECPR General Conference</title>
-    <link>https://davidycliao.github.io/2022/05/even5/</link>
-    <pubDate>Thu, 19 May 2022 21:29:01 &#43;0800</pubDate>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 20 Nov 2022 21:29:01 &#43;0800</lastBuildDate><atom:link href="https://davidycliao.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Co-authored Paper Presentation @ St. Pete Beach, Florida 2023 SPSA</title>
+    <link>https://davidycliao.github.io/2022/11/event4/</link>
+    <pubDate>Sun, 20 Nov 2022 21:29:01 &#43;0800</pubDate>
     <author>Author</author>
-    <guid>https://davidycliao.github.io/2022/05/even5/</guid>
-    <description><![CDATA[Electoral Reform and Pork Barrel in Parliamentary Questions Measuring legislator behaviours and tendencies towards constituencies under different electoral systems is important. This paper quantitatively investigates this topic using the case of Taiwan Legislative Yuan and data on written parliamentary questions through an electoral reform from multi-member districts (MMD) to single-member districts (SMD). With existing labelled pork legislation, I train deep learning models using convolutional neural networks with an embedding layer extracted from Transformer BERT to detect pork-barrel features in parliamentary questions over time.]]></description>
+    <guid>https://davidycliao.github.io/2022/11/event4/</guid>
+    <description><![CDATA[Party Misperception, Party-voter Incongruence and Political Distrust The paper investigates how citizens&rsquo; misperception of party positions influences the perceived congruence between ideological preferences and positions of parties&rsquo; ideological position. We use a voter-level longitudinal data in the British Election Study in conjunction with data from the Chapel Hill Expert Survey (CHES). We take advantage of the panel structure of our data set and directly test two hypotheses relating to voters&rsquo; misperception of party positions relates to subjectively perceived incongruence, and the effect of perceived and actual incongruence on trust and satisfaction with politics.]]></description>
 </item><item>
     <title>Presentation @ Dublin COMPTEXT 2022</title>
     <link>https://davidycliao.github.io/2022/04/event2/</link>
@@ -17,13 +17,6 @@
     <author>Author</author>
     <guid>https://davidycliao.github.io/2022/04/event2/</guid>
     <description><![CDATA[Factionalism and the Red Guards under Mao&rsquo;s China: Ideal Point Estimation Using Text Data In this paper, we design a new strain of text scaling method, Swordfish (Slogan-featured Wordfish), that takes advantage of the TextRank algorithm to extract the most representative political slogans in a given context and estimates Wordfish with those extracted text variables. We test this method using the case of the Great Proletarian Cultural Revolution in China and the historical archive of handwritten big-character posters and self-printed tabloids from 1966.]]></description>
-</item><item>
-    <title>Presentation @ Montréal APSA 2022</title>
-    <link>https://davidycliao.github.io/2022/04/event3/</link>
-    <pubDate>Mon, 25 Apr 2022 21:29:01 &#43;0800</pubDate>
-    <author>Author</author>
-    <guid>https://davidycliao.github.io/2022/04/event3/</guid>
-    <description><![CDATA[Measuring Party Convergence on Parliamentary Question Keywords Understanding the positions of parties and legislators is key to conceptualizing party cohesion and their representation in most democracies. This study is to measure intra-party heterogeneity and variability in issue attention by looking at what and why legislators are more likely to oversight the ministry officials on one specific topic or another during the question time. We answer this question using the case of Taiwan Legislative Yuan, and data on written parliamentary questions through an electoral reform from 1993 to 2020.]]></description>
 </item><item>
     <title>原住民族資料分析線上讀書會：R的基礎與應用</title>
     <link>https://davidycliao.github.io/2021/07/databoot-camp/</link>
