@@ -13,5 +13,5 @@ The paper investigates how citizens' misperception of party positions influences
 
 **Room**: Snowy Egret
 
-**Documents**: [`paper`](https://raw.githack.com/davidycliao/erpb/master/paper/paper.pdf)
+**Documents**: [`paper`](https://raw.githack.com/davidycliao/figures/master/Party_Misperception__Party_voter_Incongruence_and_Political_Distrust.pdf)
 
