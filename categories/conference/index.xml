@@ -10,12 +10,5 @@
     <author>Author</author>
     <guid>https://davidycliao.github.io/2022/11/event4/</guid>
     <description><![CDATA[Party Misperception, Party-voter Incongruence and Political Distrust The paper investigates how citizens&rsquo; misperception of party positions influences the perceived congruence between ideological preferences and positions of parties&rsquo; ideological position. We use a voter-level longitudinal data in the British Election Study in conjunction with data from the Chapel Hill Expert Survey (CHES). We take advantage of the panel structure of our data set and directly test two hypotheses relating to voters&rsquo; misperception of party positions relates to subjectively perceived incongruence, and the effect of perceived and actual incongruence on trust and satisfaction with politics.]]></description>
-</item><item>
-    <title>Presentation @ Dublin COMPTEXT 2022</title>
-    <link>https://davidycliao.github.io/2022/04/event2/</link>
-    <pubDate>Tue, 19 Apr 2022 21:29:01 &#43;0800</pubDate>
-    <author>Author</author>
-    <guid>https://davidycliao.github.io/2022/04/event2/</guid>
-    <description><![CDATA[Factionalism and the Red Guards under Mao&rsquo;s China: Ideal Point Estimation Using Text Data In this paper, we design a new strain of text scaling method, Swordfish (Slogan-featured Wordfish), that takes advantage of the TextRank algorithm to extract the most representative political slogans in a given context and estimates Wordfish with those extracted text variables. We test this method using the case of the Great Proletarian Cultural Revolution in China and the historical archive of handwritten big-character posters and self-printed tabloids from 1966.]]></description>
 </item></channel>
 </rss>
