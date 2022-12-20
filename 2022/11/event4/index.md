@@ -9,7 +9,7 @@ The paper investigates how citizens' misperception of party positions influences
 
 **Session**:  Comparative Political Behavior and Electoral Systems | Post-Brexit UK Politics
 
-**Time**: 3:30pm-4:50pm
+**Time**: 13 Jan 3:30pm-4:50pm
 
 **Room**: Snowy Egret
 

@@ -89,7 +89,6 @@ img {
 
 **Measuring Party Cohesion on Parliamentary Question Keywords** ([<span style="color:#778899"> co-authored with Calvin Yu-Ceng Liao, Post Doctoral Research Fellow at Taiwan Studies Center, National Chengchi University</span>](https://sites.google.com/view/calvin-yuceng-liao/home))
 
-**Topic Models for Political Short Texts: An Application, Validation and Compromises** (with [<span style="color:#778899"> Julia, Ju Yuon Park, Univeristy of Essex</span>](http://www.juyeonpark.com))
 
 **官僚團體如何「重寫」意識形態陳述：以《人民日報》習近平思想的評論為例** (與蔡儀儂)
 

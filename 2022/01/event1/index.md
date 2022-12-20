@@ -1,4 +1,4 @@
-# Presentation @ Chicago MPSA 2022
+# Paper Presentation @ Chicago MPSA 2022
 
 
 
@@ -16,24 +16,6 @@ This article investigates the strategic (inter- and intra-) party positioning in
 **Time**: Sat, April 9, 9:45 to 11:15am CDT (3:45 to 5:15pm BST)
 
 **Documents**: [`paper`](https://raw.githack.com/davidycliao/erdp/master/paper/Electoral_Reform_and_Disunited_Polarization.pdf) |  [`slides`](https://raw.githack.com/davidycliao/erdp/master/slides/slides.html)
-
-</div>
-
----
-
-<div style="text-align: justify">
-
-### Party Misperception, Party-voter Incongruence and Political Distrust
-
-To what extent do misperceptions of party positions affect voters' perception of representation and satisfaction with democracy? This paper offers an explanation using the case of the UK and data from the British Election Survey (BES) and the Chapel Hill Expert Survey (CHES). We show that voters' perceptional gaps in understanding party positions contribute to political incongruence between party and voters, subsequently deteriorating their trust and satisfaction with government. From our analysis, the misperceptions about UK parties increase both perceived and actual incongruence between voters and parties, with those with higher perceptional gaps demonstrating higher party–voter incongruence. This perceptional gap further contributes to citizen distrust and dissatisfaction towards the political system. 
-
-**Keywords**：*income inequality, Chapel Hill Expert Survey, party misperception, political trust*
-
-**Session**: Comparative Public Opinion and Economic Perceptions
-
-**Time**: Thu, April 7, 11:30am to 1:00pm CDT (5:30 to 7:00pm BST)
-
-**Documents**: [`paper`](https://raw.githack.com/davidycliao/figures/master/Party_Misperception__Party_voter_Incongruence_and_Political_Distrust.pdf) | [`slides`](https://raw.githack.com/davidycliao/figures/master/Party_Misperception__Party_voter_Incongruence_and_Political_Distrust.pdf)
 
 </div>
 
