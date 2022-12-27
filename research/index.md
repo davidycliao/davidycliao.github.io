@@ -82,6 +82,9 @@ img {
 
 **Estimating Politically Expressive Preference with Context-Aware Named Entities** ([<span style="color:#778899">with Thomas Saalfeld and David Beck, University of Bamberg</span>](https://projectlacan.wordpress.com))
 
+
+**Fractured Elites during China's Cultural Revolution: A Measurement Using Machine Learning** ([<span style="color:#778899">with Chen-Yu Lee, University of Essex and Yi-Nung Tsai</span>](https://projectlacan.wordpress.com))
+
 **Creating and Reproducing Collective Agency through Rituals in the British House of Commons, 1990-2019: A Text-Based Approach to Conceptualisation and Measurement**  ([<span style="color:#778899">with Thomas Saalfeld and David Beck</span>](https://projectlacan.wordpress.com))
 
 <!-- **State-led Nationalism: Measuring China’s Online Nationalists on Weibo** (with [<span style="color:#778899"> Dechun Zhang, Leiden University</span>](https://www.universiteitleiden.nl/en/staffmembers/dechun-zhang#tab-1)) -->
