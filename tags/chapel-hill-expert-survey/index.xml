@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Chapel Hill Expert Survey - Tag - DAVID LIAO</title>
+        <link>https://davidycliao.github.io/tags/chapel-hill-expert-survey/</link>
+        <description>Chapel Hill Expert Survey - Tag - DAVID LIAO</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 20 Nov 2022 21:29:01 &#43;0800</lastBuildDate><atom:link href="https://davidycliao.github.io/tags/chapel-hill-expert-survey/" rel="self" type="application/rss+xml" /><item>
+    <title>Party Misperception, Party-voter Incongruence and Political Distrust</title>
+    <link>https://davidycliao.github.io/2022/11/misperception/</link>
+    <pubDate>Sun, 20 Nov 2022 21:29:01 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://davidycliao.github.io/2022/11/misperception/</guid>
+    <description><![CDATA[The paper investigates how citizens&rsquo; misperception of party positions influences the perceived congruence between ideological preferences and positions of parties&rsquo; ideological position. We use a voter-level longitudinal data in the British Election Study in conjunction with data from the Chapel Hill Expert Survey (CHES). We take advantage of the panel structure of our data set and directly test two hypotheses relating to voters&rsquo; misperception of party positions relates to subjectively perceived incongruence, and the effect of perceived and actual incongruence on trust and satisfaction with politics.]]></description>
+</item></channel>
+</rss>

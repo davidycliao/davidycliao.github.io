@@ -1,4 +1,4 @@
-# Co-authored Paper Presentation @ Dublin COMPTEXT 2022
+# Paper Presentation @ Dublin COMPTEXT 2022
 
 
 <div style="text-align: justify">
