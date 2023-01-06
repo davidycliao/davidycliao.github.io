@@ -80,7 +80,7 @@ img {
 <div style="text-align: justify">
 
 
-**Estimating Politically Expressive Preference with Context-Aware Named Entities** ([<span style="color:#778899">with Thomas Saalfeld and David Beck, University of Bamberg</span>](https://projectlacan.wordpress.com))  [`abstract`](http://localhost:1313/2022/04/measuring-party-convergence/)
+**Estimating Politically Expressive Preference with Context-Aware Named Entities** ([<span style="color:#778899">with Thomas Saalfeld and David Beck, University of Bamberg</span>](https://projectlacan.wordpress.com))  [`abstract`](https://davidycliao.github.io/2023/01/namedentities/)
 
 
 
