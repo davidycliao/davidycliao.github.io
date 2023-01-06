@@ -1,4 +1,4 @@
-# Fractured Elites during China's Cultural Revolution: A Measurement Using Machine Learning
+# Fractured Elites during China's Cultural Revolution: A Measurement Using Machine Learnings
 
 
 <div style="text-align: justify">
