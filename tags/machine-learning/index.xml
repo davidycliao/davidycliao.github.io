@@ -11,11 +11,11 @@
     <guid>https://davidycliao.github.io/2023/01/fracturedelite/</guid>
     <description><![CDATA[We design a deep-learning architecture to quantitatively estimate the ideological positions of political elites and analyze how the elites strategically respond to the mass rallies of Red Guards across time. Yet, numerous studies have drawn attention to fractured and polarizing trends in elites&rsquo; ideologies, such the literature less empirically analyzes elites&rsquo; public speeches to substantiate the claim. In this paper, we train machine learning algorithms using the red guard publications and their factional features to measure the elites&rsquo; preferences based on public speeches during student rallies.]]></description>
 </item><item>
-    <title>官僚如何「改寫」意識形態陳述：以《人民日報》習近平外交思想的評論為例 (與蔡儀儂)</title>
+    <title>2022年「習近平特色的社會主義：意識形態、世界觀與公共治理」研討會</title>
     <link>https://davidycliao.github.io/2022/03/ccp/</link>
     <pubDate>Fri, 04 Mar 2022 21:29:01 &#43;0800</pubDate>
     <author>Author</author>
     <guid>https://davidycliao.github.io/2022/03/ccp/</guid>
-    <description><![CDATA[意識形態在維繫中共政權穩定，長期扮演重要角色。部分觀察則透過分析官方制定意識形態的過程，指出官定意識形態實非鐵板一塊，是政治折衷下的結果。不過，類似研究較少觸及意識形態建構完成後，中共的官僚組織，又如何透過各自的話語，將其「改寫」成符合其偏好的政治陳述。本文以《人民日報》習近平外交思想的報刊評論為例，並根據Tsai與Kao（2013）發展的「寫作組」概念，在資料蒐集過程根據評論作者，標記其所屬官僚組織。在分析策略，則結合「自動摘要生成技術」（Automated Text Summmerization）與空間點估計（ideal point estimation）的Wordfish泊松空間模型（Poisson Scaling Model）。我們發現這些討論習近平外交思想的評論，會依據不同作者所屬的官僚組織，在關鍵詞的使用存在差異，這反映其代表官僚組織，透過差異性的話語敘事，標示其政治立場。整體而言，我們的研究呈示了官僚組織，透過意識形態「包裝」其利益表達的陳述政治（discourse politics）。]]></description>
+    <description><![CDATA[官僚如何「改寫」意識形態陳述：以《人民日報》習近平外交思想的評論為例 (與蔡儀儂) 意識形態在維繫中共政權穩定，長期扮演重要角色。部分觀察則透過分析官方制定意識形態的過程，指出官定意識形態實非鐵板一塊，是政治折衷下的結果。不過，類似研究較少觸及意識形態建構完成後，中共的官僚組織，又如何透過各自的話語，將其「改寫」成符合其偏好的政治陳述。本文以《人民日報》習近平外交思想的報刊評論為例，並根據Tsai與Kao（2013）發展的「寫作組」概念，在資料蒐集過程根據評論作者，標記其所屬官僚組織。在分析策略，則結合「自動摘要生成技術」（Automated Text Summmerization）與空間點估計（ideal point estimation）的Wordfish泊松空間模型（Poisson Scaling Model）。我們發現這些討論習近平外交思想的評論，會依據不同作者所屬的官僚組織，在關鍵詞的使用存在差異，這反映其代表官僚組織，透過差異性的話語敘事，標示其政治立場。整體而言，我們的研究呈示了官僚組織，透過意識形態「包裝」其利益表達的陳述政治（discourse politics）。]]></description>
 </item></channel>
 </rss>
