@@ -1,4 +1,4 @@
-# Fractured Elites during China's Cultural Revolution: A Measurement Using Machine Learning (with Chen-Yu Lee, University of Essex and Yi-Nung Tsai)
+# Fractured Elites during China's Cultural Revolution: A Measurement Using Machine Learning
 
 
 <div style="text-align: justify">

@@ -25,14 +25,14 @@
     <guid>https://davidycliao.github.io/2022/04/redgaurds/</guid>
     <description><![CDATA[In this paper, we design a new strain of text scaling method, Swordfish (Slogan-featured Wordfish), that takes advantage of the TextRank algorithm to extract the most representative political slogans in a given context and estimates Wordfish with those extracted text variables. We test this method using the case of the Great Proletarian Cultural Revolution in China and the historical archive of handwritten big-character posters and self-printed tabloids from 1966. We estimate student protests&rsquo; ideal points by analyzing expressed political views in propaganda publications.]]></description>
 </item><item>
-    <title>Estimating Politically Expressive Preference with Context-Aware Named Entities (with Thomas Saalfeld and David Beck, University of Bamberg)</title>
+    <title>Estimating Politically Expressive Preference with Context-Aware Named Entities</title>
     <link>https://davidycliao.github.io/2023/01/namedentities/</link>
     <pubDate>Wed, 04 Jan 2023 21:29:01 &#43;0800</pubDate>
     <author>Author</author>
     <guid>https://davidycliao.github.io/2023/01/namedentities/</guid>
     <description><![CDATA[Ideological positions of political parties are commonly measured using text scaling methods, such as Wordfiish (Slapin and Proksch 2008) and Wordscore (Laver, Benoit, and Garry 2003; Lowe 2008; Lowe and Benoit 2013). These analysis methods are not only useful for extracting latent dimension of parties and politicians, but also for testing political theories, e.g., intra-party competition (Haber 2015; Däubler and Benoit 2015), and party positionings (e.g. Catalinac 2017; Proksch and Slapin 2010).]]></description>
 </item><item>
-    <title>Fractured Elites during China&#39;s Cultural Revolution: A Measurement Using Machine Learning (with Chen-Yu Lee, University of Essex and Yi-Nung Tsai)</title>
+    <title>Fractured Elites during China&#39;s Cultural Revolution: A Measurement Using Machine Learning</title>
     <link>https://davidycliao.github.io/2023/01/fracturedelite/</link>
     <pubDate>Wed, 04 Jan 2023 21:29:01 &#43;0800</pubDate>
     <author>Author</author>

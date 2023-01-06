@@ -1,4 +1,4 @@
-# Estimating Politically Expressive Preference with Context-Aware Named Entities (with Thomas Saalfeld and David Beck, University of Bamberg)
+# Estimating Politically Expressive Preference with Context-Aware Named Entities
 
 
 <div style="text-align: justify">
