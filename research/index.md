@@ -80,17 +80,20 @@ img {
 <div style="text-align: justify">
 
 
-**Estimating Politically Expressive Preference with Context-Aware Named Entities** ([<span style="color:#778899">with Thomas Saalfeld and David Beck, University of Bamberg</span>](https://projectlacan.wordpress.com))
+**Estimating Politically Expressive Preference with Context-Aware Named Entities** ([<span style="color:#778899">with Thomas Saalfeld and David Beck, University of Bamberg</span>](https://projectlacan.wordpress.com))  [`abstract`](http://localhost:1313/2022/04/measuring-party-convergence/)
 
 
-**Fractured Elites during China's Cultural Revolution: A Measurement Using Machine Learning** ([<span style="color:#778899">with Chen-Yu Lee, University of Essex and Yi-Nung Tsai</span>](https://projectlacan.wordpress.com))
 
-**Creating and Reproducing Collective Agency through Rituals in the British House of Commons, 1990-2019: A Text-Based Approach to Conceptualisation and Measurement**  ([<span style="color:#778899">with Thomas Saalfeld and David Beck</span>](https://projectlacan.wordpress.com))
+**Fractured Elites during China's Cultural Revolution: A Measurement Using Machine Learning** ([<span style="color:#778899">with Chen-Yu Lee, University of Essex and Yi-Nung Tsai</span>](https://projectlacan.wordpress.com))  [`abstract`](http://localhost:1313/2022/04/measuring-party-convergence/)
+
+
+**Creating and Reproducing Collective Agency through Rituals in the British House of Commons, 1990-2019: A Text-Based Approach to Conceptualisation and Measurement**  ([<span style="color:#778899">with Thomas Saalfeld and David Beck</span>](https://projectlacan.wordpress.com))  [`abstract`](http://localhost:1313/2022/04/measuring-party-convergence/)
+
 
 <!-- **State-led Nationalism: Measuring China’s Online Nationalists on Weibo** (with [<span style="color:#778899"> Dechun Zhang, Leiden University</span>](https://www.universiteitleiden.nl/en/staffmembers/dechun-zhang#tab-1)) -->
 
 
-**Measuring Party Cohesion on Parliamentary Question Keywords** ([<span style="color:#778899"> co-authored with Calvin Yu-Ceng Liao, Post Doctoral Research Fellow at Taiwan Studies Center, National Chengchi University</span>](https://sites.google.com/view/calvin-yuceng-liao/home))
+**Measuring Party Cohesion on Parliamentary Question Keywords** ([<span style="color:#778899"> co-authored with Calvin Yu-Ceng Liao, Post Doctoral Research Fellow at Taiwan Studies Center, National Chengchi University</span>](https://sites.google.com/view/calvin-yuceng-liao/home)) [`abstract`](http://localhost:1313/2022/04/measuring-party-convergence/)
 
 
 **官僚團體如何「重寫」意識形態陳述：以《人民日報》習近平思想的評論為例** (與蔡儀儂)

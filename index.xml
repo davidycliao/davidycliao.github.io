@@ -3,9 +3,16 @@
         <title>DAVID LIAO</title>
         <link>https://davidycliao.github.io/</link>
         <description>PostDoc | Department of Global Studies | Aarhus U.</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 20 Nov 2022 21:29:01 &#43;0800</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 04 Jan 2023 21:29:01 &#43;0800</lastBuildDate>
             <atom:link href="https://davidycliao.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Party Misperception, Party-voter Incongruence and Political Distrust</title>
+    <link>https://davidycliao.github.io/2023/01/misperception/</link>
+    <pubDate>Wed, 04 Jan 2023 21:29:01 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://davidycliao.github.io/2023/01/misperception/</guid>
+    <description><![CDATA[The paper investigates how citizens&rsquo; misperception of party positions influences the perceived congruence between ideological preferences and positions of parties&rsquo; ideological position. We use a voter-level longitudinal data in the British Election Study in conjunction with data from the Chapel Hill Expert Survey (CHES). We take advantage of the panel structure of our data set and directly test two hypotheses relating to voters&rsquo; misperception of party positions relates to subjectively perceived incongruence, and the effect of perceived and actual incongruence on trust and satisfaction with politics.]]></description>
+</item><item>
     <title>Co-authored Paper Presentation @ St. Pete Beach, Florida 2023 SPSA</title>
     <link>https://davidycliao.github.io/2022/11/event4/</link>
     <pubDate>Sun, 20 Nov 2022 21:29:01 &#43;0800</pubDate>
@@ -19,6 +26,13 @@
     <author>Author</author>
     <guid>https://davidycliao.github.io/2022/05/event5/</guid>
     <description><![CDATA[Electoral Reform and Pork Barrel in Parliamentary Questions Measuring legislator behaviours and tendencies towards constituencies under different electoral systems is important. This paper quantitatively investigates this topic using the case of Taiwan Legislative Yuan and data on written parliamentary questions through an electoral reform from multi-member districts (MMD) to single-member districts (SMD). With existing labelled pork legislation, I train deep learning models using convolutional neural networks with an embedding layer extracted from Transformer BERT to detect pork-barrel features in parliamentary questions over time.]]></description>
+</item><item>
+    <title>Measuring Party Convergence on Parliamentary Question Keywords</title>
+    <link>https://davidycliao.github.io/2023/01/partyconvergence/</link>
+    <pubDate>Wed, 04 Jan 2023 21:29:01 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://davidycliao.github.io/2023/01/partyconvergence/</guid>
+    <description><![CDATA[Understanding the positions of parties and legislators is key to conceptualizing party cohesion and their representation in most democracies. This study is to measure intra-party heterogeneity and variability in issue attention by looking at what and why legislators are more likely to oversight the ministry officials on one specific topic or another during the question time. We answer this question using the case of Taiwan Legislative Yuan, and data on written parliamentary questions through an electoral reform from 1993 to 2020.]]></description>
 </item><item>
     <title>原住民族資料分析線上讀書會：R的基礎與應用</title>
     <link>https://davidycliao.github.io/2021/07/databoot-camp/</link>
@@ -41,11 +55,32 @@
     <guid>https://davidycliao.github.io/2022/04/event2/</guid>
     <description><![CDATA[Factionalism and the Red Guards under Mao&rsquo;s China: Ideal Point Estimation Using Text Data In this paper, we design a new strain of text scaling method, Swordfish (Slogan-featured Wordfish), that takes advantage of the TextRank algorithm to extract the most representative political slogans in a given context and estimates Wordfish with those extracted text variables. We test this method using the case of the Great Proletarian Cultural Revolution in China and the historical archive of handwritten big-character posters and self-printed tabloids from 1966.]]></description>
 </item><item>
+    <title>Factionalism and the Red Guards under Mao&#39;s China: Ideal Point Estimation Using Text Data</title>
+    <link>https://davidycliao.github.io/2022/04/redgaurds/</link>
+    <pubDate>Tue, 19 Apr 2022 21:29:01 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://davidycliao.github.io/2022/04/redgaurds/</guid>
+    <description><![CDATA[In this paper, we design a new strain of text scaling method, Swordfish (Slogan-featured Wordfish), that takes advantage of the TextRank algorithm to extract the most representative political slogans in a given context and estimates Wordfish with those extracted text variables. We test this method using the case of the Great Proletarian Cultural Revolution in China and the historical archive of handwritten big-character posters and self-printed tabloids from 1966. We estimate student protests&rsquo; ideal points by analyzing expressed political views in propaganda publications.]]></description>
+</item><item>
     <title>Paper Presentation @ Chicago MPSA 2022</title>
     <link>https://davidycliao.github.io/2022/01/event1/</link>
     <pubDate>Sun, 23 Jan 2022 21:29:01 &#43;0800</pubDate>
     <author>Author</author>
     <guid>https://davidycliao.github.io/2022/01/event1/</guid>
     <description><![CDATA[Electoral Reform and Disunited Polarization: Evidence from Legislative Roll Calls This article investigates the strategic (inter- and intra-) party positioning in response to an electoral system transition from single non-transferable vote (SNTV) to single-member districts (SMDs) by studying the electoral reform in Taiwan and provides empirical evidence to the following questions. Does the switch of electoral system from SNTV to SMDs mitigate political polarization among parties? Does it influence the intra-party unitedness (cohesiveness), and thus, change legislators’ ideological positioning?]]></description>
+</item><item>
+    <title>Estimating Politically Expressive Preference with Context-Aware Named Entities (with Thomas Saalfeld and David Beck, University of Bamberg)</title>
+    <link>https://davidycliao.github.io/2023/01/namedentities/</link>
+    <pubDate>Wed, 04 Jan 2023 21:29:01 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://davidycliao.github.io/2023/01/namedentities/</guid>
+    <description><![CDATA[Ideological positions of political parties are commonly measured using text scaling methods, such as Wordfiish (Slapin and Proksch 2008) and Wordscore (Laver, Benoit, and Garry 2003; Lowe 2008; Lowe and Benoit 2013). These analysis methods are not only useful for extracting latent dimension of parties and politicians, but also for testing political theories, e.g., intra-party competition (Haber 2015; Däubler and Benoit 2015), and party positionings (e.g. Catalinac 2017; Proksch and Slapin 2010).]]></description>
+</item><item>
+    <title>Fractured Elites during China&#39;s Cultural Revolution: A Measurement Using Machine Learning (with Chen-Yu Lee, University of Essex and Yi-Nung Tsai)</title>
+    <link>https://davidycliao.github.io/2023/01/fracturedelite/</link>
+    <pubDate>Wed, 04 Jan 2023 21:29:01 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://davidycliao.github.io/2023/01/fracturedelite/</guid>
+    <description><![CDATA[We design a deep-learning architecture to quantitatively estimate the ideological positions of political elites and analyze how the elites strategically respond to the mass rallies of Red Guards across time. Yet, numerous studies have drawn attention to fractured and polarizing trends in elites&rsquo; ideologies, such the literature less empirically analyzes elites&rsquo; public speeches to substantiate the claim. In this paper, we train machine learning algorithms using the red guard publications and their factional features to measure the elites&rsquo; preferences based on public speeches during student rallies.]]></description>
 </item></channel>
 </rss>
