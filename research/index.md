@@ -21,7 +21,7 @@ My research projects include:  *my PhD dissertation on Taiwan's legislative poli
 
 <div style="text-align: center">
 
-### ***“Electoral Reform, Distributive Politics, and Parties in the Taiwanese Congress” [`pdf`](https://github.com/davidycliao/phd-thesis/blob/main/Yen_Chieh_Liao_PhD_Dissertation.pdf)***  
+### ***“Electoral Reform, Distributive Politics, and Parties in the Taiwanese Congress” [`pdf`](https://raw.githack.com/davidycliao/phd-thesis/main/Yen_Chieh_Liao_PhD_Dissertation_Jan_2023.pdf)***  
 
 
 <div style="text-align: justify">
