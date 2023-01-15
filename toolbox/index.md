@@ -42,9 +42,9 @@ An automation web crawling 🕸️ framework for retrieving for Extracting Centr
 <div style="text-align: justify">
 
 
-**[<span style="color:#5a5a5a">**legisTaiwan**</span>](https://davidycliao.github.io/legisCrawler/)** (*in progress and coming soon*) 
+**[<span style="color:#5a5a5a">**legisTaiwan**</span>](https://github.com/davidycliao/legisTaiwan)** (*in progress and coming soon*) 
 
-An R package 📦 for searching and retrieving archive of bill, the speeches and legislators' demographic from Taiwan Parliamentary Library API (https://www.ly.gov.tw).
+An R package 📦 for searching and retrieving archive of bill, the speeches and legislators' demographic from Taiwan Legislative Library API (https://www.ly.gov.tw).
 
 </div>
 
