@@ -14,10 +14,9 @@
 
 **[<span style="color:#5a5a5a">**legisTaiwan**</span>](https://github.com/davidycliao/legisTaiwan)** 
 
-An R package 📦 for searching and retrieving archive of bill, the speeches and legislators' demographic from Taiwan Legislative Library API (https://www.ly.gov.tw).
+`legisTaiwan` is an R package 📦 for downloading real-time legislative data of spoken meeting records, bill sponsor/co-sponsor, and more via Taiwan Legislative Library API
 
 </div>
-
 
 ----
 
@@ -34,7 +33,6 @@ The `asmcjr` package in R supports the book “_2nd Analyzing Spatial Models of 
 ----
 
 <div style="text-align: justify">
-
 
 **[<span style="color:#5a5a5a">**legisCrawler**</span>](https://davidycliao.github.io/legisCrawler/)**
 
