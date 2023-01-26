@@ -24,11 +24,11 @@ My research projects include:  *my PhD dissertation on Taiwan's legislative poli
 ***“Title: Electoral Reform, Distributive Politics, and Parties in the Taiwanese Congress” [`pdf`](https://raw.githack.com/davidycliao/phd-thesis/main/Yen_Chieh_Liao_PhD_Dissertation_Jan_2023.pdf)***   
 (The PhD dissertation project is supported by the 2021 Taiwanese Overseas Pioneers Grant from *Ministry of Science and Technology Taiwan*, August 2021 - August 2022)
 
-- **Electoral Reform and Disunited Polarisation: Evidence from Legislative Roll Call**
+- **Electoral Reform and Disunited Polarisation: Evidence from Legislative Roll Call (Chapter II)**
 
-- **Electoral Reform and Pork Barrel in Parliamentary Questions**
+- **Electoral Reform and Pork Barrel in Parliamentary Questions (Chapter III)**
 
-- **Mayors and Pork Barrelling: Career Paths and Distributive Spending**
+- **Mayors and Pork Barrelling: Career Paths and Distributive Spending (Chapter IV)**
 
 <!-- <p align="center">
 <style>
@@ -62,9 +62,9 @@ img {
 
 <div style="text-align: justify">
 
-**Factionalism and the Red Guards under Mao’s China: Ideal Point Estimation Using Text Data** (with Yi-Nung Tsai, National Chengchi University; Daniel Tene, Univeristy of Essex;  Dechun Zhang, Leiden University) [`slides`](https://raw.githack.com/davidycliao/redguards/master/slides/slides.pdf) | [`paper`](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4200926)
+**Factionalism and the Red Guards under Mao’s China: Ideal Point Estimation Using Text Data** (with Yi-Nung Tsai, National Chengchi University; Daniel Tene, Univeristy of Essex;  Dechun Zhang, Leiden University) [[`slides`](https://raw.githack.com/davidycliao/redguards/master/slides/slides.pdf)] | [[`paper`](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4200926)]
 
-**Party Misperception, Party-voter Incongruence and Political Distrust** (with Royce Carroll, Essex; Li Tang, Middlesex University London [`slides`]() | [`paper`](https://raw.githack.com/davidycliao/figures/master/Party_Misperception__Party_voter_Incongruence_and_Political_Distrust.pdf) 
+**Party Misperception, Party-voter Incongruence and Political Distrust** (with Royce Carroll, Essex; Li Tang, Middlesex University London [[`slides`](https://raw.githack.com/davidycliao/figures/master/Party_Misperception__Party_voter_Incongruence_and_Political_Distrust_slide.pdf) ]| [[`paper`](https://raw.githack.com/davidycliao/figures/master/Party_Misperception__Party_voter_Incongruence_and_Political_Distrust.pdf) ]
 </div>
 
 ---
