@@ -24,11 +24,11 @@ My research projects include:  *my PhD dissertation on Taiwan's legislative poli
 ***“Title: Electoral Reform, Distributive Politics, and Parties in the Taiwanese Congress” [[`pdf`](https://raw.githack.com/davidycliao/phd-thesis/main/Yen_Chieh_Liao_PhD_Dissertation_Jan_2023.pdf)]***   
 (The PhD dissertation project is supported by the 2021 Taiwanese Overseas Pioneers Grant from *Ministry of Science and Technology Taiwan*, August 2021 - August 2022)
 
-- **Electoral Reform and Disunited Polarisation: Evidence from Legislative Roll Call (Chapter II)**
+- **Electoral Reform and Disunited Polarisation: Evidence from Legislative Roll Call** (Chapter II)
 
-- **Electoral Reform and Pork Barrel in Parliamentary Questions (Chapter III)**
+- **Electoral Reform and Pork Barrel in Parliamentary Questions**  (Chapter III)
 
-- **Mayors and Pork Barrelling: Career Paths and Distributive Spending (Chapter IV)**
+- **Mayors and Pork Barrelling: Career Paths and Distributive Spending** (Chapter IV)
 
 <!-- <p align="center">
 <style>
@@ -78,7 +78,7 @@ img {
 <div style="text-align: justify">
 
 
-**Estimating Politically Expressive Preference with Context-Aware Named Entities** ([<span style="color:#778899">with Thomas Saalfeld and David Beck, University of Bamberg</span>](https://projectlacan.wordpress.com))  [`abstract`](https://davidycliao.github.io/2023/01/namedentities/)
+**Estimating Politically Expressive Preference with Context-Aware Named Entities** ([<span style="color:#778899">with Thomas Saalfeld and David Beck, University of Bamberg</span>](https://projectlacan.wordpress.com))  [[`abstract`](https://davidycliao.github.io/2023/01/namedentities/)]
 
 
 
