@@ -21,7 +21,7 @@ My research projects include:  *my PhD dissertation on Taiwan's legislative poli
 </div> 
 
 
-***“Title: Electoral Reform, Distributive Politics, and Parties in the Taiwanese Congress” [`pdf`](https://raw.githack.com/davidycliao/phd-thesis/main/Yen_Chieh_Liao_PhD_Dissertation_Jan_2023.pdf)***   
+***“Title: Electoral Reform, Distributive Politics, and Parties in the Taiwanese Congress” [[`pdf`](https://raw.githack.com/davidycliao/phd-thesis/main/Yen_Chieh_Liao_PhD_Dissertation_Jan_2023.pdf)]***   
 (The PhD dissertation project is supported by the 2021 Taiwanese Overseas Pioneers Grant from *Ministry of Science and Technology Taiwan*, August 2021 - August 2022)
 
 - **Electoral Reform and Disunited Polarisation: Evidence from Legislative Roll Call (Chapter II)**
@@ -82,19 +82,19 @@ img {
 
 
 
-**Fractured Elites during China's Cultural Revolution: A Measurement Using Machine Learning** ([<span style="color:#778899">with Chen-Yu Lee, University of Essex and Yi-Nung Tsai</span>](https://projectlacan.wordpress.com))  [`abstract`](https://davidycliao.github.io/2023/01/fracturedelite/)
+**Fractured Elites during China's Cultural Revolution: A Measurement Using Machine Learning** ([<span style="color:#778899">with Chen-Yu Lee, University of Essex and Yi-Nung Tsai</span>](https://projectlacan.wordpress.com))  [[`abstract`](https://davidycliao.github.io/2023/01/fracturedelite/)]
 
 
-**Creating and Reproducing Collective Agency through Rituals in the British House of Commons, 1990-2019: A Text-Based Approach to Conceptualisation and Measurement**  ([<span style="color:#778899">with Thomas Saalfeld and David Beck</span>](https://projectlacan.wordpress.com)) 
+**Creating and Reproducing Collective Agency through Rituals in the British House of Commons, 1990-2019: A Text-Based Approach to Conceptualisation and Measurement**  ([<span style="color:#778899"> with Thomas Saalfeld and David Beck</span>](https://projectlacan.wordpress.com)) 
 
 
 <!-- **State-led Nationalism: Measuring China’s Online Nationalists on Weibo** (with [<span style="color:#778899"> Dechun Zhang, Leiden University</span>](https://www.universiteitleiden.nl/en/staffmembers/dechun-zhang#tab-1)) -->
 
 
-**Measuring Party Cohesion on Parliamentary Question Keywords** ([<span style="color:#778899"> co-authored with Calvin Yu-Ceng Liao, Post Doctoral Research Fellow at Taiwan Studies Center, National Chengchi University</span>](https://sites.google.com/view/calvin-yuceng-liao/home)) [`abstract`](https://davidycliao.github.io/2023/01/partyconvergence/)
+**Measuring Party Cohesion on Parliamentary Question Keywords** ([<span style="color:#778899"> co-authored with Calvin Yu-Ceng Liao, Post Doctoral Research Fellow at Taiwan Studies Center, National Chengchi University</span>](https://sites.google.com/view/calvin-yuceng-liao/home)) [[`abstract`](https://davidycliao.github.io/2023/01/partyconvergence/)
+]
 
-
-**官僚團體如何「重寫」意識形態陳述：以《人民日報》習近平思想的評論為例** (與蔡儀儂) [`abstract`](https://davidycliao.github.io/2023/01/ccp/)
+**官僚團體如何「重寫」意識形態陳述：以《人民日報》習近平思想的評論為例** (與蔡儀儂) [[`abstract`](https://davidycliao.github.io/2023/01/ccp/)]
 
 
 </div>
