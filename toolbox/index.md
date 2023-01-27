@@ -14,7 +14,7 @@
 
 **[<span style="color:#5a5a5a">**legisTaiwan**</span>](https://github.com/davidycliao/legisTaiwan)** 
 
-`legisTaiwan` is an R package 📦 for downloading real-time legislative data of spoken meeting records, bill sponsor/co-sponsor, and more via Taiwan Legislative Library API
+[`legisTaiwan`](https://davidycliao.github.io/legisTaiwan/) is an R package 📦 for downloading real-time legislative data of spoken meeting records, bill sponsor/co-sponsor, and more via Taiwan Legislative Library API
 
 </div>
 
