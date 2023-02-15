@@ -82,7 +82,7 @@ img {
 
 
 
-**Fractured Elites during China's Cultural Revolution: A Measurement Using Machine Learning** ([<span style="color:#778899">with Chen-Yu Lee, University of Essex and Yi-Nung Tsai</span>](https://projectlacan.wordpress.com))  [[`abstract`](https://davidycliao.github.io/2023/01/fracturedelite/)]
+**Fractured Elites during China's Cultural Revolution: A Measurement Using Machine Learning** [[`abstract`](https://davidycliao.github.io/2023/01/fracturedelite/)]
 
 
 **Party Competition in Times of Crisis**  ([<span style="color:#778899"> with Thomas Saalfeld and David Beck</span>](https://projectlacan.wordpress.com)) 
