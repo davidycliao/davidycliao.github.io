@@ -72,7 +72,7 @@
     <pubDate>Wed, 04 Jan 2023 21:29:01 &#43;0800</pubDate>
     <author>Author</author>
     <guid>https://davidycliao.github.io/2023/01/namedentities/</guid>
-    <description><![CDATA[Ideological positions of political parties are commonly measured using text scaling methods, such as Wordfiish (Slapin and Proksch 2008) and Wordscore (Laver, Benoit, and Garry 2003; Lowe 2008; Lowe and Benoit 2013). These analysis methods are not only useful for extracting latent dimension of parties and politicians, but also for testing political theories, e.g., intra-party competition (Haber 2015; Däubler and Benoit 2015), and party positionings (e.g. Catalinac 2017; Proksch and Slapin 2010).]]></description>
+    <description><![CDATA[Text scaling methods, such as Wordfish, are commonly used to capture the ideological positions of political parties. These methods not only extract latent dimensions of parties but also test political theories, such as intra-party competition (Haber 2015; Däubler and Benoit 2015) and the impact of institutional changes on party positioning (Catalinac 2017). However, concerns have been raised about their internal validity (Bruinsma and Gemenis 2019), the assumptions of input text on a single dimension (Egerod and Klemmensen 2020; Proksch and Slapin 2009), and semantic representations (Sylvester et al.]]></description>
 </item><item>
     <title>Fractured Elites during China&#39;s Cultural Revolution: A Measurement Using Machine Learnings</title>
     <link>https://davidycliao.github.io/2023/01/fracturedelite/</link>
