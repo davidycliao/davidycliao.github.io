@@ -77,23 +77,16 @@ img {
 
 <div style="text-align: justify">
 
-
 **Estimating Politically Expressive Preference with Context-Aware Named Entities** ([<span style="color:#778899">with Thomas Saalfeld and David Beck, University of Bamberg</span>](https://projectlacan.wordpress.com))  [[`abstract`](https://davidycliao.github.io/2023/01/namedentities/)]
-
-
 
 **Fractured Elites during China's Cultural Revolution: A Measurement Using Machine Learning** [[`abstract`](https://davidycliao.github.io/2023/01/fracturedelite/)]
 
 
 **Party Competition in Times of Crisis**  ([<span style="color:#778899"> with Thomas Saalfeld and David Beck</span>](https://projectlacan.wordpress.com)) 
 
-
-**Creating and Reproducing Collective Agency through Rituals in the British House of Commons, 1990-2019: A Text-Based Approach to Conceptualisation and Measurement**  ([<span style="color:#778899"> with Thomas Saalfeld and David Beck</span>](https://projectlacan.wordpress.com)) 
-
-
+**Creating and Reproducing Collective Agency through Rituals in the British House of Commons, 1990-2019: A Text-Based Approach to Conceptualisation and Measurement**  ([<span style="color:#778899"> with Thomas Saalfeld and David Beck</span>](https://projectlacan.wordpress.com)) [[`abstract`](https://davidycliao.github.io/2023/01/ritual/)]
 
 <!-- **State-led Nationalism: Measuring China’s Online Nationalists on Weibo** (with [<span style="color:#778899"> Dechun Zhang, Leiden University</span>](https://www.universiteitleiden.nl/en/staffmembers/dechun-zhang#tab-1)) -->
-
 
 **Measuring Party Cohesion on Parliamentary Question Keywords** ([<span style="color:#778899"> co-authored with Calvin Yu-Ceng Liao, Post Doctoral Research Fellow at Taiwan Studies Center, National Chengchi University</span>](https://sites.google.com/view/calvin-yuceng-liao/home)) [[`abstract`](https://davidycliao.github.io/2023/01/partyconvergence/)
 ]
