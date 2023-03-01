@@ -9,7 +9,8 @@
     <pubDate>Mon, 02 Jan 2023 21:29:01 &#43;0800</pubDate>
     <author>Author</author>
     <guid>https://davidycliao.github.io/2023/01/namedentities/</guid>
-    <description><![CDATA[Text scaling methods, such as Wordfish, are commonly used to capture the ideological positions of political parties. These methods not only extract latent dimensions of parties but also test political theories, such as intra-party competition (Haber 2015; Däubler and Benoit 2015) and the impact of institutional changes on party positioning (Catalinac 2017). However, concerns have been raised about their internal validity (Bruinsma and Gemenis 2019), the assumptions of input text on a single dimension (Egerod and Klemmensen 2020; Proksch and Slapin 2009), and semantic representations (Sylvester et al.]]></description>
+    <description><![CDATA[co-authored with Thomas Saalfeld and David Beck (University of Bamberg)
+Text scaling methods, such as Wordfish, are commonly used to capture the ideological positions of political parties. These methods not only extract latent dimensions of parties but also test political theories, such as intra-party competition (Haber 2015; Däubler and Benoit 2015) and the impact of institutional changes on party positioning (Catalinac 2017). However, concerns have been raised about their internal validity (Bruinsma and Gemenis 2019), the assumptions of input text on a single dimension (Egerod and Klemmensen 2020; Proksch and Slapin 2009), and semantic representations (Sylvester et al.]]></description>
 </item><item>
     <title>Factionalism and the Red Guards under Mao&#39;s China: Ideal Point Estimation Using Text Data</title>
     <link>https://davidycliao.github.io/2022/04/redgaurds/</link>
