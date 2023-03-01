@@ -60,6 +60,13 @@
     <guid>https://davidycliao.github.io/2022/01/event1/</guid>
     <description><![CDATA[Electoral Reform and Disunited Polarization: Evidence from Legislative Roll Calls This article investigates the strategic (inter- and intra-) party positioning in response to an electoral system transition from single non-transferable vote (SNTV) to single-member districts (SMDs) by studying the electoral reform in Taiwan and provides empirical evidence to the following questions. Does the switch of electoral system from SNTV to SMDs mitigate political polarization among parties? Does it influence the intra-party unitedness (cohesiveness), and thus, change legislators’ ideological positioning?]]></description>
 </item><item>
+    <title>Creating and Reproducing Collective Agency in the British House of Commons: A Text-Based Approach to Conceptualisation and Measurement</title>
+    <link>https://davidycliao.github.io/2023/01/ritual/</link>
+    <pubDate>Mon, 09 Jan 2023 21:29:01 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://davidycliao.github.io/2023/01/ritual/</guid>
+    <description><![CDATA[Parliaments carry many characteristics of collective actors, especially in relation to their historical constitutional struggles. At the same time, modern democratic parliaments are usually analyzed as institutional arenas for the competition between political parties as hierarchical organizations. In this paper, we review the results of important empirical studies suggesting that the activity even of democratic parliaments shows signs of collective agency in some respects. Analyzing a large text corpus of parliamentary speeches in the British House of Commons between 1988 and 2019, we develop a novel technique to identify and measure references to collective agency in parliamentary speeches directly.]]></description>
+</item><item>
     <title>Party Misperception, Party-voter Incongruence and Political Distrust</title>
     <link>https://davidycliao.github.io/2023/01/misperception/</link>
     <pubDate>Mon, 09 Jan 2023 21:29:01 &#43;0800</pubDate>
@@ -73,12 +80,5 @@
     <author>Author</author>
     <guid>https://davidycliao.github.io/2023/01/namedentities/</guid>
     <description><![CDATA[Text scaling methods, such as Wordfish, are commonly used to capture the ideological positions of political parties. These methods not only extract latent dimensions of parties but also test political theories, such as intra-party competition (Haber 2015; Däubler and Benoit 2015) and the impact of institutional changes on party positioning (Catalinac 2017). However, concerns have been raised about their internal validity (Bruinsma and Gemenis 2019), the assumptions of input text on a single dimension (Egerod and Klemmensen 2020; Proksch and Slapin 2009), and semantic representations (Sylvester et al.]]></description>
-</item><item>
-    <title>Fractured Elites during China&#39;s Cultural Revolution: A Measurement Using Machine Learnings</title>
-    <link>https://davidycliao.github.io/2023/01/fracturedelite/</link>
-    <pubDate>Wed, 04 Jan 2023 21:29:01 &#43;0800</pubDate>
-    <author>Author</author>
-    <guid>https://davidycliao.github.io/2023/01/fracturedelite/</guid>
-    <description><![CDATA[We design a deep-learning architecture to quantitatively estimate the ideological positions of political elites and analyze how the elites strategically respond to the mass rallies of Red Guards across time. Yet, numerous studies have drawn attention to fractured and polarizing trends in elites&rsquo; ideologies, such the literature less empirically analyzes elites&rsquo; public speeches to substantiate the claim. In this paper, we train machine learning algorithms using the red guard publications and their factional features to measure the elites&rsquo; preferences based on public speeches during student rallies.]]></description>
 </item></channel>
 </rss>
