@@ -4,12 +4,12 @@
         <link>https://davidycliao.github.io/tags/nlp/</link>
         <description>NLP - Tag - DAVID LIAO</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 04 Jan 2023 21:29:01 &#43;0800</lastBuildDate><atom:link href="https://davidycliao.github.io/tags/nlp/" rel="self" type="application/rss+xml" /><item>
-    <title>Poster Presentation @ Washington University in St. Louis PolMeth XXXIX</title>
-    <link>https://davidycliao.github.io/2022/05/event5/</link>
-    <pubDate>Thu, 19 May 2022 21:29:01 &#43;0800</pubDate>
+    <title>Co-authored Presentation: Estimating Politically Expressive Preference with Context-Aware Named Entities @ Glasgow COMPTEXT 2023</title>
+    <link>https://davidycliao.github.io/2023/01/namedentities/</link>
+    <pubDate>Mon, 02 Jan 2023 21:29:01 &#43;0800</pubDate>
     <author>Author</author>
-    <guid>https://davidycliao.github.io/2022/05/event5/</guid>
-    <description><![CDATA[Electoral Reform and Pork Barrel in Parliamentary Questions Measuring legislator behaviours and tendencies towards constituencies under different electoral systems is important. This paper quantitatively investigates this topic using the case of Taiwan Legislative Yuan and data on written parliamentary questions through an electoral reform from multi-member districts (MMD) to single-member districts (SMD). With existing labelled pork legislation, I train deep learning models using convolutional neural networks with an embedding layer extracted from Transformer BERT to detect pork-barrel features in parliamentary questions over time.]]></description>
+    <guid>https://davidycliao.github.io/2023/01/namedentities/</guid>
+    <description><![CDATA[Text scaling methods, such as Wordfish, are commonly used to capture the ideological positions of political parties. These methods not only extract latent dimensions of parties but also test political theories, such as intra-party competition (Haber 2015; Däubler and Benoit 2015) and the impact of institutional changes on party positioning (Catalinac 2017). However, concerns have been raised about their internal validity (Bruinsma and Gemenis 2019), the assumptions of input text on a single dimension (Egerod and Klemmensen 2020; Proksch and Slapin 2009), and semantic representations (Sylvester et al.]]></description>
 </item><item>
     <title>Factionalism and the Red Guards under Mao&#39;s China: Ideal Point Estimation Using Text Data</title>
     <link>https://davidycliao.github.io/2022/04/redgaurds/</link>
@@ -17,20 +17,6 @@
     <author>Author</author>
     <guid>https://davidycliao.github.io/2022/04/redgaurds/</guid>
     <description><![CDATA[In this paper, we design a new strain of text scaling method, Swordfish (Slogan-featured Wordfish), that takes advantage of the TextRank algorithm to extract the most representative political slogans in a given context and estimates Wordfish with those extracted text variables. We test this method using the case of the Great Proletarian Cultural Revolution in China and the historical archive of handwritten big-character posters and self-printed tabloids from 1966. We estimate student protests&rsquo; ideal points by analyzing expressed political views in propaganda publications.]]></description>
-</item><item>
-    <title>Paper Presentation @ Dublin COMPTEXT 2022</title>
-    <link>https://davidycliao.github.io/2022/04/event2/</link>
-    <pubDate>Tue, 19 Apr 2022 21:29:01 &#43;0800</pubDate>
-    <author>Author</author>
-    <guid>https://davidycliao.github.io/2022/04/event2/</guid>
-    <description><![CDATA[Factionalism and the Red Guards under Mao&rsquo;s China: Ideal Point Estimation Using Text Data In this paper, we design a new strain of text scaling method, Swordfish (Slogan-featured Wordfish), that takes advantage of the TextRank algorithm to extract the most representative political slogans in a given context and estimates Wordfish with those extracted text variables. We test this method using the case of the Great Proletarian Cultural Revolution in China and the historical archive of handwritten big-character posters and self-printed tabloids from 1966.]]></description>
-</item><item>
-    <title>Estimating Politically Expressive Preference with Context-Aware Named Entities</title>
-    <link>https://davidycliao.github.io/2023/01/namedentities/</link>
-    <pubDate>Wed, 04 Jan 2023 21:29:01 &#43;0800</pubDate>
-    <author>Author</author>
-    <guid>https://davidycliao.github.io/2023/01/namedentities/</guid>
-    <description><![CDATA[Text scaling methods, such as Wordfish, are commonly used to capture the ideological positions of political parties. These methods not only extract latent dimensions of parties but also test political theories, such as intra-party competition (Haber 2015; Däubler and Benoit 2015) and the impact of institutional changes on party positioning (Catalinac 2017). However, concerns have been raised about their internal validity (Bruinsma and Gemenis 2019), the assumptions of input text on a single dimension (Egerod and Klemmensen 2020; Proksch and Slapin 2009), and semantic representations (Sylvester et al.]]></description>
 </item><item>
     <title>Fractured Elites during China&#39;s Cultural Revolution: A Measurement Using Machine Learnings</title>
     <link>https://davidycliao.github.io/2023/01/fracturedelite/</link>

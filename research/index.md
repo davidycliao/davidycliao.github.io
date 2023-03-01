@@ -7,7 +7,7 @@
 <div style="text-align: justify">
 
 
-My research projects include:  *my PhD dissertation on Taiwan's legislative politics*, *quantitative studies of party misplacement, political ideology and collective actions in parliarmentary democracies*, and *computational methods applied to study contemporary China*.  
+My research projects include: *my PhD dissertation on Taiwan's legislative politics*, *quantitative studies of party misplacement, political ideology and collective actions in parliarmentary democracies*, and *computational methods applied to study contemporary China*.  
 
 <br> 
 
