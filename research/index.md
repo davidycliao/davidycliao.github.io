@@ -88,6 +88,10 @@ img {
 **Party Competition in Times of Crisis**  ([<span style="color:#778899"> with Thomas Saalfeld and David Beck</span>](https://projectlacan.wordpress.com)) 
 
 
+**Creating and Reproducing Collective Agency through Rituals in the British House of Commons, 1990-2019: A Text-Based Approach to Conceptualisation and Measurement**  ([<span style="color:#778899"> with Thomas Saalfeld and David Beck</span>](https://projectlacan.wordpress.com)) 
+
+
+
 <!-- **State-led Nationalism: Measuring China’s Online Nationalists on Weibo** (with [<span style="color:#778899"> Dechun Zhang, Leiden University</span>](https://www.universiteitleiden.nl/en/staffmembers/dechun-zhang#tab-1)) -->
 
 
