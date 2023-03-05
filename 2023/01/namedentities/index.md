@@ -1,4 +1,4 @@
-# Co-authored Presentation: Estimating Politically Expressive Preference with Context-Aware Named Entities @ Glasgow COMPTEXT 2023
+# Estimating Politically Expressive Preference with Context-Aware Named Entities @ Glasgow COMPTEXT 2023
 
 
 <div style="text-align: justify">

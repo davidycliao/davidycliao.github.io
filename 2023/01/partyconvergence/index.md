@@ -1,4 +1,4 @@
-# Co-authored Presentation: Measuring Party Convergence on Parliamentary Question Keywords @ Glasgow 2023 EPSA
+# Measuring Party Convergence on Parliamentary Question Keywords @ Glasgow 2023 EPSA
 
 
 <div style="text-align: justify">
