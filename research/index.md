@@ -66,7 +66,7 @@ img {
 
 **Party Misperception, Party-voter Incongruence and Political Distrust** (with Royce Carroll, Essex; Li Tang, Middlesex University London [[`slides`](https://raw.githack.com/davidycliao/figures/master/Party_Misperception__Party_voter_Incongruence_and_Political_Distrust_slide.pdf) ]| [[`paper`](https://raw.githack.com/davidycliao/figures/master/Party_Misperception__Party_voter_Incongruence_and_Political_Distrust.pdf) ]
 
-**The Role of Rituals in Adversarial Parliaments: An Analysis of Expressions of Collegiality in the British House of Commons _(Under Review, Special Issue Invitation)_**  ([<span style="color:#778899"> with Thomas Saalfeld and David Beck</span>](https://projectlacan.wordpress.com))
+**The Role of Rituals in Adversarial Parliaments: An Analysis of Expressions of Collegiality in the British House of Commons _(R&R)_**  ([<span style="color:#778899"> with Thomas Saalfeld and David Beck</span>](https://projectlacan.wordpress.com))
 
 
 </div>
