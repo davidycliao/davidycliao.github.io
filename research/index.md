@@ -62,11 +62,12 @@ img {
 
 <div style="text-align: justify">
 
-**Factionalism and the Red Guards under Mao’s China: Ideal Point Estimation Using Text Data** (with Yi-Nung Tsai, National Chengchi University; Daniel Tene, Univeristy of Essex;  Dechun Zhang, Leiden University) [[`slides`](https://raw.githack.com/davidycliao/redguards/master/slides/slides.pdf)] | [[`paper`](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4200926)]
-
-**Party Misperception, Party-voter Incongruence and Political Distrust** (with Royce Carroll, Essex; Li Tang, Middlesex University London [[`slides`](https://raw.githack.com/davidycliao/figures/master/Party_Misperception__Party_voter_Incongruence_and_Political_Distrust_slide.pdf) ]| [[`paper`](https://raw.githack.com/davidycliao/figures/master/Party_Misperception__Party_voter_Incongruence_and_Political_Distrust.pdf) ]
-
 **The Role of Rituals in Adversarial Parliaments: An Analysis of Expressions of Collegiality in the British House of Commons _(R&R)_**  ([<span style="color:#778899"> with Thomas Saalfeld and David Beck</span>](https://projectlacan.wordpress.com))
+
+
+**Factionalism and the Red Guards under Mao’s China: Ideal Point Estimation Using Text Data** (with Yi-Nung Tsai, National Chengchi University; Daniel Tene, Univeristy of Essex;  Dechun Zhang, Leiden University)
+
+**Party Misperception, Party-voter Incongruence and Political Distrust** (with Royce Carroll, Essex; Li Tang, Middlesex University London) 
 
 
 </div>
