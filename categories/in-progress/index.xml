@@ -20,13 +20,6 @@ Understanding the positions of parties and legislators is key to conceptualizing
     <description><![CDATA[co-authored with Thomas Saalfeld and David Beck (University of Bamberg)
 Text scaling methods, such as Wordfish, are commonly used to capture the ideological positions of political parties. These methods not only extract latent dimensions of parties but also test political theories, such as intra-party competition (Haber 2015; Däubler and Benoit 2015) and the impact of institutional changes on party positioning (Catalinac 2017). However, concerns have been raised about their internal validity (Bruinsma and Gemenis 2019), the assumptions of input text on a single dimension (Egerod and Klemmensen 2020; Proksch and Slapin 2009), and semantic representations (Sylvester et al.]]></description>
 </item><item>
-    <title>Fractured Elites during China&#39;s Cultural Revolution: A Measurement Using Machine Learnings</title>
-    <link>https://davidycliao.github.io/2023/01/fracturedelite/</link>
-    <pubDate>Wed, 04 Jan 2023 21:29:01 &#43;0800</pubDate>
-    <author>Author</author>
-    <guid>https://davidycliao.github.io/2023/01/fracturedelite/</guid>
-    <description><![CDATA[We design a deep-learning architecture to quantitatively estimate the ideological positions of political elites and analyze how the elites strategically respond to the mass rallies of Red Guards across time. Yet, numerous studies have drawn attention to fractured and polarizing trends in elites&rsquo; ideologies, such the literature less empirically analyzes elites&rsquo; public speeches to substantiate the claim. In this paper, we train machine learning algorithms using the red guard publications and their factional features to measure the elites&rsquo; preferences based on public speeches during student rallies.]]></description>
-</item><item>
     <title>2022年「習近平特色的社會主義：意識形態、世界觀與公共治理」研討會</title>
     <link>https://davidycliao.github.io/2022/03/ccp/</link>
     <pubDate>Fri, 04 Mar 2022 21:29:01 &#43;0800</pubDate>
