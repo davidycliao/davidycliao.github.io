@@ -13,23 +13,6 @@ My research projects include: *my PhD dissertation on Taiwan's legislative polit
 
 </div>
 
-
-<div style="text-align: center">
-
-## PhD Dissertation: 
-
-</div> 
-
-
-***“Title: Electoral Reform, Distributive Politics, and Parties in the Taiwanese Congress” [[`pdf`](https://raw.githack.com/davidycliao/phd-thesis/main/Yen_Chieh_Liao_PhD_Dissertation_Jan_2023.pdf)]***   
-(The PhD dissertation project is supported by the 2021 Taiwanese Overseas Pioneers Grant from *Ministry of Science and Technology Taiwan*, August 2021 - August 2022)
-
-- **Electoral Reform and Disunited Polarisation: Evidence from Legislative Roll Call** (Chapter II)
-
-- **Electoral Reform and Pork Barrel in Parliamentary Questions**  (Chapter III)
-
-- **Mayors and Pork Barrelling: Career Paths and Distributive Spending** (Chapter IV)
-
 <!-- <p align="center">
 <style>
 img {
@@ -94,6 +77,28 @@ img {
 **Measuring Party Cohesion on Parliamentary Question Keywords** ([<span style="color:#778899"> co-authored with Calvin Yu-Ceng Liao, Post Doctoral Research Fellow at Taiwan Studies Center, National Chengchi University</span>](https://sites.google.com/view/calvin-yuceng-liao/home)) (2023 EPSA)
 
 **Securitization in Discourse: Text Analysis of Taiwan’s COVID-19 Press Conferences** (Chia-Chien Chang NSYU, Taiwan; Wei-Ting Yen, Franklin and Marshall College, USA; Li-Yin Liu, University of Dayton, USA) (2023 APSA)
+
+
+
+
+
+<div style="text-align: center">
+
+## PhD Dissertation: 
+
+</div> 
+
+
+***“Title: Electoral Reform, Distributive Politics, and Parties in the Taiwanese Congress” [[`pdf`](https://raw.githack.com/davidycliao/phd-thesis/main/Yen_Chieh_Liao_PhD_Dissertation_Jan_2023.pdf)]***   
+(The PhD dissertation project is supported by the 2021 Taiwanese Overseas Pioneers Grant from *Ministry of Science and Technology Taiwan*, August 2021 - August 2022)
+
+- **Electoral Reform and Disunited Polarisation: Evidence from Legislative Roll Call** (Chapter II)
+
+- **Electoral Reform and Pork Barrel in Parliamentary Questions**  (Chapter III)
+
+- **Mayors and Pork Barrelling: Career Paths and Distributive Spending** (Chapter IV)
+
+
 
 
 <!-- **官僚團體如何「重寫」意識形態陳述：以《人民日報》習近平思想的評論為例** (與蔡儀儂) [[`abstract`](https://davidycliao.github.io/2023/01/ccp/)] -->
