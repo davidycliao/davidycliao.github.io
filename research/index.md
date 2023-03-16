@@ -85,8 +85,6 @@ img {
 **Estimating Politically Expressive Preference with Context-Aware Named Entities** ([<span style="color:#778899">with Thomas Saalfeld and David Beck, University of Bamberg</span>](https://projectlacan.wordpress.com)) (2023 COMPTEXT | 2023 APSA)
 
 
-**Securitization in Discourse: Text Analysis of Taiwan’s COVID-19 Press Conferences** (Chia-Chien Chang NSYU, Taiwan; Wei-Ting Yen, Franklin and Marshall College, USA; Li-Yin Liu, University of Dayton, USA) (2023 APSA)
-
 <!-- **Fractured Elites during China's Cultural Revolution: A Measurement Using Machine Learning** [[`abstract`](https://davidycliao.github.io/2023/01/fracturedelite/)] -->
 
 **Party Competition in Times of Crisis**  ([<span style="color:#778899"> with Thomas Saalfeld and David Beck</span>](https://projectlacan.wordpress.com)) (2023 APSA)
@@ -94,6 +92,9 @@ img {
 <!-- **State-led Nationalism: Measuring China’s Online Nationalists on Weibo** (with [<span style="color:#778899"> Dechun Zhang, Leiden University</span>](https://www.universiteitleiden.nl/en/staffmembers/dechun-zhang#tab-1)) -->
 
 **Measuring Party Cohesion on Parliamentary Question Keywords** ([<span style="color:#778899"> co-authored with Calvin Yu-Ceng Liao, Post Doctoral Research Fellow at Taiwan Studies Center, National Chengchi University</span>](https://sites.google.com/view/calvin-yuceng-liao/home)) [[`abstract`](https://davidycliao.github.io/2023/01/partyconvergence/)] (2023 EPSA)
+
+**Securitization in Discourse: Text Analysis of Taiwan’s COVID-19 Press Conferences** (Chia-Chien Chang NSYU, Taiwan; Wei-Ting Yen, Franklin and Marshall College, USA; Li-Yin Liu, University of Dayton, USA) (2023 APSA)
+
 
 <!-- **官僚團體如何「重寫」意識形態陳述：以《人民日報》習近平思想的評論為例** (與蔡儀儂) [[`abstract`](https://davidycliao.github.io/2023/01/ccp/)] -->
 
