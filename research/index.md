@@ -67,7 +67,7 @@ img {
 
 **Factionalism and the Red Guards under Mao’s China: Ideal Point Estimation Using Text Data** (with Yi-Nung Tsai, National Chengchi University; Daniel Tene, Univeristy of Essex;  Dechun Zhang, Leiden University)
 
-**Party-voter Congruence, Misperception, and Satisfaction with Democracy** (with Royce Carroll, Essex; Li Tang, Middlesex University London) 
+**(Mis)perception of Party-voter Congruence and Satisfaction with Democracy** (with Royce Carroll, Essex; Li Tang, Middlesex University London) 
 
 
 </div>

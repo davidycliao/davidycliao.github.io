@@ -13,6 +13,8 @@ My name is David (Yen-Chieh) Liao. I am a Post-doctoral Researcher (in data scie
 debates, social media accounts and digitized historical records (such as posters during the Cultural Revolution). Prior to joining Aarhus, I was a Pre-doctoral Researcher (Dec 2021- Nov 2022) of [<span style="color:#778899">**Legislators between Accountability and Collective Agency**</span>](https://projectlacan.wordpress.com/team/) at the Chair of Comparative Politics in University of Bamberg (Oct 2017 - Dec 2022).
 
 
+David (Yen-Chieh) Liao is a postdoctoral researcher in the Department of Global Studies. His current research interests revolve around using quantitative text analysis and computational methods to gain a deeper understanding of how political elites position themselves through their political narratives. Additionally, he examines how their narratives shape their political behaviors, and how they impact the masses' attitudes and expectations towards the future.
+
 
 ---
 Embiyax Su Hug (太魯閣族語 Hello),  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="25" height="25" alt="hi">
