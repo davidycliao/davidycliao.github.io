@@ -82,7 +82,7 @@ img {
 
 <div style="text-align: justify">
 
-**Estimating Politically Expressive Preference with Context-Aware Named Entities** ([<span style="color:#778899">with Thomas Saalfeld and David Beck, University of Bamberg</span>](https://projectlacan.wordpress.com))  [[`abstract`](https://davidycliao.github.io/2023/01/namedentities/)]] (2023 COMPTEXT | 2023 APSA)
+**Estimating Politically Expressive Preference with Context-Aware Named Entities** ([<span style="color:#778899">with Thomas Saalfeld and David Beck, University of Bamberg</span>](https://projectlacan.wordpress.com)) (2023 COMPTEXT | 2023 APSA)
 
 
 **Securitization in Discourse: Text Analysis of Taiwan’s COVID-19 Press Conferences** (Chia-Chien Chang NSYU, Taiwan; Wei-Ting Yen, Franklin and Marshall College, USA; Li-Yin Liu, University of Dayton, USA) (2023 APSA)
