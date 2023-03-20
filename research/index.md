@@ -34,12 +34,29 @@ img {
 </div>
 <br> 
 
----
 
 
 <div style="text-align: center">
 
-## Working Papers: 
+### PhD Dissertation: 
+
+</div> 
+
+
+***“Title: Electoral Reform, Distributive Politics, and Parties in the Taiwanese Congress” [[`pdf`](https://raw.githack.com/davidycliao/phd-thesis/main/Yen_Chieh_Liao_PhD_Dissertation_Jan_2023.pdf)]***   
+(The PhD dissertation project is supported by the 2021 Taiwanese Overseas Pioneers Grant from *Ministry of Science and Technology Taiwan*, August 2021 - August 2022)
+
+**Electoral Reform and Disunited Polarisation: Evidence from Legislative Roll Call** (Chapter II)
+
+**Electoral Reform and Pork Barrel in Parliamentary Questions**  (Chapter III)
+
+**Mayors and Pork Barrelling: Career Paths and Distributive Spending** (Chapter IV)
+
+----
+
+<div style="text-align: center">
+
+### Working Papers: 
 
 </div>
 
@@ -59,7 +76,7 @@ img {
 
 <div style="text-align: center">
 
-## *In-Progress*: 
+### *In-Progress*: 
 
 </div>
 
@@ -78,26 +95,6 @@ img {
 
 **Securitization in Discourse: Text Analysis of Taiwan’s COVID-19 Press Conferences** (Chia-Chien Chang NSYU, Taiwan; Wei-Ting Yen, Franklin and Marshall College, USA; Li-Yin Liu, University of Dayton, USA) (2023 APSA)
 
-
----
-
-
-
-<div style="text-align: center">
-
-## PhD Dissertation: 
-
-</div> 
-
-
-***“Title: Electoral Reform, Distributive Politics, and Parties in the Taiwanese Congress” [[`pdf`](https://raw.githack.com/davidycliao/phd-thesis/main/Yen_Chieh_Liao_PhD_Dissertation_Jan_2023.pdf)]***   
-(The PhD dissertation project is supported by the 2021 Taiwanese Overseas Pioneers Grant from *Ministry of Science and Technology Taiwan*, August 2021 - August 2022)
-
-- **Electoral Reform and Disunited Polarisation: Evidence from Legislative Roll Call** (Chapter II)
-
-- **Electoral Reform and Pork Barrel in Parliamentary Questions**  (Chapter III)
-
-- **Mayors and Pork Barrelling: Career Paths and Distributive Spending** (Chapter IV)
 
 
 
