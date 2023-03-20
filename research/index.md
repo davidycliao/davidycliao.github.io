@@ -79,6 +79,7 @@ img {
 **Securitization in Discourse: Text Analysis of Taiwan’s COVID-19 Press Conferences** (Chia-Chien Chang NSYU, Taiwan; Wei-Ting Yen, Franklin and Marshall College, USA; Li-Yin Liu, University of Dayton, USA) (2023 APSA)
 
 
+---
 
 
 
