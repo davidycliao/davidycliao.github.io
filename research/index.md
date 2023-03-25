@@ -6,7 +6,7 @@
 
 <div style="text-align: justify">
 
-My research projects include: *my PhD dissertation on Taiwan's legislative politics*, *quantitative studies of party misplacement, political ideology and collective actions in parliarmentary democracies*, and *computational methods applied to study contemporary China*.   Recent recent works mainly uses quantitative text analysis and computational methods (including natural language processing, machine learning classification), to better understand how political elites position themselves through their political narratives, and how their narratives shape their political behaviors and change the mass’ attitudes and expectations towards future. These narratives naturally come from politicians’ speeches and debates, social media accounts and digitized historical records (such as posters during the Cultural Revolution).  
+My research projects include: *my PhD dissertation on Taiwan's legislative politics*, *quantitative studies of party misplacement, political ideology and collective actions in parliarmentary democracies*, and *computational methods applied to study contemporary China*.   
 
 <br> 
 
