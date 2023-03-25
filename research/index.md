@@ -6,8 +6,7 @@
 
 <div style="text-align: justify">
 
-
-My research projects include: *my PhD dissertation on Taiwan's legislative politics*, *quantitative studies of party misplacement, political ideology and collective actions in parliarmentary democracies*, and *computational methods applied to study contemporary China*.  
+My research projects include: *my PhD dissertation on Taiwan's legislative politics*, *quantitative studies of party misplacement, political ideology and collective actions in parliarmentary democracies*, and *computational methods applied to study contemporary China*.   Recent recent works mainly uses quantitative text analysis and computational methods (including natural language processing, machine learning classification), to better understand how political elites position themselves through their political narratives, and how their narratives shape their political behaviors and change the mass’ attitudes and expectations towards future. These narratives naturally come from politicians’ speeches and debates, social media accounts and digitized historical records (such as posters during the Cultural Revolution).  
 
 <br> 
 
@@ -38,25 +37,7 @@ img {
 
 <div style="text-align: center">
 
-### PhD Dissertation: 
-
-</div> 
-
-
-***“Title: Electoral Reform, Distributive Politics, and Parties in the Taiwanese Congress” [[`pdf`](https://raw.githack.com/davidycliao/phd-thesis/main/Yen_Chieh_Liao_PhD_Dissertation_Jan_2023.pdf)]***   
-(The PhD dissertation project is supported by the 2021 Taiwanese Overseas Pioneers Grant from *Ministry of Science and Technology Taiwan*, August 2021 - August 2022)
-
-**Electoral Reform and Disunited Polarisation: Evidence from Legislative Roll Call** (Chapter II)
-
-**Electoral Reform and Pork Barrel in Parliamentary Questions**  (Chapter III)
-
-**Mayors and Pork Barrelling: Career Paths and Distributive Spending** (Chapter IV)
-
-----
-
-<div style="text-align: center">
-
-### Working Papers: 
+## Working Papers: 
 
 </div>
 
@@ -64,10 +45,11 @@ img {
 
 **The Role of Rituals in Adversarial Parliaments: An Analysis of Expressions of Collegiality in the British House of Commons _(R&R)_**  ([<span style="color:#778899"> with Thomas Saalfeld and David Beck</span>](https://projectlacan.wordpress.com))
 
-
 **Factionalism and the Red Guards under Mao’s China: Ideal Point Estimation Using Text Data** (with Yi-Nung Tsai, National Chengchi University; Daniel Tene, Univeristy of Essex;  Dechun Zhang, Leiden University)
 
 **(Mis)perception of Party-voter Congruence and Satisfaction with Democracy** (with Royce Carroll, Essex; Li Tang, Middlesex University London) 
+
+**Electoral Reform and Disunited Polarisation: Evidence from Legislative Roll Call** (PhD Thesis | Chapter II)
 
 
 </div>
@@ -76,11 +58,15 @@ img {
 
 <div style="text-align: center">
 
-### *In-Progress*: 
+## *In-Progress*: 
 
 </div>
 
 <div style="text-align: justify">
+
+**Mayors and Pork Barrelling: Career Paths and Distributive Spending** (PhD Thesis | Chapter IV)
+
+**Electoral Reform and Pork Barrel in Parliamentary Questions** (PhD Thesis | ChapterIII)
 
 **Estimating Politically Expressive Preference with Context-Aware Named Entities** ([<span style="color:#778899">with Thomas Saalfeld and David Beck, University of Bamberg</span>](https://projectlacan.wordpress.com)) (2023 COMPTEXT | 2023 APSA)
 
