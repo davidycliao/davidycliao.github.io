@@ -45,14 +45,13 @@ img {
 
 <div style="text-align: justify">
 
-**The Role of Rituals in Adversarial Parliaments: An Analysis of Expressions of Collegiality in the British House of Commons _(R&R)_**  ([<span style="color:#778899"> with Thomas Saalfeld and David Beck</span>](https://projectlacan.wordpress.com))
+**The Role of Rituals in Adversarial Parliaments: An Analysis of Expressions of Collegiality in the British House of Commons _(R&R)_**  (with Thomas Saalfeld and David Beck, University of Bamberg)
+
+**(Mis)perception of Party-voter Congruence and Satisfaction with Democracy _(Submitted)_** (with Royce Carroll, Essex; Li Tang, Middlesex University London) 
+
+**Electoral Reform and Disunited Polarisation: Evidence from Legislative Roll Call** (Chapter II of PhD Thesis)
 
 **Factionalism and the Red Guards under Mao’s China: Ideal Point Estimation Using Text Data** (with Yi-Nung Tsai, National Chengchi University; Daniel Tene, Univeristy of Essex;  Dechun Zhang, Leiden University)
-
-**(Mis)perception of Party-voter Congruence and Satisfaction with Democracy** (with Royce Carroll, Essex; Li Tang, Middlesex University London) 
-
-**Electoral Reform and Disunited Polarisation: Evidence from Legislative Roll Call** (PhD Thesis | Chapter II)
-
 
 </div>
 
@@ -66,11 +65,11 @@ img {
 
 <div style="text-align: justify">
 
-**Mayors and Pork Barrelling: Career Paths and Distributive Spending** (PhD Thesis | Chapter IV)
+**Mayors and Pork Barrelling: Career Paths and Distributive Spending** (Chapter IV of PhD Thesis )
 
-**Electoral Reform and Pork Barrel in Parliamentary Questions** (PhD Thesis | ChapterIII)
+**Electoral Reform and Pork Barrel in Parliamentary Questions** (ChapterIII of PhD Thesis) (2023 APSA)
 
-**Estimating Politically Expressive Preference with Context-Aware Named Entities** ([<span style="color:#778899">with Thomas Saalfeld and David Beck, University of Bamberg</span>](https://projectlacan.wordpress.com)) (2023 COMPTEXT | 2023 APSA)
+**Estimating Politically Expressive Preference with Context-Aware Named Entities** ([<span style="color:#778899">with Thomas Saalfeld and David Beck</span>](https://projectlacan.wordpress.com)) (2023 COMPTEXT | 2023 APSA)
 
 
 <!-- **Fractured Elites during China's Cultural Revolution: A Measurement Using Machine Learning** [[`abstract`](https://davidycliao.github.io/2023/01/fracturedelite/)] -->
