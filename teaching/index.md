@@ -14,9 +14,22 @@ I have been a Teaching Assistant to [<span style="color:#778899">The Essex Summe
 
 <div style="text-align: center">
 
-## Teaching Repository
+## Teaching & Repository
 
 </div>
+
+
+
+<div style="text-align: justify">
+
+
+__[<span style="color:#778899">**Big Data and Computation for Social Data Science**</span>](https://www.gesis.org/en/home)__ (Co-teaching with Dr. Akitaka Matsuo, *GESIS Fall Seminar in Computational Social Science 2023*) 
+
+This course is tailored for social science researchers and practitioners who seek to extract insights from large data sets using Python and R. The course's objective is to equip participants with the knowledge of essential infrastructure for data manipulation and analysis, along with practical guidance on how to proficiently employ statistical and programming languages within that framework.
+
+</div>
+
+---
 
 
 <div style="text-align: justify">

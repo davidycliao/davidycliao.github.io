@@ -49,9 +49,9 @@ img {
 
 **(Mis)perception of Party-voter Congruence and Satisfaction with Democracy _(Submitted)_** (with Royce Carroll, Essex; Li Tang, Middlesex University London) 
 
-**Electoral Reform and Disunited Polarisation: Evidence from Legislative Roll Call** (Chapter II of PhD Thesis)
-
 **Factionalism and the Red Guards under Mao’s China: Ideal Point Estimation Using Text Data** (with Yi-Nung Tsai, National Chengchi University; Daniel Tene, Univeristy of Essex;  Dechun Zhang, Leiden University)
+
+**Electoral Reform and Disunited Polarisation: Evidence from Legislative Roll Call** (Chapter II of PhD Thesis)
 
 </div>
 
