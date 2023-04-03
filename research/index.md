@@ -51,7 +51,7 @@ img {
 
 **Factionalism and the Red Guards under Mao’s China: Ideal Point Estimation Using Text Data** (with Yi-Nung Tsai, National Chengchi University; Daniel Tene, Univeristy of Essex;  Dechun Zhang, Leiden University)
 
-**Electoral Systems and Temporal Shock-Induced Polarization: New Evidence from Taiwan's Legislative Roll Call Analysis** (Chapter II of PhD Thesis)
+**Electoral Reform and Temporal Shock-Induced Polarization: New Evidence from Taiwan Legislative Roll Call** (Chapter II of PhD Thesis)
 
 </div>
 
@@ -64,8 +64,6 @@ img {
 </div>
 
 <div style="text-align: justify">
-
-**Mayors and Pork Barrelling: Career Paths and Distributive Spending** (Chapter IV of PhD Thesis )
 
 **Electoral Reform and Pork Barrel in Parliamentary Questions** (ChapterIII of PhD Thesis) (2023 APSA)
 
@@ -82,6 +80,8 @@ img {
 
 **Securitization in Words: Text Analysis of Taiwan’s COVID-19 Press Conferences** (Chia-Chien Chang NSYU, Taiwan; Wei-Ting Yen, Franklin and Marshall College, USA; Li-Yin Liu, University of Dayton, USA) (2023 APSA)
 
+
+**Mayors and Pork Barrelling: Career Paths and Distributive Spending** (Chapter IV of PhD Thesis )
 
 
 
