@@ -51,7 +51,7 @@ img {
 
 **Factionalism and the Red Guards under Mao’s China: Ideal Point Estimation Using Text Data** (with Yi-Nung Tsai, National Chengchi University; Daniel Tene, Univeristy of Essex;  Dechun Zhang, Leiden University)
 
-**Electoral Reform and Temporal Shock-Induced Polarization: New Evidence from Taiwan's Legislative Roll Call Analysis** (Chapter II of PhD Thesis)
+**Electoral Systems and Temporal Shock-Induced Polarization: New Evidence from Taiwan's Legislative Roll Call Analysis** (Chapter II of PhD Thesis)
 
 </div>
 
