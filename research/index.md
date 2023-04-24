@@ -44,7 +44,7 @@ img {
 [[`pdf`](https://raw.githack.com/davidycliao/working-paper/main/Electoral_Reform_and_Fragmented_Polarisation.pdf) | [`appendix`]()] 
 
 <div style="text-align: justify">
-This paper investigates how legislators respond to electoral reform by adjusting their ideological positions with respect to co-partisans and rivalry. Using the data of Taiwan's legislative roll calls over 20 years, we study the extent to which partisan disagreement is influenced by the 2008 Taiwanese electoral reform from the Single Non-Transferable Votes to the Single-Member Districts.  Contrary to the literature, our empirical evidence documents that the reform significantly fragmented legislators. Intra- and inter-party disagreement increased shortly after the reform. However, the effect of the reform is diminishing as time goes by. After 6 years, disagreement between mainstream parties restored to its pre-reform level.
+This paper investigates how legislators respond to electoral reform by adjusting their ideological positions with respect to co-partisans and rivals. Using data from Taiwan's legislative roll calls over 20 years, we study the extent to which partisan disagreement is influenced by the 2008 Taiwanese electoral reform  from Single Non-Transferable Votes to Single-Member Districts. Contrary to the literature, our empirical evidence documents that the reform significantly fragmented legislator positions in relation to both co-partisans and members from rival parties. Intra- and inter-party disagreement increased shortly after the reform. However, the effect of the reform diminishes over time. After 6 years, disagreement between mainstream parties returned to its pre-reform level.
 </div>  
 
 ---
