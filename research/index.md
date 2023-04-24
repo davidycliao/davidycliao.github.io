@@ -111,9 +111,7 @@ In this paper, we design a new strain of text scaling method,  Swordfish  (Sloga
 
 <u>Securitization in Words: Text Analysis of Taiwan’s COVID-19 Press Conferences</u> (Chia-Chien Chang NSYU, Taiwan; Wei-Ting Yen, Franklin and Marshall College, USA; Li-Yin Liu, University of Dayton, USA) 
 
-<u>Mayors and Pork Barrelling: Career Paths and Distributive Spending</u> 
-
-
+<u>Unraveling Pork Barrel Dynamics through Explainable Machine Learning Methods: A Case Study of CAGW</u> (with Sunil Green, Purdue University)
 
 
 
