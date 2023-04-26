@@ -41,7 +41,7 @@ img {
 
 <u>Electoral Reform and Fragmented Polarization: New Evidence from Taiwan Legislative Roll Call </u>
 
-[[`pdf`](https://raw.githack.com/davidycliao/working-paper/main/Electoral_Reform_and_Fragmented_Polarisation.pdf) | [`appendix`]()] 
+[[`pdf`](https://raw.githack.com/davidycliao/working-paper/main/Electoral_Reform_and_Fragmented_Polarisation.pdf) ｜ appendix] 
 
 <div style="text-align: justify">
 This paper investigates how legislators respond to electoral reform by adjusting their ideological positions with respect to co-partisans and rivals. Using data from Taiwan's legislative roll calls over 20 years, we study the extent to which partisan disagreement is influenced by the 2008 Taiwanese electoral reform  from Single Non-Transferable Votes to Single-Member Districts. Contrary to the literature, our empirical evidence documents that the reform significantly fragmented legislator positions in relation to both co-partisans and members from rival parties. Intra- and inter-party disagreement increased shortly after the reform. However, the effect of the reform diminishes over time. After 6 years, disagreement between mainstream parties returned to its pre-reform level.
@@ -51,7 +51,7 @@ This paper investigates how legislators respond to electoral reform by adjusting
 
 <u>(Mis)perception of Party-voter Congruence and Satisfaction with Democracy</u> (with Royce Carroll, Essex; Li Tang, Middlesex University London) 
 
-[[`pdf`](https://raw.githack.com/davidycliao/working-paper/main/_Mis_perception_of_Party_voter_Congruence_and_Satisfaction_with_Democracy.pdf) | [`appendix`]()] 
+[[`pdf`](https://raw.githack.com/davidycliao/working-paper/main/_Mis_perception_of_Party_voter_Congruence_and_Satisfaction_with_Democracy.pdf) | appendix] 
 
 <div style="text-align: justify">
 This study investigates how misperception of party positions can impact party-voter congruence and democratic satisfaction. The research uses panel data from the British Election Study and cross-sectional data from the Comparative Study of Electoral Systems to show that misperception of party positions leads to a divergence between actual and perceived levels of party-voter incongruence, which can influence satisfaction with democracy. The analysis finds that perceived incongruence reduces satisfaction with democracy, while actual incongruence has no separate effect. The study highlights the importance of subjective perceptions and their role in shaping democratic satisfaction, which can differ from objective measures of party-voter congruence. The results suggest that satisfaction with democracy can be affected by biased perceptions of party positions, regardless of the actual performance of party representation. The study underscores the importance of considering objective and subjective measures of party-voter congruence to understand the relationship between representation and democratic satisfaction.
@@ -61,7 +61,7 @@ This study investigates how misperception of party positions can impact party-vo
 
 <u>Electoral Reform and Pork Barrel in Parliamentary Questions</u> 
 
-[[`pdf`]() | [`appendix`]()] 
+[[`pdf`]() | appendix] 
 
 <div style="text-align: justify">
 Measuring legislator behaviours and tendencies towards constituencies under different electoral systems is important. This paper quantitatively investigates this topic using the case of Taiwan Legislative Yuan and data on written parliamentary questions through an electoral reform from multi-member districts (MMD) to single-member districts (SMD). To answer the research questions, I train deep learning models on multi-convolutional neural networks with an embedding layer extracted from Transformer BERT to detect pork-barrel features in parliamentary questions over time. With Transformers' attention mechanisms, this combination approach enables the machine to learn the condensed features of embedding representation and better handle polysemous words than traditional embedding approaches like Word2Vec. Last, I employ regression analysis to test the impact of the reform occurrence and control for differences between districts and legislators through the transition. Evidence exists to show that the transition of electoral reform incurs essential changes in legislators' behaviour. Legislators under multi-member districts are more likely to express political intention regarding pork-barrel projects in the parliarmentary questions. The reform subsequently demonstrates heterogeneous effects on large parties vis-à-vis small parties.
@@ -69,9 +69,7 @@ Measuring legislator behaviours and tendencies towards constituencies under diff
 
 ---
 
-<u>The Role of Rituals in Adversarial Parliaments: An Analysis of Expressions of Collegiality in the British House of Commons</u>  (with Thomas Saalfeld and David Beck,  *R&R*)
-
-[[`pdf (new revision comming soon)`]() | [`appendix`]()] 
+<u>The Role of Rituals in Adversarial Parliaments: An Analysis of Expressions of Collegiality in the British House of Commons</u>  (with Thomas Saalfeld and David Beck, *R&R*)
 
 <div style="text-align: justify">
 Despite the adversarial character of debates in the British House of Commons, Members of Parliament (MPs) observe a highly ritualized rhetorical style emphasizing collegiality and mutual respect across party lines. The language MPs use in this context harks back to an ancient pre-democratic past. Why does a modern democratic legislature conceal partisan conflict by using pre-democratic ritualistic references to ‘the House’ as a corporate actor? Why do they call their fiercest competitors ‘honourable Members’ or even ‘Friends’? In this paper, we review the results of important empirical studies suggesting that the activities even of modern democratic parliaments (based on intense party competition) reveal traces of pre-democratic corporate bodies in some respects. Analyzing a large corpus of parliamentary speeches in the British House of Commons between 1988 and 2019, we propose a novel technique to identify and measure references to collegiality in Britain’s parliamentary system. Using a simple descriptive method, we demonstrate the extent to which such references vary systematically by party and across time, suggesting that they are used strategically in the stylized and ritualized language of parliamentary debate in the Commons depending on the status of MPs as members of government or oppositional parties.
@@ -81,13 +79,15 @@ Despite the adversarial character of debates in the British House of Commons, Me
 
 <u>Factionalism and the Red Guards under Mao’s China: Ideal Point Estimation Using Text Data</u> (with Yi-Nung Tsai, National Chengchi University; Daniel Tene, Univeristy of Essex; Dechun Zhang, Leiden University)
 
-[[`pdf (new revision comming soon)`]() | [`appendix`]()] 
-
 
 <div style="text-align: justify">
 In this paper, we design a new strain of text scaling method,  Swordfish  (Slogan-featured Wordfish), that takes advantage of the TextRank algorithm to extract the most representative political slogans in a given context and estimates Wordfish with those extracted text variables. We test this method using the case of the Great Proletarian Cultural Revolution in China and the historical archive of handwritten big-character posters and self-printed tabloids from 1966. We estimate student protests' ideal points by analyzing expressed political views in propaganda publications. Our findings point to evidence of factional re(de)alignments within the movement and demonstrate how the students from different educational backgrounds followed Mao Zedong and Xiaohongshu 小紅書 (Little Red Book) and then fell into armed conflicts that divided families, the classes and the society. The results estimated by Swordfish are shown to be consistent with the representative qualitative literature on factionalism during the Cultural Revolution. We also compare our results with 14 experts on the study of Chinese Communist Party history, and we find that our estimations are quite consistent with experts' judgement.
 </div>  
 
+
+&nbsp;
+
+If you would like to recieve the latest version of the paper,please feel free to send me an email.
 
 ---
 
