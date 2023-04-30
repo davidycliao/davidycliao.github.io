@@ -111,7 +111,7 @@ If you would like to recieve the latest version of the paper,please feel free to
 
 <u>Securitization in Words: Text Analysis of Taiwan’s COVID-19 Press Conferences</u> (Chia-Chien Chang NSYU, Taiwan; Wei-Ting Yen, Franklin and Marshall College, USA; Li-Yin Liu, University of Dayton, USA) 
 
-<u>Unraveling Pork Barrel Dynamics through Explainable Machine Learning Methods: A Case Study of CAGW</u> (with Sunil Green, Purdue University)
+<u>Unraveling Pork Barrel Dynamics through Explainable Machine Learning Methods: A Case Study of CAGW Congressional Pig Book</u> (with Sunil Green, Purdue University)
 
 
 
