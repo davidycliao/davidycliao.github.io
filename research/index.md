@@ -41,7 +41,7 @@ img {
 
 <u>Electoral Reform and Fragmented Polarization: New Evidence from Taiwan Legislative Roll Call </u>
 
-[[`pdf`](https://raw.githack.com/davidycliao/working-paper/main/Electoral_Reform_and_Fragmented_Polarisation.pdf) ｜ appendix] 
+[ [`pdf`](https://raw.githack.com/davidycliao/working-paper/main/Electoral_Reform_and_Fragmented_Polarisation.pdf)] 
 
 <div style="text-align: justify">
 This paper investigates how legislators respond to electoral reform by adjusting their ideological positions with respect to co-partisans and rivals. Using data from Taiwan's legislative roll calls over 20 years, we study the extent to which partisan disagreement is influenced by the 2008 Taiwanese electoral reform  from Single Non-Transferable Votes to Single-Member Districts. Contrary to the literature, our empirical evidence documents that the reform significantly fragmented legislator positions in relation to both co-partisans and members from the rival party. Intra- and inter-party disagreement increased shortly after the reform. However, the effect of the reform diminishes over time. After 6 years, disagreement between mainstream parties returned to its pre-reform level. Our finding provides a different perspective on the electoral reform from the SNTVs to the SMDs on Taiwan' party cohesion and polarization. 
@@ -51,7 +51,7 @@ This paper investigates how legislators respond to electoral reform by adjusting
 
 <u>(Mis)perception of Party-voter Congruence and Satisfaction with Democracy</u> (with Royce Carroll, Essex; Li Tang, Middlesex University London) 
 
-[[`pdf`](https://raw.githack.com/davidycliao/working-paper/main/Mis_perception_of_Party_voter_Congruence_and_Satisfaction_with_Democracy.pdf) | appendix] 
+[ [`pdf`](https://raw.githack.com/davidycliao/working-paper/main/Mis_perception_of_Party_voter_Congruence_and_Satisfaction_with_Democracy.pdf) | [`presnetation`](https://raw.githack.com/davidycliao/working-paper/main/mis-per-party-slides.pdf) ] 
 
 <div style="text-align: justify">
 This study examines the relationship between party-voter congruence and satisfaction with democracy, focusing on the impact of misperception of party positions. Using panel data from the British Election Study and cross-sectional data from the Comparative Study of Electoral Systems, we find that misperception leads to a divergence between actual and perceived levels of party-voter incongruence, which can influence satisfaction with democracy. We show that perceived incongruence reduces satisfaction with democracy, while actual incongruence has no separate effect. These results suggest that biased perceptions of party positions can impact satisfaction with democracy, regardless of how well parties act as representatives of their voters. Our results underscore the importance of perceptions in shaping democratic satisfaction, highlighting the need to consider both objective and subjective measures of party-voter congruence when examining both its causes and effects. 
@@ -61,7 +61,7 @@ This study examines the relationship between party-voter congruence and satisfac
 
 <u>Electoral Reform and Pork Barrel in Parliamentary Questions</u> 
 
-[[`pdf`]() | appendix] 
+[ [`pdf`]()] 
 
 <div style="text-align: justify">
 Measuring legislator behaviours and tendencies towards constituencies under different electoral systems is important. This paper quantitatively investigates this topic using the case of Taiwan Legislative Yuan and data on written parliamentary questions through an electoral reform from multi-member districts (MMD) to single-member districts (SMD). To answer the research questions, I train deep learning models on multi-convolutional neural networks with an embedding layer extracted from Transformer BERT to detect pork-barrel features in parliamentary questions over time. With Transformers' attention mechanisms, this combination approach enables the machine to learn the condensed features of embedding representation and better handle polysemous words than traditional embedding approaches like Word2Vec. Last, I employ regression analysis to test the impact of the reform occurrence and control for differences between districts and legislators through the transition. Evidence exists to show that the transition of electoral reform incurs essential changes in legislators' behaviour. Legislators under multi-member districts are more likely to express political intention regarding pork-barrel projects in the parliarmentary questions. The reform subsequently demonstrates heterogeneous effects on large parties vis-à-vis small parties.
