@@ -52,7 +52,7 @@ This paper investigates how legislators respond to electoral reform by adjusting
 
 <u>(Mis)perception of Party-voter Congruence and Satisfaction with Democracy</u> (with Royce Carroll, Essex; Li Tang, Middlesex University London) 
 
-[ [`pdf`](https://raw.githack.com/davidycliao/working-paper/main/Mis_perception_of_Party_voter_Congruence_and_Satisfaction_with_Democracy.pdf) | [`presnetation`](https://raw.githack.com/davidycliao/working-paper/main/mis-per-party-slides.pdf) ] 
+[ [`pdf`](https://raw.githack.com/davidycliao/working-paper/main/Mis_perception_of_Party_voter_Congruence_and_Satisfaction_with_Democracy.pdf) | [`presentation`](https://raw.githack.com/davidycliao/working-paper/main/mis-per-party-slides.pdf) ] 
 
 <div style="text-align: justify">
 This study examines the relationship between party-voter congruence and satisfaction with democracy, focusing on the impact of misperception of party positions. Using panel data from the British Election Study and cross-sectional data from the Comparative Study of Electoral Systems, we find that misperception leads to a divergence between actual and perceived levels of party-voter incongruence, which can influence satisfaction with democracy. We show that perceived incongruence reduces satisfaction with democracy, while actual incongruence has no separate effect. These results suggest that biased perceptions of party positions can impact satisfaction with democracy, regardless of how well parties act as representatives of their voters. Our results underscore the importance of perceptions in shaping democratic satisfaction, highlighting the need to consider both objective and subjective measures of party-voter congruence when examining both its causes and effects. 
