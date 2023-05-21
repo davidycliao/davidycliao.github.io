@@ -41,7 +41,7 @@ img {
 
 <u>Electoral Reform and Fragmented Polarization: New Evidence from Taiwan Legislative Roll Call </u>
 
-[ [`pdf`](https://raw.githack.com/davidycliao/working-paper/main/Electoral_Reform_and_Fragmented_Polarisation.pdf)] 
+[ [`pdf`](https://raw.githack.com/davidycliao/working-paper/main/Electoral_Reform_and_Fragmented_Polarisation.pdf) ] 
 
 <div style="text-align: justify">
 
@@ -61,7 +61,7 @@ This study examines the relationship between party-voter congruence and satisfac
 
 <u>Electoral Reform and Pork Barrel in Parliamentary Questions</u> 
 
-[ [`pdf`](https://raw.githack.com/davidycliao/erpb/master/paper/paper.pdf)] 
+[ [`pdf`](https://raw.githack.com/davidycliao/erpb/master/paper/paper.pdf) ] 
 
 <div style="text-align: justify">
 Measuring legislator behaviours and tendencies towards constituencies under different electoral systems is important. This paper quantitatively investigates this topic using the case of Taiwan Legislative Yuan and data on written parliamentary questions through an electoral reform from multi-member districts (MMD) to single-member districts (SMD). To answer the research questions, I train deep learning models on multi-convolutional neural networks with an embedding layer extracted from Transformer BERT to detect pork-barrel features in parliamentary questions over time. By combining explainable machine learning techniques with BERT, we can gain clear insights into how our model, trained using BERT attention, arrives at its predictions. Last, I employ regression analysis to test the impact of the reform occurrence and control for differences between districts and legislators through the transition. Evidence exists to show that the transition of electoral reform incurs essential changes in legislators' behaviour. Legislators under multi-member districts are more likely to express political intention regarding pork-barrel projects in the parliarmentary questions. The reform subsequently demonstrates heterogeneous effects on large parties vis-à-vis small parties.
@@ -69,7 +69,7 @@ Measuring legislator behaviours and tendencies towards constituencies under diff
 
 ---
 
-<u>The Role of Rituals in Adversarial Parliaments: An Analysis of Expressions of Collegiality in the British House of Commons</u>  (with Thomas Saalfeld and David Beck, *R&R*)
+<u>The Role of Rituals in Adversarial Parliaments: An Analysis of Expressions of Collegiality in the British House of Commons</u>  (with Thomas Saalfeld and David Beck, ***R&R***)
 
 <div style="text-align: justify">
 Despite the adversarial character of debates in the British House of Commons, Members of Parliament (MPs) observe a highly ritualized rhetorical style emphasizing collegiality and mutual respect across party lines. The language MPs use in this context harks back to an ancient pre-democratic past. Why does a modern democratic legislature conceal partisan conflict by using pre-democratic ritualistic references to ‘the House’ as a corporate actor? Why do they call their fiercest competitors ‘honourable Members’ or even ‘Friends’? In this paper, we review the results of important empirical studies suggesting that the activities even of modern democratic parliaments (based on intense party competition) reveal traces of pre-democratic corporate bodies in some respects. Analyzing a large corpus of parliamentary speeches in the British House of Commons between 1988 and 2019, we propose a novel technique to identify and measure references to collegiality in Britain’s parliamentary system. Using a simple descriptive method, we demonstrate the extent to which such references vary systematically by party and across time, suggesting that they are used strategically in the stylized and ritualized language of parliamentary debate in the Commons depending on the status of MPs as members of government or oppositional parties.
@@ -79,16 +79,15 @@ Despite the adversarial character of debates in the British House of Commons, Me
 
 <u>Factionalism and the Red Guards under Mao’s China: Ideal Point Estimation Using Text Data</u> (with Yi-Nung Tsai, National Chengchi University; Daniel Tene, Univeristy of Essex; Dechun Zhang, Leiden University)
 
- [ [`pdf` ](https://raw.githack.com/davidycliao/redguards/master/slides/paper.pdf) ]
+ [ [`pdf` ](https://raw.githack.com/davidycliao/redguards/master/slides/paper.pdf) | [`presentation`](https://raw.githack.com/davidycliao/redguards/master/slides/slides.pdf) ]
 
 <div style="text-align: justify">
 In this paper, we design a new strain of text scaling method, Swordfish (Slogan-featured Wordfish), that takes advantage of the TextRank algorithm to extract the most representative political slogans in a given context and estimates Wordfish with those extracted text variables. We test this method using the case of the Great Proletarian Cultural Revolution in China and the historical archive of handwritten big-character posters and self-printed tabloids from 1966. We estimate student protests' ideal points by analyzing expressed political views in propaganda publications. Our findings point to evidence of factional re(de)alignments within the movement and demonstrate how the students from different educational backgrounds followed Mao Zedong and Xiaohongshu 小紅書 (Little Red Book) and then fell into armed conflicts that divided families, the classes and the society. The results estimated by Swordfish are shown to be consistent with the representative qualitative literature on factionalism during the Cultural Revolution. We also compared our results with those of 14 experts in the field of Chinese Communist Party history. We found that our estimations were largely consistent with the experts' judgments, while also providing new insights into the movement of student protest over time.
 </div>  
 
+<div style="text-align: center">
 
-&nbsp;
-
-If you would like to recieve the latest version of the paper,please feel free to send me an email.
+#### _If you would like to recieve the latest version of the paper,please feel free to send me an email._
 
 ---
 
