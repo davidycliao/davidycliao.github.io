@@ -1,6 +1,29 @@
 # Research
 
 
+
+<style>
+/* body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+} */
+
+
+.bottom-link {
+    display: inline-block;
+    padding: 1px 1px;
+    background-color: #f2f2f2;
+    color: #000;
+    text-decoration: none;
+    border-radius: 5px; /* This makes the link round */
+    transition: background-color 0.8s;
+}
+
+.bottom-link:hover {
+    background-color: #ddd;
+}
+</style>
+
 <br/><br/>
 
 
@@ -41,7 +64,9 @@ img {
 
 <u>Electoral Reform and Fragmented Polarization: New Evidence from Taiwan Legislative Roll Call </u>
 
-[ [`pdf`](https://raw.githack.com/davidycliao/working-paper/main/Electoral_Reform_and_Fragmented_Polarisation.pdf) ] 
+<!-- [ [`pdf`](https://raw.githack.com/davidycliao/working-paper/main/Electoral_Reform_and_Fragmented_Polarisation.pdf) ]  -->
+
+<a href="https://raw.githack.com/davidycliao/working-paper/main/Electoral_Reform_and_Fragmented_Polarisation.pdf" class="bottom-link"  target="_blank">paper</a> <a href="#top" class="bottom-link" target="_blank"> presentation  </a>
 
 <div style="text-align: justify">
 
@@ -51,7 +76,9 @@ This paper investigates how legislators respond to electoral reform by adjusting
 
 <u>(Mis)perception of Party-voter Congruence and Satisfaction with Democracy</u> (with Royce Carroll, Essex; Li Tang, Middlesex University London) 
 
-[ [`pdf`](https://raw.githack.com/davidycliao/working-paper/main/Mis_perception_of_Party_voter_Congruence_and_Satisfaction_with_Democracy.pdf) | [`presentation`](https://raw.githack.com/davidycliao/working-paper/main/mis-per-party-slides.pdf) ] 
+<!-- [ [`pdf`](https://raw.githack.com/davidycliao/working-paper/main/Mis_perception_of_Party_voter_Congruence_and_Satisfaction_with_Democracy.pdf) | [`presentation`](https://raw.githack.com/davidycliao/working-paper/main/mis-per-party-slides.pdf) ] 
+ -->
+<a href="https://raw.githack.com/davidycliao/working-paper/main/Mis_perception_of_Party_voter_Congruence_and_Satisfaction_with_Democracy.pdf" class="bottom-link" target="_blank">paper</a> <a href="https://raw.githack.com/davidycliao/working-paper/main/mis-per-party-slides.pdf" class="bottom-link" target="_blank"> presentation  </a>
 
 <div style="text-align: justify">
 This study examines the relationship between party-voter congruence and satisfaction with democracy, focusing on the impact of misperception of party positions. Using panel data from the British Election Study and cross-sectional data from the Comparative Study of Electoral Systems, we find that misperception leads to a divergence between actual and perceived levels of party-voter incongruence, which can influence satisfaction with democracy. We show that perceived incongruence reduces satisfaction with democracy, while actual incongruence has no separate effect. These results suggest that biased perceptions of party positions can impact satisfaction with democracy, regardless of how well parties act as representatives of their voters. Our results underscore the importance of perceptions in shaping democratic satisfaction, highlighting the need to consider both objective and subjective measures of party-voter congruence when examining both its causes and effects. 
@@ -61,7 +88,10 @@ This study examines the relationship between party-voter congruence and satisfac
 
 <u>Electoral Reform and Pork Barrel in Parliamentary Questions</u> 
 
-[ [`pdf`](https://raw.githack.com/davidycliao/erpb/master/paper/paper.pdf) | [`presentation`](https://raw.githack.com/davidycliao/erpb/main/slides/slides.html) ] 
+<!-- [ [`pdf`](https://raw.githack.com/davidycliao/erpb/master/paper/paper.pdf) | [`presentation`](https://raw.githack.com/davidycliao/erpb/main/slides/slides.html) ]  -->
+
+<a href="https://raw.githack.com/davidycliao/erpb/master/paper/paper.pdf" class="bottom-link" target="_blank">paper</a> <a href="https://raw.githack.com/davidycliao/erpb/main/slides/slides.html" class="bottom-link" target="_blank"> presentation  </a>
+
 
 <div style="text-align: justify">
 Measuring legislator behaviours and tendencies towards constituencies under different electoral systems is important. This paper quantitatively investigates this topic using the case of Taiwan Legislative Yuan and data on written parliamentary questions through an electoral reform from multi-member districts (MMD) to single-member districts (SMD). To answer the research questions, I train deep learning models on multi-convolutional neural networks with an embedding layer extracted from Transformer BERT to detect pork-barrel features in parliamentary questions over time. By combining explainable machine learning techniques with BERT, we can gain clear insights into how our model, trained using BERT attention, arrives at its predictions. Last, I employ regression analysis to test the impact of the reform occurrence and control for differences between districts and legislators through the transition. Evidence exists to show that the transition of electoral reform incurs essential changes in legislators' behaviour. Legislators under multi-member districts are more likely to express political intention regarding pork-barrel projects in the parliarmentary questions. The reform subsequently demonstrates heterogeneous effects on large parties vis-à-vis small parties.
@@ -78,8 +108,10 @@ Despite the adversarial character of debates in the British House of Commons, Me
 ---
 
 <u>Factionalism and the Red Guards under Mao’s China: Ideal Point Estimation Using Text Data</u> (with Yi-Nung Tsai, National Chengchi University; Daniel Tene, Univeristy of Essex; Dechun Zhang, Leiden University)
+<!-- 
+ [ [`pdf` ](https://raw.githack.com/davidycliao/redguards/master/slides/paper.pdf) | [`presentation`](https://raw.githack.com/davidycliao/redguards/master/slides/slides.pdf) ] -->
 
- [ [`pdf` ](https://raw.githack.com/davidycliao/redguards/master/slides/paper.pdf) | [`presentation`](https://raw.githack.com/davidycliao/redguards/master/slides/slides.pdf) ]
+<a href="https://raw.githack.com/davidycliao/redguards/master/slides/paper.pdf" class="bottom-link" target="_blank">paper</a> <a href="https://raw.githack.com/davidycliao/redguards/master/slides/slides.pdf" class="bottom-link"  target="_blank"> presentation  </a>
 
 <div style="text-align: justify">
 In this paper, we design a new strain of text scaling method, Swordfish (Slogan-featured Wordfish), that takes advantage of the TextRank algorithm to extract the most representative political slogans in a given context and estimates Wordfish with those extracted text variables. We test this method using the case of the Great Proletarian Cultural Revolution in China and the historical archive of handwritten big-character posters and self-printed tabloids from 1966. We estimate student protests' ideal points by analyzing expressed political views in propaganda publications. Our findings point to evidence of factional re(de)alignments within the movement and demonstrate how the students from different educational backgrounds followed Mao Zedong and Xiaohongshu 小紅書 (Little Red Book) and then fell into armed conflicts that divided families, the classes and the society. The results estimated by Swordfish are shown to be consistent with the representative qualitative literature on factionalism during the Cultural Revolution. We also compared our results with those of 14 experts in the field of Chinese Communist Party history. We found that our estimations were largely consistent with the experts' judgments, while also providing new insights into the movement of student protest over time.
