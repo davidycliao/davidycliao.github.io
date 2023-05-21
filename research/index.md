@@ -61,7 +61,7 @@ This study examines the relationship between party-voter congruence and satisfac
 
 <u>Electoral Reform and Pork Barrel in Parliamentary Questions</u> 
 
-[ [`pdf`](https://raw.githack.com/davidycliao/erpb/master/paper/paper.pdf) ] 
+[ [`pdf`](https://raw.githack.com/davidycliao/erpb/master/paper/paper.pdf) | [`presentation`](https://raw.githack.com/davidycliao/erpb/main/slides/slides.html) ] 
 
 <div style="text-align: justify">
 Measuring legislator behaviours and tendencies towards constituencies under different electoral systems is important. This paper quantitatively investigates this topic using the case of Taiwan Legislative Yuan and data on written parliamentary questions through an electoral reform from multi-member districts (MMD) to single-member districts (SMD). To answer the research questions, I train deep learning models on multi-convolutional neural networks with an embedding layer extracted from Transformer BERT to detect pork-barrel features in parliamentary questions over time. By combining explainable machine learning techniques with BERT, we can gain clear insights into how our model, trained using BERT attention, arrives at its predictions. Last, I employ regression analysis to test the impact of the reform occurrence and control for differences between districts and legislators through the transition. Evidence exists to show that the transition of electoral reform incurs essential changes in legislators' behaviour. Legislators under multi-member districts are more likely to express political intention regarding pork-barrel projects in the parliarmentary questions. The reform subsequently demonstrates heterogeneous effects on large parties vis-à-vis small parties.
