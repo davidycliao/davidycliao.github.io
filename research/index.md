@@ -99,6 +99,21 @@ Measuring legislator behaviours and tendencies towards constituencies under diff
 
 ---
 
+<u>Electoral Reform and Party Convergence on Issue Attention</u>  (with Yu-Ceng Liao, NCCU) 
+
+<!-- [ [`pdf`](https://raw.githack.com/davidycliao/erpb/master/paper/paper.pdf) | [`presentation`](https://raw.githack.com/davidycliao/erpb/main/slides/slides.html) ]  -->
+
+<a href="" class="bottom-link" target="_blank">paper</a> <a href="" class="bottom-link" target="_blank"> presentation  </a>
+
+
+<div style="text-align: justify">
+This paper examines party convergence and divergence in issue attention by analyzing legislators’ propensity to oversee the government on different topics during question time. We explore this research topic using the Taiwan Legislative Yuan as a case study, analysing parliamentary question data from 1993 to 2019. This period encompasses an electoral reform executed in 2008. We estimate each legislator's position on the left-right spectrum using keywords extracted from the questions they posed to executive officials regarding policies and activities of various ministries. Our analysis reveals the extent to which electoral reform and other factors influence the variability in their issue attention. Our findings suggest that fluctuations in the total number of parliamentary seats may impact the assembly's diversity, thereby affecting the range of policies receiving attention. We observed that legislators in multi-member districts with a single non-transferable vote (SNTV-MMD) tend to distribute their attention across various policy issues. Conversely, under single-member district (SMD) systems, members of the Legislative Yuan generally appear to focus on similar public policies.
+</div>  
+
+
+
+---
+
 <u>The Role of Rituals in Adversarial Parliaments: An Analysis of Expressions of Collegiality in the British House of Commons</u>  (with Thomas Saalfeld and David Beck, ***R&R***)
 
 <div style="text-align: justify">
@@ -137,9 +152,6 @@ In this paper, we design a new strain of text scaling method, Swordfish (Slogan-
 <u>Estimating Politically Expressive Preference with Context-Aware Named Entities</u> (with Thomas Saalfeld and David Beck)
 
 <u>Party Competition in Times of Crisis</u> (with Thomas Saalfeld and David Beck)
-
-<u>Measuring Party Cohesion on Parliamentary Question Keywords</u> (with Yu-Ceng Liao, NCCU)
-
 
 <u>Securitization in Words: Text Analysis of Taiwan’s COVID-19 Press Conferences</u> (Chia-Chien Chang NSYU, Taiwan; Wei-Ting Yen, Franklin and Marshall College, USA; Li-Yin Liu, University of Dayton, USA) 
 
