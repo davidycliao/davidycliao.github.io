@@ -9,7 +9,7 @@
 Hi There!
 
 
-My name is David (Yen-Chieh) Liao. I obtained my PhD from Department of Goverment at University of Essex. I was a Pre-doctoral Researcher of [<span style="color:#778899">Legislators between Accountability and Collective Agency</span>](https://projectlacan.wordpress.com/team/) at the Chair of Comparative Politics in University of Bamberg, Prof. Dr. Thomas Saalfeld. I will be a visiting fellow in the Bamberg Graduate School of Social Sciences with [<span style="color:#778899">Dr. Thomas Saalfeld</span>](https://www.uni-bamberg.de/en/vp-research/).
+My name is David (Yen-Chieh) Liao. I obtained a PhD from Department of Goverment at University of Essex. I was a Pre-doctoral Researcher of [<span style="color:#778899">Legislators between Accountability and Collective Agency</span>](https://projectlacan.wordpress.com/team/) at the Chair of Comparative Politics in University of Bamberg. I will be a visiting fellow in the Bamberg Graduate School of Social Sciences with [<span style="color:#778899">Dr. Thomas Saalfeld</span>](https://www.uni-bamberg.de/en/vp-research/).
 
 During my PhD at Essex (Oct 2017 - Jan 2023), I study the impact of Taiwan's electoral reform and investigates how the reform changes ideological positionings, preferences and representation. My PhD thesis ([*“Electoral Reform, Distributive Politics, and Parties in the Taiwanese Congress”*](https://raw.githack.com/davidycliao/phd-thesis/main/Yen_Chieh_Liao_PhD_Dissertation_Jan_2023.pdf)) is supported by the 2021 TOPGRANT from Ministry of Science and Technology Taiwan (August 2021 - August 2022) and Ministry of Taiwan Eduacation (2017-2021).  
 
