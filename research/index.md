@@ -103,7 +103,7 @@ Measuring legislator behaviours and tendencies towards constituencies under diff
 
 <!-- [ [`pdf`](https://raw.githack.com/davidycliao/erpb/master/paper/paper.pdf) | [`presentation`](https://raw.githack.com/davidycliao/erpb/main/slides/slides.html) ]  -->
 
-<a href="https://raw.githack.com/davidycliao/working-paper/main/Electoral_Reform_and_Party_Convergence_on_Issue_Attentions.pdf" class="bottom-link" target="_blank">paper</a> <a href="" class="bottom-link" target="_blank"> presentation  </a>
+<a href="https://www.dropbox.com/s/ztqf206tbfndgxo/Electoral_Reform_and_Party_Convergence_on_Issue_Attentions.pdf?dl=0" class="bottom-link" target="_blank">paper</a> <a href="" class="bottom-link" target="_blank"> presentation  </a>
 
 
 <div style="text-align: justify">
