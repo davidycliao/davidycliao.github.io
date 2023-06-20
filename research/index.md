@@ -99,15 +99,15 @@ Measuring legislator behaviours and tendencies towards constituencies under diff
 
 ---
 
-<u>Electoral Reform and Party Convergence on Issue Attention</u>  (with Yu-Ceng Liao, NCCU) 
+<u>Electoral Reform and Party Convergence on Issue Attentions</u>  (with Yu-Ceng Liao, NCCU) 
 
 <!-- [ [`pdf`](https://raw.githack.com/davidycliao/erpb/master/paper/paper.pdf) | [`presentation`](https://raw.githack.com/davidycliao/erpb/main/slides/slides.html) ]  -->
 
-<a href="" class="bottom-link" target="_blank">paper</a> <a href="" class="bottom-link" target="_blank"> presentation  </a>
+<a href="https://raw.githack.com/davidycliao/working-paper/main/Electoral_Reform_and_Party_Convergence_on_Issue_Attentions.pdf" class="bottom-link" target="_blank">paper</a> <a href="" class="bottom-link" target="_blank"> presentation  </a>
 
 
 <div style="text-align: justify">
-This paper examines party convergence and divergence in issue attention by analyzing legislators’ propensity to oversee the government on different topics during question time. We explore this research topic using the Taiwan Legislative Yuan as a case study, analysing parliamentary question data from 1993 to 2019. This period encompasses an electoral reform executed in 2008. We estimate each legislator's position on the left-right spectrum using keywords extracted from the questions they posed to executive officials regarding policies and activities of various ministries. Our analysis reveals the extent to which electoral reform and other factors influence the variability in their issue attention. Our findings suggest that fluctuations in the total number of parliamentary seats may impact the assembly's diversity, thereby affecting the range of policies receiving attention. We observed that legislators in multi-member districts with a single non-transferable vote (SNTV-MMD) tend to distribute their attention across various policy issues. Conversely, under single-member district (SMD) systems, members of the Legislative Yuan generally appear to focus on similar public policies.
+This paper is to measure party convergence and variability in issue attention by looking at what and why legislators are more likely to oversight the ministry officials on some specific topics or another during the question time. We answer this question using the case of the Taiwan Legislative Yuan, and data on written parliamentary questions through an electoral reform from 1993 to 2020. We estimate the position of each legislator on the left-right dimensions using the topics annotated in the questions that legislators request for information on policies and activities of ministries from executive officials.  We answer this question using the case of the Taiwan Legislative Yuan, and data on written parliamentary questions through an electoral reform from 1993 to 2020, over 116,248 questions. We find that the institutional changes shapes legislators' attention to the topics in relation to their own co-partisan: legislator converge issue attention when there is high variability in the distribution of topics under Single Member District (SMD) and diverges when there is low variability under Single Non-transferable Vote (SNTV). In addition, legislators elected from larger districts demonstrate more divergence by focusing on specific topics, while those from smaller districts tend to converge their attention to various policy issues.
 </div>  
 
 
