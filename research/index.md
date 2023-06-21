@@ -64,9 +64,9 @@ img {
 
 <u>Electoral Reform and Fragmented Polarization: New Evidence from Taiwan Legislative Roll Call </u>
 
-<!-- [ [`pdf`](https://raw.githack.com/davidycliao/working-paper/main/Electoral_Reform_and_Fragmented_Polarisation.pdf) ]  -->
 
-<a href="https://raw.githack.com/davidycliao/working-paper/main/Electoral_Reform_and_Fragmented_Polarisation.pdf" class="bottom-link"  target="_blank">paper</a> <a href="#top" class="bottom-link" target="_blank"> presentation  </a>
+
+<a href="https://www.dropbox.com/s/egt1vio6ng3zrxm/Electoral_Reform_and_Fragmented_Polarisation.pdf?dl=0" class="bottom-link"  target="_blank">paper</a> <a href="#top" class="bottom-link" target="_blank"> presentation  </a>
 
 <div style="text-align: justify">
 
@@ -78,7 +78,7 @@ This paper investigates how legislators respond to electoral reform by adjusting
 
 <!-- [ [`pdf`](https://raw.githack.com/davidycliao/working-paper/main/Mis_perception_of_Party_voter_Congruence_and_Satisfaction_with_Democracy.pdf) | [`presentation`](https://raw.githack.com/davidycliao/working-paper/main/mis-per-party-slides.pdf) ] 
  -->
-<a href="https://raw.githack.com/davidycliao/working-paper/main/Mis_perception_of_Party_voter_Congruence_and_Satisfaction_with_Democracy.pdf" class="bottom-link" target="_blank">paper</a> <a href="https://raw.githack.com/davidycliao/working-paper/main/mis-per-party-slides.pdf" class="bottom-link" target="_blank"> presentation  </a>
+<a href="https://www.dropbox.com/s/iuou4lew5nztc8g/Mis_perception_of_Party_voter_Congruence_and_Satisfaction_with_Democracy.pdf?dl=0" class="bottom-link" target="_blank">paper</a> <a href="https://www.dropbox.com/s/t8je2ex8k5543wk/mis-per-party-slides.pdf?dl=0" class="bottom-link" target="_blank"> presentation  </a>
 
 <div style="text-align: justify">
 This study examines the relationship between party-voter congruence and satisfaction with democracy, focusing on the impact of misperception of party positions. Using panel data from the British Election Study and cross-sectional data from the Comparative Study of Electoral Systems, we find that misperception leads to a divergence between actual and perceived levels of party-voter incongruence, which can influence satisfaction with democracy. We show that perceived incongruence reduces satisfaction with democracy, while actual incongruence has no separate effect. These results suggest that biased perceptions of party positions can impact satisfaction with democracy, regardless of how well parties act as representatives of their voters. Our results underscore the importance of perceptions in shaping democratic satisfaction, highlighting the need to consider both objective and subjective measures of party-voter congruence when examining both its causes and effects. 
@@ -88,9 +88,9 @@ This study examines the relationship between party-voter congruence and satisfac
 
 <u>Electoral Reform and Pork Barrel in Parliamentary Questions</u> 
 
-<!-- [ [`pdf`](https://raw.githack.com/davidycliao/erpb/master/paper/paper.pdf) | [`presentation`](https://raw.githack.com/davidycliao/erpb/main/slides/slides.html) ]  -->
 
-<a href="https://raw.githack.com/davidycliao/erpb/master/paper/paper.pdf" class="bottom-link" target="_blank">paper</a> <a href="https://raw.githack.com/davidycliao/erpb/main/slides/slides.html" class="bottom-link" target="_blank"> presentation  </a>
+
+<a href="https://www.dropbox.com/s/r3kwl8uq6qr4unq/Electoral_Reform_and_Pork_Barrel_in_Parliamentary_Questions.pdf?dl=0" class="bottom-link" target="_blank">paper</a> <a href="https://raw.githack.com/davidycliao/erpb/main/slides/slides.html" class="bottom-link" target="_blank"> presentation  </a>
 
 
 <div style="text-align: justify">
