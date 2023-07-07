@@ -64,9 +64,7 @@ img {
 
 <u>Electoral Reform and Fragmented Polarization: New Evidence from Taiwan Legislative Roll Call </u>
 
-
-
-<a href="https://www.dropbox.com/s/egt1vio6ng3zrxm/Electoral_Reform_and_Fragmented_Polarisation.pdf?dl=0" class="bottom-link"  target="_blank">paper</a> <a href="https://raw.githack.com/davidycliao/ecpr-parliarment/main/erfp-ecpr-parliarment.html#1" class="bottom-link" target="_blank"> presentation  </a>
+<a href="https://www.dropbox.com/s/pne9koj89t6t5o8/Electoral_Reform_and_Fragmented_Polarisation.pdf?dl=0" class="bottom-link"  target="_blank">paper</a> <a href="https://raw.githack.com/davidycliao/ecpr-parliarment/main/erfp-ecpr-parliarment.html#1" class="bottom-link" target="_blank"> presentation  </a>
 
 
 <div style="text-align: justify">
