@@ -53,95 +53,62 @@ img {
 
 </p> -->
 
+<div style="text-align: left">
+
+## Publication
+
+The Role of Rituals in Adversarial Parliaments: An Analysis of Expressions of Collegiality in the British House of Commons, Historical Social Research 48 (3): 209-234 (with David Beck and Thomas Saalfeld) [&nbsp; <a href="https://www.jstor.org/stable/27221360" target="_blank"  
+style="color: blue;">Invited Special Issue</a> &nbsp;]
+  
+---
 
 
 <div style="text-align: left">
 
-### _Working_ Papers: 
+## _Working_ Papers
+
+(Mis)perception of Party-voter Congruence and Satisfaction with Democracy (with Royce Carroll, Essex; Li Tang, Middlesex University London <u><span style="color: grey;">_Under Review_</span></u> ) &nbsp; [&nbsp;  <a href="https://www.dropbox.com/s/iuou4lew5nztc8g/Mis_perception_of_Party_voter_Congruence_and_Satisfaction_with_Democracy.pdf?dl=0" target="_blank"  
+style="color: blue;">paper</a>  &nbsp;| <a href="https://www.dropbox.com/s/t8je2ex8k5543wk/mis-per-party-slides.pdf?dl=0" target="_blank"  
+style="color: blue;">presentation</a> &nbsp;] 
 
 
-</div>
-
-<u>Electoral Reform and Fragmented Polarization: New Evidence from Taiwan Legislative Roll Call </u>
-
-<a href="https://www.dropbox.com/s/pne9koj89t6t5o8/Electoral_Reform_and_Fragmented_Polarisation.pdf?dl=0" class="bottom-link"  target="_blank">paper</a> <a href="https://raw.githack.com/davidycliao/ecpr-parliarment/main/erfp-ecpr-parliarment.html#1" class="bottom-link" target="_blank"> presentation  </a>
+<!-- <a href="https://www.dropbox.com/s/iuou4lew5nztc8g/Mis_perception_of_Party_voter_Congruence_and_Satisfaction_with_Democracy.pdf?dl=0" class="bottom-link" target="_blank">paper</a> <a href="https://www.dropbox.com/s/t8je2ex8k5543wk/mis-per-party-slides.pdf?dl=0" class="bottom-link" target="_blank"> presentation </a>  -->
 
 
-<div style="text-align: justify">
-
-This paper investigates how legislators respond to electoral reform by adjusting their ideological positions with respect to co-partisans and rivals. Using data from Taiwan's legislative roll calls over 20 years, we study the extent to which partisan disagreement is influenced by the 2008 Taiwanese electoral reform  from Single Non-Transferable Votes (SNTV) to Single-Member Districts (SMD). Contrary to the literature, our empirical evidence documents that the reform significantly fragmented legislator positions in relation to both co-partisans and members from the rival party. Inter- and intra-party disagreement increased shortly after the reform. However, the effect of the reform diminishes over time. After six years, disagreements between the mainstream parties gradually converged and returned to their pre-reform level.  Our findings contribute to electoral system literature, providing policy implications for democratic countries contemplating electoral reforms.</div>  
-
----
-
-<u>(Mis)perception of Party-voter Congruence and Satisfaction with Democracy</u> (with Royce Carroll, Essex; Li Tang, Middlesex University London) <span style="color: grey;">_Under Review_</span> 
-
-<!-- [ [`pdf`](https://raw.githack.com/davidycliao/working-paper/main/Mis_perception_of_Party_voter_Congruence_and_Satisfaction_with_Democracy.pdf) | [`presentation`](https://raw.githack.com/davidycliao/working-paper/main/mis-per-party-slides.pdf) ] 
- -->
-<a href="https://www.dropbox.com/s/iuou4lew5nztc8g/Mis_perception_of_Party_voter_Congruence_and_Satisfaction_with_Democracy.pdf?dl=0" class="bottom-link" target="_blank">paper</a> <a href="https://www.dropbox.com/s/t8je2ex8k5543wk/mis-per-party-slides.pdf?dl=0" class="bottom-link" target="_blank"> presentation  </a>
-
-<div style="text-align: justify">
-This study examines the relationship between party-voter congruence and satisfaction with democracy, focusing on the impact of misperception of party positions. Using panel data from the British Election Study and cross-sectional data from the Comparative Study of Electoral Systems, we find that misperception leads to a divergence between actual and perceived levels of party-voter incongruence, which can influence satisfaction with democracy. We show that perceived incongruence reduces satisfaction with democracy, while actual incongruence has no separate effect. These results suggest that biased perceptions of party positions can impact satisfaction with democracy, regardless of how well parties act as representatives of their voters. Our results underscore the importance of perceptions in shaping democratic satisfaction, highlighting the need to consider both objective and subjective measures of party-voter congruence when examining both its causes and effects. 
-</div>  
-
----
-
-<u>Electoral Reform and Pork Barrel in Parliamentary Questions</u> 
+Electoral Reform and Fragmented Polarization: New Evidence from Taiwan Legislative Roll Call  [&nbsp; <a href="https://www.dropbox.com/s/pne9koj89t6t5o8/Electoral_Reform_and_Fragmented_Polarisation.pdf?dl=0" target="_blank"  
+style="color: blue;">paper</a>  &nbsp;| <a href="https://raw.githack.com/davidycliao/ecpr-parliarment/main/erfp-ecpr-parliarment.html#1" target="_blank"  
+style="color: blue;">presentation</a>  &nbsp;] 
 
 
+<!-- <a href="https://www.dropbox.com/s/pne9koj89t6t5o8/Electoral_Reform_and_Fragmented_Polarisation.pdf?dl=0" class="bottom-link"  target="_blank">paper</a> <a href="https://raw.githack.com/davidycliao/ecpr-parliarment/main/erfp-ecpr-parliarment.html#1" class="bottom-link" target="_blank"> presentation </a> -->
 
-<a href="https://www.dropbox.com/s/r3kwl8uq6qr4unq/Electoral_Reform_and_Pork_Barrel_in_Parliamentary_Questions.pdf?dl=0" class="bottom-link" target="_blank">paper</a> <a href="https://raw.githack.com/davidycliao/erpb/main/slides/slides.html" class="bottom-link" target="_blank"> presentation  </a>
+Electoral Reform and Pork Barrel in Parliamentary Questions
+[&nbsp; <a href="https://www.dropbox.com/s/r3kwl8uq6qr4unq/Electoral_Reform_and_Pork_Barrel_in_Parliamentary_Questions.pdf?dl=0" target="_blank"  
+style="color: blue;">paper</a>  &nbsp;| <a href="https://raw.githack.com/davidycliao/erpb/main/slides/slides.html" target="_blank"  
+style="color: blue;">presentation</a> &nbsp;] 
 
+Electoral Reform and Party Convergence on Issue Attentions</u>  (with Yu-Ceng Liao, NCCU) 
 
-<div style="text-align: justify">
-Measuring legislator behaviours and tendencies towards constituencies under different electoral systems is important. This paper quantitatively investigates this topic using the case of Taiwan Legislative Yuan and data on written parliamentary questions through an electoral reform from multi-member districts (MMD) to single-member districts (SMD). To answer the research questions, I train deep learning models on multi-convolutional neural networks with an embedding layer extracted from Transformer BERT to detect pork-barrel features in parliamentary questions over time. By combining explainable machine learning techniques with BERT, we can gain clear insights into how our model, trained using BERT attention, arrives at its predictions. Last, I employ regression analysis to test the impact of the reform occurrence and control for differences between districts and legislators through the transition. Evidence exists to show that the transition of electoral reform incurs essential changes in legislators' behaviour. Legislators under multi-member districts are more likely to express political intention regarding pork-barrel projects in the parliarmentary questions. The reform subsequently demonstrates heterogeneous effects on large parties vis-à-vis small parties.
-</div>  
+[&nbsp; <a href="https://www.dropbox.com/s/ztqf206tbfndgxo/Electoral_Reform_and_Party_Convergence_on_Issue_Attentions.pdf?dl=0" target="_blank"  
+style="color: blue;">paper</a>  &nbsp;| <a href="https://raw.githack.com/davidycliao/erpc/master/slides/slides.html#1" target="_blank"  
+style="color: blue;">presentation</a> &nbsp;] 
 
----
+Factionalism and the Red Guards under Mao’s China: Ideal Point Estimation Using Text Data (with Yi-Nung Tsai, National Chengchi University; Daniel Tene, Univeristy of Essex; Dechun Zhang, Leiden University)
 
-<u>Electoral Reform and Party Convergence on Issue Attentions</u>  (with Yu-Ceng Liao, NCCU) 
-
-<!-- [ [`pdf`](https://raw.githack.com/davidycliao/erpb/master/paper/paper.pdf) | [`presentation`](https://raw.githack.com/davidycliao/erpb/main/slides/slides.html) ]  -->
-
-<a href="https://www.dropbox.com/s/ztqf206tbfndgxo/Electoral_Reform_and_Party_Convergence_on_Issue_Attentions.pdf?dl=0" class="bottom-link" target="_blank">paper</a> <a href="https://raw.githack.com/davidycliao/erpc/master/slides/slides.html#1" class="bottom-link" target="_blank"> presentation  </a>
-
-
-<div style="text-align: justify">
-This paper is to measure party convergence and variability in issue attention by looking at what and why legislators are more likely to oversight the ministry officials on some specific topics or another during the question time. We answer this question using the case of the Taiwan Legislative Yuan, and data on written parliamentary questions through an electoral reform from 1993 to 2020. We estimate the position of each legislator on the left-right dimensions using the topics annotated in the questions that legislators request for information on policies and activities of ministries from executive officials.  We answer this question using the case of the Taiwan Legislative Yuan, and data on written parliamentary questions through an electoral reform from 1993 to 2020, over 116,248 questions. We find that the institutional changes shapes legislators' attention to the topics in relation to their own co-partisan: legislator converge issue attention when there is high variability in the distribution of topics under Single Member District (SMD) and diverges when there is low variability under Single Non-transferable Vote (SNTV). In addition, legislators elected from larger districts demonstrate more divergence by focusing on specific topics, while those from smaller districts tend to converge their attention to various policy issues.
-</div>  
-
-
-
----
-
-<u>The Role of Rituals in Adversarial Parliaments: An Analysis of Expressions of Collegiality in the British House of Commons</u>  (with Thomas Saalfeld and David Beck, ***R&R***)
-
-<div style="text-align: justify">
-Despite the adversarial character of debates in the British House of Commons, Members of Parliament (MPs) observe a highly ritualized rhetorical style emphasizing collegiality and mutual respect across party lines. The language MPs use in this context harks back to an ancient pre-democratic past. Why does a modern democratic legislature conceal partisan conflict by using pre-democratic ritualistic references to ‘the House’ as a corporate actor? Why do they call their fiercest competitors ‘honourable Members’ or even ‘Friends’? In this paper, we review the results of important empirical studies suggesting that the activities even of modern democratic parliaments (based on intense party competition) reveal traces of pre-democratic corporate bodies in some respects. Analyzing a large corpus of parliamentary speeches in the British House of Commons between 1988 and 2019, we propose a novel technique to identify and measure references to collegiality in Britain’s parliamentary system. Using a simple descriptive method, we demonstrate the extent to which such references vary systematically by party and across time, suggesting that they are used strategically in the stylized and ritualized language of parliamentary debate in the Commons depending on the status of MPs as members of government or oppositional parties.
-</div>  
-
----
-
-<u>Factionalism and the Red Guards under Mao’s China: Ideal Point Estimation Using Text Data</u> (with Yi-Nung Tsai, National Chengchi University; Daniel Tene, Univeristy of Essex; Dechun Zhang, Leiden University)
+[&nbsp; <a href="https://raw.githack.com/davidycliao/redguards/master/slides/paper.pdf" target="_blank"  
+style="color: blue;">paper</a>  &nbsp;| <a href="https://raw.githack.com/davidycliao/redguards/master/slides/slides.pdf" target="_blank"  
+style="color: blue;">presentation</a> &nbsp;] 
 <!-- 
- [ [`pdf` ](https://raw.githack.com/davidycliao/redguards/master/slides/paper.pdf) | [`presentation`](https://raw.githack.com/davidycliao/redguards/master/slides/slides.pdf) ] -->
-
-<a href="https://raw.githack.com/davidycliao/redguards/master/slides/paper.pdf" class="bottom-link" target="_blank">paper</a> <a href="https://raw.githack.com/davidycliao/redguards/master/slides/slides.pdf" class="bottom-link"  target="_blank"> presentation  </a>
-
-<div style="text-align: justify">
-In this paper, we design a new strain of text scaling method, Swordfish (Slogan-featured Wordfish), that takes advantage of the TextRank algorithm to extract the most representative political slogans in a given context and estimates Wordfish with those extracted text variables. We test this method using the case of the Great Proletarian Cultural Revolution in China and the historical archive of handwritten big-character posters and self-printed tabloids from 1966. We estimate student protests' ideal points by analyzing expressed political views in propaganda publications. Our findings point to evidence of factional re(de)alignments within the movement and demonstrate how the students from different educational backgrounds followed Mao Zedong and Xiaohongshu 小紅書 (Little Red Book) and then fell into armed conflicts that divided families, the classes and the society. The results estimated by Swordfish are shown to be consistent with the representative qualitative literature on factionalism during the Cultural Revolution. We also compared our results with those of 14 experts in the field of Chinese Communist Party history. We found that our estimations were largely consistent with the experts' judgments, while also providing new insights into the movement of student protest over time.
-</div>  
-
-<div style="text-align: center">
-
-#### _If you would like to recieve the latest version of the paper,please feel free to send me an email._
+[&nbsp; <a href="https://raw.githack.com/davidycliao/redguards/master/slides/paper.pdf" class="bottom-link" target="_blank"  
+style="color: blue;">paper</a>  &nbsp;| <a href="https://raw.githack.com/davidycliao/redguards/master/slides/slides.pdf" target="_blank"  
+style="color: blue;">presentation</a> &nbsp;]  -->
 
 ---
 
 <div style="text-align: left">
 
 
-### *In-Progress*: 
-
+## *In-Progress* 
 
 </div>
 
