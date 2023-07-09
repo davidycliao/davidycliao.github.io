@@ -22,7 +22,20 @@
 .bottom-link:hover {
     background-color: #ddd;
 }
+
+
+a:hover {
+  color: blue;
+}
+
 </style>
+
+<style>
+.a:hover {
+  color: blue;
+}
+</style>
+
 
 <br/><br/>
 
@@ -55,49 +68,41 @@ img {
 
 <div style="text-align: left">
 
-## Publication
+### Publication:
 
-The Role of Rituals in Adversarial Parliaments: An Analysis of Expressions of Collegiality in the British House of Commons, Historical Social Research 48 (3): 209-234 (with David Beck and Thomas Saalfeld) [&nbsp; <a href="https://www.jstor.org/stable/27221360" target="_blank"  
-style="color: blue;">Invited Special Issue</a> &nbsp;]
-  
+<a href="https://www.jstor.org/stable/27221360" style="color: grey;">The Role of Rituals in Adversarial Parliaments: An Analysis of Expressions of Collegiality in the British House of Commons </a> _Historical Social Research_ 48 (3): 209-234 (<u><a href="https://www.uni-bamberg.de/comparpol/lehrstuhlteam/david-beck/" style="color: #2F4F4F;">David Beck</a></u>  and <u><a href="https://www.uni-bamberg.de/vp-forschung/" style="color: #2F4F4F;">Thomas Saalfeld</a></u>) _Special Issue Invitation_
+
+
 ---
-
 
 <div style="text-align: left">
 
-## _Working_ Papers
+### _Working_ Papers:
 
-(Mis)perception of Party-voter Congruence and Satisfaction with Democracy (with Royce Carroll, Essex; Li Tang, Middlesex University London <u><span style="color: grey;">_Under Review_</span></u> ) &nbsp; [&nbsp;  <a href="https://www.dropbox.com/s/iuou4lew5nztc8g/Mis_perception_of_Party_voter_Congruence_and_Satisfaction_with_Democracy.pdf?dl=0" target="_blank"  
-style="color: blue;">paper</a>  &nbsp;| <a href="https://www.dropbox.com/s/t8je2ex8k5543wk/mis-per-party-slides.pdf?dl=0" target="_blank"  
-style="color: blue;">presentation</a> &nbsp;] 
-
-
+- (Mis)perception of Party-voter Congruence and Satisfaction with Democracy (<u><a href="" style="color: #2F4F4F;">Royce Carroll</a></u> and <u><a href="https://sites.google.com/view/litang2020" style="color: #2F4F4F;">Li Tang</a></u>) [&nbsp;  <a href="https://www.dropbox.com/s/iuou4lew5nztc8g/Mis_perception_of_Party_voter_Congruence_and_Satisfaction_with_Democracy.pdf?dl=0" target="_blank"  
+style="color: blue;">paper</a> &nbsp;| <a href="https://www.dropbox.com/s/t8je2ex8k5543wk/mis-per-party-slides.pdf?dl=0" target="_blank"  
+style="color: blue;">slides</a> &nbsp;] <span style="color: grey;">_Under Review_</span>
+ 
 <!-- <a href="https://www.dropbox.com/s/iuou4lew5nztc8g/Mis_perception_of_Party_voter_Congruence_and_Satisfaction_with_Democracy.pdf?dl=0" class="bottom-link" target="_blank">paper</a> <a href="https://www.dropbox.com/s/t8je2ex8k5543wk/mis-per-party-slides.pdf?dl=0" class="bottom-link" target="_blank"> presentation </a>  -->
 
+- Electoral Reform and Fragmented Polarization: New Evidence from Taiwan Legislative Roll Call 
+ [&nbsp; <a href="https://www.dropbox.com/s/pne9koj89t6t5o8/Electoral_Reform_and_Fragmented_Polarisation.pdf?dl=0" target="_blank"  
+style="color: blue;">paper</a> &nbsp;| <a href="https://raw.githack.com/davidycliao/ecpr-parliarment/main/erfp-ecpr-parliarment.html#1" target="_blank"  
+style="color: blue;">slides</a>  &nbsp;] 
 
-Electoral Reform and Fragmented Polarization: New Evidence from Taiwan Legislative Roll Call  [&nbsp; <a href="https://www.dropbox.com/s/pne9koj89t6t5o8/Electoral_Reform_and_Fragmented_Polarisation.pdf?dl=0" target="_blank"  
-style="color: blue;">paper</a>  &nbsp;| <a href="https://raw.githack.com/davidycliao/ecpr-parliarment/main/erfp-ecpr-parliarment.html#1" target="_blank"  
-style="color: blue;">presentation</a>  &nbsp;] 
-
-
-<!-- <a href="https://www.dropbox.com/s/pne9koj89t6t5o8/Electoral_Reform_and_Fragmented_Polarisation.pdf?dl=0" class="bottom-link"  target="_blank">paper</a> <a href="https://raw.githack.com/davidycliao/ecpr-parliarment/main/erfp-ecpr-parliarment.html#1" class="bottom-link" target="_blank"> presentation </a> -->
-
-Electoral Reform and Pork Barrel in Parliamentary Questions
-[&nbsp; <a href="https://www.dropbox.com/s/r3kwl8uq6qr4unq/Electoral_Reform_and_Pork_Barrel_in_Parliamentary_Questions.pdf?dl=0" target="_blank"  
+- Electoral Reform and Pork Barrel in Parliamentary Questions [&nbsp; <a href="https://www.dropbox.com/s/r3kwl8uq6qr4unq/Electoral_Reform_and_Pork_Barrel_in_Parliamentary_Questions.pdf?dl=0" target="_blank"  
 style="color: blue;">paper</a>  &nbsp;| <a href="https://raw.githack.com/davidycliao/erpb/main/slides/slides.html" target="_blank"  
-style="color: blue;">presentation</a> &nbsp;] 
+style="color: blue;">slides</a> &nbsp;] 
 
-Electoral Reform and Party Convergence on Issue Attentions</u>  (with Yu-Ceng Liao, NCCU) 
-
-[&nbsp; <a href="https://www.dropbox.com/s/ztqf206tbfndgxo/Electoral_Reform_and_Party_Convergence_on_Issue_Attentions.pdf?dl=0" target="_blank"  
+- Electoral Reform and Party Convergence on Issue Attentions (<u><a href="https://sites.google.com/view/calvin-yuceng-liao/home" style="color: #2F4F4F;">Yu-Ceng Liao</a></u>) [&nbsp; <a href="https://www.dropbox.com/s/ztqf206tbfndgxo/Electoral_Reform_and_Party_Convergence_on_Issue_Attentions.pdf?dl=0" target="_blank"  
 style="color: blue;">paper</a>  &nbsp;| <a href="https://raw.githack.com/davidycliao/erpc/master/slides/slides.html#1" target="_blank"  
-style="color: blue;">presentation</a> &nbsp;] 
+style="color: blue;">slides</a> &nbsp;] 
 
-Factionalism and the Red Guards under Mao’s China: Ideal Point Estimation Using Text Data (with Yi-Nung Tsai, National Chengchi University; Daniel Tene, Univeristy of Essex; Dechun Zhang, Leiden University)
-
-[&nbsp; <a href="https://raw.githack.com/davidycliao/redguards/master/slides/paper.pdf" target="_blank"  
+- Factionalism and the Red Guards under Mao’s China: Ideal Point Estimation Using Text Data ( <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;">Yi-Nung Tsai</a></u> , Daniel Tene and <u><a href="https://scholar.google.fr/citations?user=6eVzx4AAAAAJ&hl=en" style="color: #2F4F4F;">Dechun Zhang </a></u> ) [&nbsp; <a href="https://raw.githack.com/davidycliao/redguards/master/slides/paper.pdf" target="_blank"  
 style="color: blue;">paper</a>  &nbsp;| <a href="https://raw.githack.com/davidycliao/redguards/master/slides/slides.pdf" target="_blank"  
-style="color: blue;">presentation</a> &nbsp;] 
+style="color: blue;">slides</a> &nbsp;] 
+
+
 <!-- 
 [&nbsp; <a href="https://raw.githack.com/davidycliao/redguards/master/slides/paper.pdf" class="bottom-link" target="_blank"  
 style="color: blue;">paper</a>  &nbsp;| <a href="https://raw.githack.com/davidycliao/redguards/master/slides/slides.pdf" target="_blank"  
@@ -108,20 +113,19 @@ style="color: blue;">presentation</a> &nbsp;]  -->
 <div style="text-align: left">
 
 
-## *In-Progress* 
+### *In-Progress*: 
 
 </div>
 
 <div style="text-align: justify">
 
+- Securitization in Words: Text Analysis of Taiwan’s COVID-19 Press Conferences (Chia-Chien Chang NSYU, Taiwan; Wei-Ting Yen, Franklin and Marshall College, USA; Li-Yin Liu, University of Dayton, USA) 
 
-<u>Estimating Politically Expressive Preference with Context-Aware Named Entities</u> (with Thomas Saalfeld and David Beck)
+- Estimating Politically Expressive Preference with Context-Aware Named Entities (with Thomas Saalfeld and David Beck)
 
-<u>Party Competition in Times of Crisis</u> (with Thomas Saalfeld and David Beck)
+- Party Competition in Times of Crisis (with Thomas Saalfeld and David Beck)
 
-<u>Securitization in Words: Text Analysis of Taiwan’s COVID-19 Press Conferences</u> (Chia-Chien Chang NSYU, Taiwan; Wei-Ting Yen, Franklin and Marshall College, USA; Li-Yin Liu, University of Dayton, USA) 
-
-<u>Unraveling Pork Barrel Dynamics through Explainable Machine Learning Methods: A Case Study of CAGW Congressional Pig Book</u> (with Sunil Green, Purdue University)
+- Unraveling Pork Barrel Dynamics through Explainable Machine Learning Methods: A Case Study of CAGW Congressional Pig Book (with Sunil Green, Purdue University)
 
 
 
