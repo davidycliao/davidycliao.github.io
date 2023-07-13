@@ -86,7 +86,7 @@ style="color: blue;">slides</a> &nbsp;] <span style="color: grey;">_Under Review
 <!-- <a href="https://www.dropbox.com/s/iuou4lew5nztc8g/Mis_perception_of_Party_voter_Congruence_and_Satisfaction_with_Democracy.pdf?dl=0" class="bottom-link" target="_blank">paper</a> <a href="https://www.dropbox.com/s/t8je2ex8k5543wk/mis-per-party-slides.pdf?dl=0" class="bottom-link" target="_blank"> presentation </a>  -->
 
 - Electoral Reform and Fragmented Polarization: New Evidence from Taiwan Legislative Roll Call 
- [&nbsp; <a href="https://www.dropbox.com/s/pne9koj89t6t5o8/Electoral_Reform_and_Fragmented_Polarisation.pdf?dl=0" target="_blank"  
+ [&nbsp; <a href="https://www.dropbox.com/s/2x8bmb5b1ngai8f/Electoral_Reform_and_Fragmented_Polarisation.pdf?dl=0" target="_blank"  
 style="color: blue;">paper</a> &nbsp;| <a href="https://raw.githack.com/davidycliao/ecpr-parliarment/main/erfp-ecpr-parliarment.html#1" target="_blank"  
 style="color: blue;">slides</a>  &nbsp;] <span style="color: grey;">_Under Review_</span>
 
@@ -94,7 +94,7 @@ style="color: blue;">slides</a>  &nbsp;] <span style="color: grey;">_Under Revie
 style="color: blue;">paper</a>  &nbsp;| <a href="https://raw.githack.com/davidycliao/erpb/main/slides/slides.html" target="_blank"  
 style="color: blue;">slides</a> &nbsp;] 
 
-- Electoral Reform and Party Convergence on Issue Attentions (<u><a href="https://sites.google.com/view/calvin-yuceng-liao/home" style="color: #2F4F4F;">Yu-Ceng Liao</a></u>) [&nbsp; <a href="https://www.dropbox.com/s/ztqf206tbfndgxo/Electoral_Reform_and_Party_Convergence_on_Issue_Attentions.pdf?dl=0" target="_blank"  
+- Electoral Reform and Party Convergence on Issue Attentions (<u><a href="https://sites.google.com/view/calvin-yuceng-liao/home" style="color: #2F4F4F;">Yu-Ceng Liao</a></u>) [&nbsp; <a href="https://www.dropbox.com/s/uu7w5t2gs2hmjf4/Electoral_Reform_and_Party_Convergence_on_Issue_Attentions.pdf?dl=0" target="_blank"  
 style="color: blue;">paper</a>  &nbsp;| <a href="https://raw.githack.com/davidycliao/erpc/master/slides/slides.html#1" target="_blank"  
 style="color: blue;">slides</a> &nbsp;] 
 
