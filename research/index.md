@@ -66,11 +66,11 @@ img {
 
 </p> -->
 
-<div style="text-align: left">
+<div style="text-align: justify">
 
 ### Publication:
 
-<a href="https://www.jstor.org/stable/27221360" style="color: grey;">The Role of Rituals in Adversarial Parliaments: An Analysis of Expressions of Collegiality in the British House of Commons </a> _Historical Social Research_ 48 (3): 209-234 (<u><a href="https://www.uni-bamberg.de/comparpol/lehrstuhlteam/david-beck/" style="color: #2F4F4F;">David Beck</a></u>  and <u><a href="https://www.uni-bamberg.de/vp-forschung/" style="color: #2F4F4F;">Thomas Saalfeld</a></u>) _Special Issue Invitation_
+<a href="https://www.jstor.org/stable/27221360" style="color: #515151;">The Role of Rituals in Adversarial Parliaments: An Analysis of Expressions of Collegiality in the British House of Commons </a> _Historical Social Research_ 48 (3): 209-234 with <u><a href="https://www.uni-bamberg.de/comparpol/lehrstuhlteam/david-beck/" style="color: #2F4F4F;">David Beck</a></u>  and <u><a href="https://www.uni-bamberg.de/vp-forschung/" style="color: #2F4F4F;">Thomas Saalfeld</a></u>  (_Invited Submission to Special Issue – The Emergence and Effects of Non-hierarchical Collective Agency_)
 
 
 ---
