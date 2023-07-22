@@ -6,12 +6,17 @@
 
 <div style="text-align: justify">
 
-Hi There!
+Hi There! Welcome to my webpage.
+
+I'm David (Yen-Chieh) Liao. I am currently a postdoctoral researcher in [<span style="color:#778899">Text and Policy Research Group</span>](https://text-and-policy.com) in the School of Politics and International Relations and a member of [<span style="color:#778899">Connected_Politics Lab</span>](https://www.ucd.ie/connected_politics/) in the College of Social Sciences and Law at University College Dublin. I obtained my PhD from the Department of Government at Essex in January 2023. Before coming to UCD, I had a short postdoc experience at Global Studies in Aarhus, where I helped analyze social media data related to social movement activities and its network relationships. Between 2020 and 2022, I was a Pre-doctoral Researcher of [<span style="color:#778899">Legislators between Accountability and Collective Agency</span>](https://projectlacan.wordpress.com/team/) at the Chair of Comparative Politics at University of Bamberg in Germany. 
+
+My main research interests are legislative studies, party competition, representative behavior, and electoral systems. I'm particularly interested in measuring ideological preferences through legislative voting, expert surveys, and parliamentary digital data. I'm also interested in the applications of NLP in political science research, including topics related to the fairness of classification tasks and the application of explainable machine learning techniques in NLP.
+
+My works mainly utilizes quantitative text analysis and computational methods to gain a deeper understanding of how political elites position themselves through their political narratives. Additionally, I explore how these narratives influence political behaviors and shape the attitudes and expectations of the masses concerning the future. 
 
 
-My name is David (Yen-Chieh) Liao. I obtained a PhD from Department of Goverment at University of Essex. I was a Pre-doctoral Researcher of [<span style="color:#778899">Legislators between Accountability and Collective Agency</span>](https://projectlacan.wordpress.com/team/) at the Chair of Comparative Politics in University of Bamberg. I will be a visiting fellow in the Bamberg Graduate School of Social Sciences with [<span style="color:#778899">Prof. Thomas Saalfeld</span>](https://www.uni-bamberg.de/en/vp-research/). During my PhD at Essex (Oct 2017 - Jan 2023), I study the impact of Taiwan's electoral reform and investigates how the reform changes ideological positionings, preferences and representation. My PhD thesis ([*“Electoral Reform, Distributive Politics, and Parties in the Taiwanese Congress”*](https://raw.githack.com/davidycliao/phd-thesis/main/Yen_Chieh_Liao_PhD_Dissertation_Jan_2023.pdf)) is supported by the Ministry of Taiwan Eduacation (2017-2021) and the 2021 TOPGRANT from Ministry of Science and Technology Taiwan (August 2021 - August 2022). Before pursuing my PhD, I worked as a research assistant at the Institute of Political Science at Academia Sinica in Taipei.
 
-My work mainly utilizes quantitative text analysis and computational methods (including natural language processing and machine learning classification) to gain a deeper understanding of how political elites position themselves through their political narratives. Additionally, I explore how these narratives influence political behaviors and shape the attitudes and expectations of the masses concerning the future. The narratives are derived from various sources such as politicians' speeches and debates, social media accounts, and digitized historical records.
+
 
 <!-- 
 ---
