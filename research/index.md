@@ -127,6 +127,22 @@ style="color: blue;">presentation</a> &nbsp;]  -->
 
 - Unraveling Pork Barrel Dynamics through Explainable Machine Learning Methods: A Case Study of CAGW Congressional Pig Book (with Sunil Green, Purdue University)
 
+</div>
+
+
+<div style="text-align: left">
+
+----
+
+### PhD Thesis: 
+
+</div>
+
+
+<a href="
+https://raw.githack.com/davidycliao/phd-thesis/main/Yen_Chieh_Liao_PhD_Dissertation_Jan_2023.pdf" style="color: #515151;">Electoral Reform, Distributive Politics, and Parties in the Taiwanese Congress </a> 
+
+<font size="1.5"><u><a href="https://top.stpi.narl.org.tw/project/topi/index" style="color: #2F4F4F;">_2021 Taiwan Ministry of Science and Technology Overseas Pioneers Grant (科技部台灣海外人才培育計畫, USD$32,000)_</a></u></font> 
 
 
 <!-- **Fractured Elites during China's Cultural Revolution: A Measurement Using Machine Learning** [[`abstract`](https://davidycliao.github.io/2023/01/fracturedelite/)] -->
@@ -141,7 +157,6 @@ style="color: blue;">presentation</a> &nbsp;]  -->
 <!-- **官僚團體如何「重寫」意識形態陳述：以《人民日報》習近平思想的評論為例** (與蔡儀儂) [[`abstract`](https://davidycliao.github.io/2023/01/ccp/)] -->
 
 
-</div>
 
 
 
