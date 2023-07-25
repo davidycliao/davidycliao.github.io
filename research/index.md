@@ -119,11 +119,12 @@ style="color: blue;">presentation</a> &nbsp;]  -->
 
 <div style="text-align: justify">
 
-- Securitization in Words: Text Analysis of Taiwan’s COVID-19 Press Conferences (Chia-Chien Chang NSYU, Taiwan; Wei-Ting Yen, Franklin and Marshall College, USA; Li-Yin Liu, University of Dayton, USA) 
+- Party Competition in Times of Crisis (with T <u><a href="https://www.uni-bamberg.de/comparpol/lehrstuhlteam/david-beck/" style="color: #2F4F4F;">David Beck</a></u>  and <u><a href="https://www.uni-bamberg.de/vp-forschung/" style="color: #2F4F4F;">Thomas Saalfeld</a></u> )
 
-- Estimating Politically Expressive Preference with Context-Aware Named Entities (with Thomas Saalfeld and David Beck)
 
-- Party Competition in Times of Crisis (with Thomas Saalfeld and David Beck)
+- Securitization in Words: Text Analysis of Taiwan’s COVID-19 Press Conferences ( with <u><a href="https://icaps.nsysu.edu.tw/p/412-1131-1687.php?Lang=en" style="color: #2F4F4F;">Chia-Chien Chang</a></u>, <u><a href="https://weitingyen.com" style="color: #2F4F4F;">Wei-Ting Yen</a></u> and <u><a href="https://udayton.edu/directory/artssciences/politicalscience/liu-li-yin.php" style="color: #2F4F4F;">Li-Yin Liu</a></u> )
+
+- Estimating Politically Expressive Preference with Context-Aware Named Entities (with Thomas  <u><a href="https://www.uni-bamberg.de/comparpol/lehrstuhlteam/david-beck/" style="color: #2F4F4F;">David Beck</a></u>  and <u><a href="https://www.uni-bamberg.de/vp-forschung/" style="color: #2F4F4F;">Thomas Saalfeld</a></u> )
 
 - Unraveling Pork Barrel Dynamics through Explainable Machine Learning Methods: A Case Study of CAGW Congressional Pig Book (with Sunil Green, Purdue University)
 
