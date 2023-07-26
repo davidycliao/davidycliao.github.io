@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.min.css",
-	"sourceRoot": "/Users/yenchiehliao/Documents/GitHub/my_website",
+	"sourceRoot": "/Users/yenchiehliao/Documents/Documents - David’s MacBook Pro/GitHub/my_website",
 	"sources": [
 		"themes/LoveIt/assets/css/style.scss",
 		"themes/LoveIt/assets/css/_variables.scss",

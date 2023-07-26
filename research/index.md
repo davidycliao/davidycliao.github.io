@@ -70,7 +70,7 @@ img {
 
 ### Publication:
 
-<a href="https://www.jstor.org/stable/27221360" style="color: #515151;">The Role of Rituals in Adversarial Parliaments: An Analysis of Expressions of Collegiality in the British House of Commons </a> _Historical Social Research_ 48 (3): 209-234 with <u><a href="https://www.uni-bamberg.de/comparpol/lehrstuhlteam/david-beck/" style="color: #2F4F4F;">David Beck</a></u>  and <u><a href="https://www.uni-bamberg.de/vp-forschung/" style="color: #2F4F4F;">Thomas Saalfeld</a></u>  (_Invited Submission to Special Issue – The Emergence and Effects of Non-hierarchical Collective Agency_)
+<a href="https://www.jstor.org/stable/27221360" style="color: #515151;">The Role of Rituals in Adversarial Parliaments: An Analysis of Expressions of Collegiality in the British House of Commons </a> _Historical Social Research_ 48 (3): 209-234 with <u><a href="https://www.uni-bamberg.de/comparpol/lehrstuhlteam/david-beck/" style="color: #2F4F4F;">David Beck</a></u>  and <u><a href="https://www.uni-bamberg.de/vp-forschung/" style="color: #2F4F4F;">Thomas Saalfeld</a></u>  (_Invited Submission to Special Issue – <a href="https://www.gesis.org/en/hsr/current-issues/2023/483-collective-agency" style="color: #2F4F4F;">The Emergence and Effects of Non-hierarchical Collective Agency</a>  eds. Johannes Marx & Thomas Gehring_)
 
 
 ---
@@ -94,7 +94,7 @@ style="color: blue;">slides</a>  &nbsp;] <span style="color: grey;">_Under Revie
 style="color: blue;">paper</a>  &nbsp;| <a href="https://raw.githack.com/davidycliao/erpb/main/slides/slides.html" target="_blank"  
 style="color: blue;">slides</a> &nbsp;] 
 
-- Electoral Reform and Party Convergence on Issue Attentions (<u><a href="https://sites.google.com/view/calvin-yuceng-liao/home" style="color: #2F4F4F;">Yu-Ceng Liao</a></u>) [&nbsp; <a href="https://www.dropbox.com/s/uu7w5t2gs2hmjf4/Electoral_Reform_and_Party_Convergence_on_Issue_Attentions.pdf?dl=0" target="_blank"  
+- Electoral Systems and Party Convergence on Issue Attentions (<u><a href="https://sites.google.com/view/calvin-yuceng-liao/home" style="color: #2F4F4F;">Yu-Ceng Liao</a></u>) [&nbsp; <a href="https://www.dropbox.com/s/rljd9j16yz0v5kp/Electoral_Systems_and_Party_Convergence_on_Issue_Attentions.pdf?dl=0" target="_blank"  
 style="color: blue;">paper</a>  &nbsp;| <a href="https://raw.githack.com/davidycliao/erpc/master/slides/slides.html#1" target="_blank"  
 style="color: blue;">slides</a> &nbsp;] 
 
