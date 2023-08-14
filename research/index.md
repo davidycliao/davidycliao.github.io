@@ -88,7 +88,7 @@ style="color: blue;">slides</a> &nbsp;] <span style="color: grey;">_Under Review
 - Electoral Reform and Fragmented Polarization: New Evidence from Taiwan Legislative Roll Call 
  [&nbsp; <a href="https://www.dropbox.com/s/2x8bmb5b1ngai8f/Electoral_Reform_and_Fragmented_Polarisation.pdf?dl=0" target="_blank"  
 style="color: blue;">paper</a> &nbsp;| <a href="https://raw.githack.com/davidycliao/ecpr-parliarment/main/erfp-ecpr-parliarment.html#1" target="_blank"  
-style="color: blue;">slides</a>  &nbsp;] <span style="color: grey;">_Under Review_</span>
+style="color: blue;">slides</a>  &nbsp;] <span style="color: grey;"></span>
 
 - Electoral Reform and Pork Barrel in Parliamentary Questions [&nbsp; <a href="https://www.dropbox.com/s/r3kwl8uq6qr4unq/Electoral_Reform_and_Pork_Barrel_in_Parliamentary_Questions.pdf?dl=0" target="_blank"  
 style="color: blue;">paper</a>  &nbsp;| <a href="https://raw.githack.com/davidycliao/erpb/main/slides/slides.html" target="_blank"  
@@ -126,7 +126,7 @@ style="color: blue;">presentation</a> &nbsp;]  -->
 
 - Estimating Politically Expressive Preference with Context-Aware Named Entities (with Thomas  <u><a href="https://www.uni-bamberg.de/comparpol/lehrstuhlteam/david-beck/" style="color: #2F4F4F;">David Beck</a></u>  and <u><a href="https://www.uni-bamberg.de/vp-forschung/" style="color: #2F4F4F;">Thomas Saalfeld</a></u> )
 
-- Unraveling Pork Barrel Dynamics through Explainable Machine Learning Methods: A Case Study of CAGW Congressional Pig Book (with Sunil Green, Purdue University)
+<!-- - Unraveling Pork Barrel Dynamics through Explainable Machine Learning Methods: A Case Study of CAGW Congressional Pig Book (with Sunil Green, Purdue University) -->
 
 </div>
 
