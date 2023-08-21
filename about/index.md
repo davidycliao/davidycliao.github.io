@@ -8,7 +8,7 @@
 
 Hi There! 
 
-I'm David (Yen-Chieh) Liao. I am a postdoctoral researcher in [<span style="color:#778899; text-decoration: underline;">Text and Policy Research Group</span>](https://text-and-policy.com) led by <a href="https://muellerstefan.net" style="color: #2F4F4F;">Dr. Stefan Müller</a> in the School of Politics and International Relations. I'm also a member of [<span style="color:#778899; text-decoration: underline;">Connected_Politics Lab</span>](https://www.ucd.ie/connected_politics/) in the College of Social Sciences and Law at University College Dublin. 
+I'm David (Yen-Chieh) Liao. I am a researcher at <span style="color:#778899; text-decoration: underline;">NexSys</span> and a postdoc in the <span style="color:#778899; text-decoration: underline;">Text and Policy Research Group</span>, led by <a href="https://muellerstefan.net" style="color: #2F4F4F;">Dr. Stefan Müller</a>, based in the School of Politics and International Relations, University College Dublin. Additionally, I'm a member of the <span style="color:#778899">Connected_Politics Lab</span>.
 
 I obtained my PhD in January 2023 from the Department of Government at the University of Essex. During my completion year between 2021 and 2022, I worked as a predoctoral fellow for the Chair of Comparative Politics, <a href="https://www.uni-bamberg.de/vp-forschung/" style="color: #2F4F4F;">Prof. Thomas Saalfeld</a>, on the research project titled <span style="color:#778899; text-decoration: underline;">Legislators between Accountability and Collective Agency</span> at the University of Bamberg in Germany. Before coming to UCD, I had a short postdoc experience at Global Studies in Aarhus University, where I helped analyze social media data related to social movement activities and their network relationships. 
 
@@ -27,7 +27,7 @@ Embiyax Su Hug (太魯閣族語 Hello),  <img src="https://user-images.githubuse
 
 <div style="text-align: center">
 
-*Update: 20 March 2023*
+*Update: 21 August 2023*
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/authwall?trk=gf&trkInfo=AQERrkO9JeuxgQAAAYGIXxZw-IMriZ16fxaCyQ9B4fcr8SgrQXFIA4WvPBytf98cJPl4KsPT6KiRHzqt-s3Ozl8_IoJ8cn9_lBY1_kQiozmVJV_bXf0xolwYZIIc_TwCBrvqjMU=&original_referer=https://davidycliao.github.io/&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdavid-yen-chieh-liao-51a0a3168%2F)
 [![Twitter Badge](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/liaoyenchieh)
