@@ -32,6 +32,22 @@
 
 ## Research Toolbox 
 
+`flairR`: An R Wrapper for Accessing Flair NLP Tagging Features
+
+
+<div style="text-align: justify">
+
+<a href="https://davidycliao.github.io/legisTaiwan/" class="bottom-link"  target="_blank">**legisTaiwan**</a> 
+
+
+**[<span style="color:#5a5a5a">**flairR**</span>](https://github.com/davidycliao/legisTaiwan)** is 
+An R Wrapper for accessing Flair NLP tagging features
+
+
+</div>
+
+----
+
 
 <div style="text-align: justify">
 
@@ -39,7 +55,7 @@
 
 
 **[<span style="color:#5a5a5a">**legisTaiwan**</span>](https://github.com/davidycliao/legisTaiwan)** is 
-an R package 📦 for downloading real-time legislative data of spoken meeting records, bill sponsor/co-sponsor, and more via Taiwan Legislative Library API
+An R package 📦 for downloading real-time legislative data of spoken meeting records, bill sponsor/co-sponsor, and more via Taiwan Legislative Library API
 
 </div>
 
