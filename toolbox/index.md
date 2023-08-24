@@ -32,15 +32,13 @@
 
 ## Research Toolbox 
 
-`flairR`: An R Wrapper for Accessing Flair NLP Tagging Features
-
 
 <div style="text-align: justify">
 
-<a href="https://davidycliao.github.io/legisTaiwan/" class="bottom-link"  target="_blank">**legisTaiwan**</a> 
+<a href="https://davidycliao.github.io/flairR/" class="bottom-link"  target="_blank">**flairR**</a> 
 
 
-**[<span style="color:#5a5a5a">**flairR**</span>](https://github.com/davidycliao/legisTaiwan)** is 
+**[<span style="color:#5a5a5a">**flairR**</span>](https://github.com/davidycliao/flairR)** is 
 An R Wrapper for accessing Flair NLP tagging features
 
 
