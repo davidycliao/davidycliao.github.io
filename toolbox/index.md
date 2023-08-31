@@ -35,7 +35,7 @@
 
 <div style="text-align: justify">
 
-<a href="https://davidycliao.github.io/flairR/" class="bottom-link"  target="_blank">**flairR**</a> 
+<a href="https://davidycliao.github.io/flaiR/" class="bottom-link"  target="_blank">**flairR**</a> 
 
 
 **[<span style="color:#5a5a5a">**flairR**</span>](https://github.com/davidycliao/flairR)** is 
