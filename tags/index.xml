@@ -4,25 +4,32 @@
         <link>https://davidycliao.github.io/tags/</link>
         <description>Tags - Tag - DAVID LIAO</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 20 Jun 2023 21:29:01 &#43;0800</lastBuildDate><atom:link href="https://davidycliao.github.io/tags/" rel="self" type="application/rss+xml" /><item>
-    <title>British Politics</title>
-    <link>https://davidycliao.github.io/tags/british-politics/</link>
+    <title>flairNLP</title>
+    <link>https://davidycliao.github.io/tags/flairnlp/</link>
     <pubDate>Tue, 20 Jun 2023 21:29:01 &#43;0800</pubDate>
     <author>Author</author>
-    <guid>https://davidycliao.github.io/tags/british-politics/</guid>
+    <guid>https://davidycliao.github.io/tags/flairnlp/</guid>
     <description><![CDATA[]]></description>
 </item><item>
-    <title>Ideal Point Estimation</title>
-    <link>https://davidycliao.github.io/tags/ideal-point-estimation/</link>
+    <title>NLP</title>
+    <link>https://davidycliao.github.io/tags/nlp/</link>
     <pubDate>Tue, 20 Jun 2023 21:29:01 &#43;0800</pubDate>
     <author>Author</author>
-    <guid>https://davidycliao.github.io/tags/ideal-point-estimation/</guid>
+    <guid>https://davidycliao.github.io/tags/nlp/</guid>
     <description><![CDATA[]]></description>
 </item><item>
-    <title>Polarization</title>
-    <link>https://davidycliao.github.io/tags/polarization/</link>
+    <title>Python</title>
+    <link>https://davidycliao.github.io/tags/python/</link>
     <pubDate>Tue, 20 Jun 2023 21:29:01 &#43;0800</pubDate>
     <author>Author</author>
-    <guid>https://davidycliao.github.io/tags/polarization/</guid>
+    <guid>https://davidycliao.github.io/tags/python/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>R</title>
+    <link>https://davidycliao.github.io/tags/r/</link>
+    <pubDate>Tue, 20 Jun 2023 21:29:01 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://davidycliao.github.io/tags/r/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Deep Learning</title>
@@ -39,39 +46,11 @@
     <guid>https://davidycliao.github.io/tags/machine-learning/</guid>
     <description><![CDATA[]]></description>
 </item><item>
-    <title>NLP</title>
-    <link>https://davidycliao.github.io/tags/nlp/</link>
-    <pubDate>Sun, 04 Jun 2023 21:29:01 &#43;0800</pubDate>
-    <author>Author</author>
-    <guid>https://davidycliao.github.io/tags/nlp/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>BERT</title>
-    <link>https://davidycliao.github.io/tags/bert/</link>
-    <pubDate>Thu, 19 May 2022 21:29:01 &#43;0800</pubDate>
-    <author>Author</author>
-    <guid>https://davidycliao.github.io/tags/bert/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>Taiwan Politics</title>
-    <link>https://davidycliao.github.io/tags/taiwan-politics/</link>
-    <pubDate>Thu, 19 May 2022 21:29:01 &#43;0800</pubDate>
-    <author>Author</author>
-    <guid>https://davidycliao.github.io/tags/taiwan-politics/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
     <title>Data Sciecne</title>
     <link>https://davidycliao.github.io/tags/data-sciecne/</link>
     <pubDate>Sat, 10 Jul 2021 21:29:01 &#43;0800</pubDate>
     <author>Author</author>
     <guid>https://davidycliao.github.io/tags/data-sciecne/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>R</title>
-    <link>https://davidycliao.github.io/tags/r/</link>
-    <pubDate>Sat, 10 Jul 2021 21:29:01 &#43;0800</pubDate>
-    <author>Author</author>
-    <guid>https://davidycliao.github.io/tags/r/</guid>
     <description><![CDATA[]]></description>
 </item></channel>
 </rss>

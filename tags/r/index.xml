@@ -3,7 +3,15 @@
         <title>R - Tag - DAVID LIAO</title>
         <link>https://davidycliao.github.io/tags/r/</link>
         <description>R - Tag - DAVID LIAO</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 10 Jul 2021 21:29:01 &#43;0800</lastBuildDate><atom:link href="https://davidycliao.github.io/tags/r/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 20 Jun 2023 21:29:01 &#43;0800</lastBuildDate><atom:link href="https://davidycliao.github.io/tags/r/" rel="self" type="application/rss+xml" /><item>
+    <title>flairR: An R Wrapper for Accessing Flair NLP Tagging Features</title>
+    <link>https://davidycliao.github.io/2023/06/pkg/</link>
+    <pubDate>Tue, 20 Jun 2023 21:29:01 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://davidycliao.github.io/2023/06/pkg/</guid>
+    <description><![CDATA[Welcome to help test the package:
+Website: https://github.com/davidycliao/flaiR Github: davidycliao.github.io/flaiR ]]></description>
+</item><item>
     <title>原住民族資料分析線上讀書會：R的基礎與應用</title>
     <link>https://davidycliao.github.io/2021/07/databoot-camp/</link>
     <pubDate>Sat, 10 Jul 2021 21:29:01 &#43;0800</pubDate>
