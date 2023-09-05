@@ -9,7 +9,7 @@
     <pubDate>Tue, 20 Jun 2023 21:29:01 &#43;0800</pubDate>
     <author>Author</author>
     <guid>https://davidycliao.github.io/2023/06/pkg/</guid>
-    <description><![CDATA[Welcome to help test the package:
+    <description><![CDATA[We are testing our package, an R wrapper for accessing Flair NLP, which allows for the use of core features such as part-of-speech tagging, NER, and sentiment analysis. Feel free to fork and submit pull requests or me know how you think of the package.
 Website: https://github.com/davidycliao/flaiR Github: davidycliao.github.io/flaiR ]]></description>
 </item><item>
     <title>原住民族資料分析線上讀書會：R的基礎與應用</title>
