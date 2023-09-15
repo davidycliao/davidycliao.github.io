@@ -9,7 +9,6 @@
     <pubDate>Tue, 20 Jun 2023 21:29:01 &#43;0800</pubDate>
     <author>Author</author>
     <guid>https://davidycliao.github.io/2023/06/pkg/</guid>
-    <description><![CDATA[We are testing our package, an R wrapper for accessing Flair NLP, which allows for the use of core features such as part-of-speech tagging, NER, and sentiment analysis. Feel free to fork and submit pull requests or me know how you think of the package.
-Website: https://github.com/davidycliao/flaiR Github: davidycliao.github.io/flaiR ]]></description>
+    <description><![CDATA[FlaiR - R wrapper for Flair NLP We are testing our package, an R wrapper specifically designed for Flair NLP. This package offers core sequence tagging features such as part-of-speech tasks, named entity recognition, and transformer-based sentiment analysis. For researchers in social or political science, it directly returns a dataframe instead of objects. If you are more comfortable with function-oriented features, this R wrapper might be beneficial for you, as it provides a more direct approach.]]></description>
 </item></channel>
 </rss>

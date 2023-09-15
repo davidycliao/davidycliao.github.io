@@ -6,16 +6,14 @@
         <meta name="robots" content="noodp" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
         <title>flairR: An R Wrapper for Accessing Flair NLP Tagging Features - DAVID LIAO</title><meta name="Description" content="Postdoc | School of Politics and International Relations | UCD"><meta property="og:title" content="flairR: An R Wrapper for Accessing Flair NLP Tagging Features" />
-<meta property="og:description" content="We are testing our package, an R wrapper for accessing Flair NLP, which allows for the use of core features such as part-of-speech tagging, NER, and sentiment analysis. Feel free to fork and submit pull requests or me know how you think of the package.
-Website: https://github.com/davidycliao/flaiR Github: davidycliao.github.io/flaiR " />
+<meta property="og:description" content="FlaiR - R wrapper for Flair NLP We are testing our package, an R wrapper specifically designed for Flair NLP. This package offers core sequence tagging features such as part-of-speech tasks, named entity recognition, and transformer-based sentiment analysis. For researchers in social or political science, it directly returns a dataframe instead of objects. If you are more comfortable with function-oriented features, this R wrapper might be beneficial for you, as it provides a more direct approach." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://davidycliao.github.io/2023/06/pkg/" /><meta property="article:section" content="posts" />
 <meta property="article:published_time" content="2023-06-20T21:29:01+08:00" />
 <meta property="article:modified_time" content="2023-06-22T22:55:01+08:00" />
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="flairR: An R Wrapper for Accessing Flair NLP Tagging Features"/>
-<meta name="twitter:description" content="We are testing our package, an R wrapper for accessing Flair NLP, which allows for the use of core features such as part-of-speech tagging, NER, and sentiment analysis. Feel free to fork and submit pull requests or me know how you think of the package.
-Website: https://github.com/davidycliao/flaiR Github: davidycliao.github.io/flaiR "/>
+<meta name="twitter:description" content="FlaiR - R wrapper for Flair NLP We are testing our package, an R wrapper specifically designed for Flair NLP. This package offers core sequence tagging features such as part-of-speech tasks, named entity recognition, and transformer-based sentiment analysis. For researchers in social or political science, it directly returns a dataframe instead of objects. If you are more comfortable with function-oriented features, this R wrapper might be beneficial for you, as it provides a more direct approach."/>
 <meta name="application-name" content="DAVID LIAO">
 <meta name="apple-mobile-web-app-title" content="DAVID LIAO"><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
         <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -28,7 +26,7 @@ Website: https://github.com/davidycliao/flaiR Github: davidycliao.github.io/flai
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https:\/\/davidycliao.github.io\/2023\/06\/pkg\/"
-        },"genre": "posts","keywords": "R, NLP, Python, flairNLP","wordcount":  49 ,
+        },"genre": "posts","keywords": "R, NLP, Python, flairNLP","wordcount":  97 ,
         "url": "https:\/\/davidycliao.github.io\/2023\/06\/pkg\/","datePublished": "2023-06-20T21:29:01+08:00","dateModified": "2023-06-22T22:55:01+08:00","license": "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.","publisher": {
             "@type": "Organization",
             "name": "David, Yen-Chieh Liao"},"author": {
@@ -78,7 +76,7 @@ Website: https://github.com/davidycliao/flaiR Github: davidycliao.github.io/flai
             <div class="toc-content" id="toc-content-auto"></div>
         </div><article class="page single"><h1 class="single-title animated flipInX">flairR: An R Wrapper for Accessing Flair NLP Tagging Features</h1><div class="post-meta">
             <div class="post-meta-line"><span class="post-author"><a href="/" title="Author" rel=" author" class="author"><i class="fas fa-user-circle fa-fw"></i>David, Yen-Chieh Liao</a></span>&nbsp;<span class="post-category">included in <a href="/categories/package/"><i class="far fa-folder fa-fw"></i>Package</a></span></div>
-            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="2023-06-20">2023-06-20</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;49 words&nbsp;
+            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="2023-06-20">2023-06-20</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;97 words&nbsp;
                 <i class="far fa-clock fa-fw"></i>&nbsp;One minute&nbsp;<span id="/2023/06/pkg/" class="leancloud_visitors" data-flag-title="flairR: An R Wrapper for Accessing Flair NLP Tagging Features">
                         <i class="far fa-eye fa-fw"></i>&nbsp;<span class=leancloud-visitors-count></span>&nbsp;views
                     </span>&nbsp;</div>
@@ -87,11 +85,18 @@ Website: https://github.com/davidycliao/flaiR Github: davidycliao.github.io/flai
                     <span>Contents</span>
                     <span><i class="details-icon fas fa-angle-right"></i></span>
                 </div>
-                <div class="details-content toc-content" id="toc-content-static"><nav id="TableOfContents"></nav></div>
-            </div><div class="content" id="content"><p>We are testing our package, an R wrapper for accessing Flair NLP, which allows for the use of core features such as part-of-speech tagging, NER, and sentiment analysis. Feel free to fork and submit pull requests or me know how you think of the package.</p>
+                <div class="details-content toc-content" id="toc-content-static"><nav id="TableOfContents">
+  <ul>
+    <li><a href="#flair---r-wrapper-for-flair-nlp">FlaiR - R wrapper for Flair NLP</a></li>
+  </ul>
+</nav></div>
+            </div><div class="content" id="content"><h2 id="flair---r-wrapper-for-flair-nlp">FlaiR - R wrapper for Flair NLP</h2>
+<div style="text-align: justify">
+<p>We are testing our package, an R wrapper specifically designed for Flair NLP. This package offers core sequence tagging features such as <strong>part-of-speech tasks</strong>, <strong>named entity recognition</strong>, and <strong>transformer-based sentiment analysis</strong>. For researchers in social or political science, it directly returns a dataframe instead of objects. If you are more comfortable with function-oriented features, this R wrapper might be beneficial for you, as it provides a more direct approach. Feel free to fork our repository, submit pull requests, or share your thoughts on the package.</p>
+</div>
 <ul>
-<li>Website: <a href="https://github.com/davidycliao/flaiR" target="_blank" rel="noopener noreffer">https://github.com/davidycliao/flaiR</a></li>
-<li>Github: <a href="https://github.com/davidycliao/flaiR" target="_blank" rel="noopener noreffer">davidycliao.github.io/flaiR</a></li>
+<li><u>**Website: **</u> <a href="https://github.com/davidycliao/flaiR" target="_blank" rel="noopener noreffer">https://github.com/davidycliao/flaiR</a></li>
+<li><u>**Github: **</u><a href="https://github.com/davidycliao/flaiR" target="_blank" rel="noopener noreffer">davidycliao.github.io/flaiR</a></li>
 </ul>
 </div><div class="post-footer" id="post-footer">
     <div class="post-info">
