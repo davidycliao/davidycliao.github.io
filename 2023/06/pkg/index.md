@@ -11,6 +11,6 @@ We are testing our package, an R wrapper specifically designed for Flair NLP. Th
 </div>
 
 
-- <u>**Website: **</u> [https://github.com/davidycliao/flaiR](https://github.com/davidycliao/flaiR)
-- <u>**Github: **</u>[davidycliao.github.io/flaiR](https://github.com/davidycliao/flaiR)
+- <u>**Website:**</u> [https://github.com/davidycliao/flaiR](https://github.com/davidycliao/flaiR)
+- <u>**Github:**</u>[davidycliao.github.io/flaiR](https://github.com/davidycliao/flaiR)
 
