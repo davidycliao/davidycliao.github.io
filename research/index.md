@@ -79,16 +79,14 @@ img {
 
 ### _Working_ Papers:
 
-- (Mis)perception of Party-voter Congruence and Satisfaction with Democracy (<u><a href="" style="color: #2F4F4F;">Royce Carroll</a></u> and <u><a href="https://sites.google.com/view/litang2020" style="color: #2F4F4F;">Li Tang</a></u>) [&nbsp;  <a href="" target="_blank"  
-style="color: blue;">paper</a> &nbsp;| <a href="https://www.dropbox.com/s/t8je2ex8k5543wk/mis-per-party-slides.pdf?dl=0" target="_blank"  
-style="color: blue;">slides</a> &nbsp;] <span style="color: grey;">_R&R_</span>
+- (Mis)perception of Party-voter Congruence and Satisfaction with Democracy (<u><a href="" style="color: #2F4F4F;">Royce Carroll</a></u> and <u><a href="https://sites.google.com/view/litang2020" style="color: #2F4F4F;">Li Tang</a></u> <span style="color: grey;">_R&R_</span> ) [&nbsp; <a href="https://www.dropbox.com/s/t8je2ex8k5543wk/mis-per-party-slides.pdf?dl=0" target="_blank"  
+style="color: blue;">slides</a>&nbsp;]
  
 <!-- <a href="https://www.dropbox.com/s/iuou4lew5nztc8g/Mis_perception_of_Party_voter_Congruence_and_Satisfaction_with_Democracy.pdf?dl=0" class="bottom-link" target="_blank">paper</a> <a href="https://www.dropbox.com/s/t8je2ex8k5543wk/mis-per-party-slides.pdf?dl=0" class="bottom-link" target="_blank"> presentation </a>  -->
 
-- Electoral Reform and Fragmented Polarization: New Evidence from Taiwan Legislative Roll Call 
- [&nbsp; <a href="" target="_blank"  
-style="color: blue;">paper</a> &nbsp;| <a href="https://raw.githack.com/davidycliao/ecpr-parliarment/main/erfp-ecpr-parliarment.html#1" target="_blank"  
-style="color: blue;">slides</a>  &nbsp;] <span style="color: grey;">_Under Review_</span>
+- Electoral Reform and Fragmented Polarization: New Evidence from Taiwan Legislative Roll Call ( <span style="color: grey;">_Under Review_</span>)
+ [ <a href="https://raw.githack.com/davidycliao/ecpr-parliarment/main/erfp-ecpr-parliarment.html#1" target="_blank"  
+style="color: blue;">slides</a> &nbsp;]
 
 - Electoral Reform and Pork Barrel in Parliamentary Questions [&nbsp; <a href="https://www.dropbox.com/s/r3kwl8uq6qr4unq/Electoral_Reform_and_Pork_Barrel_in_Parliamentary_Questions.pdf?dl=0" target="_blank"  
 style="color: blue;">paper</a>  &nbsp;| <a href="https://raw.githack.com/davidycliao/erpb/main/slides/slides.html" target="_blank"  
