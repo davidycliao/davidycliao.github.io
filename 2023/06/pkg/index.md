@@ -26,9 +26,9 @@ We encourage you to engage with our package in various ways:
 We genuinely appreciate your interest and support in our project. If you have any questions or require further assistance, please do not hesitate to reach out to me.
 
 
-<u>**Website:**</u> [https://github.com/davidycliao/flaiR](https://github.com/davidycliao/flaiR)
+<u>**Website:**</u> [https://github.com/davidycliao/flaiR](https://davidycliao.github.io/flaiR/)
 
-<u>**Github:**</u> [davidycliao.github.io/flaiR](https://davidycliao.github.io/flaiR/)
+<u>**Github:**</u> [davidycliao.github.io/flaiR](https://github.com/davidycliao/flaiR)
 
 
 
