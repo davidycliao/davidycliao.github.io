@@ -28,7 +28,7 @@ We genuinely appreciate your interest and support in our project. If you have an
 
 <u>**Website:**</u> [https://github.com/davidycliao/flaiR](https://github.com/davidycliao/flaiR)
 
-<u>**Github:**</u> [davidycliao.github.io/flaiR](https://github.com/davidycliao/flaiR)
+<u>**Github:**</u> [davidycliao.github.io/flaiR](https://davidycliao.github.io/flaiR/)
 
 
 
