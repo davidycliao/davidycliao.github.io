@@ -17,8 +17,9 @@
     background-color: #f2f2f2;
     color: #000;
     text-decoration: none;
-    border-radius: 5px; /* This makes the link round */
-    transition: background-color 0.8s;
+    border-radius: 8px; /* This makes the link round */
+    transition: background-color 0.9s;
+    border: 1.5px solid grey; /* This adds a grey frame around the link */
 }
 
 .bottom-link:hover {
@@ -38,9 +39,7 @@
 <a href="https://davidycliao.github.io/flaiR/" class="bottom-link"  target="_blank">**flairR**</a> 
 
 
-**[<span style="color:#5a5a5a">**flairR**</span>](https://github.com/davidycliao/flairR)** is 
-An R Wrapper for accessing Flair NLP tagging features
-
+**[<span style="color:#5a5a5a">**{flaiR}**</span>](https://github.com/davidycliao/flairR)**  is an R wrapper 📦 for the `{flairNLP/flair}` library, designed specifically for R users, especially those in the social sciences. It provides easy access to the main functionalities of `{flairNLP}`.
 
 </div>
 
@@ -52,7 +51,7 @@ An R Wrapper for accessing Flair NLP tagging features
 <a href="https://davidycliao.github.io/legisTaiwan/" class="bottom-link"  target="_blank">**legisTaiwan**</a> 
 
 
-**[<span style="color:#5a5a5a">**legisTaiwan**</span>](https://github.com/davidycliao/legisTaiwan)** is 
+**[<span style="color:#5a5a5a">**{legisTaiwan}**</span>](https://github.com/davidycliao/legisTaiwan)** is 
 An R package 📦 for downloading real-time legislative data of spoken meeting records, bill sponsor/co-sponsor, and more via Taiwan Legislative Library API
 
 </div>
@@ -65,7 +64,7 @@ An R package 📦 for downloading real-time legislative data of spoken meeting r
 
 <a href="https://uniofessex.github.io/asmcjr/" class="bottom-link"  target="_blank">**asmcjr**</a> (with Dave Armstrong, Royce Carroll, Christopher Hare, Ryan Bakker, Keith Poole, Howard Rosenthal)
 
-An **[<span style="color:#5a5a5a">**asmcjr**</span>](https://uniofessex.github.io/asmcjr/)** in R supports the book “_2nd Analyzing Spatial Models of Choice and Judgment_”, and streamlined functions for scaling and visualising estimates with ggplot2. 
+The <span style="color:#5a5a5a">**{asmcjr}**</span> package 📦 in R supports the book _"Analyzing Spatial Models of Choice and Judgment, 2nd Edition"_. It also offers streamlined functions for scaling and visualizing estimates using ggplot2.
 
 </div>
 
