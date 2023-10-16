@@ -39,7 +39,7 @@
 <a href="https://davidycliao.github.io/flaiR/" class="bottom-link"  target="_blank">**flairR**</a> 
 
 
-**[<span style="color:#5a5a5a">**{flaiR}**</span>](https://github.com/davidycliao/flairR)**  is an R wrapper 📦 for the `{flairNLP/flair}` library, designed specifically for R users, especially those in the social sciences. It provides easy access to the main functionalities of `{flairNLP}`.
+**[<span style="color:#5a5a5a">**{flaiR}**</span>](https://github.com/davidycliao/flairR)**  is an R wrapper 📦 for the `{flairNLP/flair}` library, designed specifically for R users, especially those in the social sciences. It provides easy access to the main functionalities of `{flairNLP}` in Pythob.
 
 </div>
 
