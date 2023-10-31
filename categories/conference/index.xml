@@ -1,0 +1,42 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Conference - Category - DAVID LIAO</title>
+        <link>https://davidycliao.github.io/categories/conference/</link>
+        <description>Conference - Category - DAVID LIAO</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 20 Jun 2023 21:29:01 &#43;0800</lastBuildDate><atom:link href="https://davidycliao.github.io/categories/conference/" rel="self" type="application/rss+xml" /><item>
+    <title>Co-authored Paper Presentation @ St. Pete Beach, Florida 2023 SPSA</title>
+    <link>https://davidycliao.github.io/2023/01/event4/</link>
+    <pubDate>Fri, 20 Jan 2023 21:29:01 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://davidycliao.github.io/2023/01/event4/</guid>
+    <description><![CDATA[Party Misperception, Party-voter Incongruence and Political Distrust The paper investigates how citizens&rsquo; misperception of party positions influences the perceived congruence between ideological preferences and positions of parties&rsquo; ideological position. We use a voter-level longitudinal data in the British Election Study in conjunction with data from the Chapel Hill Expert Survey (CHES). We take advantage of the panel structure of our data set and directly test two hypotheses relating to voters&rsquo; misperception of party positions relates to subjectively perceived incongruence, and the effect of perceived and actual incongruence on trust and satisfaction with politics.]]></description>
+</item><item>
+    <title>Paper Presentation @ University of Innsbruck 2022 ECPR General Conference</title>
+    <link>https://davidycliao.github.io/2022/05/event6/</link>
+    <pubDate>Thu, 19 May 2022 21:29:01 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://davidycliao.github.io/2022/05/event6/</guid>
+    <description><![CDATA[Electoral Reform and Pork Barrel in Parliamentary Questions Measuring legislator behaviours and tendencies towards constituencies under different electoral systems is important. This paper quantitatively investigates this topic using the case of Taiwan Legislative Yuan and data on written parliamentary questions through an electoral reform from multi-member districts (MMD) to single-member districts (SMD). With existing labelled pork legislation, I train deep learning models using convolutional neural networks with an embedding layer extracted from Transformer BERT to detect pork-barrel features in parliamentary questions over time.]]></description>
+</item><item>
+    <title>Poster Presentation @ Washington University in St. Louis PolMeth XXXIX</title>
+    <link>https://davidycliao.github.io/2022/05/event5/</link>
+    <pubDate>Thu, 19 May 2022 21:29:01 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://davidycliao.github.io/2022/05/event5/</guid>
+    <description><![CDATA[Electoral Reform and Pork Barrel in Parliamentary Questions Measuring legislator behaviours and tendencies towards constituencies under different electoral systems is important. This paper quantitatively investigates this topic using the case of Taiwan Legislative Yuan and data on written parliamentary questions through an electoral reform from multi-member districts (MMD) to single-member districts (SMD). With existing labelled pork legislation, I train deep learning models using convolutional neural networks with an embedding layer extracted from Transformer BERT to detect pork-barrel features in parliamentary questions over time.]]></description>
+</item><item>
+    <title>Paper Presentation @ Dublin COMPTEXT 2022</title>
+    <link>https://davidycliao.github.io/2022/04/event2/</link>
+    <pubDate>Tue, 19 Apr 2022 21:29:01 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://davidycliao.github.io/2022/04/event2/</guid>
+    <description><![CDATA[Factionalism and the Red Guards under Mao&rsquo;s China: Ideal Point Estimation Using Text Data In this paper, we design a new strain of text scaling method, Swordfish (Slogan-featured Wordfish), that takes advantage of the TextRank algorithm to extract the most representative political slogans in a given context and estimates Wordfish with those extracted text variables. We test this method using the case of the Great Proletarian Cultural Revolution in China and the historical archive of handwritten big-character posters and self-printed tabloids from 1966.]]></description>
+</item><item>
+    <title>Paper Presentation @Vienna ECPR SG Parliarmment</title>
+    <link>https://davidycliao.github.io/2023/06/event1/</link>
+    <pubDate>Tue, 20 Jun 2023 21:29:01 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://davidycliao.github.io/2023/06/event1/</guid>
+    <description><![CDATA[Electoral Reform and Fragmented Polarization: New Evidence from Taiwan Legislative Roll Call This paper investigates how legislators respond to an electoral reform by adjusting their ideological positions with respect to co-partisans and rivals. Using data from Taiwan&rsquo;s legislative roll calls over 20 years, we study the extent to which partisan disagreement is influenced by the 2008 Taiwanese electoral reform from Single Non-Transferable Votes (SNTV) to Single-Member Districts (SMD). Contrary to the literature, our empirical evidence shows that the reform significantly fragmented legislator positions in relation to both co-partisans and members from the rival party.]]></description>
+</item></channel>
+</rss>
