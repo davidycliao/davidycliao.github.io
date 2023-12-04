@@ -4,12 +4,11 @@
         <link>https://davidycliao.github.io/categories/package/</link>
         <description>Package - Category - DAVID LIAO</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 20 Jun 2023 21:29:01 &#43;0800</lastBuildDate><atom:link href="https://davidycliao.github.io/categories/package/" rel="self" type="application/rss+xml" /><item>
-    <title>flairR: Streamlining NLP and Custom Deep Learning Model Training</title>
+    <title>Inviting the use of flairR to help us improve the user experience for R users</title>
     <link>https://davidycliao.github.io/2023/06/pkg/</link>
     <pubDate>Tue, 20 Jun 2023 21:29:01 &#43;0800</pubDate>
     <author>Author</author>
     <guid>https://davidycliao.github.io/2023/06/pkg/</guid>
-    <description><![CDATA[FlaiR - R wrapper for Flair NLP We are currently in the process of testing our package, which is an R wrapper designed specifically for Flair NLP. This package is tailored to provide core sequence tagging features, including part-of-speech tasks, named entity recognition and transformer-based sentiment analysis.
-One notable feature of our package is its ability to directly return a dataframe, which can be particularly useful for researchers in social or political science.]]></description>
+    <description><![CDATA[FlaiR - Streamlining NLP and Custom Deep Learning Model We are currently in the process of testing flairR, an R wrapper specifically designed to train transformers and perform NLP tasks using Flair NLP in an R environment. This package is tailored to provide core sequence tagging features, including part-of-speech tasks, named entity recognition, and transformer-based sentiment analysis, especially for users in the social sciences who are accustomed to using R.]]></description>
 </item></channel>
 </rss>
