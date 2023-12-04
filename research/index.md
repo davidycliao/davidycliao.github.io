@@ -84,7 +84,7 @@ style="color: blue;">slides</a> &nbsp;]
  
 <!-- <a href="https://www.dropbox.com/s/iuou4lew5nztc8g/Mis_perception_of_Party_voter_Congruence_and_Satisfaction_with_Democracy.pdf?dl=0" class="bottom-link" target="_blank">paper</a> <a href="https://www.dropbox.com/s/t8je2ex8k5543wk/mis-per-party-slides.pdf?dl=0" class="bottom-link" target="_blank"> presentation </a>  -->
 
-- Electoral Reform and Fragmented Polarization: New Evidence from Taiwan Legislative Roll Call ( <span style="color: grey;">_Under Review_</span>)
+- Electoral Reform and Fragmented Polarization: New Evidence from Taiwan Legislative Roll Call ( <span style="color: grey;">_R&R at LSQ_</span>)
  [ &nbsp; <a href="https://raw.githack.com/davidycliao/ecpr-parliarment/main/erfp-ecpr-parliarment.html#1" target="_blank"  
 style="color: blue;">slides</a> &nbsp;]
 
