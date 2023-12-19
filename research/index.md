@@ -92,9 +92,9 @@ style="color: blue;">slides</a> &nbsp;]
 style="color: blue;">paper</a>  &nbsp;| <a href="https://raw.githack.com/davidycliao/erpb/main/slides/slides.html" target="_blank"  
 style="color: blue;">slides</a> &nbsp;] 
 
-- Factionalism and the Red Guards under Mao’s China: Ideal Point Estimation Using Text Data ( <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;">Yi-Nung Tsai</a></u> , Daniel Tene and <u><a href="https://scholar.google.fr/citations?user=6eVzx4AAAAAJ&hl=en" style="color: #2F4F4F;">Dechun Zhang </a></u> ) [&nbsp; <a href="https://raw.githack.com/davidycliao/redguards/master/slides/paper.pdf" target="_blank"  
+<!-- - Factionalism and the Red Guards under Mao’s China: Ideal Point Estimation Using Text Data ( <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;">Yi-Nung Tsai</a></u> , Daniel Tene and <u><a href="https://scholar.google.fr/citations?user=6eVzx4AAAAAJ&hl=en" style="color: #2F4F4F;">Dechun Zhang </a></u> ) [&nbsp; <a href="https://raw.githack.com/davidycliao/redguards/master/slides/paper.pdf" target="_blank"  
 style="color: blue;">paper</a>  &nbsp;| <a href="https://raw.githack.com/davidycliao/redguards/master/slides/slides.pdf" target="_blank"  
-style="color: blue;">slides</a> &nbsp;] 
+style="color: blue;">slides</a> &nbsp;]  -->
 
 <!-- 
 [&nbsp; <a href="https://raw.githack.com/davidycliao/redguards/master/slides/paper.pdf" class="bottom-link" target="_blank"  
