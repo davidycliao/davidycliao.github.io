@@ -88,9 +88,9 @@ style="color: blue;">slides</a> &nbsp;]
  [ &nbsp; <a href="https://raw.githack.com/davidycliao/ecpr-parliarment/main/erfp-ecpr-parliarment.html#1" target="_blank"  
 style="color: blue;">slides</a> &nbsp;]
 
-- Electoral Reform and Pork Barrel in Parliamentary Questions [&nbsp; <a href="https://www.dropbox.com/s/r3kwl8uq6qr4unq/Electoral_Reform_and_Pork_Barrel_in_Parliamentary_Questions.pdf?dl=0" target="_blank"  
+<!-- - Electoral Reform and Pork Barrel in Parliamentary Questions [&nbsp; <a href="https://www.dropbox.com/s/r3kwl8uq6qr4unq/Electoral_Reform_and_Pork_Barrel_in_Parliamentary_Questions.pdf?dl=0" target="_blank"  
 style="color: blue;">paper</a>  &nbsp;| <a href="https://raw.githack.com/davidycliao/erpb/main/slides/slides.html" target="_blank"  
-style="color: blue;">slides</a> &nbsp;] 
+style="color: blue;">slides</a> &nbsp;]  -->
 
 <!-- - Factionalism and the Red Guards under Mao’s China: Ideal Point Estimation Using Text Data ( <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;">Yi-Nung Tsai</a></u> , Daniel Tene and <u><a href="https://scholar.google.fr/citations?user=6eVzx4AAAAAJ&hl=en" style="color: #2F4F4F;">Dechun Zhang </a></u> ) [&nbsp; <a href="https://raw.githack.com/davidycliao/redguards/master/slides/paper.pdf" target="_blank"  
 style="color: blue;">paper</a>  &nbsp;| <a href="https://raw.githack.com/davidycliao/redguards/master/slides/slides.pdf" target="_blank"  
@@ -127,6 +127,8 @@ style="color: blue;">presentation</a> &nbsp;]  -->
 <u><a href="https://yitingw.com" style="color: #2F4F4F;">Yi-ting Wang </a></u>)
 
 - Party Competition in Times of Crisis (with <u><a href="https://www.uni-bamberg.de/comparpol/lehrstuhlteam/david-beck/" style="color: #2F4F4F;">David Beck</a></u>  and <u><a href="https://www.uni-bamberg.de/vp-forschung/" style="color: #2F4F4F;">Thomas Saalfeld</a></u> )
+
+- Political Preferences for Pork Barrel Messages under Different Electoral Systems 
 
 <!-- - Securitization in Words: Text Analysis of Taiwan’s COVID-19 Press Conferences (with <u><a href="https://icaps.nsysu.edu.tw/p/412-1131-1687.php?Lang=en" style="color: #2F4F4F;">Chia-Chien Chang</a></u>, <u><a href="https://weitingyen.com" style="color: #2F4F4F;">Wei-Ting Yen</a></u> and <u><a href="https://udayton.edu/directory/artssciences/politicalscience/liu-li-yin.php" style="color: #2F4F4F;">Li-Yin Liu</a></u> ) -->
 
