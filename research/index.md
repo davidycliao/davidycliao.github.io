@@ -120,15 +120,13 @@ style="color: blue;">presentation</a> &nbsp;]  -->
 - Catalysts for Change? Mapping Policy Recommendations in Academic Publications on Climate Change and Net Zero Energy Systems  (with <u><a href="https://brianpaulboyle.com" style="color: #2F4F4F;">Brian Boyle</u> and 
 <u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>)
 
+- Political Preferences for Pork Barrel Messages under Different Electoral Systems 
 
-- Shock Rhetoric: Local Exposure to Trade Shocks and Rhetorical Extremism in the US House of Representatives (with <u><a href="https://www.zikai.li" style="color: #2F4F4F;">Zikai Li</u> )
+- Shock Rhetoric: Local Exposure to Trade Shocks and Rhetorical Extremism in the US House of Representatives (with <a href="https://www.zikai.li" style="color: #2F4F4F;"><u>Zikai Li</u></a>)
 
-- Electoral Systems and Party Convergence on Issue Attentions (with <u><a href="https://sites.google.com/view/calvin-yuceng-liao/home" style="color: #2F4F4F;">Yu-Ceng Liao</a></u> and 
-<u><a href="https://yitingw.com" style="color: #2F4F4F;">Yi-ting Wang </a></u>)
+- Electoral Systems and Party Convergence on Issue Attentions (with <u><a href="https://sites.google.com/view/calvin-yuceng-liao/home" style="color: #2F4F4F;">Yu-Ceng Liao</a></u> and <u><a href="https://yitingw.com" style="color: #2F4F4F;">Yi-ting Wang </a></u>)
 
 - Party Competition in Times of Crisis (with <u><a href="https://www.uni-bamberg.de/comparpol/lehrstuhlteam/david-beck/" style="color: #2F4F4F;">David Beck</a></u>  and <u><a href="https://www.uni-bamberg.de/vp-forschung/" style="color: #2F4F4F;">Thomas Saalfeld</a></u> )
-
-- Political Preferences for Pork Barrel Messages under Different Electoral Systems 
 
 <!-- - Securitization in Words: Text Analysis of Taiwan’s COVID-19 Press Conferences (with <u><a href="https://icaps.nsysu.edu.tw/p/412-1131-1687.php?Lang=en" style="color: #2F4F4F;">Chia-Chien Chang</a></u>, <u><a href="https://weitingyen.com" style="color: #2F4F4F;">Wei-Ting Yen</a></u> and <u><a href="https://udayton.edu/directory/artssciences/politicalscience/liu-li-yin.php" style="color: #2F4F4F;">Li-Yin Liu</a></u> ) -->
 
