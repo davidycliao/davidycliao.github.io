@@ -122,6 +122,8 @@ style="color: blue;">presentation</a> &nbsp;]  -->
 
 - Political Preferences for Pork Barrel Messages under Different Electoral Systems 
 
+- Grandstanding under the Spotlight: Unveiling European Elites Crisis Communication in the Council of the European Union (with Paula Montano)
+
 - Shock Rhetoric: Local Exposure to Trade Shocks and Rhetorical Extremism in the US House of Representatives (with <a href="https://www.zikai.li" style="color: #2F4F4F;"><u>Zikai Li</u></a>)
 
 - Electoral Systems and Party Convergence on Issue Attentions (with <u><a href="https://sites.google.com/view/calvin-yuceng-liao/home" style="color: #2F4F4F;">Yu-Ceng Liao</a></u> and <u><a href="https://yitingw.com" style="color: #2F4F4F;">Yi-ting Wang </a></u>)
