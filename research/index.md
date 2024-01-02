@@ -90,14 +90,15 @@ style="color: blue;">slides</a> &nbsp;]
 
 - Political Preferences for Pork Barrel Messages under Different Electoral Systems [&nbsp; <a href="https://raw.githack.com/davidycliao/pork-barrel-messeges/main/slides/pork-barrel-messages.html" target="_blank"  style="color: blue;">slides</a> &nbsp;] 
 
-- Electoral Rules and Legislative Positions with Topic (In)variability (with <u><a href="https://sites.google.com/view/calvin-yuceng-liao/home" style="color: #2F4F4F;">Yu-Ceng Liao</a></u> and <u><a href="https://yitingw.com" style="color: #2F4F4F;">Yi-ting Wang </a></u>)
+- Electoral Rules and Legislative Positions with Topic (In)variability (<u><a href="https://sites.google.com/view/calvin-yuceng-liao/home" style="color: #2F4F4F;">Yu-Ceng Liao</a></u> and <u><a href="https://yitingw.com" style="color: #2F4F4F;">Yi-ting Wang</a></u>)
 
 - Factionalism and the Red Guards under Mao’s China: Ideal Point Estimation Using Text Data ( <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;">Yi-Nung Tsai</a></u> , Daniel Tene and <u><a href="https://scholar.google.fr/citations?user=6eVzx4AAAAAJ&hl=en" style="color: #2F4F4F;">Dechun Zhang </a></u> ) [&nbsp;  <a href="https://raw.githack.com/davidycliao/redguards/master/slides/slides.pdf" target="_blank"  
 style="color: blue;">slides</a> &nbsp;]  
 
 
-
 <br> 
+
+<!-- <font size="2"><u><a href="" style="color: #2F4F4F;">_If you are interested in the project that has been submitted and is currently under review, please feel free to contact me to obtain the latest version._</a></u></font>  -->
 
 ---
 
@@ -109,22 +110,22 @@ style="color: blue;">slides</a> &nbsp;]
 
 <div style="text-align: justify">
 
-- Multilingual Stance Detection in  Political Speech: Interpretation, Applications, and Limitations (with 
+- Multilingual Stance Detection in  Political Speech: Interpretation, Applications, and Limitations ( 
 <u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>)
 
 
-- Catalysts for Change? Mapping Policy Recommendations in Academic Publications on Climate Change and Net Zero Energy Systems  (with <u><a href="https://brianpaulboyle.com" style="color: #2F4F4F;">Brian Boyle</u> and 
+- Catalysts for Change? Mapping Policy Recommendations in Academic Publications on Climate Change and Net Zero Energy Systems  ( <u><a href="https://brianpaulboyle.com" style="color: #2F4F4F;">Brian Boyle</u> and 
 <u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>)
 
 
 - Grandstanding under the Spotlight: Unveiling European Elites Crisis Communication in the Council of the European Union (with Paula Montano)
 
-- Shock Rhetoric: Local Exposure to Trade Shocks and Rhetorical Extremism in the US House of Representatives (with <a href="https://www.zikai.li" style="color: #2F4F4F;"><u>Zikai Li</u></a>)
+- Shock Rhetoric: Local Exposure to Trade Shocks and Rhetorical Extremism in the US House of Representatives (<a href="https://www.zikai.li" style="color: #2F4F4F;"><u>Zikai Li</u></a>)
 
 
-- Party Competition in Times of Crisis (with <u><a href="https://www.uni-bamberg.de/comparpol/lehrstuhlteam/david-beck/" style="color: #2F4F4F;">David Beck</a></u>  and <u><a href="https://www.uni-bamberg.de/vp-forschung/" style="color: #2F4F4F;">Thomas Saalfeld</a></u> )
+- Party Competition in Times of Crisis ( <u><a href="https://www.uni-bamberg.de/comparpol/lehrstuhlteam/david-beck/" style="color: #2F4F4F;">David Beck</a></u>  and <u><a href="https://www.uni-bamberg.de/vp-forschung/" style="color: #2F4F4F;">Thomas Saalfeld</a></u> )
 
-<!-- - Securitization in Words: Text Analysis of Taiwan’s COVID-19 Press Conferences (with <u><a href="https://icaps.nsysu.edu.tw/p/412-1131-1687.php?Lang=en" style="color: #2F4F4F;">Chia-Chien Chang</a></u>, <u><a href="https://weitingyen.com" style="color: #2F4F4F;">Wei-Ting Yen</a></u> and <u><a href="https://udayton.edu/directory/artssciences/politicalscience/liu-li-yin.php" style="color: #2F4F4F;">Li-Yin Liu</a></u> ) -->
+<!-- - Securitization in Words: Text Analysis of Taiwan’s COVID-19 Press Conferences ( <u><a href="https://icaps.nsysu.edu.tw/p/412-1131-1687.php?Lang=en" style="color: #2F4F4F;">Chia-Chien Chang</a></u>, <u><a href="https://weitingyen.com" style="color: #2F4F4F;">Wei-Ting Yen</a></u> and <u><a href="https://udayton.edu/directory/artssciences/politicalscience/liu-li-yin.php" style="color: #2F4F4F;">Li-Yin Liu</a></u> ) -->
 
 
 
