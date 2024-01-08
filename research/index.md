@@ -79,8 +79,10 @@ img {
 ### _Working_ Papers:
 
 - (Mis)perception of Party-voter Congruence and Satisfaction with Democracy (with <u><a href="" style="color: #2F4F4F;">Royce Carroll</a></u> and <u><a href="https://sites.google.com/view/litang2020" style="color: #2F4F4F;">Li Tang</a></u> <span style="color: grey;">_R&R at Political Science Research and Methods_</span> ) [<a href="https://www.dropbox.com/s/t8je2ex8k5543wk/mis-per-party-slides.pdf?dl=0" target="_blank"  
-style="color: blue;">slides</a>]
+style="color: blue;">slides</a> | <a href=" https://www.dropbox.com/scl/fi/wjnh5n1izo11rad83efhj/Congruence_revised.pdf?rlkey=488uoawicgqtcshl5ea7h665h&dl=0" target="_blank"  
+style="color: blue;">revised</a>]
  
+
 <!-- <a href="https://www.dropbox.com/s/iuou4lew5nztc8g/Mis_perception_of_Party_voter_Congruence_and_Satisfaction_with_Democracy.pdf?dl=0" class="bottom-link" target="_blank">paper</a> <a href="https://www.dropbox.com/s/t8je2ex8k5543wk/mis-per-party-slides.pdf?dl=0" class="bottom-link" target="_blank"> presentation </a>  -->
 
 - Electoral Reform and Fragmented Polarization: New Evidence from Taiwan Legislative Roll Call ( <span style="color: grey;">_R&R at Legislative Studies Quarterly_</span>)

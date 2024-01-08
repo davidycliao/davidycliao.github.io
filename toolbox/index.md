@@ -1,4 +1,4 @@
-# Toolbox
+# Software
 
 
 <br> <br> <br> 
@@ -17,9 +17,9 @@
     background-color: #f2f2f2;
     color: #000;
     text-decoration: none;
-    border-radius: 8px; /* This makes the link round */
+    border-radius: 6px; /* This makes the link round */
     transition: background-color 0.9s;
-    border: 1.5px solid grey; /* This adds a grey frame around the link */
+    border: 1.8px solid grey; /* This adds a grey frame around the link */
 }
 
 .bottom-link:hover {
@@ -32,13 +32,17 @@
 <div style="text-align: center">
 
 
-
-
 <div style="text-align: justify">
 
 
 
 <div style="text-align: justify">
+
+<a href="https://davidycliao.github.io/flaiR/" class="bottom-link"  target="_blank">__`flaiR`__</a>  
+
+R wrapper 📦 for accessing <span style="color:#5a5a5a">**flair NLP**</span> library in Python.
+</div>
+
 
 <a href="https://davidycliao.github.io/legisTaiwan/" class="bottom-link"  target="_blank">__`legisTaiwan`__</a>  
 
@@ -46,19 +50,13 @@ R package 📦 for downloading real-time legislative data of spoken meeting reco
 </div>
 
 
-<a href="https://davidycliao.github.io/flaiR/" class="bottom-link"  target="_blank">__`flaiR`__</a>  
 
-R wrapper 📦 for accessing __flair NLP__ library in Python.
-</div>
-
-
-</div>
 
 <div style="text-align: justify">
 
 <a href="https://uniofessex.github.io/asmcjr/" class="bottom-link"  target="_blank">__`asmcjr`__</a> 
 
-The <span style="color:#5a5a5a">**{asmcjr}**</span> package 📦 in R supports the book _"Analyzing Spatial Models of Choice and Judgment, 2nd Edition"_. It also offers streamlined functions for scaling and visualizing estimates using ggplot2.
+<span style="color:#5a5a5a">**asmcjr**</span> package 📦 supports the book _"Analyzing Spatial Models of Choice and Judgment, 2nd Edition"_. It also offers streamlined functions for scaling and visualizing estimates using ggplot2.
 
 </div>
 
