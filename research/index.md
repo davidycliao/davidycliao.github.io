@@ -2,107 +2,53 @@
 
 
 
-<style>
-/* body {
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    
-} */
-
-
-.bottom-link {
-    display: inline-block;
-    padding: 1px 1px;
-    background-color: #f2f2f2;
-    color: #000;
-    text-decoration: none;
-    border-radius: 5px; /* This makes the link round */
-    transition: background-color 0.8s;
-}
-
-.bottom-link:hover {
-    background-color: #ddd;
-}
-
-
-a:hover {
-  color: blue;
-}
-
-</style>
-
-<style>
-.a:hover {
-  color: blue;
-}
-</style>
-
-
 <br/><br/>
 
 
+
 <div style="text-align: justify">
 
-My works mainly uses quantitative text analysis and computational methods to better understand how political elites position themselves through their political narratives, and how their narratives shape their political behaviors and change the mass’ attitudes and expectations towards future.  My research agenda include: my PhD dissertation on Taiwan's legislative politics, quantitative studies of party misplacement, political ideology and collective actions in parliarmentary democracies, and computational methods applied to study contemporary China.   
+ My research agenda include: my PhD dissertation on Taiwan's legislative politics, quantitative studies of party misplacement, political ideology and collective actions in parliarmentary democracies, and computational methods applied to study contemporary China.   
 
-<!-- These narratives naturally come from politicians’ speeches and debates, social media accounts and digitized historical records (such as posters during the Cultural Revolution). -->
-
-
-
-<br> 
 
 </div>
 
-<!-- <p align="center">
-<style>
-img {
-  border: 1px solid #ddd;
-  border-radius: 4px;
-  padding: 5px;
-  width: 150px;
-}
-</style>
-  <img width="500" height= "110"  src="https://raw.githack.com/davidycliao/erdp/main/paper/images/seven_legis.png" >
-  <img width="500" height= "110" src="https://raw.githack.com/davidycliao/erdp/main/paper/images/partywhip_mean.png">
-  <img width="500" height= "110"  src="https://raw.githack.com/davidycliao/erdp/main/paper/images/minor_postions_year.png">
-  <img width="500" height= "110"  src="https://raw.githack.com/davidycliao/erdp/main/paper/images/major_postions_year.png" >
-
-</p> -->
-
-<div style="text-align: justify">
+<div style="text-align: left">
 
 ### Publication:
 
-<a href="https://www.jstor.org/stable/27221360" style="color: #515151;">The Role of Rituals in Adversarial Parliaments: An Analysis of Expressions of Collegiality in the British House of Commons.</a> _Historical Social Research_ 48 (3): 209-234 (with <u><a href="https://www.uni-bamberg.de/comparpol/lehrstuhlteam/david-beck/" style="color: #2F4F4F;">David Beck</a></u>  and <u><a href="https://www.uni-bamberg.de/vp-forschung/" style="color: #2F4F4F;">Thomas Saalfeld</a></u>) 
+<a href="https://www.jstor.org/stable/27221360" style="color: #515151;">The Role of Rituals in Adversarial Parliaments: An Analysis of Expressions of Collegiality in the British House of Commons.</a> _Historical Social Research_ 48 (3): 209-234 (with <u><a href="https://www.uni-bamberg.de/comparpol/lehrstuhlteam/david-beck/" style="color: #2F4F4F;">David Beck</a></u>  and <u><a href="https://www.uni-bamberg.de/vp-forschung/" style="color: #2F4F4F;">Thomas Saalfeld</a></u>)
 
 ---
 
-<div style="text-align: left">
-
 ### _Working_ Papers:
 
-- (Mis)perception of Party-voter Congruence and Satisfaction with Democracy (with <u><a href="" style="color: #2F4F4F;">Royce Carroll</a></u> and <u><a href="https://sites.google.com/view/litang2020" style="color: #2F4F4F;">Li Tang</a></u> <span style="color: grey;">_R&R at Political Science Research and Methods_</span> ) [<a href="https://www.dropbox.com/s/t8je2ex8k5543wk/mis-per-party-slides.pdf?dl=0" target="_blank"  
-style="color: blue;">slides</a> | <a href=" https://www.dropbox.com/scl/fi/wjnh5n1izo11rad83efhj/Congruence_revised.pdf?rlkey=488uoawicgqtcshl5ea7h665h&dl=0" target="_blank"  
-style="color: blue;">revised draft</a>]
+- (Mis)perception of Party-voter Congruence and Satisfaction with Democracy (with <u><a href="" style="color: #2F4F4F;">Royce Carroll</a></u> and <u><a href="https://sites.google.com/view/litang2020" style="color: #2F4F4F;">Li Tang</a></u> <span style="color: grey;">_R&R at Political Science Research and Methods_</span> ) [ <a href="https://raw.githack.com/davidycliao/electoral-reform-fragmented-polarization/main/slides/electoral-reform-fragmented-polarization.html#1" target="_blank"  
+style="color: blue;">slides</a> | <a href="https://www.dropbox.com/scl/fi/oleelkrewznzbew6yygm3/Electoral_Reform_and_Fragmented_Polarisation.pdf?rlkey=2axmz7r5xzmwmqmirp610kajs&dl=0" target="_blank"  
+style="color: blue;"> working paper </a> ]
+ 
+- Electoral Reform and Fragmented Polarization: New Evidence from Taiwan Legislative Roll Call ( <span style="color: grey;">_R&R at Legislative Studies Quarterly_</span>) 
+ [<a href="https://raw.githack.com/davidycliao/electoral-reform-fragmented-polarization/main/slides/electoral-reform-fragmented-polarization.html#1" target="_blank"  
+style="color: blue;"> slides </a> | <a href="https://www.dropbox.com/scl/fi/oleelkrewznzbew6yygm3/Electoral_Reform_and_Fragmented_Polarisation.pdf?rlkey=2axmz7r5xzmwmqmirp610kajs&dl=0" target="_blank"  
+style="color: blue;"> working paper </a>]
+
+
+- Shaping Policy Agendas: The Influence of Electoral Systems on Party Convergence and Divergence in Issue Attentions (<u><a href="https://sites.google.com/view/calvin-yuceng-liao/home" style="color: #2F4F4F;">Yu-Ceng Liao</a></u> and <u><a href="https://yitingw.com" style="color: #2F4F4F;">Yi-ting Wang</a></u>)
+
+
+- Political Preferences for Pork Barrel Messages under Different Electoral Systems [<a href="https://raw.githack.com/davidycliao/pork-barrel-messeges/main/slides/pork-barrel-messages.html" target="_blank"  style="color: blue;"> slides </a>] 
+
+- Factionalism and the Red Guards under Mao’s China: Ideal Point Estimation Using Text Data (with <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;">Yi-Nung Tsai</a></u> and <u><a href="https://scholar.google.fr/citations?user=6eVzx4AAAAAJ&hl=en" style="color: #2F4F4F;">Dechun Zhang</a></u> ) [<a href="https://www.dropbox.com/scl/fi/8sf2wzbf9k8db08cgqhmx/Factionalism_and_the_Red_Guards_under_Mao_s_China_Slides.pdf?rlkey=8ptz1qtppxkd47mlforykznn0&dl=0" target="_blank"  
+style="color: blue;"> slides </a>]  
  
 
-<!-- <a href="https://www.dropbox.com/s/iuou4lew5nztc8g/Mis_perception_of_Party_voter_Congruence_and_Satisfaction_with_Democracy.pdf?dl=0" class="bottom-link" target="_blank">paper</a> <a href="https://www.dropbox.com/s/t8je2ex8k5543wk/mis-per-party-slides.pdf?dl=0" class="bottom-link" target="_blank"> presentation </a>  -->
-
-- Electoral Reform and Fragmented Polarization: New Evidence from Taiwan Legislative Roll Call ( <span style="color: grey;">_R&R at Legislative Studies Quarterly_</span>)
- [<a href="https://raw.githack.com/davidycliao/electoral-reform-fragmented-polarization/main/slides/electoral-reform-fragmented-polarization.html#1" target="_blank"  
-style="color: blue;">slides</a> | <a href="https://www.dropbox.com/scl/fi/oleelkrewznzbew6yygm3/Electoral_Reform_and_Fragmented_Polarisation.pdf?rlkey=2axmz7r5xzmwmqmirp610kajs&dl=0" target="_blank"  
-style="color: blue;">draft</a>]
-
-- Electoral Rules and Legislative Positions with Topic (In)variability (<u><a href="https://sites.google.com/view/calvin-yuceng-liao/home" style="color: #2F4F4F;">Yu-Ceng Liao</a></u> and <u><a href="https://yitingw.com" style="color: #2F4F4F;">Yi-ting Wang</a></u>)
-
-- Factionalism and the Red Guards under Mao’s China: Ideal Point Estimation Using Text Data (with <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;">Yi-Nung Tsai</a></u> , Daniel Tene and <u><a href="https://scholar.google.fr/citations?user=6eVzx4AAAAAJ&hl=en" style="color: #2F4F4F;">Dechun Zhang </a></u> ) [<a href="https://raw.githack.com/davidycliao/redguards/master/slides/slides.pdf" target="_blank"  
-style="color: blue;">slides</a>]  
-
-
-- Political Preferences for Pork Barrel Messages under Different Electoral Systems [<a href="https://raw.githack.com/davidycliao/pork-barrel-messeges/main/slides/pork-barrel-messages.html" target="_blank"  style="color: blue;">slides</a>] 
 
 <br> 
 
+
 <!-- <font size="2"><u><a href="" style="color: #2F4F4F;">_If you are interested in the project that has been submitted and is currently under review, please feel free to contact me to obtain the latest version._</a></u></font>  -->
+
+</div>
 
 ---
 
@@ -170,7 +116,7 @@ https://raw.githack.com/davidycliao/phd-thesis/main/Yen_Chieh_Liao_PhD_Dissertat
 
 
 
-
+</html>
 
 
 <br/><br/>
