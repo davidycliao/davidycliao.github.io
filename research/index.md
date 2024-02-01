@@ -24,7 +24,7 @@
 ### _Working_ Papers:
 
 - (Mis)perception of Party-voter Congruence and Satisfaction with Democracy (with <u><a href="" style="color: #2F4F4F;">Royce Carroll</a></u> and <u><a href="https://sites.google.com/view/litang2020" style="color: #2F4F4F;">Li Tang</a></u> <span style="color: grey;">_R&R at Political Science Research and Methods_</span> ) [ <a href="https://raw.githack.com/davidycliao/electoral-reform-fragmented-polarization/main/slides/electoral-reform-fragmented-polarization.html#1" target="_blank"  
-style="color: blue;">slides</a> | <a href="https://www.dropbox.com/scl/fi/oleelkrewznzbew6yygm3/Electoral_Reform_and_Fragmented_Polarisation.pdf?rlkey=2axmz7r5xzmwmqmirp610kajs&dl=0" target="_blank"  
+style="color: blue;">slides</a> | <a href="https://www.dropbox.com/scl/fi/wjnh5n1izo11rad83efhj/Congruence_revised.pdf?rlkey=488uoawicgqtcshl5ea7h665h&dl=0" target="_blank"  
 style="color: blue;"> working paper </a> ]
  
 - Electoral Reform and Fragmented Polarization: New Evidence from Taiwan Legislative Roll Call ( <span style="color: grey;">_R&R at Legislative Studies Quarterly_</span>) 
@@ -38,7 +38,7 @@ style="color: blue;"> working paper </a>]
 
 - Political Preferences for Pork Barrel Messages under Different Electoral Systems [<a href="https://raw.githack.com/davidycliao/pork-barrel-messeges/main/slides/pork-barrel-messages.html" target="_blank"  style="color: blue;"> slides </a>] 
 
-- Factionalism and the Red Guards under Mao’s China: Ideal Point Estimation Using Text Data (with <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;">Yi-Nung Tsai</a></u> and <u><a href="https://scholar.google.fr/citations?user=6eVzx4AAAAAJ&hl=en" style="color: #2F4F4F;">Dechun Zhang</a></u> ) [<a href="https://www.dropbox.com/scl/fi/8sf2wzbf9k8db08cgqhmx/Factionalism_and_the_Red_Guards_under_Mao_s_China_Slides.pdf?rlkey=8ptz1qtppxkd47mlforykznn0&dl=0" target="_blank"  
+- Factionalism and the Red Guards under Mao’s China: Ideal Point Estimation Using Text Data (with <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;">Yi-Nung Tsai</a></u>) [<a href="https://www.dropbox.com/scl/fi/8sf2wzbf9k8db08cgqhmx/Factionalism_and_the_Red_Guards_under_Mao_s_China_Slides.pdf?rlkey=8ptz1qtppxkd47mlforykznn0&dl=0" target="_blank"  
 style="color: blue;"> slides </a>]  
  
 
