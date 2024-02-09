@@ -30,10 +30,9 @@ style="color: blue;"></a> <font size="1.5"><u><a href="https://www.dropbox.com/s
 style="color: blue;">  </a>  <font size="1.5"><u><a href="" style="color: #2F4F4F;">(_R&R_)</a></u></font> 
 
 
-
 - Factionalism and the Red Guards under Mao’s China: Ideal Point Estimation Using Text Data (with <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;"> Yi-Nung Tsai</a></u>)  <a href="
 " target="_blank"  
-style="color: blue;">  </a>  <font size="1.5"><u><a href="https://www.dropbox.com/scl/fi/bxexb9n01ne89l708zd3w/Factionalism_and_the_Red_Guards_under_Mao_s_China.pdf?rlkey=g47yrj70uwzdq9zj2bxmjmv28&dl=0" style="color: #2F4F4F;">_(New Revision Fab 8 2024)_</a></u></font> 
+style="color: blue;">  </a>  <font size="1.5"><u><a href="https://www.dropbox.com/scl/fi/ywtkd8g1hrhkf7ekt88j5/Factionalism_and_the_Red_Guards_under_Mao_s_China.pdf?rlkey=4612451nhn2rm1yazkl73oagw&dl=0" style="color: #2F4F4F;">_(New Revision Fab 8 2024)_</a></u></font> 
  
 
 - Political Preferences for Pork Barrel Messages under Different Electoral Systems   <a href="
