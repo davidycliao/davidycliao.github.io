@@ -47,8 +47,12 @@ style="color: blue;">  </a>  <font size="1.5"><u><a href="https://www.dropbox.co
 
 - Multilingual Stance Detection in  Political Speech: Interpretation, Applications, and Limitations (with <u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>)
 
+- Catalysts for Change? Mapping Policy Recommendations in Academic Publications on Climate Change and Net Zero Energy Systems  (with <u><a href="https://brianpaulboyle.com" style="color: #2F4F4F;">Brian Boyle</u> and 
+<u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>)
 
 - Shaping Policy Agendas: The Influence of Electoral Systems on Party Convergence and Divergence in Issue Attentions (<u><a href="https://sites.google.com/view/calvin-yuceng-liao/home" style="color: #2F4F4F;">Yu-Ceng Liao</a></u> and <u><a href="https://yitingw.com" style="color: #2F4F4F;">Yi-ting Wang</a></u>)
+
+
 
 
 <!-- <font size="2"><u><a href="" style="color: #2F4F4F;">_If you are interested in the project that has been submitted and is currently under review, please feel free to contact me to obtain the latest version._</a></u></font>  -->
