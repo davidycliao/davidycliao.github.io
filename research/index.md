@@ -45,10 +45,10 @@ style="color: blue;">  </a>  <font size="1.5"><u><a href="https://www.dropbox.co
 
 #### *In-Progress*: 
 
-- Multilingual Stance Detection in  Political Speech: Interpretation, Applications, and Limitations (with <u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>)
-
-- Catalysts for Change? Mapping Policy Recommendations in Academic Publications on Climate Change and Net Zero Energy Systems  (with <u><a href="https://brianpaulboyle.com" style="color: #2F4F4F;">Brian Boyle</u> and 
+- Catalysts for Change?  Policy Recommendations in Research on Renewable Energy and Climate Change (with <u><a href="https://brianpaulboyle.com" style="color: #2F4F4F;">Brian Boyle</u> and 
 <u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>)
+
+- Multilingual Stance Detection in  Political Speech: Interpretation, Applications, and Limitations (with <u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>)
 
 - Shaping Policy Agendas: The Influence of Electoral Systems on Party Convergence and Divergence in Issue Attentions (<u><a href="https://sites.google.com/view/calvin-yuceng-liao/home" style="color: #2F4F4F;">Yu-Ceng Liao</a></u> and <u><a href="https://yitingw.com" style="color: #2F4F4F;">Yi-ting Wang</a></u>)
 
@@ -70,8 +70,6 @@ style="color: blue;">  </a>  <font size="1.5"><u><a href="https://www.dropbox.co
 - Shock Rhetoric: Local Exposure to Trade Shocks and Rhetorical Extremism in the US House of Representatives (with <a href="https://www.zikai.li" style="color: #2F4F4F;"><u>Zikai Li</u></a>)
 
 
-- Catalysts for Change? Mapping Policy Recommendations in Academic Publications on Climate Change and Net Zero Energy Systems  (with <u><a href="https://brianpaulboyle.com" style="color: #2F4F4F;">Brian Boyle</u> and 
-<u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>)
 
 
 - Grandstanding under the Spotlight: Unveiling European Elites Crisis Communication in the Council of the European Union (with Paula Montano)
