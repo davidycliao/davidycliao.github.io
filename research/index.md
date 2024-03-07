@@ -26,9 +26,8 @@ style="color: blue;"></a> <font size="1.5"><u><a href="https://www.dropbox.com/s
 
  
 - Electoral Reform and Fragmented Polarization: New Evidence from Taiwan Legislative Roll Call  <span style="color: grey;"></span>
-<a href="" target="_blank"  
-style="color: blue;">  </a>  <font size="1.5"><u><a href="" style="color: #2F4F4F;" target="_blank" >(_R&R LSQ_)</a></u></font> 
-
+<a href="" target="_blank" style="color: blue;">  </a> <a href="" target="_blank"  
+style="color: blue;"></a> <font size="1.5"><u><a href="https://www.dropbox.com/scl/fi/91tes9tqajv63iacvy50k/Electoral_Reform_and_Fragmented_Polarisation.pdf?rlkey=5mjyv5087niygxvxjt2ijh13f&dl=0" style="color: #2F4F4F;" target="_blank" >_(R&R LSQ. Resubmitted Mar 7 2024)_</a></u></font> 
 
 - Factionalism and the Red Guards under Mao’s China: Ideal Point Estimation Using Text Data (with <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;"> Yi-Nung Tsai</a></u>)  <a href="
 " target="_blank"  
