@@ -22,7 +22,7 @@
 #### Manuscripts Under Review :
 
 - (Mis)perception of Party-voter Congruence and Satisfaction with Democracy (with <u><a href="" style="color: #2F4F4F;">Royce Carroll</a></u> and <u><a href="https://sites.google.com/view/litang2020" style="color: #2F4F4F;">Li Tang</a></u> <span style="color: grey;"></span> )  <a href="" target="_blank"  
-style="color: blue;"></a> <font size="1.5"><u><a href="https://www.dropbox.com/scl/fi/9gpz65ks0v4ytrmw43ezd/Electoral_Reform_and_Fragmented_Polarisation.pdf?rlkey=d8uv4z2akhj086nbhjyz9kivg&dl=0" style="color: #2F4F4F;" target="_blank" >_(R&R PSRM. Resubmitted Jan 4 2024)_</a></u></font> 
+style="color: blue;"></a> <font size="1.5"><u><a href="https://www.dropbox.com/scl/fi/wjnh5n1izo11rad83efhj/Congruence_revised.pdf?rlkey=488uoawicgqtcshl5ea7h665h&dl=0" style="color: #2F4F4F;" target="_blank" >_(R&R PSRM. Resubmitted Jan 4 2024)_</a></u></font> 
 
  
 - Electoral Reform and Fragmented Polarization: New Evidence from Taiwan Legislative Roll Call  <span style="color: grey;"></span>
