@@ -19,23 +19,23 @@
 
 ---
 
-#### Manuscripts Under Review :
+#### Working Papers:
 
 - (Mis)perception of Party-voter Congruence and Satisfaction with Democracy (with <u><a href="" style="color: #2F4F4F;">Royce Carroll</a></u> and <u><a href="https://sites.google.com/view/litang2020" style="color: #2F4F4F;">Li Tang</a></u> <span style="color: grey;"></span> )  <a href="" target="_blank"  
-style="color: blue;"></a> <font size="1.5"><u><a href="https://www.dropbox.com/scl/fi/wjnh5n1izo11rad83efhj/Congruence_revised.pdf?rlkey=488uoawicgqtcshl5ea7h665h&dl=0" style="color: #2F4F4F;" target="_blank" >_(R&R PSRM. Resubmitted Jan 4 2024)_</a></u></font> 
+style="color: blue;"></a> <span style="color: grey;"></span>
+<a href="" target="_blank" style="color: blue;"></a> <a href="" target="_blank" style="color: blue;"></a> 
+<font size="1.8">
+    <a href="https://www.dropbox.com/scl/fi/wjnh5n1izo11rad83efhj/Congruence_revised.pdf?rlkey=488uoawicgqtcshl5ea7h665h&dl=0" style="color: #2F4F4F;" target="_blank"> (_Revise & Resubmit at PSRM_ [PDF])</a></font>
 
- 
-- Electoral Reform and Fragmented Polarization: New Evidence from Taiwan Legislative Roll Call  <span style="color: grey;"></span>
-<a href="" target="_blank" style="color: blue;">  </a> <a href="" target="_blank"  
-style="color: blue;"></a> <font size="1.5"><u><a href="https://www.dropbox.com/scl/fi/9gpz65ks0v4ytrmw43ezd/Electoral_Reform_and_Fragmented_Polarisation.pdf?rlkey=d8uv4z2akhj086nbhjyz9kivg&dl=0" style="color: #2F4F4F;" target="_blank" >_(R&R LSQ. Resubmitted Mar 7 2024)_</a></u></font> 
+- Electoral Reform and Fragmented Polarization: New Evidence from Taiwan Legislative Roll Call
+<span style="color: grey;"></span>
+<a href="" target="_blank" style="color: blue;"></a> <a href="" target="_blank" style="color: blue;"></a> 
+<font size="1.8"> <a href="https://www.dropbox.com/scl/fi/9gpz65ks0v4ytrmw43ezd/Electoral_Reform_and_Fragmented_Polarisation.pdf?rlkey=d8uv4z2akhj086nbhjyz9kivg&dl=0" style="color: #2F4F4F;" target="_blank">(Revise & Resubmit at LSQ [PDF])</a></font>
 
-- Factionalism and the Red Guards under Mao’s China: Ideal Point Estimation Using Text Data (with <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;"> Yi-Nung Tsai</a></u>)  <a href="
-" target="_blank"  
-style="color: blue;">  </a>  <font size="1.5"><u><a href="https://www.dropbox.com/scl/fi/z58hhamx2znvxqn95hon6/Factionalism_and_the_Red_Guards_under_Mao_s_China.pdf?rlkey=qpzyygg2adb7f4u3yebrsbplw&dl=0" style="color: #2F4F4F;"  target="_blank" >_(New Revision Fab 8 2024)_</a></u></font> 
- 
+- Factionalism and the Red Guards under Mao’s China: Ideal Point Estimation Using Text Data (with <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;"> Yi-Nung Tsai</a></u>) <font size="1.8"> <a href="https://www.dropbox.com/scl/fi/z58hhamx2znvxqn95hon6/Factionalism_and_the_Red_Guards_under_Mao_s_China.pdf?rlkey=qpzyygg2adb7f4u3yebrsbplw&dl=0" style="color: #2F4F4F;" target="_blank"> (_Updated_ on Feb 27 2024 [PDF] )</a></font>
+
 - Political Preferences for Pork Barrel Messages under Different Electoral Systems   <a href="
-" target="_blank"  
-style="color: blue;">  </a>  <font size="1.5"><u><a href="https://www.dropbox.com/scl/fi/n7sgl3pqbk62yv0nz2oqg/Political_Preferences_for_Pork_Barrel_Messages_2024.pdf?rlkey=lynp2k9l3ac2of4ubip0kwyew&dl=0" style="color: #2F4F4F;"  target="_blank">_(New Revision Jan 10 2024)_ </a></u></font> 
+" target="_blank"  style="color: blue;"> </a>   <font size="1.8"> <a href="https://www.dropbox.com/scl/fi/n7sgl3pqbk62yv0nz2oqg/Political_Preferences_for_Pork_Barrel_Messages_2024.pdf?rlkey=lynp2k9l3ac2of4ubip0kwyew&dl=0" style="color: #2F4F4F;" target="_blank"> (_Updated_ on Feb 8 2024 [PDF]) </a></font>
 
 ---
 
