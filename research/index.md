@@ -19,7 +19,7 @@
 
 ---
 
-#### Working Papers:
+#### Revise & Resubmit:
 
 - (Mis)perception of Party-voter Congruence and Satisfaction with Democracy (with <u><a href="" style="color: #2F4F4F;">Royce Carroll</a></u> and <u><a href="https://sites.google.com/view/litang2020" style="color: #2F4F4F;">Li Tang</a></u> <span style="color: grey;"></span> )  <a href="" target="_blank"  
 style="color: blue;"></a> <span style="color: grey;"></span>
@@ -31,6 +31,12 @@ style="color: blue;"></a> <span style="color: grey;"></span>
 <span style="color: grey;"></span>
 <a href="" target="_blank" style="color: blue;"></a> <a href="" target="_blank" style="color: blue;"></a> 
 <font size="1.2"> <a href="https://www.dropbox.com/scl/fi/9gpz65ks0v4ytrmw43ezd/Electoral_Reform_and_Fragmented_Polarisation.pdf?rlkey=d8uv4z2akhj086nbhjyz9kivg&dl=0" style="color: #2F4F4F;" target="_blank">  [PDF] (Revise & Resubmit)</a></font>
+
+---
+
+
+#### Working Papers:
+
 
 - Factionalism and the Red Guards under Mao’s China: Ideal Point Estimation Using Text Data (with <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;"> Yi-Nung Tsai</a></u>) <font size="1.2"> <a href="https://www.dropbox.com/scl/fi/z58hhamx2znvxqn95hon6/Factionalism_and_the_Red_Guards_under_Mao_s_China.pdf?rlkey=qpzyygg2adb7f4u3yebrsbplw&dl=0" style="color: #2F4F4F;" target="_blank"> [PDF] (_Updated_ on Feb 27 2024 | Under Review )</a></font>
 
@@ -68,8 +74,7 @@ style="color: blue;"></a> <span style="color: grey;"></span>
 
 
 
-
-- Grandstanding under the Spotlight: Unveiling European Elites Crisis Communication in the Council of the European Union (with Paula Montano)
+- Grandstanding under the Spotlight: Unveiling European Elites Crisis Communication in the Council of the European Union (with Paula Montano and James Cross)
 
 - Party Competition in Times of Crisis (with <u><a href="https://www.uni-bamberg.de/comparpol/lehrstuhlteam/david-beck/" style="color: #2F4F4F;">David Beck</a></u>  and <u><a href="https://www.uni-bamberg.de/vp-forschung/" style="color: #2F4F4F;">Thomas Saalfeld</a></u>)
 
