@@ -13,13 +13,22 @@
 
 <div style="text-align: left">
 
-#### Publicaiton:
+#### Publicaitons:
 
-<a href="https://www.jstor.org/stable/27221360" style="color: #515151;">The Role of Rituals in Adversarial Parliaments: An Analysis of Expressions of Collegiality in the British House of Commons.</a> _Historical Social Research_ 48 (3): 209-234 (with <u><a href="https://www.uni-bamberg.de/comparpol/lehrstuhlteam/david-beck/" style="color: #2F4F4F;">David Beck</a></u>  and <u><a href="https://www.uni-bamberg.de/vp-forschung/" style="color: #2F4F4F;">Thomas Saalfeld</a></u>)
+<div style="text-align: justify">
+
+<a href="https://www.jstor.org/stable/27221360" style="color: #515151;"> __2023__ The Role of Rituals in Adversarial Parliaments: An Analysis of Expressions of Collegiality in the British House of Commons.</a> _Historical Social Research_ 48 (3): 209-234 (with <u><a href="https://www.uni-bamberg.de/comparpol/lehrstuhlteam/david-beck/" style="color: #2F4F4F;">David Beck</a></u>  and <u><a href="https://www.uni-bamberg.de/vp-forschung/" style="color: #2F4F4F;">Thomas Saalfeld</a></u>)
+
+<a href="https://academic.oup.com/irap/article-abstract/15/1/147/2937074?redirectedFrom=fulltext" style="color: #515151;">__2015__ The Rationale for Supporting Nuclear Power: Analysis of Taiwanese Public Opinion Survey.</a> _International Relations ofthe Asia-Pacific_ 15 (1): 147-176（with Su, Xiaochen, Chung-li Wu, Yen-chieh Liao, Tai-De Lee, and Chen Tsao)
+
+</div>
 
 ---
 
 #### Revise & Resubmit:
+
+<div style="text-align: justify">
+
 
 - (Mis)perception of Party-voter Congruence and Satisfaction with Democracy (with <u><a href="" style="color: #2F4F4F;">Royce Carroll</a></u> and <u><a href="https://sites.google.com/view/litang2020" style="color: #2F4F4F;">Li Tang</a></u> <span style="color: grey;"></span> )  <a href="" target="_blank"  
 style="color: blue;"></a> <span style="color: grey;"></span>
@@ -32,24 +41,33 @@ style="color: blue;"></a> <span style="color: grey;"></span>
 <a href="" target="_blank" style="color: blue;"></a> <a href="" target="_blank" style="color: blue;"></a> 
 <font size="1.2"> <a href="https://www.dropbox.com/scl/fi/9gpz65ks0v4ytrmw43ezd/Electoral_Reform_and_Fragmented_Polarisation.pdf?rlkey=d8uv4z2akhj086nbhjyz9kivg&dl=0" style="color: #2F4F4F;" target="_blank">  [PDF] (Revise & Resubmit)</a></font>
 
+</div>
+
+
 ---
 
 
 #### Working Papers:
 
+<div style="text-align: justify">
 
 - Factionalism and the Red Guards under Mao’s China: Ideal Point Estimation Using Text Data (with <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;"> Yi-Nung Tsai</a></u>) <font size="1.2"> <a href="https://www.dropbox.com/scl/fi/z58hhamx2znvxqn95hon6/Factionalism_and_the_Red_Guards_under_Mao_s_China.pdf?rlkey=qpzyygg2adb7f4u3yebrsbplw&dl=0" style="color: #2F4F4F;" target="_blank"> [PDF] (_Updated_ on Feb 27 2024 | Under Review )</a></font>
 
 - Political Preferences for Pork Barrel Messages under Different Electoral Systems <a href="
 " target="_blank"  style="color: blue;"> </a>   <font size="1.2"> <a href="https://www.dropbox.com/scl/fi/n7sgl3pqbk62yv0nz2oqg/Political_Preferences_for_Pork_Barrel_Messages_2024.pdf?rlkey=lynp2k9l3ac2of4ubip0kwyew&dl=0" style="color: #2F4F4F;" target="_blank"> [PDF] (_Updated_ on Feb 8 2024) </a></font>
 
+- Catalysts for Change?  Policy Recommendations in Research on Renewable Energy and Climate Change (with <u><a href="https://brianpaulboyle.com" style="color: #2F4F4F;">Brian Boyle</u> and 
+<u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>)
+
+</div>
+
 ---
 
 
 #### *In-Progress*: 
 
-- Catalysts for Change?  Policy Recommendations in Research on Renewable Energy and Climate Change (with <u><a href="https://brianpaulboyle.com" style="color: #2F4F4F;">Brian Boyle</u> and 
-<u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>)
+<div style="text-align: justify">
+
 
 - Multilingual Stance Detection in  Political Speech: Interpretation, Applications, and Limitations (with <u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>)
 
@@ -57,26 +75,16 @@ style="color: blue;"></a> <span style="color: grey;"></span>
 
 
 
-
 <!-- <font size="2"><u><a href="" style="color: #2F4F4F;">_If you are interested in the project that has been submitted and is currently under review, please feel free to contact me to obtain the latest version._</a></u></font>  -->
 
-</div>
-
-
-<div style="text-align: left">
-
-</div>
-
-<div style="text-align: justify">
-
-
 - Shock Rhetoric: Local Exposure to Trade Shocks and Rhetorical Extremism in the US House of Representatives (with <a href="https://www.zikai.li" style="color: #2F4F4F;"><u>Zikai Li</u></a>)
-
 
 
 - Grandstanding under the Spotlight: Unveiling European Elites Crisis Communication in the Council of the European Union (with Paula Montano and James Cross)
 
 - Party Competition in Times of Crisis (with <u><a href="https://www.uni-bamberg.de/comparpol/lehrstuhlteam/david-beck/" style="color: #2F4F4F;">David Beck</a></u>  and <u><a href="https://www.uni-bamberg.de/vp-forschung/" style="color: #2F4F4F;">Thomas Saalfeld</a></u>)
+
+
 
 <!-- - Securitization in Words: Text Analysis of Taiwan’s COVID-19 Press Conferences ( <u><a href="https://icaps.nsysu.edu.tw/p/412-1131-1687.php?Lang=en" style="color: #2F4F4F;">Chia-Chien Chang</a></u>, <u><a href="https://weitingyen.com" style="color: #2F4F4F;">Wei-Ting Yen</a></u> and <u><a href="https://udayton.edu/directory/artssciences/politicalscience/liu-li-yin.php" style="color: #2F4F4F;">Li-Yin Liu</a></u> ) -->
 
@@ -93,7 +101,6 @@ style="color: blue;">slides</a> &nbsp;]  -->
 </div>
 
 
-<div style="text-align: left">
 
 <!-- ----
 
