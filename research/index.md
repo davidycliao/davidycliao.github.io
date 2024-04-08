@@ -13,7 +13,7 @@
 
 <div style="text-align: left">
 
-#### Publicaitons:
+### Publicaitons
 
 <div style="text-align: justify">
 
@@ -25,7 +25,7 @@
 
 ---
 
-#### Revise & Resubmit:
+### Revise & Resubmit
 
 <div style="text-align: justify">
 
@@ -47,7 +47,7 @@ style="color: blue;"></a> <span style="color: grey;"></span>
 ---
 
 
-#### Working Papers:
+### Working Papers
 
 <div style="text-align: justify">
 
@@ -65,7 +65,7 @@ style="color: blue;"></a> <span style="color: grey;"></span>
 ---
 
 
-#### *In-Progress*: 
+### In-Progress 
 
 <div style="text-align: justify">
 
