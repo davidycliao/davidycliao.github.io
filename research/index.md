@@ -63,6 +63,9 @@ style="color: blue;"></a> <span style="color: grey;"></span>
 
 - Grandstanding under the Spotlight: Unveiling European Elites Crisis Communication in the Council of the European Union (with Paula Montano and James Cross)
 
+
+- Multilingual Stance Detection in  Political Text: Interpretation, Applications, and Limitations (with <u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>)
+
 </div>
 
 ---
@@ -71,9 +74,6 @@ style="color: blue;"></a> <span style="color: grey;"></span>
 ### In-Progress 
 
 <div style="text-align: justify">
-
-
-- Multilingual Stance Detection in  Political Speech: Interpretation, Applications, and Limitations (with <u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>)
 
 
 <!-- <font size="2"><u><a href="" style="color: #2F4F4F;">_If you are interested in the project that has been submitted and is currently under review, please feel free to contact me to obtain the latest version._</a></u></font>  -->
