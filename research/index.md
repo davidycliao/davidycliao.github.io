@@ -17,6 +17,8 @@
 
 <div style="text-align: justify">
 
+<a href="https://www.dropbox.com/scl/fi/9gpz65ks0v4ytrmw43ezd/Electoral_Reform_and_Fragmented_Polarisation.pdf?rlkey=d8uv4z2akhj086nbhjyz9kivg&dl=0" style="color: #515151;"> ___Forthcoming___ Electoral Reform and Fragmented Polarization: New Evidence from Taiwan Legislative Roll Call.</a> _Legislative Studies Quarterly_ 
+
 <a href="https://www.jstor.org/stable/27221360" style="color: #515151;"> __2023__ The Role of Rituals in Adversarial Parliaments: An Analysis of Expressions of Collegiality in the British House of Commons.</a> _Historical Social Research_ 48 (3) : 209-234 (with <u><a href="https://www.uni-bamberg.de/comparpol/lehrstuhlteam/david-beck/" style="color: #2F4F4F;">David Beck</a></u>  and <u><a href="https://www.uni-bamberg.de/vp-forschung/" style="color: #2F4F4F;">Thomas Saalfeld</a></u>)
 
 <a href="https://academic.oup.com/irap/article-abstract/15/1/147/2937074?redirectedFrom=fulltext" style="color: #515151;">__2015__ The Rationale for Supporting Nuclear Power: Analysis of Taiwanese Public Opinion Survey.</a> _International Relations ofthe Asia-Pacific_ 15 (1) : 147-176（with Su, Xiaochen, Chung-li Wu, Tai-De Lee, and Chen Tsao)
@@ -36,11 +38,6 @@ style="color: blue;"></a> <span style="color: grey;"></span>
 <font size="1.2">
     <a href="https://www.dropbox.com/scl/fi/wjnh5n1izo11rad83efhj/Congruence_revised.pdf?rlkey=488uoawicgqtcshl5ea7h665h&dl=0" style="color: #2F4F4F;" target="_blank"> [PDF] (Revise & Resubmit)</a></font>
 
-- Electoral Reform and Fragmented Polarization: New Evidence from Taiwan Legislative Roll Call
-<span style="color: grey;"></span>
-<a href="" target="_blank" style="color: blue;"></a> <a href="" target="_blank" style="color: blue;"></a> 
-<font size="1.2"> <a href="https://www.dropbox.com/scl/fi/9gpz65ks0v4ytrmw43ezd/Electoral_Reform_and_Fragmented_Polarisation.pdf?rlkey=d8uv4z2akhj086nbhjyz9kivg&dl=0" style="color: #2F4F4F;" target="_blank">  [PDF] (Accepted at _Legislative Studies Quarterly_)</a></font>
-
 </div>
 
 
@@ -53,18 +50,24 @@ style="color: blue;"></a> <span style="color: grey;"></span>
 
 - Factionalism and the Red Guards under Mao’s China: Ideal Point Estimation Using Text Data (with <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;"> Yi-Nung Tsai</a></u>) <font size="1.2"> <a href="https://www.dropbox.com/scl/fi/z58hhamx2znvxqn95hon6/Factionalism_and_the_Red_Guards_under_Mao_s_China.pdf?rlkey=qpzyygg2adb7f4u3yebrsbplw&dl=0" style="color: #2F4F4F;" target="_blank"> [PDF] (_Updated_ on Feb 27 2024 | Under Review )</a></font>
 
-- Political Preferences for Pork Barrel Messages under Different Electoral Systems <a href="
-" target="_blank"  style="color: blue;"> </a>   <font size="1.2"> <a href="https://www.dropbox.com/scl/fi/n7sgl3pqbk62yv0nz2oqg/Political_Preferences_for_Pork_Barrel_Messages_2024.pdf?rlkey=lynp2k9l3ac2of4ubip0kwyew&dl=0" style="color: #2F4F4F;" target="_blank"> [PDF] (_Updated_ on Feb 8 2024) </a></font>
-
 - Catalysts for Change?  Policy Recommendations in Research on Renewable Energy and Climate Change (with <u><a href="https://brianpaulboyle.com" style="color: #2F4F4F;">Brian Boyle</u> and 
 <u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>)
 
-- Shaping Policy Agendas: The Influence of Electoral Systems on Party Convergence and Divergence in Issue Attentions (<u><a href="https://sites.google.com/view/calvin-yuceng-liao/home" style="color: #2F4F4F;">Yu-Ceng Liao</a></u> and <u><a href="https://yitingw.com" style="color: #2F4F4F;">Yi-ting Wang</a></u>)
-
 - Grandstanding under the Spotlight: Unveiling European Elites Crisis Communication in the Council of the European Union (with Paula Montano and James Cross)
 
-
 - Multilingual Stance Detection in  Political Text: Interpretation, Applications, and Limitations (with <u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>)
+
+- Political Preferences for Pork Barrel Messages under Different Electoral Systems <a href="
+" target="_blank"  style="color: blue;"> </a>   <font size="1.2"> <a href="https://www.dropbox.com/scl/fi/n7sgl3pqbk62yv0nz2oqg/Political_Preferences_for_Pork_Barrel_Messages_2024.pdf?rlkey=lynp2k9l3ac2of4ubip0kwyew&dl=0" style="color: #2F4F4F;" target="_blank"> [PDF] (_Updated_ on Feb 8 2024) </a></font>
+
+- Shaping Policy Agendas: The Influence of Electoral Systems on Party Convergence and Divergence in Issue Attentions (<u><a href="https://sites.google.com/view/calvin-yuceng-liao/home" style="color: #2F4F4F;">Yu-Ceng Liao</a></u> and <u><a href="https://yitingw.com" style="color: #2F4F4F;">Yi-ting Wang</a></u>)
+
+
+<div style="text-align: center;">
+  <em>If you would like to get access to the latest version of a paper, feel free to send me an e-mail.</em>
+</div>
+
+
 
 </div>
 
