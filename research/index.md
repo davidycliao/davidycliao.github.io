@@ -60,9 +60,6 @@
 - Political Preferences for Pork Barrel Messages under Different Electoral Systems <a href="
 " target="_blank"  style="color: blue;"> </a>   <font size="1.2"> <a href="https://www.dropbox.com/scl/fi/n7sgl3pqbk62yv0nz2oqg/Political_Preferences_for_Pork_Barrel_Messages_2024.pdf?rlkey=lynp2k9l3ac2of4ubip0kwyew&dl=0" style="color: #2F4F4F;" target="_blank"> [PDF] (_Updated_ on Feb 8 2024) </a></font>
 
-- Shaping Policy Agendas: The Influence of Electoral Systems on Party Convergence and Divergence in Issue Attentions (<u><a href="https://sites.google.com/view/calvin-yuceng-liao/home" style="color: #2F4F4F;">Yu-Ceng Liao</a></u> and <u><a href="https://yitingw.com" style="color: #2F4F4F;">Yi-ting Wang</a></u>)
-
-
 
 </div>
 
@@ -74,12 +71,18 @@
 <div style="text-align: justify">
 
 
+- Shaping Policy Agendas: The Influence of Electoral Systems on Party Convergence and Divergence in Issue Attentions (<u><a href="https://sites.google.com/view/calvin-yuceng-liao/home" style="color: #2F4F4F;">Yu-Ceng Liao</a></u> and <u><a href="https://yitingw.com" style="color: #2F4F4F;">Yi-ting Wang</a></u>)
+
+- The Effect of Misperception on Election Voting: Evidence from a Field Experiment (Royce Carroll, Yen-Chieh Liao and Penghui Yin)
+
+
 <!-- <font size="2"><u><a href="" style="color: #2F4F4F;">_If you are interested in the project that has been submitted and is currently under review, please feel free to contact me to obtain the latest version._</a></u></font>  -->
 
 - Shock Rhetoric: Local Exposure to Trade Shocks and Rhetorical Extremism in the US House of Representatives (with <a href="https://www.zikai.li" style="color: #2F4F4F;"><u>Zikai Li</u></a>)
 
 
-- Crisis Management and Country Image: Aspect-based Sentiment Measurement with Few-Shot Learning Technique  (with <a href="https://www.polisci.pitt.edu/people/shuli-zhang" style="color: #2F4F4F;"><u>Shuli Zhang</u></a>)
+
+<!-- - Crisis Management and Country Image: Aspect-based Sentiment Measurement with Few-Shot Learning Technique  (with <a href="https://www.polisci.pitt.edu/people/shuli-zhang" style="color: #2F4F4F;"><u>Shuli Zhang</u></a>) -->
 
 
 - Party Competition in Times of Crisis (with <u><a href="https://www.uni-bamberg.de/comparpol/lehrstuhlteam/david-beck/" style="color: #2F4F4F;">David Beck</a></u>  and <u><a href="https://www.uni-bamberg.de/vp-forschung/" style="color: #2F4F4F;">Thomas Saalfeld</a></u>)
