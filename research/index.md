@@ -49,13 +49,11 @@
 
 <div style="text-align: justify">
 
+- Multilingual Stance Detection in  Political Text: Interpretation, Applications, and Limitations (with <u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>) 
 
 - Catalysts for Change?  Policy Recommendations in Research on Renewable Energy and Climate Change (with <u><a href="https://brianpaulboyle.com" style="color: #2F4F4F;">Brian Boyle</u> and 
 <u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>)
 
-- Multilingual Stance Detection in  Political Text: Interpretation, Applications, and Limitations (with <u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>)
-
-- Grandstanding under the Spotlight: Unveiling European Elites Crisis Communication in the Council of the European Union (with Paula Montano and James Cross)
   
 - Political Preferences for Pork Barrel Messages under Different Electoral Systems <a href="
 " target="_blank"  style="color: blue;"> </a>   <font size="1.2"> <a href="https://www.dropbox.com/scl/fi/n7sgl3pqbk62yv0nz2oqg/Political_Preferences_for_Pork_Barrel_Messages_2024.pdf?rlkey=lynp2k9l3ac2of4ubip0kwyew&dl=0" style="color: #2F4F4F;" target="_blank"> [PDF] (_Updated_ on Feb 8 2024) </a></font>
@@ -70,8 +68,9 @@
 
 <div style="text-align: justify">
 
-- Shock Rhetoric: Local Exposure to Trade Shocks and Rhetorical Extremism in the US House of Representatives (with <a href="https://www.zikai.li" style="color: #2F4F4F;"><u>Zikai Li</u></a>)
+- Grandstanding under the Spotlight: Unveiling European Elites Crisis Communication in the Council of the European Union (with Paula Montano and James Cross)
 
+- Shock Rhetoric: Local Exposure to Trade Shocks and Rhetorical Extremism in the US House of Representatives (with <a href="https://www.zikai.li" style="color: #2F4F4F;"><u>Zikai Li</u></a>)
 
 - Shaping Policy Agendas: The Influence of Electoral Systems on Party Convergence and Divergence in Issue Attentions (with <u><a href="https://sites.google.com/view/calvin-yuceng-liao/home" style="color: #2F4F4F;">Yu-Ceng Liao</a></u> and <u><a href="https://yitingw.com" style="color: #2F4F4F;">Yi-ting Wang</a></u>)
 
