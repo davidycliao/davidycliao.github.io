@@ -54,9 +54,13 @@
 - Catalysts for Change?  Policy Recommendations in Research on Renewable Energy and Climate Change (with <u><a href="https://brianpaulboyle.com" style="color: #2F4F4F;">Brian Boyle</u> and 
 <u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>)
 
-  
+
+- Grandstanding under the Spotlight: Unveiling European Elites Crisis Communication in the Council of the European Union (with Paula Montano and James Cross)
+
 - Political Preferences for Pork Barrel Messages under Different Electoral Systems <a href="
-" target="_blank"  style="color: blue;"> </a>   <font size="1.2"> <a href="https://www.dropbox.com/scl/fi/n7sgl3pqbk62yv0nz2oqg/Political_Preferences_for_Pork_Barrel_Messages_2024.pdf?rlkey=lynp2k9l3ac2of4ubip0kwyew&dl=0" style="color: #2F4F4F;" target="_blank"> [PDF] (_Updated_ on Feb 8 2024) </a></font>
+" target="_blank"  style="color: blue;"> </a>  <font size="1.2"> <a href="https://www.dropbox.com/scl/fi/n7sgl3pqbk62yv0nz2oqg/Political_Preferences_for_Pork_Barrel_Messages_2024.pdf?rlkey=lynp2k9l3ac2of4ubip0kwyew&dl=0" style="color: #2F4F4F;" target="_blank"> [PDF] (_Updated_ on Feb 8 2024) </a></font>
+
+
 
 
 </div>
@@ -68,16 +72,12 @@
 
 <div style="text-align: justify">
 
-- Grandstanding under the Spotlight: Unveiling European Elites Crisis Communication in the Council of the European Union (with Paula Montano and James Cross)
+- Shaping Policy Agendas: The Influence of Electoral Systems on Party Convergence and Divergence in Issue Attentions (with <u><a href="https://sites.google.com/view/calvin-yuceng-liao/home" style="color: #2F4F4F;">Yu-Ceng Liao</a></u> and <u><a href="https://yitingw.com" style="color: #2F4F4F;">Yi-ting Wang</a></u>)
 
 - Shock Rhetoric: Local Exposure to Trade Shocks and Rhetorical Extremism in the US House of Representatives (with <a href="https://www.zikai.li" style="color: #2F4F4F;"><u>Zikai Li</u></a>)
 
-- Shaping Policy Agendas: The Influence of Electoral Systems on Party Convergence and Divergence in Issue Attentions (with <u><a href="https://sites.google.com/view/calvin-yuceng-liao/home" style="color: #2F4F4F;">Yu-Ceng Liao</a></u> and <u><a href="https://yitingw.com" style="color: #2F4F4F;">Yi-ting Wang</a></u>)
 
 - The Effect of Misperception on Election Voting: Evidence from a Field Experiment (with <u><a href="" style="color: #2F4F4F;">Royce Carroll</a></u>, <u><a href="https://sites.google.com/view/litang2020" style="color: #2F4F4F;">Li Tang</a></u> and <span style="color: grey;"></span><u><a href="https://sites.google.com/site/yinpenghui2008/home" style="color: #2F4F4F;">Penghui Yin</a></u> <span style="color: grey;"></span>)
-
-
-<!-- <font size="2"><u><a href="" style="color: #2F4F4F;">_If you are interested in the project that has been submitted and is currently under review, please feel free to contact me to obtain the latest version._</a></u></font>  -->
 
 
 
