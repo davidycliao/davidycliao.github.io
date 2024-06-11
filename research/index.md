@@ -21,7 +21,7 @@
 <a href="https://www.dropbox.com/scl/fi/wjnh5n1izo11rad83efhj/Congruence_revised.pdf?rlkey=488uoawicgqtcshl5ea7h665h&dl=0" style="color: #515151;"> ___Conditionally Accepted___ (Mis)perception of Party-voter Congruence and Satisfaction with Democracy. (with <u><a href="" style="color: #2F4F4F;">Royce Carroll</a></u> and <u><a href="https://sites.google.com/view/litang2020" style="color: #2F4F4F;">Li Tang</a></u> <span style="color: grey;"></span> )</a> _Political Science Research and Methods_ 
 
 
-<a href="https://www.dropbox.com/scl/fi/9gpz65ks0v4ytrmw43ezd/Electoral_Reform_and_Fragmented_Polarisation.pdf?rlkey=d8uv4z2akhj086nbhjyz9kivg&dl=0" style="color: #515151;"> ___Forthcoming___ Electoral Reform and Fragmented Polarization: New Evidence from Taiwan Legislative Roll Call.</a> _Legislative Studies Quarterly_ 
+<a href="https://www.dropbox.com/scl/fi/x5y16yws5wfovsby5ejz1/Electoral_Reform_and_Fragmented_Polarisation.pdf?rlkey=bj3ldhztkcji5uqhla6fr0cks&st=j924b8sr&dl=0" style="color: #515151;"> ___Forthcoming___ Electoral Reform and Fragmented Polarization: New Evidence from Taiwan Legislative Roll Call.</a> _Legislative Studies Quarterly_ 
 
 <a href="https://www.jstor.org/stable/27221360" style="color: #515151;"> __2023__ The Role of Rituals in Adversarial Parliaments: An Analysis of Expressions of Collegiality in the British House of Commons.</a> _Historical Social Research_ 48 (3) : 209-234 (with <u><a href="https://www.uni-bamberg.de/comparpol/lehrstuhlteam/david-beck/" style="color: #2F4F4F;">David Beck</a></u>  and <u><a href="https://www.uni-bamberg.de/vp-forschung/" style="color: #2F4F4F;">Thomas Saalfeld</a></u>)
 
