@@ -19,7 +19,7 @@
 <div style="text-align: justify">
 
 
-<a href="https://www.dropbox.com/scl/fi/xwwl8zymz3k3auwchnqrz/_Mis_perception_of_Party_voter_Congruence_and_Satisfaction_with_Democracy.pdf?rlkey=2qmvddribpwbsid1m4f87fuhm&st=jlqao5kv&dl=0" target="_blank" style="color: #515151;"> ___Conditionally Accepted___ (Mis)perception of Party-voter Congruence and Satisfaction with Democracy. (with <u><a href="" style="color: #2F4F4F;">Royce Carroll</a></u> and <u><a href="https://sites.google.com/view/litang2020" style="color: #2F4F4F;" >Li Tang</a></u> <span style="color: grey;"></span> )</a> _Political Science Research and Methods_ <font size="1"> <a href="https://www.dropbox.com/scl/fi/xwwl8zymz3k3auwchnqrz/_Mis_perception_of_Party_voter_Congruence_and_Satisfaction_with_Democracy.pdf?rlkey=2qmvddribpwbsid1m4f87fuhm&st=jlqao5kv&dl=0" style="color: #2F4F4F;" target="_blank"> [PDF]</a></font> 
+<a href="https://www.dropbox.com/scl/fi/xwwl8zymz3k3auwchnqrz/_Mis_perception_of_Party_voter_Congruence_and_Satisfaction_with_Democracy.pdf?rlkey=2qmvddribpwbsid1m4f87fuhm&st=jlqao5kv&dl=0" target="_blank" style="color: #515151;"> ___Conditionally Accepted___ (Mis)perception of Party-voter Congruence and Satisfaction with Democracy. (with <u><a href="" style="color: #2F4F4F;">Royce Carroll</a></u> and <u><a href="https://sites.google.com/view/litang2020" style="color: #2F4F4F;" >Li Tang</a></u> <span style="color: grey;"></span> )</a> _Political Science Research and Methods_ <font size="1"> <a href="https://www.dropbox.com/scl/fi/xwwl8zymz3k3auwchnqrz/_Mis_perception_of_Party_voter_Congruence_and_Satisfaction_with_Democracy.pdf?rlkey=2qmvddribpwbsid1m4f87fuhm&st=jlqao5kv&dl=0" style="color: #2F4F4F;" target="_blank"> [PDF]</a></font>  
 
 <a href="https://www.dropbox.com/scl/fi/x5y16yws5wfovsby5ejz1/Electoral_Reform_and_Fragmented_Polarisation.pdf?rlkey=bj3ldhztkcji5uqhla6fr0cks&st=j924b8sr&dl=0" target="_blank" style="color: #515151;"> ___Forthcoming___ Electoral Reform and Fragmented Polarization: New Evidence from Taiwan Legislative Roll Call.</a> _Legislative Studies Quarterly_ <font size="1"> <a href="https://www.dropbox.com/scl/fi/x5y16yws5wfovsby5ejz1/Electoral_Reform_and_Fragmented_Polarisation.pdf?rlkey=bj3ldhztkcji5uqhla6fr0cks&st=j924b8sr&dl=0" style="color: #2F4F4F;" target="_blank"> [PDF]</a></font>
 
@@ -43,6 +43,9 @@
 
 - Factionalism and the Red Guards under Mao’s China: Ideal Point Estimation Using Text Data (with <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;"> Yi-Nung Tsai</a></u>) _Revise & Resubmit at Research & Politics_
 
+- Catalysts for Change?  Policy Recommendations in Research on Renewable Energy and Climate Change (with <u><a href="https://brianpaulboyle.com" style="color: #2F4F4F;">Brian Boyle</u> and 
+<u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>)
+
 <!-- <font size="1.2"> <a href="https://www.dropbox.com/scl/fi/7sp5iyd2g56elvlknl9n7/Factionalism_and_the_Red_Guards_under_Mao_s_China.pdf?rlkey=kiohiajiedsy7g97vc00s8ljz&st=q8ufvion&dl=0" style="color: #2F4F4F;" target="_blank"> [PDF] (_Updated_ on Feb 27 2024 | Under Review )</a></font> -->
 
 
@@ -57,10 +60,6 @@
 <div style="text-align: justify">
 
 - Multilingual Stance Detection in  Political Text: Interpretation, Applications, and Limitations (with <u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>) 
-
-- Catalysts for Change?  Policy Recommendations in Research on Renewable Energy and Climate Change (with <u><a href="https://brianpaulboyle.com" style="color: #2F4F4F;">Brian Boyle</u> and 
-<u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>)
-
 
 - Grandstanding under the Spotlight: Unveiling European Elites Crisis Communication in the Council of the European Union (with Paula Montano and James Cross)
 
