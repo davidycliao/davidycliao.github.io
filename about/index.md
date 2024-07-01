@@ -8,7 +8,8 @@
 
 
 
-I'm Yen-Chieh (David) Liao. I am a postdoctoral researcher at University College Dublin in <a href="https://www.nexsys-energy.ie/about-nexsys/" style="color: #778899; text-decoration: underline;">NexSys</a>, a cross-disciplinary project funded by the Science Foundation Ireland. I am a member of the Text and Policy Research Group, led by Dr. Stefan Müller, and the <a href="https://www.ucd.ie/connected_politics/people/academicstaff/" style="color: #778899; text-decoration: underline;">Connected_Politics Lab</a>. I obtained my PhD in January 2023 from the Department of Government at the University of Essex.
+I'm Yen-Chieh (David) Liao. I am a postdoctoral researcher at University College Dublin in <a href="https://www.nexsys-energy.ie/about-nexsys/" style="color: #778899; text-decoration: underline;">NexSys</a>, a cross-disciplinary project funded by the Science Foundation Ireland. As a member of the Text and Policy Research Group led by Dr. Stefan Müller, I'm also affiliated with the <a href="https://www.ucd.ie/connected_politics/people/academicstaff/" style="color: #778899; text-decoration: underline;">Connected_Politics Lab</a>. I obtained my PhD in politics in January 2023 from the University of Essex, following my BA and MA in Public Administration and Policy from National Taipei University.
+
 
  My research primarily focuses on legislative studies, party competition, electoral systems, Taiwan politics, and particularly within the context of East Asian politics. I'm particularly interested in measuring ideological preferences through legislative voting, expert surveys, and analysis of parliamentary speeches and politial texts. My  <a href="https://davidycliao.github.io/research/" style="color: #778899; text-decoration: underline;">recent work</a> involves quantitative text analysis and computational methods to understand political narratives of political elites and their impact on public attitudes and expectations in the future.
 
