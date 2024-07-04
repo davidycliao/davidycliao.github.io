@@ -21,7 +21,7 @@
 
 <a href="https://www.dropbox.com/scl/fi/xwwl8zymz3k3auwchnqrz/_Mis_perception_of_Party_voter_Congruence_and_Satisfaction_with_Democracy.pdf?rlkey=2qmvddribpwbsid1m4f87fuhm&st=jlqao5kv&dl=0" target="_blank" style="color: #515151;"> ___Conditionally Accepted___ (Mis)perception of Party-voter Congruence and Satisfaction with Democracy. (with <u><a href="" style="color: #2F4F4F;">Royce Carroll</a></u> and <u><a href="https://sites.google.com/view/litang2020" style="color: #2F4F4F;" >Li Tang</a></u> <span style="color: grey;"></span> )</a> _Political Science Research and Methods_ <font size="1"> <a href="https://www.dropbox.com/scl/fi/xwwl8zymz3k3auwchnqrz/_Mis_perception_of_Party_voter_Congruence_and_Satisfaction_with_Democracy.pdf?rlkey=2qmvddribpwbsid1m4f87fuhm&st=jlqao5kv&dl=0" style="color: #2F4F4F;" target="_blank"> [PDF]</a></font>  
 
-<a href="https://www.dropbox.com/scl/fi/x5y16yws5wfovsby5ejz1/Electoral_Reform_and_Fragmented_Polarisation.pdf?rlkey=bj3ldhztkcji5uqhla6fr0cks&st=j924b8sr&dl=0" target="_blank" style="color: #515151;"> ___Forthcoming___ Electoral Reform and Fragmented Polarization: New Evidence from Taiwan Legislative Roll Call.</a> _Legislative Studies Quarterly_ <font size="1"> <a href="https://www.dropbox.com/scl/fi/x5y16yws5wfovsby5ejz1/Electoral_Reform_and_Fragmented_Polarisation.pdf?rlkey=bj3ldhztkcji5uqhla6fr0cks&st=j924b8sr&dl=0" style="color: #2F4F4F;" target="_blank"> [PDF]</a></font>
+<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/lsq.12459" target="_blank" style="color: #515151;"> __2024__ Electoral Reform and Fragmented Polarization: New Evidence from Taiwan Legislative Roll Call.</a> _Legislative Studies Quarterly_ <font size="1"> <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1111/lsq.12459?fbclid=IwZXh0bgNhZW0CMTAAAR1yh6CMKzWPERdAljpuJwA7syieQJA3SPSQBASI5vNJo5CgEg2O6FxMMoc_aem_pNuUyKFzml67644DUGT2TQ" style="color: #2F4F4F;" target="_blank"> [PDF]</a></font>
 
 
 <!-- <a href="https://www.jstor.org/stable/27221360" style="color: #515151;"> __2023__ The Role of Rituals in Adversarial Parliaments: An Analysis of Expressions of Collegiality in the British House of Commons.</a> _Historical Social Research_ 48 (3) : 209-234 (with <u><a href="https://www.uni-bamberg.de/comparpol/lehrstuhlteam/david-beck/" style="color: #2F4F4F;">David Beck</a></u>  and <u><a href="https://www.uni-bamberg.de/vp-forschung/" style="color: #2F4F4F;">Thomas Saalfeld</a></u>) -->
@@ -41,7 +41,7 @@
 
 <div style="text-align: justify">
 
-- Factionalism and the Red Guards under Mao’s China: Ideal Point Estimation Using Text Data (with <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;"> Yi-Nung Tsai</a></u>) _Revise & Resubmit at Research & Politics_
+- Factionalism and the Red Guards under Mao’s China: Ideal Point Estimation Using Text Data (with <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;"> Yi-Nung Tsai</a></u>) _Revise & Resubmit_ _at_  <u>_Research & Politics_ </u>
 
 - Catalysts for Change?  Policy Recommendations in Research on Renewable Energy and Climate Change (with <u><a href="https://brianpaulboyle.com" style="color: #2F4F4F;">Brian Boyle</u> and 
 <u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>)
