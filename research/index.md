@@ -18,18 +18,26 @@
 
 <div style="text-align: justify">
 
-<a href="https://www.dropbox.com/scl/fi/xwwl8zymz3k3auwchnqrz/_Mis_perception_of_Party_voter_Congruence_and_Satisfaction_with_Democracy.pdf?rlkey=2qmvddribpwbsid1m4f87fuhm&st=jlqao5kv&dl=0" target="_blank" style="color: #515151;"> ___Conditionally Accepted___ (Mis)perception of Party-voter Congruence and Satisfaction with Democracy. (with <u><a href="" style="color: #2F4F4F;">Royce Carroll</a></u> and <u><a href="https://sites.google.com/view/litang2020" style="color: #2F4F4F;" >Li Tang</a></u> <span style="color: grey;"></span> )</a> _Political Science Research and Methods_ <font size="1"> <a href="https://www.dropbox.com/scl/fi/xwwl8zymz3k3auwchnqrz/_Mis_perception_of_Party_voter_Congruence_and_Satisfaction_with_Democracy.pdf?rlkey=2qmvddribpwbsid1m4f87fuhm&st=jlqao5kv&dl=0" style="color: #2F4F4F;" target="_blank"> [PDF]</a></font>  
+<a href="https://www.dropbox.com/scl/fi/xwwl8zymz3k3auwchnqrz/_Mis_perception_of_Party_voter_Congruence_and_Satisfaction_with_Democracy.pdf?rlkey=2qmvddribpwbsid1m4f87fuhm&st=jlqao5kv&dl=0" target="_blank" style="color: #515151;"> __2024__ (Mis)perception of Party-voter Congruence and Satisfaction with Democracy. </a> _Political Science Research and Methods_ <font size="1">  </font>   (with <u><a href="" style="color: #2F4F4F;">Royce Carroll</a></u> and <u><a href="https://sites.google.com/view/litang2020" style="color: #2F4F4F;" >Li Tang</a></u> <span style="color: grey;"></span> )
 
-<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/lsq.12459" target="_blank" style="color: #515151;"> __2024__ Electoral Reform and Fragmented Polarization: New Evidence from Taiwan Legislative Roll Call.</a> _Legislative Studies Quarterly_ <font size="1"> <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1111/lsq.12459?fbclid=IwZXh0bgNhZW0CMTAAAR1yh6CMKzWPERdAljpuJwA7syieQJA3SPSQBASI5vNJo5CgEg2O6FxMMoc_aem_pNuUyKFzml67644DUGT2TQ" style="color: #2F4F4F;" target="_blank"> [PDF]</a></font>
+<!-- <a href="https://www.dropbox.com/scl/fi/xwwl8zymz3k3auwchnqrz/_Mis_perception_of_Party_voter_Congruence_and_Satisfaction_with_Democracy.pdf?rlkey=2qmvddribpwbsid1m4f87fuhm&st=jlqao5kv&dl=0" style="color: #2F4F4F;" target="_blank"> [PDF]</a></font>   -->
+
+<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/lsq.12459" target="_blank" style="color: #515151;"> __2024__ Electoral Reform and Fragmented Polarization: New Evidence from Taiwan Legislative Roll Call.</a> _Legislative Studies Quarterly_ 
+
+<!-- <font size="1"> <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1111/lsq.12459?fbclid=IwZXh0bgNhZW0CMTAAAR1yh6CMKzWPERdAljpuJwA7syieQJA3SPSQBASI5vNJo5CgEg2O6FxMMoc_aem_pNuUyKFzml67644DUGT2TQ" style="color: #2F4F4F;" target="_blank"> [PDF]</a></font> -->
 
 
 <!-- <a href="https://www.jstor.org/stable/27221360" style="color: #515151;"> __2023__ The Role of Rituals in Adversarial Parliaments: An Analysis of Expressions of Collegiality in the British House of Commons.</a> _Historical Social Research_ 48 (3) : 209-234 (with <u><a href="https://www.uni-bamberg.de/comparpol/lehrstuhlteam/david-beck/" style="color: #2F4F4F;">David Beck</a></u>  and <u><a href="https://www.uni-bamberg.de/vp-forschung/" style="color: #2F4F4F;">Thomas Saalfeld</a></u>) -->
 
-<a href="https://www.jstor.org/stable/27221360" target="_blank" style="color: #515151;"> __2023__ The Role of Rituals in Adversarial Parliaments: An Analysis of Expressions of Collegiality in the British House of Commons.</a> _Historical Social Research_ 48 (3) : 209-234 (with <u><a href="https://www.uni-bamberg.de/comparpol/lehrstuhlteam/david-beck/" style="color: #2F4F4F;">David Beck</a></u>  and <u><a href="https://www.uni-bamberg.de/vp-forschung/" style="color: #2F4F4F;">Thomas Saalfeld</a></u>) <font size="1"> <a href="https://www.jstor.org/stable/27221360" style="color: #2F4F4F;" target="_blank"> [PDF]</a></font>
+<a href="https://www.jstor.org/stable/27221360" target="_blank" style="color: #515151;"> __2023__ The Role of Rituals in Adversarial Parliaments: An Analysis of Expressions of Collegiality in the British House of Commons.</a> _Historical Social Research_ 48 (3) : 209-234 (with <u><a href="https://www.uni-bamberg.de/comparpol/lehrstuhlteam/david-beck/" style="color: #2F4F4F;">David Beck</a></u>  and <u><a href="https://www.uni-bamberg.de/vp-forschung/" style="color: #2F4F4F;">Thomas Saalfeld</a></u>) 
+
+<!-- <font size="1"> <a href="https://www.jstor.org/stable/27221360" style="color: #2F4F4F;" target="_blank"> [PDF]</a></font> -->
 
 
 
-<a href="https://academic.oup.com/irap/article-abstract/15/1/147/2937074?redirectedFrom=fulltext" target="_blank" style="color: #515151;">__2015__ The Rationale for Supporting Nuclear Power: Analysis of Taiwanese Public Opinion Survey.</a> _International Relations of the Asia-Pacific_ 15 (1) : 147-176 (with Su, Xiaochen, Chung-li Wu, Tai-De Lee, and Chen Tsao) <font size="1"> <a href="https://academic.oup.com/irap/article-abstract/15/1/147/2937074?redirectedFrom=fulltex" style="color: #2F4F4F;" target="_blank"> [PDF]</a></font>
+<a href="https://academic.oup.com/irap/article-abstract/15/1/147/2937074?redirectedFrom=fulltext" target="_blank" style="color: #515151;">__2015__ The Rationale for Supporting Nuclear Power: Analysis of Taiwanese Public Opinion Survey.</a> _International Relations of the Asia-Pacific_ 15 (1) : 147-176 (with <u><a href="https://scholar.google.com/citations?user=RIYMCiwAAAAJ&hl=en" style="color: #2F4F4F;">Xiaochen Su</a></u>  and <u><a href="https://www.ipsas.sinica.edu.tw/en/研究人員/吳重禮/" style="color: #2F4F4F;"> Chung-li Wu</a></u>  Tai-De Lee, and Chen Tsao)  
+
+<!-- <font size="1"> <a href="https://academic.oup.com/irap/article-abstract/15/1/147/2937074?redirectedFrom=fulltex" style="color: #2F4F4F;" target="_blank"> [PDF]</a></font> -->
 
 </div>
 
@@ -44,6 +52,7 @@
 - Catalysts for Change?  Policy Recommendations in Research on Renewable Energy and Climate Change (with <u><a href="https://brianpaulboyle.com" style="color: #2F4F4F;">Brian Boyle</u> and 
 <u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>)
 
+<!-- <font size="1.2"> <a href="https://www.dropbox.com/scl/fi/7sp5iyd2g56elvlknl9n7/Factionalism_and_the_Red_Guards_under_Mao_s_China.pdf?rlkey=kiohiajiedsy7g97vc00s8ljz&st=q8ufvion&dl=0" style="color: #2F4F4F;" target="_blank"> [PDF] (_Updated_ on Feb 27 2024 | Under Review )</a></font> -->
 
 </div>
 
