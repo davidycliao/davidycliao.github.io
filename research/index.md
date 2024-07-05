@@ -18,7 +18,6 @@
 
 <div style="text-align: justify">
 
-
 <a href="https://www.dropbox.com/scl/fi/xwwl8zymz3k3auwchnqrz/_Mis_perception_of_Party_voter_Congruence_and_Satisfaction_with_Democracy.pdf?rlkey=2qmvddribpwbsid1m4f87fuhm&st=jlqao5kv&dl=0" target="_blank" style="color: #515151;"> ___Conditionally Accepted___ (Mis)perception of Party-voter Congruence and Satisfaction with Democracy. (with <u><a href="" style="color: #2F4F4F;">Royce Carroll</a></u> and <u><a href="https://sites.google.com/view/litang2020" style="color: #2F4F4F;" >Li Tang</a></u> <span style="color: grey;"></span> )</a> _Political Science Research and Methods_ <font size="1"> <a href="https://www.dropbox.com/scl/fi/xwwl8zymz3k3auwchnqrz/_Mis_perception_of_Party_voter_Congruence_and_Satisfaction_with_Democracy.pdf?rlkey=2qmvddribpwbsid1m4f87fuhm&st=jlqao5kv&dl=0" style="color: #2F4F4F;" target="_blank"> [PDF]</a></font>  
 
 <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/lsq.12459" target="_blank" style="color: #515151;"> __2024__ Electoral Reform and Fragmented Polarization: New Evidence from Taiwan Legislative Roll Call.</a> _Legislative Studies Quarterly_ <font size="1"> <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1111/lsq.12459?fbclid=IwZXh0bgNhZW0CMTAAAR1yh6CMKzWPERdAljpuJwA7syieQJA3SPSQBASI5vNJo5CgEg2O6FxMMoc_aem_pNuUyKFzml67644DUGT2TQ" style="color: #2F4F4F;" target="_blank"> [PDF]</a></font>
@@ -36,7 +35,6 @@
 
 ---
 
-
 ## Under Review
 
 <div style="text-align: justify">
@@ -46,7 +44,6 @@
 - Catalysts for Change?  Policy Recommendations in Research on Renewable Energy and Climate Change (with <u><a href="https://brianpaulboyle.com" style="color: #2F4F4F;">Brian Boyle</u> and 
 <u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>)
 
-<!-- <font size="1.2"> <a href="https://www.dropbox.com/scl/fi/7sp5iyd2g56elvlknl9n7/Factionalism_and_the_Red_Guards_under_Mao_s_China.pdf?rlkey=kiohiajiedsy7g97vc00s8ljz&st=q8ufvion&dl=0" style="color: #2F4F4F;" target="_blank"> [PDF] (_Updated_ on Feb 27 2024 | Under Review )</a></font> -->
 
 </div>
 
