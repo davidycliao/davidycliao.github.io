@@ -49,9 +49,6 @@
 
 - Factionalism and the Red Guards under Mao’s China: Ideal Point Estimation Using Text Data (with <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;"> Yi-Nung Tsai</a></u>) _Revise & Resubmit_ _at_  <u>_Research & Politics_ </u>
 
-- Catalysts for Change?  Policy Recommendations in Research on Renewable Energy and Climate Change (with <u><a href="https://brianpaulboyle.com" style="color: #2F4F4F;">Brian Boyle</u> and 
-<u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>)
-
 <!-- <font size="1.2"> <a href="https://www.dropbox.com/scl/fi/7sp5iyd2g56elvlknl9n7/Factionalism_and_the_Red_Guards_under_Mao_s_China.pdf?rlkey=kiohiajiedsy7g97vc00s8ljz&st=q8ufvion&dl=0" style="color: #2F4F4F;" target="_blank"> [PDF] (_Updated_ on Feb 27 2024 | Under Review )</a></font> -->
 
 </div>
@@ -62,6 +59,9 @@
 ## Working Papers
 
 <div style="text-align: justify">
+
+- Catalysts for Change?  Policy Recommendations in Research on Renewable Energy and Climate Change (with <u><a href="https://brianpaulboyle.com" style="color: #2F4F4F;">Brian Boyle</u> and 
+<u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>)
 
 - Multilingual Stance Detection in  Political Text: Interpretation, Applications, and Limitations (with <u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>) 
 
