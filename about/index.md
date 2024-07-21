@@ -12,7 +12,7 @@ I'm Yen-Chieh (David) Liao. I am a postdoctoral researcher at University College
 
 My research primarily focuses on legislative studies, party competition, electoral systems, Taiwan politics, and particularly within the context of East Asian politics. I'm particularly interested in measuring ideological preferences through legislative voting, expert surveys, and analysis of parliamentary speeches and politial texts. My <a href="https://davidycliao.github.io/research/" style="color: #778899; text-decoration: underline;">recent work</a> involves quantitative text analysis and computational methods to understand political narratives of political elites and their impact on public attitudes and expectations in the future.
 
-After August at UCD, I will join <a href="https://www.birmingham.ac.uk/research/centre-for-artificial-intelligence-in-government" style="color: #778899; text-decoration: underline;">the Centre for Artificial Intelligence in Government (CAIG)</a> and <a href="https://www.birmingham.ac.uk/schools/government" style="color: #778899; text-decoration: underline;">the School of Government </a> 
+After August at UCD, I will join <a href="https://www.birmingham.ac.uk/research/centre-for-artificial-intelligence-in-government/people" style="color: #778899; text-decoration: underline;">the Centre for Artificial Intelligence in Government (CAIG)</a> and <a href="https://www.birmingham.ac.uk/schools/government" style="color: #778899; text-decoration: underline;">the School of Government </a> 
  at the University of Birmingham as a Research Fellow in Natural Language Processing.
 
 

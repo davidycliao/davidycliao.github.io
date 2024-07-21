@@ -18,7 +18,7 @@
 
 <div style="text-align: justify">
 
-<a href="https://www.dropbox.com/scl/fi/xwwl8zymz3k3auwchnqrz/_Mis_perception_of_Party_voter_Congruence_and_Satisfaction_with_Democracy.pdf?rlkey=2qmvddribpwbsid1m4f87fuhm&st=jlqao5kv&dl=0" target="_blank" style="color: #515151;"> __2024__ (Mis)perception of Party-voter Congruence and Satisfaction with Democracy. </a> _Political Science Research and Methods_ <font size="1">  </font>   (with <u><a href="" style="color: #2F4F4F;">Royce Carroll</a></u> and <u><a href="https://sites.google.com/view/litang2020" style="color: #2F4F4F;" >Li Tang</a></u><span style="color: grey;"></span>)
+<a href="https://www.dropbox.com/scl/fi/xwwl8zymz3k3auwchnqrz/_Mis_perception_of_Party_voter_Congruence_and_Satisfaction_with_Democracy.pdf?rlkey=2qmvddribpwbsid1m4f87fuhm&st=jlqao5kv&dl=0" target="_blank" style="color: #515151;"> ___Forthcoming___ (Mis)perception of Party-voter Congruence and Satisfaction with Democracy. </a> _Political Science Research and Methods_ <font size="1">  </font>   (with <u><a href="" style="color: #2F4F4F;">Royce Carroll</a></u> and <u><a href="https://sites.google.com/view/litang2020" style="color: #2F4F4F;" >Li Tang</a></u><span style="color: grey;"></span>)
 
 <!-- <a href="https://www.dropbox.com/scl/fi/xwwl8zymz3k3auwchnqrz/_Mis_perception_of_Party_voter_Congruence_and_Satisfaction_with_Democracy.pdf?rlkey=2qmvddribpwbsid1m4f87fuhm&st=jlqao5kv&dl=0" style="color: #2F4F4F;" target="_blank"> [PDF]</a></font>   -->
 
