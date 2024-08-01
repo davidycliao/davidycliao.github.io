@@ -45,7 +45,7 @@
 
 ## Under Review
 
--  <a href="https://www.dropbox.com/scl/fi/85mndhvuaq8wed9sj6m3x/Factionalism_and_the_Red_Guards.pdf?rlkey=i36mmeojtuq2yn5oinjboh58r&dl=0" target="_blank" style="color: #515151;"> Factionalism and the Red Guards under Mao’s China: Ideal Point Estimation Using Text Data  </a> (with <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;"> Yi-Nung Tsai</a></u>) _Revise & Resubmit_ _at_  <u>_Research & Politics_ </u>
+-  <a href="https://www.dropbox.com/scl/fi/85mndhvuaq8wed9sj6m3x/Factionalism_and_the_Red_Guards.pdf?rlkey=i36mmeojtuq2yn5oinjboh58r&dl=0" target="_blank" style="color: #515151;"> Factionalism and the Red Guards under Mao’s China: Ideal Point Estimation Using Text Data  </a> (with <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;"> Yi-Nung Tsai</a></u>) _Revise & Resubmit_ _at_ <u> _Research & Politics_ </u>
 
 <!-- <font size="1.2"> <a href="https://www.dropbox.com/scl/fi/85mndhvuaq8wed9sj6m3x/Factionalism_and_the_Red_Guards.pdf?rlkey=i36mmeojtuq2yn5oinjboh58r&dl=0" style="color: #2F4F4F;" target="_blank"> [PDF] (_Updated_ on Feb 27 2024 | Under Review )</a></font> -->
 
@@ -64,11 +64,12 @@
 
 - Selecting and Validating Classifiers for Multilingual and Cross-Domain Stance Detection (with <u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>) 
 
-- Grandstanding under the Spotlight: Unveiling European Elites Crisis Communication in the Council of the European Union (with Paula Montano and James Cross)
+- Legislative Preferences for Pork Barrel Questions and Electoral Systems: A Case Study of Taiwan Using Fine-tuning Transformers
+
+
+- Grandstanding under the Spotlight: Unveiling European Elites Crisis Communication in the Council of the European Union (with Paula Montano and  <u><a href="https://people.ucd.ie/james.cross" style="color: #2F4F4F;">James Cross</a></u>)
 
 - Shock Rhetoric: Local Exposure to Trade Shocks and Rhetorical Extremism in the US House of Representatives (with <a href="https://www.zikai.li" style="color: #2F4F4F;"><u>Zikai Li</u></a>)
-
-- Legislative Preferences for Pork Barrel Questions and Electoral Systems: A Case Study of Taiwan Using Fine-tuning Transformers
 
 
 
