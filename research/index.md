@@ -57,22 +57,18 @@
 
 ---
 
-
 ## Working Papers
 
 <div style="text-align: justify">
 
 - Selecting and Validating Classifiers for Multilingual and Cross-Domain Stance Detection (with <u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>) 
 
-- Legislative Preferences for Pork Barrel Questions and Electoral Systems: A Case Study of Taiwan Using Fine-tuning Transformers
-
+- Legislative Preferences for Pork Barrel Messages in Different Electoral Systems: A Case Study of Taiwan Using Fine-tuned Transformers
 
 - Grandstanding under the Spotlight: Unveiling European Elites Crisis Communication in the Council of the European Union (with   <u><a href="https://x.com/i/flow/login?redirect_after_login=%2Fpaulamontano__" style="color: #2F4F4F;">Paula Montano </a></u>
  and  <u><a href="https://people.ucd.ie/james.cross" style="color: #2F4F4F;">James Cross</a></u>)
 
 - Shock Rhetoric: Local Exposure to Trade Shocks and Rhetorical Extremism in the US House of Representatives (with <a href="https://www.zikai.li" style="color: #2F4F4F;"><u>Zikai Li</u></a>)
-
-
 
 
 
