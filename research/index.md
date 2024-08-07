@@ -45,7 +45,7 @@
 
 ## Under Review
 
--  <a href="https://www.dropbox.com/scl/fi/85mndhvuaq8wed9sj6m3x/Factionalism_and_the_Red_Guards.pdf?rlkey=i36mmeojtuq2yn5oinjboh58r&dl=0" target="_blank" style="color: #515151;"> Factionalism and the Red Guards under Mao’s China: Ideal Point Estimation Using Text Data  </a> (with <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;"> Yi-Nung Tsai</a></u>) _Revise & Resubmit_ _at_ <u> _Research & Politics_ </u>
+- <a href="https://www.dropbox.com/scl/fi/85mndhvuaq8wed9sj6m3x/Factionalism_and_the_Red_Guards.pdf?rlkey=i36mmeojtuq2yn5oinjboh58r&dl=0" target="_blank" style="color: #515151; text-decoration: underline;">Factionalism and the Red Guards under Mao’s China: Ideal Point Estimation Using Text Data</a> (with <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;"> Yi-Nung Tsai</a></u>) _Revise & Resubmit_ _at_ <u> _Research & Politics_ </u>
 
 <!-- <font size="1.2"> <a href="https://www.dropbox.com/scl/fi/85mndhvuaq8wed9sj6m3x/Factionalism_and_the_Red_Guards.pdf?rlkey=i36mmeojtuq2yn5oinjboh58r&dl=0" style="color: #2F4F4F;" target="_blank"> [PDF] (_Updated_ on Feb 27 2024 | Under Review )</a></font> -->
 
@@ -106,6 +106,20 @@
 
 - Party Competition in Times of Crisis (with <u><a href="https://www.uni-bamberg.de/comparpol/lehrstuhlteam/david-beck/" style="color: #2F4F4F;">David Beck</a></u>  and <u><a href="https://www.uni-bamberg.de/vp-forschung/" style="color: #2F4F4F;">Thomas Saalfeld</a></u>)
 
+
+<!-- --- -->
+
+<!-- </div>  -->
+<!-- 
+
+## Others
+
+ MA Works 
+
+- 2016 原民會主委的補助款? 檢視 [基本設施維護費] 在原住民 55 個鄉, 鎮, 市, 區分配的實證分析，_台灣原住民族研究學報_ 6(4)第6卷 第4期 頁23-63 The Chairperson of the Grants? Examining the Distribution of Pork Barrel Projects across Taiwan Indigenous Areas (in Chinese), _Journal of the Taiwan Indigenous Studies Association_ 6(4): 23-63 
+
+- 
+-->
 
 
 
