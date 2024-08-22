@@ -1,21 +1,21 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>NLP - Tag - YEN-CHIEH LIAO</title>
-        <link>https://davidycliao.github.io/tags/nlp/</link>
+        <link>http://localhost:1313/tags/nlp/</link>
         <description>NLP - Tag - YEN-CHIEH LIAO</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 20 Jun 2023 21:29:01 &#43;0800</lastBuildDate><atom:link href="https://davidycliao.github.io/tags/nlp/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 20 Jun 2023 21:29:01 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/tags/nlp/" rel="self" type="application/rss+xml" /><item>
     <title>Inviting the use of flairR to help us improve the user experience for R users</title>
-    <link>https://davidycliao.github.io/2023/06/pkg/</link>
+    <link>http://localhost:1313/2023/06/pkg/</link>
     <pubDate>Tue, 20 Jun 2023 21:29:01 &#43;0800</pubDate>
     <author>Author</author>
-    <guid>https://davidycliao.github.io/2023/06/pkg/</guid>
+    <guid>http://localhost:1313/2023/06/pkg/</guid>
     <description><![CDATA[FlaiR - Streamlining NLP and Custom Deep Learning Model We are currently in the process of testing flairR, an R wrapper specifically designed to train transformers and perform NLP tasks using Flair NLP in an R environment. This package is tailored to provide core sequence tagging features, including part-of-speech tasks, named entity recognition, and transformer-based sentiment analysis, especially for users in the social sciences who are accustomed to using R.]]></description>
 </item><item>
     <title>Co-authored Paper Presentation @Glasgow EPSA  </title>
-    <link>https://davidycliao.github.io/2023/06/ccp/</link>
+    <link>http://localhost:1313/2023/06/ccp/</link>
     <pubDate>Sun, 04 Jun 2023 21:29:01 &#43;0800</pubDate>
     <author>Author</author>
-    <guid>https://davidycliao.github.io/2023/06/ccp/</guid>
+    <guid>http://localhost:1313/2023/06/ccp/</guid>
     <description><![CDATA[Electoral Systems and Party Convergence on Issue Attentions (with Yu-Ceng Liao) This paper investigates how legislators respond to an electoral reform by adjusting their ideological positions with respect to co-partisans and rivals. Using data from Taiwan&rsquo;s legislative roll calls over 20 years, we study the extent to which partisan disagreement is influenced by the 2008 Taiwanese electoral reform from Single Non-Transferable Votes (SNTV) to Single-Member Districts (SMD). Contrary to the literature, our empirical evidence shows that the reform significantly fragmented legislator positions in relation to both co-partisans and members from the rival party.]]></description>
 </item></channel>
 </rss>
