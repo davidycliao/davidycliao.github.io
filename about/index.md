@@ -3,9 +3,7 @@
 
 <br/><br> <br> 
 
-
 <div style="text-align: justify">
-
 
 Welcome! I am currently a postdoctoral researcher at <a href="https://www.ucd.ie/spire/" style="color: #778899; text-decoration: underline;">University College Dublin</a> in the School of Politics and International Relations and <a href="https://www.nexsys-energy.ie/about-nexsys/" style="color: #778899; text-decoration: underline;">NexSys</a>, a cross-disciplinary project funded by Science Foundation Ireland. I am also a forthcoming Research Fellow in Natural Language Processing at <a href="https://www.birmingham.ac.uk/research/centre-for-artificial-intelligence-in-government/people" style="color: #778899; text-decoration: underline;" target="_blank">the Centre for Artificial Intelligence in Government (CAIG)</a> and <a href="https://www.birmingham.ac.uk/schools/government" style="color: #778899; text-decoration: underline;" target="_blank">the School of Government</a> at the University of Birmingham. I received my PhD in Political Science from the University of Essex in January 2023, following my BA and MA in Public Administration & Policy from National Taipei University in Taiwan.
 
