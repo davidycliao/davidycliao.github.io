@@ -45,8 +45,6 @@
 
 ## Under Review
 
-- <a href="https://www.dropbox.com/scl/fi/85mndhvuaq8wed9sj6m3x/Factionalism_and_the_Red_Guards.pdf?rlkey=i36mmeojtuq2yn5oinjboh58r&dl=0" target="_blank" style="color: #515151; text-decoration: underline;">Factionalism and the Red Guards under Mao’s China: Ideal Point Estimation Using Text Data</a> (with <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;"> Yi-Nung Tsai</a></u>) _Revise & Resubmit_ _at_ <u> _Research & Politics_ </u>
-
 <!-- <font size="1.2"> <a href="https://www.dropbox.com/scl/fi/85mndhvuaq8wed9sj6m3x/Factionalism_and_the_Red_Guards.pdf?rlkey=i36mmeojtuq2yn5oinjboh58r&dl=0" style="color: #2F4F4F;" target="_blank"> [PDF] (_Updated_ on Feb 27 2024 | Under Review )</a></font> -->
 
 
@@ -60,6 +58,9 @@
 ## Working Papers
 
 <div style="text-align: justify">
+
+- <a href="https://www.dropbox.com/scl/fi/85mndhvuaq8wed9sj6m3x/Factionalism_and_the_Red_Guards.pdf?rlkey=i36mmeojtuq2yn5oinjboh58r&dl=0" target="_blank" style="color: #515151; text-decoration: underline;">Factionalism and the Red Guards under Mao’s China: Ideal Point Estimation Using Text Data</a> (with <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;"> Yi-Nung Tsai</a></u>) </u>
+
 
 - Selecting and Validating Classifiers for Multilingual and Cross-Domain Stance Detection (with <u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>) 
 
