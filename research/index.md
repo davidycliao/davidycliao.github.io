@@ -18,7 +18,7 @@
 
 <div style="text-align: justify">
 
-<a href="https://www.dropbox.com/scl/fi/f3fed0guzqam7k3u4b075/_Mis_perception_of_Party_voter_Congruence_and_Satisfaction_with_Democracy.pdf?rlkey=sfeppy9m3zzmzk4bmq1tqdnuq&dl=0" target="_blank" style="color: #515151;"> 2024 (Mis)perception of Party-voter Congruence and Satisfaction with Democracy. </a> _Political Science Research and Methods_ <font size="1">  </font>   (with <u><a href="" style="color: #2F4F4F;">Royce Carroll</a></u> and <u><a href="https://sites.google.com/view/litang2020" style="color: #2F4F4F;" >Li Tang</a></u><span style="color: grey;"></span>)
+<a href="https://www.dropbox.com/scl/fi/f3fed0guzqam7k3u4b075/_Mis_perception_of_Party_voter_Congruence_and_Satisfaction_with_Democracy.pdf?rlkey=sfeppy9m3zzmzk4bmq1tqdnuq&dl=0" target="_blank" style="color: #515151;"> __2024__ (Mis)perception of Party-voter Congruence and Satisfaction with Democracy. </a> _Political Science Research and Methods_ <font size="1">  </font>   (with <u><a href="" style="color: #2F4F4F;">Royce Carroll</a></u> and <u><a href="https://sites.google.com/view/litang2020" style="color: #2F4F4F;" >Li Tang</a></u><span style="color: grey;"></span>)
 
 <!-- <a href="https://www.dropbox.com/scl/fi/xwwl8zymz3k3auwchnqrz/_Mis_perception_of_Party_voter_Congruence_and_Satisfaction_with_Democracy.pdf?rlkey=2qmvddribpwbsid1m4f87fuhm&st=jlqao5kv&dl=0" style="color: #2F4F4F;" target="_blank"> [PDF]</a></font>   -->
 
@@ -64,12 +64,12 @@
 
 - <a href="https://www.dropbox.com/scl/fi/uyg0xe52de0kuljb0b2as/Cross_Montano_Liao_APSA2024.pdf?rlkey=kwqbnglwwxpyomwwijco5qqfw&dl=0" target="_blank" style="color: #515151; text-decoration: underline;">Grandstanding under the Spotlight: Unveiling European Elites Crisis Communication in the Council of the European Union</a> 
  (with   <u><a href="https://x.com/i/flow/login?redirect_after_login=%2Fpaulamontano__" style="color: #2F4F4F;">Paula Montano </a></u>
- and  <u><a href="https://people.ucd.ie/james.cross" style="color: #2F4F4F;">James Cross</a></u>)  (_Updated_ on Aug 31 2024)
+ and  <u><a href="https://people.ucd.ie/james.cross" style="color: #2F4F4F;">James Cross</a></u>)  <font size="1.8"> <a href="https://www.dropbox.com/scl/fi/uyg0xe52de0kuljb0b2as/Cross_Montano_Liao_APSA2024.pdf?rlkey=kwqbnglwwxpyomwwijco5qqfw&dl=0" style="color: #2F4F4F;" target="_blank"> (_Updated_ on Aug 31 2024)</a></font>
+ 
 
 
-- <a href="https://www.dropbox.com/scl/fi/85mndhvuaq8wed9sj6m3x/Factionalism_and_the_Red_Guards.pdf?rlkey=i36mmeojtuq2yn5oinjboh58r&dl=0" target="_blank" style="color: #515151; text-decoration: underline;">Factionalism and the Red Guards under Mao’s China: Ideal Point Estimation Using Text Data</a> (with <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;"> Yi-Nung Tsai</a></u>) </u>  (_Updated_ on July 22 2024 
-
-
+- <a href="https://www.dropbox.com/scl/fi/85mndhvuaq8wed9sj6m3x/Factionalism_and_the_Red_Guards.pdf?rlkey=i36mmeojtuq2yn5oinjboh58r&dl=0" target="_blank" style="color: #515151; text-decoration: underline;">Factionalism and the Red Guards under Mao’s China: Ideal Point Estimation Using Text Data</a> (with <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;"> Yi-Nung Tsai</a></u>) </u>  <font size="1.8"> <a href="https://www.dropbox.com/scl/fi/85mndhvuaq8wed9sj6m3x/Factionalism_and_the_Red_Guards.pdf?rlkey=i36mmeojtuq2yn5oinjboh58r&dl=0" style="color: #2F4F4F;" target="_blank"> (_Updated_ on Jul 22 2024)</a></font>
+ 
 - Selecting and Validating Classifiers for Multilingual and Cross-Domain Stance Detection (with <u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>) 
 
 - Legislative Preferences for Pork Barrel Messages in Different Electoral Systems: A Case Study of Taiwan Using Fine-tuned Transformers
