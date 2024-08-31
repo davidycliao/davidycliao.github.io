@@ -49,7 +49,9 @@
 
 
 - Catalysts for Change?  Policy Recommendations in Research on Renewable Energy and Climate Change (with <u><a href="https://brianpaulboyle.com" style="color: #2F4F4F;">Brian Boyle</u> and 
-<u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>)
+<u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>) _Invited Revise and Resubmit_
+
+
 
 </div>
 
@@ -59,6 +61,12 @@
 
 <div style="text-align: justify">
 
+
+- <a href="https://www.dropbox.com/scl/fi/uyg0xe52de0kuljb0b2as/Cross_Montano_Liao_APSA2024.pdf?rlkey=kwqbnglwwxpyomwwijco5qqfw&dl=0" target="_blank" style="color: #515151; text-decoration: underline;">Grandstanding under the Spotlight: Unveiling European Elites Crisis Communication in the Council of the European Union</a> 
+ (with   <u><a href="https://x.com/i/flow/login?redirect_after_login=%2Fpaulamontano__" style="color: #2F4F4F;">Paula Montano </a></u>
+ and  <u><a href="https://people.ucd.ie/james.cross" style="color: #2F4F4F;">James Cross</a></u>)  (_Updated_ on Aug 31 2024)
+
+
 - <a href="https://www.dropbox.com/scl/fi/85mndhvuaq8wed9sj6m3x/Factionalism_and_the_Red_Guards.pdf?rlkey=i36mmeojtuq2yn5oinjboh58r&dl=0" target="_blank" style="color: #515151; text-decoration: underline;">Factionalism and the Red Guards under Mao’s China: Ideal Point Estimation Using Text Data</a> (with <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;"> Yi-Nung Tsai</a></u>) </u>
 
 
@@ -66,8 +74,6 @@
 
 - Legislative Preferences for Pork Barrel Messages in Different Electoral Systems: A Case Study of Taiwan Using Fine-tuned Transformers
 
-- Grandstanding under the Spotlight: Unveiling European Elites Crisis Communication in the Council of the European Union (with   <u><a href="https://x.com/i/flow/login?redirect_after_login=%2Fpaulamontano__" style="color: #2F4F4F;">Paula Montano </a></u>
- and  <u><a href="https://people.ucd.ie/james.cross" style="color: #2F4F4F;">James Cross</a></u>)
 
 - Shock Rhetoric: Local Exposure to Trade Shocks and Rhetorical Extremism in the US House of Representatives (with <a href="https://www.zikai.li" style="color: #2F4F4F;"><u>Zikai Li</u></a>)
 
