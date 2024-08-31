@@ -59,9 +59,7 @@
 <div style="text-align: justify">
 
 
-- <a href="https://www.dropbox.com/scl/fi/uyg0xe52de0kuljb0b2as/Cross_Montano_Liao_APSA2024.pdf?rlkey=kwqbnglwwxpyomwwijco5qqfw&dl=0" target="_blank" style="color: #515151; text-decoration: underline;">Grandstanding under the Spotlight: Unveiling European Elites Crisis Communication in the Council of the European Union</a> 
- (with   <u><a href="https://x.com/i/flow/login?redirect_after_login=%2Fpaulamontano__" style="color: #2F4F4F;">Paula Montano </a></u>
- and  <u><a href="https://people.ucd.ie/james.cross" style="color: #2F4F4F;">James Cross</a></u>)  <font size="1.8"> <a href="https://www.dropbox.com/scl/fi/uyg0xe52de0kuljb0b2as/Cross_Montano_Liao_APSA2024.pdf?rlkey=kwqbnglwwxpyomwwijco5qqfw&dl=0" style="color: #2F4F4F;" target="_blank"> (_Updated_ on Aug 31 2024)</a></font>
+- <a href="https://www.dropbox.com/scl/fi/uyg0xe52de0kuljb0b2as/Cross_Montano_Liao_APSA2024.pdf?rlkey=kwqbnglwwxpyomwwijco5qqfw&dl=0" target="_blank" style="color: #515151; text-decoration: underline;">Grandstanding under the Spotlight: Unveiling Elites Crisis Communication in the Council of the European Union</a> (with <u><a href="https://x.com/i/flow/login?redirect_after_login=%2Fpaulamontano__" style="color: #2F4F4F;">Paula Montano </a></u> and  <u><a href="https://people.ucd.ie/james.cross" style="color: #2F4F4F;">James Cross</a></u>)  <font size="1.8"> <a href="https://www.dropbox.com/scl/fi/uyg0xe52de0kuljb0b2as/Cross_Montano_Liao_APSA2024.pdf?rlkey=kwqbnglwwxpyomwwijco5qqfw&dl=0" style="color: #2F4F4F;" target="_blank"> (_Updated_ on Aug 31 2024)</a></font>
  
 
 
