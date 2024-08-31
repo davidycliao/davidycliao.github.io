@@ -45,9 +45,6 @@
 
 ## Under Review
 
-<!-- <font size="1.2"> <a href="https://www.dropbox.com/scl/fi/85mndhvuaq8wed9sj6m3x/Factionalism_and_the_Red_Guards.pdf?rlkey=i36mmeojtuq2yn5oinjboh58r&dl=0" style="color: #2F4F4F;" target="_blank"> [PDF] (_Updated_ on Feb 27 2024 | Under Review )</a></font> -->
-
-
 - Catalysts for Change?  Policy Recommendations in Research on Renewable Energy and Climate Change (with <u><a href="https://brianpaulboyle.com" style="color: #2F4F4F;">Brian Boyle</u> and 
 <u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>) _Invited Revise and Resubmit_
 
