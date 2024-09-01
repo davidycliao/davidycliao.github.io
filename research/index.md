@@ -62,10 +62,9 @@
 
 <div style="text-align: justify">
 
-- Grandstanding in the European Parliament: Cross-Lingual Analysis of Problem Definition and Policy Solutions
-
 - Political Parties, Public Opinion, and Legislation on Cross-Strait Relations in Taiwan (with <u><a href="https://sites.google.com/view/calvin-yuceng-liao/home" style="color: #2F4F4F;">Yu-Ceng Liao</a></u> and <span style="color: grey;"></span><u><a href="https://politics.nccu.edu.tw/PageStaffing/Detail?fid=5227&id=1517" style="color: #2F4F4F;">Shing-Yuan Sheng</a></u>)
 
+- Grandstanding in the European Parliament: Cross-Lingual Analysis of Problem Definition and Policy Solutions
 
 - The Effect of Misperception on Election Voting: Evidence from a Field Experiment (with <u><a href="" style="color: #2F4F4F;">Royce Carroll</a></u>, <u><a href="https://sites.google.com/view/litang2020" style="color: #2F4F4F;">Li Tang</a></u> and <span style="color: grey;"></span><u><a href="https://sites.google.com/site/yinpenghui2008/home" style="color: #2F4F4F;">Penghui Yin</a></u> <span style="color: grey;"></span>)
 
