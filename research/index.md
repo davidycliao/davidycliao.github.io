@@ -81,7 +81,7 @@
  
 
 
-- <a href="https://www.dropbox.com/scl/fi/oq029ad87xpbji0i00r11/Factionalism_and_the_Red_Guards.pdf?rlkey=c6lib2bkwhcvxuxjs6f5yxkp1&dl=0" target="_blank" style="color: #515151; text-decoration: underline;">Factionalism and the Red Guards under Mao’s China: Ideal Point Estimation Using Text Data</a> (with <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;"> Yi-Nung Tsai</a></u>) </u>  <font size="1.8"> <a href="https://www.dropbox.com/scl/fi/oq029ad87xpbji0i00r11/Factionalism_and_the_Red_Guards.pdf?rlkey=c6lib2bkwhcvxuxjs6f5yxkp1&dl=0" style="color: #2F4F4F;" target="_blank"> (_Updated_ on Jul 22 2024)</a></font>
+- <a href="https://www.dropbox.com/scl/fi/6kcw5ywd78iilym5xmeoz/Factionalism_and_the_Red_Guards.pdf?rlkey=7o1sbk3iz0sg0zdf2etihp4zy&dl=0" target="_blank" style="color: #515151; text-decoration: underline;">Factionalism and the Red Guards under Mao’s China: Ideal Point Estimation Using Text Data</a> (with <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;"> Yi-Nung Tsai</a></u>) </u>  <font size="1.8"> <a href="https://www.dropbox.com/scl/fi/6kcw5ywd78iilym5xmeoz/Factionalism_and_the_Red_Guards.pdf?rlkey=7o1sbk3iz0sg0zdf2etihp4zy&dl=0" style="color: #2F4F4F;" target="_blank"> (_Updated_ on Jul 22 2024)</a></font>
  
 - Selecting and Validating Classifiers for Multilingual and Cross-Domain Stance Detection (with <u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>) 
 
