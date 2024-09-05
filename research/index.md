@@ -14,7 +14,7 @@
 
 <div style="text-align: left">
 
-## Publicaitons
+## Publications
 
 <div style="text-align: justify">
 
