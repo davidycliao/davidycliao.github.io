@@ -40,7 +40,7 @@
 
 <div style="text-align: justify">
 
-- "The Politics of Multiple Loyalties: Grandstanding and Policy Congruence in the European Parliament
+- The Politics of Multiple Loyalties: Grandstanding and Policy Congruence in the European Parliament
 
 - Political Parties, Public Opinion, and Legislation on Cross-Strait Relations in Taiwan (with <u><a href="https://sites.google.com/view/calvin-yuceng-liao/home" style="color: #2F4F4F;">Yu-Ceng Liao</a></u> and <u><a href="https://politics.nccu.edu.tw/PageStaffing/Detail?fid=5227&id=1517" style="color: #2F4F4F;">Shing-Yuan Sheng</a></u>)
 
