@@ -48,8 +48,9 @@
 
 ## Under Review
 
-- Catalysts for Change?  Policy Recommendations in Research on Renewable Energy and Climate Change (with <u><a href="https://brianpaulboyle.com" style="color: #2F4F4F;">Brian Boyle</u> and 
-<u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>) _Invited Revise and Resubmit_
+Catalysts for Change?  Policy Recommendations in Research on Renewable Energy and Climate Change. _Revise and Resubmit_ (with <u><a href="https://brianpaulboyle.com" style="color: #2F4F4F;">Brian Boyle</u> , 
+<u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>, <u><a href="https://sarahaking.net" style="color: #2F4F4F;">Sarah King</u> and <u><a href="https://brianpaulboyle.com" style="color: #2F4F4F;">Robin Rauner</u> ). 
+
 
 
 
