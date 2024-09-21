@@ -56,17 +56,18 @@
 
 <div style="text-align: justify">
 
-- <a href="https://www.dropbox.com/scl/fi/uyg0xe52de0kuljb0b2as/Cross_Montano_Liao_APSA2024.pdf?rlkey=kwqbnglwwxpyomwwijco5qqfw&dl=0" target="_blank" style="color: #515151; text-decoration: underline;">Grandstanding under the Spotlight: Unveiling Elites Crisis Communication in the Council of the European Union</a> (with <u><a href="https://x.com/i/flow/login?redirect_after_login=%2Fpaulamontano__" style="color: #2F4F4F;">Paula Montano</a></u> and <u><a href="https://people.ucd.ie/james.cross" style="color: #2F4F4F;">James Cross</a></u>)  
-    <span style="font-size: small;"> <a href="https://www.dropbox.com/scl/fi/uyg0xe52de0kuljb0b2as/Cross_Montano_Liao_APSA2024.pdf?rlkey=kwqbnglwwxpyomwwijco5qqfw&dl=0" style="color: #2F4F4F;" target="_blank"> (_Updated_ on Aug 31 2024)</a></span>
-
-- <a href="https://www.dropbox.com/scl/fi/6kcw5ywd78iilym5xmeoz/Factionalism_and_the_Red_Guards.pdf?rlkey=7o1sbk3iz0sg0zdf2etihp4zy&dl=0" target="_blank" style="color: #515151; text-decoration: underline;">Factionalism and the Red Guards under Mao’s China: Ideal Point Estimation Using Text Data</a> (with <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;">Yi-Nung Tsai</a></u>)  
-    <span style="font-size: small;"> <a href="https://www.dropbox.com/scl/fi/6kcw5ywd78iilym5xmeoz/Factionalism_and_the_Red_Guards.pdf?rlkey=7o1sbk3iz0sg0zdf2etihp4zy&dl=0" style="color: #2F4F4F;" target="_blank"> (_Updated_ on Jul 22 2024)</a></span>
+- <a href="" target="_blank" style="color: #515151; text-decoration: underline;">Factionalism under Mao's China: Estimating the Positioning of Red Guards Using Text Data</a> (with <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;">Yi-Nung Tsai</a></u>) <span style="font-size: small;"> <a href="" style="color: #2F4F4F;" target="_blank"> (_Updated_ on Jul 22 2024)</a></span>
+   
+    <!-- <span style="font-size: small;"> <a href="https://www.dropbox.com/scl/fi/6kcw5ywd78iilym5xmeoz/Factionalism_and_the_Red_Guards.pdf?rlkey=7o1sbk3iz0sg0zdf2etihp4zy&dl=0" style="color: #2F4F4F;" target="_blank"> (_Updated_ on Jul 22 2024)</a></span> -->
 
 - Legislative Preferences for Pork Barrel Messages in Different Electoral Systems: A Case Study of Taiwan Using Fine-tuned Transformers
 
 - Widening the Focus: How Electoral Systems Converge Legislators' Issue Attention – An Analysis Using Taiwan Legislative Keywords (with <u><a href="https://sites.google.com/view/calvin-yuceng-liao/home" style="color: #2F4F4F;">Yu-Ceng Liao</a></u> and <u><a href="https://yitingw.com" style="color: #2F4F4F;">Yi-ting Wang</a></u>)
 
 - Shock Rhetoric: Local Exposure to Trade Shocks and Rhetorical Extremism in the US House of Representatives (with <a href="https://www.zikai.li" style="color: #2F4F4F;"><u>Zikai Li</u></a>)
+- <a href="https://www.dropbox.com/scl/fi/uyg0xe52de0kuljb0b2as/Cross_Montano_Liao_APSA2024.pdf?rlkey=kwqbnglwwxpyomwwijco5qqfw&dl=0" target="_blank" style="color: #515151; text-decoration: underline;">Grandstanding under the Spotlight: Unveiling Elites Crisis Communication in the Council of the European Union</a> (with <u><a href="https://x.com/i/flow/login?redirect_after_login=%2Fpaulamontano__" style="color: #2F4F4F;">Paula Montano</a></u> and <u><a href="https://people.ucd.ie/james.cross" style="color: #2F4F4F;">James Cross</a></u>) <span style="font-size: small;"> <a href="" style="color: #2F4F4F;" target="_blank"> (_Updated_ on Sep 5 2024)</a></span>  
+
+    <!-- <span style="font-size: small;"> <a href="https://www.dropbox.com/scl/fi/uyg0xe52de0kuljb0b2as/Cross_Montano_Liao_APSA2024.pdf?rlkey=kwqbnglwwxpyomwwijco5qqfw&dl=0" style="color: #2F4F4F;" target="_blank"> (_Updated_ on Aug 31 2024)</a></span> -->
 
 <div style="text-align: center">
     <a href="#" target="_blank" style="color: blue;"> </a>  
