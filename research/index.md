@@ -24,19 +24,6 @@
 
 ---
 
-
-## In-Progress
-
-<div style="text-align: justify">
-
-- The Politics of Multiple Loyalties: (Cross-Lingual) Grandstanding and Policy Congruence in the European Parliament <br>
-
-- Political Parties, Public Opinion, and Legislation on Cross-Strait Relations in Taiwan (with <u><a href="https://sites.google.com/view/calvin-yuceng-liao/home" style="color: #2F4F4F;">Yu-Ceng Liao</a></u> and <u><a href="https://politics.nccu.edu.tw/PageStaffing/Detail?fid=5227&id=1517" style="color: #2F4F4F;">Shing-Yuan Sheng</a></u>) <br>
-
-- The Effect of Misperception on Election Voting: Evidence from a Field Experiment (with <u><a href="#" style="color: #2F4F4F;">Royce Carroll</a></u>, <u><a href="https://sites.google.com/view/litang2020" style="color: #2F4F4F;">Li Tang</a></u>, and <u><a href="https://sites.google.com/site/yinpenghui2008/home" style="color: #2F4F4F;">Penghui Yin</a></u>) 
-    
----
-
 ## Under Review
 
 <div style="text-align: justify">
@@ -46,9 +33,8 @@
 
 - Selecting and Validating Classifiers for Multilingual and Cross-Domain Stance Detection. (with <u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>) <br>
 
-- Factionalism under Mao's China: Estimating the Positioning of Red Guards Using Text Data. (with <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;">Yi-Nung Tsai</a></u>)<br>
+- Factionalism under Mao's China: Estimating the Positioning of Red Guards Using Text Data. (with <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;">Yi-Nung Tsai</a></u>) <span style="font-size: small;"> <a href="https://www.dropbox.com/scl/fi/qhbnbllifl5a3ho2nlhwl/Factionalism_under_Mao_s_China.pdf?rlkey=i46l13hq9sygc2ugga1qmnl20&st=20h39d9u&dl=0" style="color: #2F4F4F;" target="_blank"> (Download _Updated on Sep 23 2024_)</a></span>  <br>
 
-<!-- <span style="font-size: small;"> <a href="" style="color: #2F4F4F;" target="_blank"> (_Updated_ on Jul 22 2024)</a></span> -->
 
 </div>
 
@@ -66,9 +52,21 @@
 
 - Grandstanding under the Spotlight: Unveiling Elites Crisis Communication in the Council of the European Union.  (with James Cross and Paula Montano) <br>
 
-
-
 </div>
+
+---
+
+## In-Progress
+
+<div style="text-align: justify">
+
+- The Politics of Multiple Loyalties: (Cross-Lingual) Grandstanding and Policy Congruence in the European Parliament <br>
+
+- Political Parties, Public Opinion, and Legislation on Cross-Strait Relations in Taiwan (with <u><a href="https://sites.google.com/view/calvin-yuceng-liao/home" style="color: #2F4F4F;">Yu-Ceng Liao</a></u> and <u><a href="https://politics.nccu.edu.tw/PageStaffing/Detail?fid=5227&id=1517" style="color: #2F4F4F;">Shing-Yuan Sheng</a></u>) <br>
+
+- The Effect of Misperception on Election Voting: Evidence from a Field Experiment (with <u><a href="#" style="color: #2F4F4F;">Royce Carroll</a></u>, <u><a href="https://sites.google.com/view/litang2020" style="color: #2F4F4F;">Li Tang</a></u>, and <u><a href="https://sites.google.com/site/yinpenghui2008/home" style="color: #2F4F4F;">Penghui Yin</a></u>) 
+    
+---
 
 
 <div style="text-align: center">
