@@ -1,28 +1,28 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Categories - Category - YEN-CHIEH LIAO</title>
-        <link>https://davidycliao.github.io/categories/</link>
+        <link>http://localhost:1313/categories/</link>
         <description>Categories - Category - YEN-CHIEH LIAO</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 20 Jun 2023 21:29:01 &#43;0800</lastBuildDate><atom:link href="https://davidycliao.github.io/categories/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 20 Jun 2023 21:29:01 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/categories/" rel="self" type="application/rss+xml" /><item>
     <title>Package</title>
-    <link>https://davidycliao.github.io/categories/package/</link>
+    <link>http://localhost:1313/categories/package/</link>
     <pubDate>Tue, 20 Jun 2023 21:29:01 &#43;0800</pubDate>
     <author>Author</author>
-    <guid>https://davidycliao.github.io/categories/package/</guid>
+    <guid>http://localhost:1313/categories/package/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>In-Progress</title>
-    <link>https://davidycliao.github.io/categories/in-progress/</link>
+    <link>http://localhost:1313/categories/in-progress/</link>
     <pubDate>Sun, 04 Jun 2023 21:29:01 &#43;0800</pubDate>
     <author>Author</author>
-    <guid>https://davidycliao.github.io/categories/in-progress/</guid>
+    <guid>http://localhost:1313/categories/in-progress/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Teaching</title>
-    <link>https://davidycliao.github.io/categories/teaching/</link>
+    <link>http://localhost:1313/categories/teaching/</link>
     <pubDate>Sat, 10 Jul 2021 21:29:01 &#43;0800</pubDate>
     <author>Author</author>
-    <guid>https://davidycliao.github.io/categories/teaching/</guid>
+    <guid>http://localhost:1313/categories/teaching/</guid>
     <description><![CDATA[]]></description>
 </item></channel>
 </rss>

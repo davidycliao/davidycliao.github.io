@@ -33,11 +33,6 @@
 
 - Selecting and Validating Classifiers for Multilingual and Cross-Domain Stance Detection. (with <u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>) <br>
 
-- Factionalism under Mao's China: Estimating the Positioning of Red Guards Using Text Data. (with <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;">Yi-Nung Tsai</a></u>) <span style="font-size: 11px;"> 
-  <a href="https://www.dropbox.com/scl/fi/qhbnbllifl5a3ho2nlhwl/Factionalism_under_Mao_s_China.pdf?rlkey=i46l13hq9sygc2ugga1qmnl20&st=20h39d9u&dl=0" 
-     style="color: #2F4F4F;" target="_blank">
-    (__Download__ _Updated on Sep 23 2024_)
-  </a>
 </span>
 
  <br>
@@ -50,6 +45,13 @@
 ## Working Papers
 
 <div style="text-align: justify">
+
+
+- Factionalism under Mao's China: Estimating the Positioning of Red Guards Using Text Data. (with <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;">Yi-Nung Tsai</a></u>) <span style="font-size: 11px;"> 
+  <a href="https://www.dropbox.com/scl/fi/qhbnbllifl5a3ho2nlhwl/Factionalism_under_Mao_s_China.pdf?rlkey=i46l13hq9sygc2ugga1qmnl20&st=20h39d9u&dl=0" 
+     style="color: #2F4F4F;" target="_blank">
+    (__Download__ _Updated on Sep 30 2024_)
+  </a>
    
 - Legislative Preferences for Pork Barrel Messages in Different Electoral Systems: A Case Study of Taiwan Using Fine-tuned Transformers. <br>
 
