@@ -47,8 +47,8 @@
 <div style="text-align: justify">
 
 
-- Factionalism under Mao's China: Estimating the Positioning of Red Guards Using Text Data. (with <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;">Yi-Nung Tsai</a></u>) <span style="font-size: 11px;"> 
-  <a href="https://www.dropbox.com/scl/fi/kqetzleecfeletg8v0aq3/Factionalism_under_Mao_s_China.pdf?rlkey=tgb7nwzb0xlwq0kuffjdrtqjb&st=akv9kvpi&dl=0" 
+- Estimating Factions of Red Guard under Mao's China: A Slogan-based Text Scaling Method with Historical Documents. (with <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;">Yi-Nung Tsai</a></u>) <span style="font-size: 11px;"> 
+  <a href="https://www.dropbox.com/scl/fi/qgnvl3w1y5hbsaq168blb/Estimating_Factions_of_Red_Guard_under_Mao_s_China.pdf?rlkey=c6bxr3o3di34vooivgjb2blcf&st=b6d03vmv&dl=0" 
      style="color: #2F4F4F;" target="_blank">
     (__Download__ _Updated on Sep 30 2024_)
   </a>
