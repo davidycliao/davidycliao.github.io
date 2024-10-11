@@ -14,7 +14,7 @@
 
 <a href="https://www.cambridge.org/core/journals/political-science-research-and-methods/article/misperception-of-party-congruence-and-satisfaction-with-democracy/48E409867105FD3737126E6FA05F13ED" target="_blank" style="color: #515151;"> __2024__ (Mis)perception of Party-voter Congruence and Satisfaction with Democracy. </a> _Political Science Research and Methods_. (with <u><a href="#" style="color: #2F4F4F;">Royce Carroll</a></u> and <u><a href="https://sites.google.com/view/litang2020" style="color: #2F4F4F;">Li Tang</a></u>) <br>
 
-<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/lsq.12459" target="_blank" style="color: #515151;"> __2024__ Electoral Reform and Fragmented Polarization: New Evidence from Taiwan Legislative Roll Call.</a> _Legislative Studies Quarterly_ . <br>
+<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/lsq.12459" target="_blank" style="color: #515151;"> __2024__ Electoral Reform and Fragmented Polarization: New Evidence from Taiwan Legislative Roll Call.</a> _Legislative Studies Quarterly_. <br>
 
 <a href="https://www.jstor.org/stable/27221360" target="_blank" style="color: #515151;"> __2023__ The Role of Rituals in Adversarial Parliaments: An Analysis of Expressions of Collegiality in the British House of Commons.</a> _Historical Social Research_ 48 (3): 209-234. (with <u><a href="https://www.uni-bamberg.de/comparpol/lehrstuhlteam/david-beck/" style="color: #2F4F4F;">David Beck</a></u> and <u><a href="https://www.uni-bamberg.de/vp-forschung/" style="color: #2F4F4F;">Thomas Saalfeld</a></u>) <br>
 
