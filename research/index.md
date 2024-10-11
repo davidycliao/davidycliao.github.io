@@ -12,7 +12,7 @@
 
 <div style="text-align: justify">
 
-<a href="https://www.dropbox.com/scl/fi/f3fed0guzqam7k3u4b075/_Mis_perception_of_Party_voter_Congruence_and_Satisfaction_with_Democracy.pdf?rlkey=sfeppy9m3zzmzk4bmq1tqdnuq&dl=0" target="_blank" style="color: #515151;"> __2024__ (Mis)perception of Party-voter Congruence and Satisfaction with Democracy. </a> _Political Science Research and Methods_. (with <u><a href="#" style="color: #2F4F4F;">Royce Carroll</a></u> and <u><a href="https://sites.google.com/view/litang2020" style="color: #2F4F4F;">Li Tang</a></u>) <br>
+<a href="https://www.cambridge.org/core/journals/political-science-research-and-methods/article/misperception-of-party-congruence-and-satisfaction-with-democracy/48E409867105FD3737126E6FA05F13ED" target="_blank" style="color: #515151;"> __2024__ (Mis)perception of Party-voter Congruence and Satisfaction with Democracy. </a> _Political Science Research and Methods_. (with <u><a href="#" style="color: #2F4F4F;">Royce Carroll</a></u> and <u><a href="https://sites.google.com/view/litang2020" style="color: #2F4F4F;">Li Tang</a></u>) <br>
 
 <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/lsq.12459" target="_blank" style="color: #515151;"> __2024__ Electoral Reform and Fragmented Polarization: New Evidence from Taiwan Legislative Roll Call.</a> _Legislative Studies Quarterly_ . <br>
 
@@ -28,10 +28,17 @@
 
 <div style="text-align: justify">
 
-- Catalysts for Change? Policy Recommendations in Research on Renewable Energy and Climate Change. _Revise and Resubmit_ (with <u><a href="https://brianpaulboyle.com" style="color: #2F4F4F;">Brian Boyle</a></u>, 
+- Catalysts for Change? Policy Recommendations in Research on Renewable Energy and Climate Change. ___Revise and Resubmit___ (with <u><a href="https://brianpaulboyle.com" style="color: #2F4F4F;">Brian Boyle</a></u>, 
 <u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>, <u><a href="https://sarahaking.net" style="color: #2F4F4F;">Sarah King</a></u> and <u><a href="https://robinrauner.com" style="color: #2F4F4F;">Robin Rauner</a></u>)<br>
 
 - Selecting and Validating Classifiers for Multilingual and Cross-Domain Stance Detection. (with <u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>) <br>
+
+- Estimating Factions of Red Guard under Mao's China: A Slogan-based Text Scaling Method with Historical Documents. (with <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;">Yi-Nung Tsai</a></u>) <span style="font-size: 11px;"> 
+  <a href="https://www.dropbox.com/scl/fi/qgnvl3w1y5hbsaq168blb/Estimating_Factions_of_Red_Guard_under_Mao_s_China.pdf?rlkey=c6bxr3o3di34vooivgjb2blcf&st=b6d03vmv&dl=0" 
+     style="color: #2F4F4F;" target="_blank">
+    (__Download__ _Updated on Sep 30 2024_)
+  </a>
+   
 
 </span>
 
@@ -43,16 +50,9 @@
 
 <div style="text-align: justify">
 
-
-- Estimating Factions of Red Guard under Mao's China: A Slogan-based Text Scaling Method with Historical Documents. (with <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;">Yi-Nung Tsai</a></u>) <span style="font-size: 11px;"> 
-  <a href="https://www.dropbox.com/scl/fi/qgnvl3w1y5hbsaq168blb/Estimating_Factions_of_Red_Guard_under_Mao_s_China.pdf?rlkey=c6bxr3o3di34vooivgjb2blcf&st=b6d03vmv&dl=0" 
-     style="color: #2F4F4F;" target="_blank">
-    (__Download__ _Updated on Sep 30 2024_)
-  </a>
-   
 - Legislative Preferences for Pork Barrel Messages in Different Electoral Systems: A Case Study of Taiwan Using Fine-tuned Transformers. <br>
 
-<!-- - Widening the Focus: How Electoral Systems Converge Legislators' Issue Attention – An Analysis Using Taiwan Legislative Keywords. (with <u><a href="https://sites.google.com/view/calvin-yuceng-liao/home" style="color: #2F4F4F;">Yu-Ceng Liao</a></u> and <u><a href="https://yitingw.com" style="color: #2F4F4F;">Yi-ting Wang</a></u>) <br> -->
+- Widening the Focus: How Electoral Systems Converge Legislators' Issue Attention – An Analysis Using Taiwan Legislative Keywords. (with <u><a href="https://sites.google.com/view/calvin-yuceng-liao/home" style="color: #2F4F4F;">Yu-Ceng Liao</a></u> and <u><a href="https://yitingw.com" style="color: #2F4F4F;">Yi-ting Wang</a></u>) <br>
 
 - Shock Rhetoric: Local Exposure to Trade Shocks and Rhetorical Extremism in the US House of Representatives. (with <a href="https://www.zikai.li" style="color: #2F4F4F;"><u>Zikai Li</u></a>) <br>
 
