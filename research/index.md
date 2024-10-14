@@ -50,7 +50,7 @@
 
 <div style="text-align: justify">
 
-- Legislative Preferences for Pork Barrel Messages in Different Electoral Systems: A Case Study of Taiwan Using Fine-tuned Transformers. <br>
+- Legislative Preferences for Pork Barrel Messages in Different Electoral Systems. <br>
 
 - Widening the Focus: How Electoral Systems Converge Legislators' Issue Attention – An Analysis Using Taiwan Legislative Keywords. (with <u><a href="https://sites.google.com/view/calvin-yuceng-liao/home" style="color: #2F4F4F;">Yu-Ceng Liao</a></u> and <u><a href="https://yitingw.com" style="color: #2F4F4F;">Yi-ting Wang</a></u>) <br>
 
