@@ -66,7 +66,14 @@
 
 <div style="text-align: justify">
 
+- Who Believes and Who Shares Fake News: An Agent-based Modelling for Misinformation Experiment with Large Language Models (with <u><a href="https://x.com/linettemlim" style="color: #2F4F4F;">Linette Lim</a></u>)<br>
+
+
 - The Politics of Multiple Loyalties: (Cross-Lingual) Grandstanding and Policy Congruence in the European Parliament <br>
+
+- Natural Disasters and Public Compliance: Cross-National Evidence on Authoritarian Power and Value Perceptions (with <u><a href="https://www.ninedtp.ac.uk/wangyin-zhao-a-disaster-for-whom-the-conditional-impact-of-natural-disasters-on-civil-conflicts/" style="color: #2F4F4F;">Wangyin Zhao</a></u> and <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;"> Yi-Nung Tsai</a></u>) <br>
+
+<!-- Natural Disasters and Authoritarian Compliance: Cross-National Evidence on Power and Value Perceptions -->
 
 - Political Parties, Public Opinion, and Legislation on Cross-Strait Relations in Taiwan (with <u><a href="https://sites.google.com/view/calvin-yuceng-liao/home" style="color: #2F4F4F;">Yu-Ceng Liao</a></u> and <u><a href="https://politics.nccu.edu.tw/PageStaffing/Detail?fid=5227&id=1517" style="color: #2F4F4F;">Shing-Yuan Sheng</a></u>) <br>
 
