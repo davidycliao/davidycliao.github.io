@@ -33,12 +33,6 @@
 
 - Selecting and Validating Classifiers for Multilingual and Cross-Domain Stance Detection. (with <u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>) <br>
 
-- Estimating Factions of Red Guard under Mao's China: A Slogan-based Text Scaling Method with Historical Documents. (with <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;">Yi-Nung Tsai</a></u>) <span style="font-size: 11px;"> 
-  <a href="https://www.dropbox.com/scl/fi/qgnvl3w1y5hbsaq168blb/Estimating_Factions_of_Red_Guard_under_Mao_s_China.pdf?rlkey=c6bxr3o3di34vooivgjb2blcf&st=b6d03vmv&dl=0" 
-     style="color: #2F4F4F;" target="_blank">
-    (__Download__ Updated on Sep 30 2024)
-  </a>
-   
 
 </span>
 
@@ -52,11 +46,15 @@
 
 - Electoral Systems and Legislative Preferences: Pork Barrel Statements in Parliamentary Questions. <br>
 
+- Estimating Factions of Red Guard under Mao's China: A Slogan-based Text Scaling Method with Historical Documents. (with <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;">Yi-Nung Tsai</a></u>) <span style="font-size: 11px;"> 
+  <a href="https://www.dropbox.com/scl/fi/qgnvl3w1y5hbsaq168blb/Estimating_Factions_of_Red_Guard_under_Mao_s_China.pdf?rlkey=c6bxr3o3di34vooivgjb2blcf&st=b6d03vmv&dl=0" 
+     style="color: #2F4F4F;" target="_blank">
+    (__Download__ Updated on Sep 30 2024)
+  </a>
+  
 - Widening the Focus: How Electoral Systems Converge Legislators' Issue Attention – An Analysis Using Taiwan Legislative Keywords. (with <u><a href="https://sites.google.com/view/calvin-yuceng-liao/home" style="color: #2F4F4F;">Yu-Ceng Liao</a></u> and <u><a href="https://yitingw.com" style="color: #2F4F4F;">Yi-ting Wang</a></u>) <br>
 
 - Shock Rhetoric: Local Exposure to Trade Shocks and Rhetorical Extremism in the US House of Representatives. (with <a href="https://www.zikai.li" style="color: #2F4F4F;"><u>Zikai Li</u></a>) <br>
-
-- Grandstanding under the Spotlight: Unveiling Elites Crisis Communication in the Council of the European Union.  (with James Cross and Paula Montano) <br>
 
 </div>
 
@@ -65,6 +63,9 @@
 ## In-Progress
 
 <div style="text-align: justify">
+
+- Grandstanding under the Spotlight: Unveiling Elites Crisis Communication in the Council of the European Union.  (with James Cross and Paula Montano) <br>
+
 
 - Who Believes and Shares Fake News: A Multi-Agent System for Experimental Misinformation Research with Large Language Models. (with <u><a href="https://x.com/linettemlim" style="color: #2F4F4F;">Linette Lim</a></u>) <br>
 
@@ -75,7 +76,7 @@
 
 <!-- Natural Disasters and Authoritarian Compliance: Cross-National Evidence on Power and Value Perceptions -->
 
-- Political Parties, Public Opinion, and Legislation on Cross-Strait Relations in Taiwan (with <u><a href="https://sites.google.com/view/calvin-yuceng-liao/home" style="color: #2F4F4F;">Yu-Ceng Liao</a></u> and <u><a href="https://politics.nccu.edu.tw/PageStaffing/Detail?fid=5227&id=1517" style="color: #2F4F4F;">Shing-Yuan Sheng</a></u>) <br>
+<!-- - Political Parties, Public Opinion, and Legislation on Cross-Strait Relations in Taiwan (with <u><a href="https://sites.google.com/view/calvin-yuceng-liao/home" style="color: #2F4F4F;">Yu-Ceng Liao</a></u> and <u><a href="https://politics.nccu.edu.tw/PageStaffing/Detail?fid=5227&id=1517" style="color: #2F4F4F;">Shing-Yuan Sheng</a></u>) <br> -->
 
 - The Effect of Misperception on Election Voting: Evidence from a Field Experiment (with <u><a href="#" style="color: #2F4F4F;">Royce Carroll</a></u>, <u><a href="https://sites.google.com/view/litang2020" style="color: #2F4F4F;">Li Tang</a></u>, and <u><a href="https://sites.google.com/site/yinpenghui2008/home" style="color: #2F4F4F;">Penghui Yin</a></u>) 
     
