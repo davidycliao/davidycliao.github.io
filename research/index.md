@@ -58,6 +58,11 @@
 
 </div>
 
+<div style="text-align: center">
+    <a href="#" target="_blank" style="color: blue;"> </a>  
+    <span style="font-size: small; color: #2F4F4F;"> Latest Draft Available Upon Request </span>
+</div>
+
 ---
 
 ## In-Progress
@@ -82,13 +87,7 @@
 - Grandstanding under the Spotlight: Unveiling Elites Crisis Communication in the Council of the European Union.  (with James Cross and Paula Montano) <br>
 
 
----
 
-
-<div style="text-align: center">
-    <a href="#" target="_blank" style="color: blue;"> </a>  
-    <span style="font-size: small; color: #2F4F4F;"> If you would like to get access to the latest version of a paper, feel free to send me or my coauthor an e-mail. </span>
-</div>
 
 </div>
 
