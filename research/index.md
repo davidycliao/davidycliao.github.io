@@ -31,12 +31,12 @@
 - Catalysts for Change? Policy Recommendations in Research on Renewable Energy and Climate Change. ___Revise and Resubmit___ (with <u><a href="https://brianpaulboyle.com" style="color: #2F4F4F;">Brian Boyle</a></u>, 
 <u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>, <u><a href="https://sarahaking.net" style="color: #2F4F4F;">Sarah King</a></u> and <u><a href="https://robinrauner.com" style="color: #2F4F4F;">Robin Rauner</a></u>)<br>
 
-- Estimating Factions of Red Guard under Mao's China: A Slogan-based Text Scaling Method with Historical Documents. (with <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;">Yi-Nung Tsai</a></u>) <span style="font-size: 11px;"> 
+- Estimating Factions of Red Guard under Mao's China: A Slogan-based Text Scaling Method with Historical Documents. (with <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;">Yi-Nung Tsai</a></u>) <span style="font-size: 9px;"> 
   <a href="https://www.dropbox.com/scl/fi/qgnvl3w1y5hbsaq168blb/Estimating_Factions_of_Red_Guard_under_Mao_s_China.pdf?rlkey=c6bxr3o3di34vooivgjb2blcf&st=b6d03vmv&dl=0" 
      style="color: #2F4F4F;" target="_blank">
-    __[Papaer, Updated on Sep 30 2024]__ 
+    __[PDF]__ 
   </a>
-  
+
 - Selecting and Validating Classifiers for Multilingual and Cross-Domain Stance Detection. (with <u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>) <br>
 
 
@@ -50,8 +50,8 @@
 
 <div style="text-align: justify">
 
-- Electoral Systems and Legislative Preferences: Pork Barrel Statements in Parliamentary Questions. <span style="font-size: 11px;">
-<a href="https://www.dropbox.com/scl/fi/kfeg0tttebwjj4ecpdura/Electoral_Systems_and_Legislative_Preferences.pdf?rlkey=72tj5v9mn1tlr03oc0c2jqfj9&dl=0" style="color: #2F4F4F;" target="_blank">__[Paper, Updated on Nov 22 2024]__</a>
+- Electoral Systems and Legislative Preferences: Pork Barrel Statements in Parliamentary Questions. <span style="font-size: 9px;">
+<a href="https://www.dropbox.com/scl/fi/kfeg0tttebwjj4ecpdura/Electoral_Systems_and_Legislative_Preferences.pdf?rlkey=72tj5v9mn1tlr03oc0c2jqfj9&dl=0" style="color: #2F4F4F;" target="_blank">__[PDF]__</a>
 </span>
 
   <!-- https://raw.githack.com/davidycliao/budapest-methods-workshop/main/electoral-systems-and-legislative-preferences.html -->
