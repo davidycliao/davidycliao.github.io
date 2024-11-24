@@ -74,9 +74,6 @@
 
 <div style="text-align: justify">
 
-- Grandstanding under the Spotlight: Unveiling Elites Crisis Communication in the Council of the European Union.  (with James Cross and Paula Montano) <br>
-
-
 - Who Believes and Shares Fake News: A Multi-Agent System for Experimental Misinformation Research with Large Language Models. (with <u><a href="https://x.com/linettemlim" style="color: #2F4F4F;">Linette Lim</a></u>) <br>
 
 
