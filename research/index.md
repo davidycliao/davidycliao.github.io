@@ -50,14 +50,11 @@
 
 <div style="text-align: justify">
 
-- Electoral Systems and Legislative Preferences: Pork Barrel Statements in Parliamentary Questions. <span style="font-size: 9px;">
-<a href="https://www.dropbox.com/scl/fi/kfeg0tttebwjj4ecpdura/Electoral_Systems_and_Legislative_Preferences.pdf?rlkey=72tj5v9mn1tlr03oc0c2jqfj9&dl=0" style="color: #2F4F4F;" target="_blank">__[PDF]__</a>
+- Electoral Systems and Geographically Targeted Parliamentary Questions in Taiwan. <span style="font-size: 9px;">
+<a href="https://www.dropbox.com/scl/fi/co0vftcpac1akfhutlnjx/Electoral_Systems_and_Geographically_Targeted.pdf?rlkey=639zkqpdblq94hsrw08qz38uy&st=1qmiaf7s&dl=0" style="color: #2F4F4F;" target="_blank">__[PDF]__</a>
 </span>
 
   <!-- https://raw.githack.com/davidycliao/budapest-methods-workshop/main/electoral-systems-and-legislative-preferences.html -->
-
-  
-- Grandstanding under the Spotlight: Unveiling Elites Crisis Communication in the Council of the European Union.  (with James Cross and Paula Montano) <br>
 
 - Widening the Focus: How Electoral Systems Converge Legislators' Issue Attention – An Analysis Using Taiwan Legislative Keywords. (with <u><a href="https://sites.google.com/view/calvin-yuceng-liao/home" style="color: #2F4F4F;">Yu-Ceng Liao</a></u> and <u><a href="https://yitingw.com" style="color: #2F4F4F;">Yi-ting Wang</a></u>) <br>
 
@@ -77,6 +74,8 @@
 
 <div style="text-align: justify">
 
+- Grandstanding under the Spotlight: Unveiling Elites Crisis Communication in the Council of the European Union.  (with James Cross and Paula Montano) <br>
+
 
 - Who Believes and Shares Fake News: A Multi-Agent System for Experimental Misinformation Research with Large Language Models. (with <u><a href="https://x.com/linettemlim" style="color: #2F4F4F;">Linette Lim</a></u>) <br>
 
@@ -91,6 +90,7 @@
 
 - The Effect of Misperception on Election Voting: Evidence from a Field Experiment (with <u><a href="#" style="color: #2F4F4F;">Royce Carroll</a></u>, <u><a href="https://sites.google.com/view/litang2020" style="color: #2F4F4F;">Li Tang</a></u>, and <u><a href="https://sites.google.com/site/yinpenghui2008/home" style="color: #2F4F4F;">Penghui Yin</a></u>) 
     
+- Grandstanding under the Spotlight: Unveiling Elites Crisis Communication in the Council of the European Union.  (with James Cross and Paula Montano) <br>
 
 
 
