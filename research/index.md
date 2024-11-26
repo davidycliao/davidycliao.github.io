@@ -37,9 +37,6 @@
     __[PDF]__ 
   </a>
 
-- Selecting and Validating Classifiers for Multilingual and Cross-Domain Stance Detection. (with <u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>) <br>
-
-
 </span>
 
 </div>
@@ -50,11 +47,14 @@
 
 <div style="text-align: justify">
 
+
 - Electoral Systems and Geographically Targeted Parliamentary Questions in Taiwan. <span style="font-size: 9px;">
 <a href="https://www.dropbox.com/scl/fi/co0vftcpac1akfhutlnjx/Electoral_Systems_and_Geographically_Targeted.pdf?rlkey=639zkqpdblq94hsrw08qz38uy&st=1qmiaf7s&dl=0" style="color: #2F4F4F;" target="_blank">__[PDF]__</a>
 </span>
 
-  <!-- https://raw.githack.com/davidycliao/budapest-methods-workshop/main/electoral-systems-and-legislative-preferences.html -->
+
+- Selecting and Validating Classifiers for Multilingual and Cross-Domain Stance Detection. (with <u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>) <br>
+
 
 - Widening the Focus: How Electoral Systems Converge Legislators' Issue Attention – An Analysis Using Taiwan Legislative Keywords. (with <u><a href="https://sites.google.com/view/calvin-yuceng-liao/home" style="color: #2F4F4F;">Yu-Ceng Liao</a></u> and <u><a href="https://yitingw.com" style="color: #2F4F4F;">Yi-ting Wang</a></u>) <br>
 
