@@ -74,7 +74,8 @@
 
 <div style="text-align: justify">
 
-- Who Believes and Shares Fake News: A Multi-Agent System for Experimental Misinformation Research with Large Language Models. (with <u><a href="https://x.com/linettemlim" style="color: #2F4F4F;">Linette Lim</a></u>) <br>
+- Who Believes and Shares Fake News: A Multi-Agent System for Experimental Misinformation Research with Large Language Models. (with <u><a href="https://x.com/linettemlim" style="color: #2F4F4F;">Linette Lim</a></u> and <u><a href="https://sjankin.com" style="color: #2F4F4F;">Slava Jankin</a></u>) <br>
+
 
 
 <!-- - The Politics of Multiple Loyalties: (Cross-Lingual) Grandstanding and Policy Congruence in the European Parliament <br> -->
