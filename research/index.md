@@ -65,7 +65,6 @@
 
 </div>
 
-- Grandstanding under the Spotlight: Unveiling Elites Crisis Communication in the Council of the European Union.  (with James Cross and Paula Montano) <br>
 
 
 <div style="text-align: center">
@@ -81,6 +80,7 @@
 
 - Who Believes and Shares Fake News: A Multi-Agent System for Experimental Misinformation Research with Large Language Models. (with <u><a href="https://x.com/linettemlim" style="color: #2F4F4F;">Linette Lim</a></u> and <u><a href="https://sjankin.com" style="color: #2F4F4F;">Slava Jankin</a></u>) <br>
 
+- Grandstanding under the Spotlight: Unveiling Elites Crisis Communication in the Council of the European Union.  (with James Cross and Paula Montano) <br>
 
 
 <!-- - The Politics of Multiple Loyalties: (Cross-Lingual) Grandstanding and Policy Congruence in the European Parliament <br> -->
