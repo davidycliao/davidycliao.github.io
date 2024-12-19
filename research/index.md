@@ -94,17 +94,15 @@
 - The Effect of Misperception on Election Voting: Evidence from a Field Experiment (with <u><a href="#" style="color: #2F4F4F;">Royce Carroll</a></u>, <u><a href="https://sites.google.com/view/litang2020" style="color: #2F4F4F;">Li Tang</a></u>, and <u><a href="https://sites.google.com/site/yinpenghui2008/home" style="color: #2F4F4F;">Penghui Yin</a></u>) 
     
 
-
 </div>
 
 
 ---
 
-
 ## Documentations
 
-<a href="https://davidycliao.github.io/flaiR/articles/tutorial.html#introduction" target="_blank" style="color: #515151;"> Tutorial for _flairR_  R Package. </a> (with <u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u> and  Sohini Timbadia) <br>
+<a href="https://davidycliao.github.io/flaiR/articles/tutorial.html#introduction" target="_blank" style="color: #515151;"> Tutorial for __flairR__ R Package. </a> (with <u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u> and Sohini Timbadia) <br>
 
-<a href="https://davidycliao.github.io/legisTaiwan/articles/manual.html#interpellation-and-debates" target="_blank" style="color: #515151;"> User Mannual for _legisTaiwan_ R Package. </a>
+<a href="https://davidycliao.github.io/legisTaiwan/articles/manual.html#interpellation-and-debates" target="_blank" style="color: #515151;"> User Mannual for __legisTaiwan__ R Package. </a>
 
 
