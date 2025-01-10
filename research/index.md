@@ -103,6 +103,7 @@
 
 <a href="https://davidycliao.github.io/flaiR/articles/tutorial.html#introduction" target="_blank" style="color: #515151;"> Tutorial for __flairR__ R Package. </a> (with <u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u> and Sohini Timbadia) <br>
 
-<a href="https://davidycliao.github.io/legisTaiwan/articles/manual.html#interpellation-and-debates" target="_blank" style="color: #515151;"> User Mannual for __legisTaiwan__ R Package. </a>
-
+<a href="https://davidycliao.github.io/legisTaiwan/index.html" target="_blank" style="color: #515151;">
+User Manual for <strong>legisTaiwan</strong> R Package with Taiwan Legislative Yuan API
+</a>
 
