@@ -40,10 +40,10 @@
 <a href="https://davidycliao.github.io/flaiR/" class="bottom-link"  target="_blank">__`flaiR`__</a>  
 
 R wrapper for accessing <span style="color:#5a5a5a">**flair NLP**</span> library in Python. Flair NLP excels with its unique character-level and context-sensitive embeddings, enhancing language understanding and task performance. Its user-friendly API and flexible framework cater to researchers and developers, facilitating easy experimentation with diverse model configurations such as BERT, ELMo, Roberta, and other state-of-the-art models hosted on Hugging Face.
-  <a href="https://davidycliao.github.io/flaiR/" 
+  <!-- <a href="https://davidycliao.github.io/flaiR/" 
      style="color: #2F4F4F;" target="_blank">
     📓__FlaiR Tutorial in R__
-  </a>
+  </a> -->
 
 </div>
  
