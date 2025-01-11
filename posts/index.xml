@@ -1,21 +1,21 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>All Posts - YEN-CHIEH LIAO</title>
-        <link>http://localhost:1313/posts/</link>
+        <link>https://davidycliao.github.io/posts/</link>
         <description>All Posts | YEN-CHIEH LIAO</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 20 Jun 2023 21:29:01 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 20 Jun 2023 21:29:01 &#43;0800</lastBuildDate><atom:link href="https://davidycliao.github.io/posts/" rel="self" type="application/rss+xml" /><item>
     <title>Inviting the use of flairR to help us improve the user experience for R users</title>
-    <link>http://localhost:1313/2023/06/pkg/</link>
+    <link>https://davidycliao.github.io/2023/06/pkg/</link>
     <pubDate>Tue, 20 Jun 2023 21:29:01 &#43;0800</pubDate>
     <author>Author</author>
-    <guid>http://localhost:1313/2023/06/pkg/</guid>
+    <guid>https://davidycliao.github.io/2023/06/pkg/</guid>
     <description><![CDATA[FlaiR - Streamlining NLP and Custom Deep Learning Model We are currently in the process of testing flairR, an R wrapper specifically designed to train transformers and perform NLP tasks using Flair NLP in an R environment. This package is tailored to provide core sequence tagging features, including part-of-speech tasks, named entity recognition, and transformer-based sentiment analysis, especially for users in the social sciences who are accustomed to using R.]]></description>
 </item><item>
     <title>原住民族資料分析線上讀書會：R的基礎與應用</title>
-    <link>http://localhost:1313/2021/07/databoot-camp/</link>
+    <link>https://davidycliao.github.io/2021/07/databoot-camp/</link>
     <pubDate>Sat, 10 Jul 2021 21:29:01 &#43;0800</pubDate>
     <author>Author</author>
-    <guid>http://localhost:1313/2021/07/databoot-camp/</guid>
+    <guid>https://davidycliao.github.io/2021/07/databoot-camp/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/images/truku.png" referrerpolicy="no-referrer">
             </div>課程介紹與目的 建立這個工作坊的啟發源自「紐約時報」 “ Training the Next Generation of Indigenous Data Scientists ” 這篇報導，藉此我們也應該提升我們自己的原住民族與族群事務從業人員的資料分析能力，之後可將這些分析技術應用在族群政策評估、文化資料，甚至是語言資料的保護上。
@@ -26,10 +26,10 @@
 軟體環境 R 4.0 RStudio Desktop 安裝Ｒ與Rstudio 課表 每週六碰面，課程一堂共1小時40分鐘。一堂課會聚焦在三個基本觀念，一次15-20分鐘觀念講授（lecture），10-15分鐘實作（lab），3次循環。 上課互動筆記白板 第一週 (7/17 PM19:00) 講課 : 作業環境安裝（R與RStudio關係）、基礎R語言、資料結構與套件導入、R的社群生態 教學檔案 : PDF｜HTML | files 第二週 (7/24 PM19:00) 講課 : 向量(vector)、序列（list）、矩陣（matrix）、資料框架（dataframe）與新型資料框架（tibbles） 實作演練 : 台東縣議員建議款分配的政治分析 Rmd | html 教學檔案 : PDF｜HTML | files | 共同作業 第三週(8/7 PM19:00) 講課 ： Tidyverse 模組系列（一）、數據處理 實作演練 : 實作：2019 年文官調查資料 教學檔案 : PDF｜HTML | files 第四週 (8/21 PM19:00) 講課 : Tidyverse 模組系列（二）、迭代循環（Iteration）、資料視覺化EDA 教學檔案 : PDF｜HTML | files 第五週 (8/28 PM19:00 ) 講師 : 黃柔翡 博士候選人 講課 : 用R檢視地圖資料、地圖packages介紹和應用、製作互動式地圖 教學檔案 : HTML｜files 實作資料 台灣政經傳播研究多年期研究規劃：一般民眾定群追蹤面訪調查資料 、文官定群追蹤網路調查資料 台灣選舉與民主化調查 The British Election Study (英國選舉資料) The British Election Study Expert Survey (英國選舉專家調查) 備註 將會使用google meet 的方式進行，因此請大家務必填寫信箱，將會使用google行事曆，告知大家上課時間及日期。 上課日期：7月17日至8月14日, 每堂課於PM19:00至PM20:30m 課程完全免費，有關上課資訊或連結請洽「台灣原住民族太魯閣族學生青年會」（email:trukuyouth@gmail.]]></description>
 </item><item>
     <title>Co-authored Paper Presentation @Glasgow EPSA  </title>
-    <link>http://localhost:1313/2023/06/ccp/</link>
+    <link>https://davidycliao.github.io/2023/06/ccp/</link>
     <pubDate>Sun, 04 Jun 2023 21:29:01 &#43;0800</pubDate>
     <author>Author</author>
-    <guid>http://localhost:1313/2023/06/ccp/</guid>
+    <guid>https://davidycliao.github.io/2023/06/ccp/</guid>
     <description><![CDATA[Electoral Systems and Party Convergence on Issue Attentions (with Yu-Ceng Liao) This paper investigates how legislators respond to an electoral reform by adjusting their ideological positions with respect to co-partisans and rivals. Using data from Taiwan&rsquo;s legislative roll calls over 20 years, we study the extent to which partisan disagreement is influenced by the 2008 Taiwanese electoral reform from Single Non-Transferable Votes (SNTV) to Single-Member Districts (SMD). Contrary to the literature, our empirical evidence shows that the reform significantly fragmented legislator positions in relation to both co-partisans and members from the rival party.]]></description>
 </item></channel>
 </rss>
