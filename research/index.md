@@ -42,7 +42,7 @@
     __[PDF]__ 
   </a>
 
-- Electoral Reform and Geographically-Targeted Oversight: Evidence from Taiwan. （with <u><a href="https://sites.google.com/view/litang2020" style="color: #2F4F4F;">Li Tang</a></u>）
+- Electoral Reform and Geographically-Targeted Oversight: Evidence from Taiwan Legislative Yuan. （with <u><a href="https://sites.google.com/view/litang2020" style="color: #2F4F4F;">Li Tang</a></u>）
 
 </span>
 
@@ -85,7 +85,7 @@
 
 - Who Believes and Shares Fake News: A Multi-Agent System for Experimental Misinformation Research with Large Language Models. (with <u><a href="https://x.com/linettemlim" style="color: #2F4F4F;">Linette Lim</a></u> and <u><a href="https://sjankin.com" style="color: #2F4F4F;">Slava Jankin</a></u>) <br>
 
-- Natural Disasters and Public Compliance: Cross-National Evidence on Authoritarian Power and Value Perceptions. (with <u><a href="https://www.ninedtp.ac.uk/wangyin-zhao-a-disaster-for-whom-the-conditional-impact-of-natural-disasters-on-civil-conflicts/" style="color: #2F4F4F;">Wangyin Zhao</a></u> and <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;"> Yi-Nung Tsai</a></u>) <br>
+- Climate Change and Regime Acceptance: \\ Evidence from Cross-National Analysis. (with <u><a href="https://www.ninedtp.ac.uk/wangyin-zhao-a-disaster-for-whom-the-conditional-impact-of-natural-disasters-on-civil-conflicts/" style="color: #2F4F4F;">Wangyin Zhao</a></u> and <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;"> Yi-Nung Tsai</a></u>) <br>
 
 -  Multi-Dimensional Policy Congruence and Political Attitudes ( with <u><a href="#" style="color: #2F4F4F;">Royce Carroll</a></u> and <u><a href="https://sites.google.com/view/litang2020" style="color: #2F4F4F;">Li Tang</a></u>)
   
@@ -106,11 +106,12 @@
 
 ---
 
-### Documentations
+### Documentations and Others
 
-<a href="https://davidycliao.github.io/flaiR/articles/tutorial.html#introduction" target="_blank" style="color: #515151;"> Tutorial for __flairR__ R Package. </a> (with <u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u> and Sohini Timbadia) <br>
+- <a href="https://davidycliao.github.io/flaiR/articles/tutorial.html#introduction" target="_blank" style="color: #515151;"> Flair NLP and flaiR for Social Science. </a> (with <u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u> and Sohini Timbadia) <br>
 
-<a href="https://davidycliao.github.io/legisTaiwan/index.html" target="_blank" style="color: #515151;">
-User Manual for <strong>legisTaiwan</strong> R Package with Taiwan Legislative Yuan API
-</a>
+<!-- - User Manual for <strong>legisTaiwan</strong> R Package with Taiwan Legislative Yuan API (with <u><a href="" style="color: #2F4F4F;">Shaka Y.J. Li</a></u>) <br>  -->
+
+-  <a href="https://davidycliao.github.io/flaiR/articles/tutorial.html#introduction" target="_blank" style="color: #515151;">  __legisTaiwan__ </a>  R Pacakge: Data Analysis and Applications with Taiwan Legislative Yuan API
+</a> (with <u><a href="" style="color: #2F4F4F;">Shaka Y.J. Li</a></u>) <br>
 
