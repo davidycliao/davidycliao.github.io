@@ -81,7 +81,7 @@
 
 <div style="text-align: justify">
 
-- Dynamic Embedding Regression with Cross-lingual Encoder Architectures for Political Text. 
+- Dynamic Cross-lingual Embedding Regression for Political Text. 
 
 - Who Believes and Shares Fake News: A Multi-Agent System for Experimental Misinformation Research with Large Language Models. (with <u><a href="https://x.com/linettemlim" style="color: #2F4F4F;">Linette Lim</a></u> and <u><a href="https://sjankin.com" style="color: #2F4F4F;">Slava Jankin</a></u>) <br>
 
