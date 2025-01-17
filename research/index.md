@@ -12,11 +12,16 @@
 
 <div style="text-align: justify">
 
+<a href="https://www.cambridge.org/core/journals/political-science-research-and-methods/article/misperception-of-party-congruence-and-satisfaction-with-democracy/48E409867105FD3737126E6FA05F13ED" target="_blank" style="color: #515151;"> __2025__ 官僚「再詮釋」領導人意識形態初探：以《人民日報》習近平外交思想的評論為例 (Bureaucratic ‘Reinterpretation’ of Leaders’ Ideologies: A Case Study of People's Daily's Commentary on Xi Jinping Thought on Diplomacy). </a> _中國大陸研究 forthcoming_. (with <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;">Yi-Nung Tsai</a></u>) <br>
+
+
 <a href="https://www.cambridge.org/core/journals/political-science-research-and-methods/article/misperception-of-party-congruence-and-satisfaction-with-democracy/48E409867105FD3737126E6FA05F13ED" target="_blank" style="color: #515151;"> __2024__ (Mis)perception of Party-voter Congruence and Satisfaction with Democracy. </a> _Political Science Research and Methods_. (with <u><a href="#" style="color: #2F4F4F;">Royce Carroll</a></u> and <u><a href="https://sites.google.com/view/litang2020" style="color: #2F4F4F;">Li Tang</a></u>) <br>
+
 
 <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/lsq.12459" target="_blank" style="color: #515151;"> __2024__ Electoral Reform and Fragmented Polarization: New Evidence from Taiwan Legislative Roll Call.</a> _Legislative Studies Quarterly_. <br>
 
 <a href="https://www.jstor.org/stable/27221360" target="_blank" style="color: #515151;"> __2023__ The Role of Rituals in Adversarial Parliaments: An Analysis of Expressions of Collegiality in the British House of Commons.</a> _Historical Social Research_ 48 (3): 209-234. (with <u><a href="https://www.uni-bamberg.de/comparpol/lehrstuhlteam/david-beck/" style="color: #2F4F4F;">David Beck</a></u> and <u><a href="https://www.uni-bamberg.de/vp-forschung/" style="color: #2F4F4F;">Thomas Saalfeld</a></u>) <br>
+
 
 <a href="https://academic.oup.com/irap/article-abstract/15/1/147/2937074?redirectedFrom=fulltext" target="_blank" style="color: #515151;">__2015__ The Rationale for Supporting Nuclear Power: Analysis of Taiwanese Public Opinion Survey.</a> _International Relations of the Asia-Pacific_ 15 (1): 147-176. (with <u><a href="https://scholar.google.com/citations?user=RIYMCiwAAAAJ&hl=en" style="color: #2F4F4F;">Xiaochen Su</a></u>, <u><a href="https://www.ipsas.sinica.edu.tw/en/研究人員/吳重禮/" style="color: #2F4F4F;">Chung-li Wu</a></u>, Tai-De Lee, and Chen Tsao) <br>
 
@@ -37,6 +42,8 @@
     __[PDF]__ 
   </a>
 
+- Electoral Reform and Geographically-Targeted Oversight: Evidence from Taiwan. （with <u><a href="https://sites.google.com/view/litang2020" style="color: #2F4F4F;">Li Tang</a></u>）
+
 </span>
 
 </div>
@@ -46,14 +53,10 @@
 ## Working Papers
 
 <div style="text-align: justify">
-
-
-- Electoral Reform and Geographically-Targeted Questions in Parliamentary Oversight: Evidence from Taiwan.
  
  <!-- <span style="font-size: 9px;">
 <a href="https://www.dropbox.com/scl/fi/co0vftcpac1akfhutlnjx/Electoral_Systems_and_Geographically_Targeted.pdf?rlkey=639zkqpdblq94hsrw08qz38uy&st=1qmiaf7s&dl=0" style="color: #2F4F4F;" target="_blank">__[PDF]__</a>
 </span> -->
-
 
 - Selecting and Validating Classifiers for Multilingual and Cross-Domain Stance Detection. (with <u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>) <br>
 
@@ -78,11 +81,11 @@
 
 <div style="text-align: justify">
 
+- Dynamic Embedding Regression with Cross-lingual Encoder Architectures for Political Text. 
+
 - Who Believes and Shares Fake News: A Multi-Agent System for Experimental Misinformation Research with Large Language Models. (with <u><a href="https://x.com/linettemlim" style="color: #2F4F4F;">Linette Lim</a></u> and <u><a href="https://sjankin.com" style="color: #2F4F4F;">Slava Jankin</a></u>) <br>
 
-
 - Natural Disasters and Public Compliance: Cross-National Evidence on Authoritarian Power and Value Perceptions. (with <u><a href="https://www.ninedtp.ac.uk/wangyin-zhao-a-disaster-for-whom-the-conditional-impact-of-natural-disasters-on-civil-conflicts/" style="color: #2F4F4F;">Wangyin Zhao</a></u> and <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;"> Yi-Nung Tsai</a></u>) <br>
-
 
 -  Multi-Dimensional Policy Congruence and Political Attitudes ( with <u><a href="#" style="color: #2F4F4F;">Royce Carroll</a></u> and <u><a href="https://sites.google.com/view/litang2020" style="color: #2F4F4F;">Li Tang</a></u>)
   
