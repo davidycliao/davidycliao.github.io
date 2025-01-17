@@ -8,7 +8,7 @@
 
 <div style="text-align: left">
 
-## Publications
+### Publications
 
 <div style="text-align: justify">
 
@@ -29,7 +29,7 @@
 
 ---
 
-## Under Review
+### Under Review
 
 <div style="text-align: justify">
 
@@ -50,7 +50,7 @@
 
 ---
 
-## Working Papers
+### Working Papers
 
 <div style="text-align: justify">
  
@@ -77,7 +77,7 @@
 
 ---
 
-## In-Progress
+### In-Progress
 
 <div style="text-align: justify">
 
@@ -104,10 +104,9 @@
 
 </div>
 
-
 ---
 
-## Documentations
+### Documentations
 
 <a href="https://davidycliao.github.io/flaiR/articles/tutorial.html#introduction" target="_blank" style="color: #515151;"> Tutorial for __flairR__ R Package. </a> (with <u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u> and Sohini Timbadia) <br>
 
