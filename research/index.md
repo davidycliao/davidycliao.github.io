@@ -106,7 +106,7 @@
 
 ---
 
-### Documentations and Others
+### Documentations
 
 - <a href="https://davidycliao.github.io/flaiR/articles/tutorial.html#introduction" target="_blank" style="color: #515151;"> Flair NLP and flaiR for Social Science. </a> (with <u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u> and Sohini Timbadia) <br>
 
