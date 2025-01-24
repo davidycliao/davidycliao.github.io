@@ -85,7 +85,7 @@
 
 - Who Believes and Shares Fake News: A Multi-Agent System for Experimental Misinformation Research with Large Language Models. (with <u><a href="https://x.com/linettemlim" style="color: #2F4F4F;">Linette Lim</a></u> and <u><a href="https://sjankin.com" style="color: #2F4F4F;">Slava Jankin</a></u>) <br>
 
-- Climate Change and Regime Acceptance: \\ Evidence from Cross-National Analysis. (with <u><a href="https://www.ninedtp.ac.uk/wangyin-zhao-a-disaster-for-whom-the-conditional-impact-of-natural-disasters-on-civil-conflicts/" style="color: #2F4F4F;">Wangyin Zhao</a></u> and <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;"> Yi-Nung Tsai</a></u>) <br>
+- Climate Change and Regime Acceptance:  Evidence from Cross-National Analysis. (with <u><a href="https://www.ninedtp.ac.uk/wangyin-zhao-a-disaster-for-whom-the-conditional-impact-of-natural-disasters-on-civil-conflicts/" style="color: #2F4F4F;">Wangyin Zhao</a></u> and <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;"> Yi-Nung Tsai</a></u>) <br>
 
 -  Multi-Dimensional Policy Congruence and Political Attitudes ( with <u><a href="#" style="color: #2F4F4F;">Royce Carroll</a></u> and <u><a href="https://sites.google.com/view/litang2020" style="color: #2F4F4F;">Li Tang</a></u>)
   
