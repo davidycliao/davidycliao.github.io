@@ -113,7 +113,7 @@
 
 ### Documentations
 
-- <a href="https://davidycliao.github.io/flaiR/articles/tutorial.html#introduction" target="_blank" style="color: #515151;"> Flair NLP and __flaiR__  for Social Science with R. </a> (with <u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u> and Sohini Timbadia) <br>
+- <a href="https://davidycliao.github.io/flaiR/articles/tutorial.html#introduction" target="_blank" style="color: #515151;"> Flair NLP and __flaiR__  for Social Science with R. </a> (with Sohini Timbadia) <br>
 
 <!-- - User Manual for <strong>legisTaiwan</strong> R Package with Taiwan Legislative Yuan API (with <u><a href="" style="color: #2F4F4F;">Shaka Y.J. Li</a></u>) <br>  -->
 
