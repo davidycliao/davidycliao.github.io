@@ -12,12 +12,10 @@
 
 <div style="text-align: justify">
 
-
 <a href="https://doi.org/10.1016/j.erss.2025.103955" target="_blank" style="color: #515151;"> __2025__ Catalysts for Progress? Mapping Policy Insights from Energy Research. </a>  <a href="https://www.sciencedirect.com/journal/energy-research-and-social-science" target="_blank" style="color: black;">  _Energy Research & Social Science (forthcoming)_. </a>  (with <u><a href="https://brianpaulboyle.com" style="color: #2F4F4F;">Brian Boyle</a></u>, 
 <u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>, <u><a href="https://sarahaking.net" style="color: #2F4F4F;">Sarah King</a></u> and <u><a href="https://robinrauner.com" style="color: #2F4F4F;">Robin Rauner</a></u>)<br>
 
-<a href="" target="_blank" style="color: #515151;"> __2025__ 官僚「再詮釋」領導人意識形態初探：以《人民日報》習近平外交思想的評論為例 (Bureaucratic ‘Reinterpretation’ of Leaders’ Ideologies: A Case Study of People's Daily's Commentary on Xi Jinping Thought on Diplomacy). </a> <a href="http://mcs.nccu.edu.tw/CHINA_Eng/editor.html" target="_blank" style="color: black;">  _中國大陸研究 Mainland China Studies (forthcoming)_.</a>  (with <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;">Yi-Nung Tsai</a></u>) <br>
-
+<a href="" target="_blank" style="color: #515151;"> __2025__ 官僚「再詮釋」領導人意識形態初探：以《人民日報》習近平外交思想的評論為例 (Bureaucratic ‘Reinterpretation’ of Leaders’ Ideologies: A Case Study of People's Daily's Commentary on Xi Jinping Thought on Diplomacy). </a> <a href="http://mcs.nccu.edu.tw/CHINA_Eng/editor.html" target="_blank" style="color: black;">  _中國大陸研究 Mainland China Studies (forthcoming)_.</a>  (with <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;">Yi-Nung Tsai</a></u>)
 
 <a href="https://www.cambridge.org/core/journals/political-science-research-and-methods/article/misperception-of-party-congruence-and-satisfaction-with-democracy/48E409867105FD3737126E6FA05F13ED" target="_blank" style="color: #515151;"> __2024__ (Mis)perception of Party-voter Congruence and Satisfaction with Democracy. </a> </a> <a href="https://www.cambridge.org/core/journals/political-science-research-and-methods" target="_blank" style="color: black;">  _Political Science Research and Methods_. </a> (with <u><a href="#" style="color: #2F4F4F;">Royce Carroll</a></u> and <u><a href="https://sites.google.com/view/litang2020" style="color: #2F4F4F;">Li Tang</a></u>) <br>
 
@@ -25,14 +23,12 @@
 
 <a href="https://www.jstor.org/stable/27221360" target="_blank" style="color: #515151;"> __2023__ The Role of Rituals in Adversarial Parliaments: An Analysis of Expressions of Collegiality in the British House of Commons.</a>  <a href="https://www.gesis.org/en/hsr" target="_blank" style="color: black;">  _Historical Social Research_. </a> 48 (3): 209-234. (with <u><a href="https://www.uni-bamberg.de/comparpol/lehrstuhlteam/david-beck/" style="color: #2F4F4F;">David Beck</a></u> and <u><a href="https://www.uni-bamberg.de/vp-forschung/" style="color: #2F4F4F;">Thomas Saalfeld</a></u>) <br>
 
-
-
 <a href="https://academic.oup.com/irap/article-abstract/15/1/147/2937074?redirectedFrom=fulltext" target="_blank" style="color: #515151;">__2015__ The Rationale for Supporting Nuclear Power: Analysis of Taiwanese Public Opinion Survey.</a>  <a href="https://academic.oup.com/irap" target="_blank" style="color: black;">  _International Relations of the Asia-Pacific_. </a>
  15 (1): 147-176. (with <u><a href="https://scholar.google.com/citations?user=RIYMCiwAAAAJ&hl=en" style="color: #2F4F4F;">Xiaochen Su</a></u>, <u><a href="https://www.ipsas.sinica.edu.tw/en/研究人員/吳重禮/" style="color: #2F4F4F;">Chung-li Wu</a></u>, Tai-De Lee, and Chen Tsao) <br>
 
 </div>
 
-
+<!-- <br/> -->
 
 ---
 
@@ -47,13 +43,20 @@
     __[PDF]__ 
   </a>
 
-- Electoral Reform and Geographically-Targeted Oversight: Evidence from Taiwan Legislative Yuan. （with <u><a href="https://sites.google.com/view/litang2020" style="color: #2F4F4F;">Li Tang</a></u>）
-
 </span>
 
 </div>
 
----
+
+<!-- 
+### Review Article in Chinese
+
+<div style="text-align: justify">
+
+<a href="" target="_blank" style="color: #515151;"> __2025__ 官僚「再詮釋」領導人意識形態初探：以《人民日報》習近平外交思想的評論為例 (Bureaucratic ‘Reinterpretation’ of Leaders’ Ideologies: A Case Study of People's Daily's Commentary on Xi Jinping Thought on Diplomacy). </a> <a href="http://mcs.nccu.edu.tw/CHINA_Eng/editor.html" target="_blank" style="color: black;">  _中國大陸研究 Mainland China Studies (forthcoming)_.</a>  (with <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;">Yi-Nung Tsai</a></u>)
+
+</div> -->
+
 
 ### Working Papers
 
@@ -63,11 +66,16 @@
 <a href="https://www.dropbox.com/scl/fi/co0vftcpac1akfhutlnjx/Electoral_Systems_and_Geographically_Targeted.pdf?rlkey=639zkqpdblq94hsrw08qz38uy&st=1qmiaf7s&dl=0" style="color: #2F4F4F;" target="_blank">__[PDF]__</a>
 </span> -->
 
+
+- Electoral Reform and Geographically-Targeted Oversight: Evidence from Taiwan Legislative Yuan. （with <u><a href="https://sites.google.com/view/litang2020" style="color: #2F4F4F;">Li Tang</a></u>）<span style="font-size: 9px;"> <a href="https://www.dropbox.com/scl/fi/ppxruc9jgwrlnwdnoxaxb/Electoral_Systems_and_Geographically_Targeted.pdf?rlkey=pg9owrhasrancnqvbrghcdclb&st=hlydvh7o&dl=0" 
+     style="color: #2F4F4F;" target="_blank">__[PDF]__</a>
+
+
+
 - Selecting and Validating Classifiers for Multilingual and Cross-Domain Stance Detection. (with <u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>) <br>
 
 
 - How Electoral Rules Shape Legislative Oversight: Evidence from Taiwan's Ministerial Interpellation. (with <u><a href="https://sites.google.com/view/calvin-yuceng-liao/home" style="color: #2F4F4F;">Yu-Ceng Liao</a></u> and <u><a href="https://yitingw.com" style="color: #2F4F4F;">Yi-ting Wang</a></u>) <br>
-
 
 <!-- - Shock Rhetoric: Local Exposure to Trade Shocks and Rhetorical Extremism in the US House of Representatives. (with <a href="https://www.zikai.li" style="color: #2F4F4F;"><u>Zikai Li</u></a>) <br> -->
 
