@@ -67,7 +67,7 @@
 </span> -->
 
 
-- Electoral Reform and Geographically-Targeted Oversight: Evidence from Taiwan Legislative Yuan. （with <u><a href="https://sites.google.com/view/litang2020" style="color: #2F4F4F;">Li Tang</a></u>）<span style="font-size: 9px;"> <a href="https://www.dropbox.com/scl/fi/ppxruc9jgwrlnwdnoxaxb/Electoral_Systems_and_Geographically_Targeted.pdf?rlkey=pg9owrhasrancnqvbrghcdclb&st=hlydvh7o&dl=0" 
+- Electoral Reform and Geographically-Targeted Oversight: Evidence from Taiwan Legislative Yuan. (with <u><a href="https://sites.google.com/view/litang2020" style="color: #2F4F4F;">Li Tang</a></u>)<span style="font-size: 9px;"> <a href="https://www.dropbox.com/scl/fi/ppxruc9jgwrlnwdnoxaxb/Electoral_Systems_and_Geographically_Targeted.pdf?rlkey=pg9owrhasrancnqvbrghcdclb&st=i5sgiejd&dl=0" 
      style="color: #2F4F4F;" target="_blank">__[PDF]__</a>
 
 
