@@ -57,6 +57,8 @@
 
 </div> -->
 
+---
+
 
 ### Working Papers
 
@@ -120,7 +122,7 @@
 
 ---
 
-### Documentations
+### Documentation and Report
 
 - <a href="https://davidycliao.github.io/flaiR/articles/tutorial.html#introduction" target="_blank" style="color: #515151;"> Flair NLP and __flaiR__  for Social Science with R. </a> (with Sohini Timbadia) <br>
 
