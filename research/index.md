@@ -76,8 +76,6 @@
 - Selecting and Validating Classifiers for Multilingual and Cross-Domain Stance Detection. (with <u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>) <br>
 
 
-- How Electoral Rules Shape Legislative Oversight: Evidence from Taiwan's Ministerial Interpellation. (with <u><a href="https://sites.google.com/view/calvin-yuceng-liao/home" style="color: #2F4F4F;">Yu-Ceng Liao</a></u> and <u><a href="https://yitingw.com" style="color: #2F4F4F;">Yi-ting Wang</a></u>) <br>
-
 <!-- - Shock Rhetoric: Local Exposure to Trade Shocks and Rhetorical Extremism in the US House of Representatives. (with <a href="https://www.zikai.li" style="color: #2F4F4F;"><u>Zikai Li</u></a>) <br> -->
 
 - Grandstanding under the Spotlight: Unveiling Elites Crisis Communication in the Council of the European Union.  (with James Cross and Paula Montano) <br>
@@ -96,6 +94,9 @@
 ### In-Progress
 
 <div style="text-align: justify">
+
+- How Electoral Rules Shape Legislative Issue Attention: Evidence from Taiwan's Ministerial Interpellation (with <u><a href="https://sites.google.com/view/calvin-yuceng-liao/home" style="color: #2F4F4F;">Yu-Ceng Liao</a></u> and <u><a href="https://yitingw.com" style="color: #2F4F4F;">Yi-ting Wang</a></u>) <br>
+
 
 - Who Believes and Shares Fake News: A Multi-Agentic System for Experimental Misinformation Research with Large Language Models. (with <u><a href="https://x.com/linettemlim" style="color: #2F4F4F;">Linette Lim</a></u> and <u><a href="https://sjankin.com" style="color: #2F4F4F;">Slava Jankin</a></u>) <br>
 
