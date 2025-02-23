@@ -73,6 +73,7 @@
 <a href="https://www.dropbox.com/scl/fi/co0vftcpac1akfhutlnjx/Electoral_Systems_and_Geographically_Targeted.pdf?rlkey=639zkqpdblq94hsrw08qz38uy&st=1qmiaf7s&dl=0" style="color: #2F4F4F;" target="_blank">__[PDF]__</a>
 </span> -->
 
+- <u>_Pre-analysis Plan_</u>: “Who Believes and Shares Fake News: A Multi-Agentic System for Experimental Misinformation Research with Large Language Models”. (with <u><a href="https://linettemlim.github.io" style="color: #2F4F4F;">Linette Lim</a></u> and <u><a href="https://sjankin.com" style="color: #2F4F4F;">Slava Jankin</a></u>) <br>
 
 
 - Selecting and Validating Classifiers for Multilingual and Cross-Domain Stance Detection. (with <u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>) <br>
@@ -81,6 +82,8 @@
 <!-- - Shock Rhetoric: Local Exposure to Trade Shocks and Rhetorical Extremism in the US House of Representatives. (with <a href="https://www.zikai.li" style="color: #2F4F4F;"><u>Zikai Li</u></a>) <br> -->
 
 - Grandstanding under the Spotlight: Unveiling Elites Crisis Communication in the Council of the European Union.  (with James Cross and Paula Montano) <br>
+
+
 
 </div>
 
@@ -95,20 +98,31 @@
 
 ### In-Progress
 
+
+
+
 <div style="text-align: justify">
 
-- How Electoral Rules Shape Legislative Issue Attention: Evidence from Taiwan's Ministerial Interpellation (with <u><a href="https://sites.google.com/view/calvin-yuceng-liao/home" style="color: #2F4F4F;">Yu-Ceng Liao</a></u> and <u><a href="https://yitingw.com" style="color: #2F4F4F;">Yi-ting Wang</a></u>) <br>
+- Measuring Elite Loyalty and Political Cleavages in Maoist China. (with <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;">Yi-Nung Tsai</a></u>)
+<br>
+
+- How Electoral Rules Shape Legislative Issue Attention: Evidence from Taiwan's Ministerial Interpellation. (with <u><a href="https://sites.google.com/view/calvin-yuceng-liao/home" style="color: #2F4F4F;">Yu-Ceng Liao</a></u> and <u><a href="https://yitingw.com" style="color: #2F4F4F;">Yi-ting Wang</a></u>) 
+<br>
+
+- Game-Theoretic Multi-Agent System for International Crisis Negotiations: Modeling Elite Behavior with Large Language Models. (with <u><a href="" style="color: #2F4F4F;">Shuli Zhang</a></u>)<br>
 
 
-- Who Believes and Shares Fake News: A Multi-Agentic System for Experimental Misinformation Research with Large Language Models. (with <u><a href="https://x.com/linettemlim" style="color: #2F4F4F;">Linette Lim</a></u> and <u><a href="https://sjankin.com" style="color: #2F4F4F;">Slava Jankin</a></u>) <br>
+- Dynamic and Multi-lingual Embedding Inference for Political Text.
+   <!-- (with <u><a href="https://www.winniexia.com" style="color: #2F4F4F;">Winnie Xia</a></u> and <u><a href="https://sjankin.com" style="color: #2F4F4F;">Slava Jankin</a></u>) <br> -->
 
+- Topic-Based Text Segmentation for Political Transcripts.  (with <u><a href="https://phsieh.com" style="color: #2F4F4F;">Pei-Hsun Hsieh</a></u> </a></u>) <br> 
 
-- Dynamic Cross-lingual Embedding Regression for Political Text. 
-
-- Climate Change and Public Perceptions of Institutional Compliance: A Multidimensional Scaling Approach to Cross-National Analysis. (with <u><a href="https://www.ninedtp.ac.uk/wangyin-zhao-a-disaster-for-whom-the-conditional-impact-of-natural-disasters-on-civil-conflicts/" style="color: #2F4F4F;">Wangyin Zhao</a></u> and <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;"> Yi-Nung Tsai</a></u>) <br>
+- Climate Change and Public Perceptions of Institutional Compliance: A Multidimensional Scaling Approach to Cross-National Analysis. (with <u><a href="https://www.ninedtp.ac.uk/wangyin-zhao-a-disaster-for-whom-the-conditional-impact-of-natural-disasters-on-civil-conflicts/" style="color: #2F4F4F;">Wangyin Zhao</a></u> and <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;"> Yi-Nung Tsai</a></u>)<br>
 
 -  Multi-Dimensional Policy Congruence and Political Attitudes ( with <u><a href="#" style="color: #2F4F4F;">Royce Carroll</a></u> and <u><a href="https://sites.google.com/view/litang2020" style="color: #2F4F4F;">Li Tang</a></u>)
   
+
+
 
 
 <!-- - The Politics of Multiple Loyalties: (Cross-Lingual) Grandstanding and Policy Congruence in the European Parliament <br> -->
