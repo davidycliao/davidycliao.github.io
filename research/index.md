@@ -115,7 +115,7 @@
 - Dynamic and Multi-lingual Embedding Inference for Political Text.
    <!-- (with <u><a href="https://www.winniexia.com" style="color: #2F4F4F;">Winnie Xia</a></u> and <u><a href="https://sjankin.com" style="color: #2F4F4F;">Slava Jankin</a></u>) <br> -->
 
-- Topic-Based Text Segmentation for Political Transcripts.  (with <u><a href="https://phsieh.com" style="color: #2F4F4F;">Pei-Hsun Hsieh</a></u> </a></u>) <br> 
+<!-- - Topic-Based Text Segmentation for Political Transcripts.  (with <u><a href="https://phsieh.com" style="color: #2F4F4F;">Pei-Hsun Hsieh</a></u> </a></u>) <br>  -->
 
 - Climate Change and Public Perceptions of Institutional Compliance: A Multidimensional Scaling Approach to Cross-National Analysis. (with <u><a href="https://www.ninedtp.ac.uk/wangyin-zhao-a-disaster-for-whom-the-conditional-impact-of-natural-disasters-on-civil-conflicts/" style="color: #2F4F4F;">Wangyin Zhao</a></u> and <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;"> Yi-Nung Tsai</a></u>)<br>
 
