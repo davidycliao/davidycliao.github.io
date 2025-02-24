@@ -109,7 +109,7 @@
 - How Electoral Rules Shape Legislative Issue Attention: Evidence from Taiwan's Ministerial Interpellation. (with <u><a href="https://sites.google.com/view/calvin-yuceng-liao/home" style="color: #2F4F4F;">Yu-Ceng Liao</a></u> and <u><a href="https://yitingw.com" style="color: #2F4F4F;">Yi-ting Wang</a></u>) 
 <br>
 
-- Game-Theoretic Multi-Agent System for International Crisis Negotiations: Modeling Elite Behavior with Large Language Models. (with <u><a href="" style="color: #2F4F4F;">Shuli Zhang</a></u>)<br>
+<!-- - Game-Theoretic Multi-Agent System for International Crisis Negotiations: Modeling Elite Behavior with Large Language Models. (with <u><a href="" style="color: #2F4F4F;">Shuli Zhang</a></u>)<br> -->
 
 
 - Dynamic and Multi-lingual Embedding Inference for Political Text.
