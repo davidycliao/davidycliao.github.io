@@ -106,7 +106,7 @@
 - Measuring Elite Loyalty and Political Cleavages in Maoist China. (with <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;">Yi-Nung Tsai</a></u>)
 <br>
 
-- How Electoral Rules Shape Legislative Issue Attention: Evidence from Taiwan's Ministerial Interpellation. (with <u><a href="https://sites.google.com/view/calvin-yuceng-liao/home" style="color: #2F4F4F;">Yu-Ceng Liao</a></u> and <u><a href="https://yitingw.com" style="color: #2F4F4F;">Yi-ting Wang</a></u>) 
+- How Electoral Systems Shape Legislative Attention Proximity: \ Evidence from Taiwan's Ministerial Interpellations. (with <u><a href="https://sites.google.com/view/calvin-yuceng-liao/home" style="color: #2F4F4F;">Yu-Ceng Liao</a></u> and <u><a href="https://yitingw.com" style="color: #2F4F4F;">Yi-ting Wang</a></u>) 
 <br>
 
 <!-- - Game-Theoretic Multi-Agent System for International Crisis Negotiations: Modeling Elite Behavior with Large Language Models. (with <u><a href="" style="color: #2F4F4F;">Shuli Zhang</a></u>)<br> -->
