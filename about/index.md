@@ -1,6 +1,21 @@
 # About
 
 
+
+    <a
+    id="cy-effective-orcid-url"
+    class="underline"
+     href="https://orcid.org/0000-0002-2465-3749"
+     target="orcid.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="ORCID iD icon"/>
+      https://orcid.org/0000-0002-2465-3749
+    </a>
+    
 <br/><br> <br> 
 
 <div style="text-align: justify">
@@ -11,9 +26,7 @@ Welcome! I am a Research Fellow in Natural Language Processing at <a href="https
  at the University of Bamberg. I earned my PhD in Politics from the University of Essex in 2023, after obtaining a BA and MA in Public Administration & Policy from National Taipei University in Taiwan.
 
 
-
 My substantial research primarily focuses on legislative studies, political behavior, electoral systems, and Taiwan politics, with a particular emphasis on the political contexts of East Asia. Methodologically, I am especially interested in measuring ideological preferences and political stances using quantitative and computational methods through legislative voting, surveys, expert surveys, and the analysis of parliamentary speeches and political texts. My <a href="https://davidycliao.github.io/research/" style="color: #778899; text-decoration: underline;">recent work</a> involves quantitative text analysis and computational methods to understand the political narratives of elites and their impact on public attitudes and future expectations.
-
 
 <!-- 
 After August at UCD, I will join <a href="https://www.birmingham.ac.uk/research/centre-for-artificial-intelligence-in-government/people" style="color: #778899; text-decoration: underline;">the Centre for Artificial Intelligence in Government (CAIG)</a> and <a href="https://www.birmingham.ac.uk/schools/government" style="color: #778899; text-decoration: underline;">the School of Government </a> 
