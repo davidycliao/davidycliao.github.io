@@ -37,8 +37,11 @@
 
 <div style="text-align: justify">
 
-- Electoral Reform and Geographically-Targeted Oversight: Evidence from Taiwan Legislative Yuan. (with <u><a href="https://sites.google.com/view/litang2020" style="color: #2F4F4F;">Li Tang</a></u>) <u>_Revise and Resubmit_</u> <span style="font-size: 9px;"> <a href="https://www.dropbox.com/scl/fi/ppxruc9jgwrlnwdnoxaxb/Electoral_Systems_and_Geographically_Targeted.pdf?rlkey=pg9owrhasrancnqvbrghcdclb&st=i5sgiejd&dl=0" 
-     style="color: #2F4F4F;" target="_blank">__[PDF]__</a>
+- Electoral Reform and Geographically-Targeted Oversight: Evidence from Taiwan Legislative Yuan. (with <u><a href="https://sites.google.com/view/litang2020" style="color: #2F4F4F;">Li Tang</a></u>) <u>_Revise and Resubmit_</u> <span style="font-size: 9px;"> 
+
+<!--  
+<a href="https://www.dropbox.com/scl/fi/ppxruc9jgwrlnwdnoxaxb/Electoral_Systems_and_Geographically_Targeted.pdf?rlkey=pg9owrhasrancnqvbrghcdclb&st=i5sgiejd&dl=0" 
+     style="color: #2F4F4F;" target="_blank">__[PDF]__</a> -->
 
 - Estimating Factions of Red Guard under Mao's China: A Slogan-based Text Scaling Method with Historical Documents. (with <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;">Yi-Nung Tsai</a></u>) <span style="font-size: 9px;"> 
   <a href="https://www.dropbox.com/scl/fi/qgnvl3w1y5hbsaq168blb/Estimating_Factions_of_Red_Guard_under_Mao_s_China.pdf?rlkey=c6bxr3o3di34vooivgjb2blcf&st=b6d03vmv&dl=0" 
