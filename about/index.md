@@ -2,19 +2,6 @@
 
 
 
-    <a
-    id="cy-effective-orcid-url"
-    class="underline"
-     href="https://orcid.org/0000-0002-2465-3749"
-     target="orcid.widget"
-     rel="me noopener noreferrer"
-     style="vertical-align: top">
-     <img
-        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
-        style="width: 1em; margin-inline-start: 0.5em"
-        alt="ORCID iD icon"/>
-      https://orcid.org/0000-0002-2465-3749
-    </a>
     
 <br/><br> <br> 
 
@@ -22,24 +9,10 @@
 <!-- 
 Welcome! I am currently a postdoctoral researcher at <a href="https://www.ucd.ie/spire/" style="color: #778899; text-decoration: underline;">University College Dublin</a> in the School of Politics and International Relations and <a href="https://www.nexsys-energy.ie/about-nexsys/" style="color: #778899; text-decoration: underline;">NexSys</a>, a cross-disciplinary project funded by Science Foundation Ireland. I am also a forthcoming Research Fellow in Natural Language Processing at <a href="https://www.birmingham.ac.uk/research/centre-for-artificial-intelligence-in-government/people" style="color: #778899; text-decoration: underline;" target="_blank">the Centre for Artificial Intelligence in Government (CAIG)</a> and <a href="https://www.birmingham.ac.uk/schools/government" style="color: #778899; text-decoration: underline;" target="_blank">the School of Government</a> at the University of Birmingham. I received my PhD in Political Science from the University of Essex in January 2023, following my BA and MA in Public Administration & Policy from National Taipei University in Taiwan. -->
 
-Welcome! I am a Research Fellow in Natural Language Processing at <a href="https://www.birmingham.ac.uk/staff/profiles/gov/liao-yen-chieh" style="color: #778899; text-decoration: underline;" target="_blank">the Centre for Artificial Intelligence in Government (CAIG)</a> and <a href="https://www.birmingham.ac.uk/schools/government" style="color: #778899; text-decoration: underline;" target="_blank">the School of Government</a> at the University of Birmingham. Before joining Birmingham, I was a postdoctoral researcher at <a href="https://www.ucd.ie/spire/" style="color: #778899; text-decoration: underline;">the School of Politics and International Relations</a> at University College Dublin and a Pre-doctoral Researcher at <a href="https://www.uni-bamberg.de/en/comparpol/faculty-and-staff/thomas-saalfeld/" style="color: #778899; text-decoration: underline;">the Chair of Comparative Politics</a>
- at the University of Bamberg. I earned my PhD in Politics from the University of Essex in 2023, after obtaining a BA and MA in Public Administration & Policy from National Taipei University in Taiwan.
+Welcome! I am a Research Fellow focusing on NLP and Generative AI applications in political science at <a href="https://www.birmingham.ac.uk/staff/profiles/gov/liao-yen-chieh" style="color: #778899; text-decoration: underline;" target="_blank">the Centre for Artificial Intelligence in Government (CAIG)</a> and <a href="https://www.birmingham.ac.uk/schools/government" style="color: #778899; text-decoration: underline;" target="_blank">the School of Government</a> at the University of Birmingham. Before joining Birmingham, I was a postdoctoral researcher at <a href="https://www.ucd.ie/spire/" style="color: #778899; text-decoration: underline;">the School of Politics and International Relations</a> at University College Dublin and a pre-doctoral fellow at <a href="https://www.uni-bamberg.de/en/comparpol/faculty-and-staff/thomas-saalfeld/" style="color: #778899; text-decoration: underline;">the Chair of Comparative Politics</a> at the University of Bamberg. I earned my PhD in Politics from the University of Essex in 2023, where I focused on Taiwan electoral reform, political behaviour, and municipal politics, supervised by <a href="https://nicolebaerg.com" style="color: #778899; text-decoration: underline;" target="_blank">Nicole Baerg</a> and <a href="https://www.essex.ac.uk/people/CARRO40801/Royce-Carroll" style="color: #778899; text-decoration: underline;" target="_blank">Royce Carroll</a>, after obtaining a BA and MA in Public Administration & Policy from National Taipei University in Taiwan.
 
+My substantial research primarily focuses on legislative studies, political behavior, political institutions, and Taiwan politics, with a particular emphasis on the political contexts of East Asia. Methodologically, I am especially interested in measuring ideological preferences and political stances using quantitative and computational methods through legislative voting, surveys, and the analysis of parliamentary speeches and political texts. My <a href="https://davidycliao.github.io/research/" style="color: #778899; text-decoration: underline;">recent work</a> involves quantitative text analysis and computational methods to better understand the political behavior narratives of elites and their impact on citizen preferences, public attitudes, and future expectations.
 
-My substantial research primarily focuses on legislative studies, political behavior, electoral systems, and Taiwan politics, with a particular emphasis on the political contexts of East Asia. Methodologically, I am especially interested in measuring ideological preferences and political stances using quantitative and computational methods through legislative voting, surveys, expert surveys, and the analysis of parliamentary speeches and political texts. My <a href="https://davidycliao.github.io/research/" style="color: #778899; text-decoration: underline;">recent work</a> involves quantitative text analysis and computational methods to understand the political narratives of elites and their impact on public attitudes and future expectations.
-
-<!-- 
-After August at UCD, I will join <a href="https://www.birmingham.ac.uk/research/centre-for-artificial-intelligence-in-government/people" style="color: #778899; text-decoration: underline;">the Centre for Artificial Intelligence in Government (CAIG)</a> and <a href="https://www.birmingham.ac.uk/schools/government" style="color: #778899; text-decoration: underline;">the School of Government </a> 
- at the University of Birmingham as a Research Fellow in Natural Language Processing. -->
-
-
-
-
-<!-- In my final year, I also served as a predoctoral fellow with <a href="https://www.uni-bamberg.de/vp-forschung/" style="color: #2F4F4F;">Prof. Thomas Saalfeld</a> at the University of Bamberg, Germany, working on the  <span style="color:#778899; text-decoration: underline;">Legislators between Accountability and Collective Agency</span> project. Before joining UCD, I had a brief postdoctoral stint at Global Studies in Aarhus University. -->
-
-
-
-<!-- My main research interests include legislative studies, party competition, representative behavior, and electoral systems. I have a specific interest in the measurement of ideological preferences through methods such as legislative voting, expert surveys, and the analysis of parliamentary speeches. My recent research agenda focuses on quantitative text analysis and computational methods to gain a deeper understanding of how political elites position themselves through their political narratives. In addition, I explore how these narratives influence political behaviors and shape the attitudes and expectations of the masses concerning the future. -->
 
 
 <!-- 
