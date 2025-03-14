@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>FlairNLP - Tag - YEN-CHIEH LIAO</title>
-        <link>http://localhost:1313/tags/flairnlp/</link>
+        <link>https://davidycliao.github.io/tags/flairnlp/</link>
         <description>FlairNLP - Tag - YEN-CHIEH LIAO</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 20 Jun 2023 21:29:01 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/tags/flairnlp/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 20 Jun 2023 21:29:01 &#43;0800</lastBuildDate><atom:link href="https://davidycliao.github.io/tags/flairnlp/" rel="self" type="application/rss+xml" /><item>
     <title>Inviting the use of flairR to help us improve the user experience for R users</title>
-    <link>http://localhost:1313/2023/06/pkg/</link>
+    <link>https://davidycliao.github.io/2023/06/pkg/</link>
     <pubDate>Tue, 20 Jun 2023 21:29:01 &#43;0800</pubDate>
     <author>Author</author>
-    <guid>http://localhost:1313/2023/06/pkg/</guid>
+    <guid>https://davidycliao.github.io/2023/06/pkg/</guid>
     <description><![CDATA[FlaiR - Streamlining NLP and Custom Deep Learning Model We are currently in the process of testing flairR, an R wrapper specifically designed to train transformers and perform NLP tasks using Flair NLP in an R environment. This package is tailored to provide core sequence tagging features, including part-of-speech tasks, named entity recognition, and transformer-based sentiment analysis, especially for users in the social sciences who are accustomed to using R.]]></description>
 </item></channel>
 </rss>
