@@ -16,6 +16,12 @@ I received my PhD in Politics from the University of Essex in 2023, with researc
 
 My research primarily focuses on legislative studies, political behavior, political institutions, and Taiwan politics, with a particular emphasis on the political contexts of East Asia. Methodologically, I am especially interested in measuring ideological preferences and political stances using quantitative and computational methods through legislative voting, surveys, and the analysis of parliamentary speeches and political texts. My <a href="https://davidycliao.github.io/research/" style="color: #778899; text-decoration: underline;">recent work</a> involves quantitative text analysis and computational methods to better understand the political behavior narratives of elites and their impact on citizen preferences, public attitudes, and future expectations.
 
+<br> <br> 
+
+Embiyax Su Hug (太魯閣族語 Hello),
+
+嗨！我是廖彥傑，出身於花蓮秀林部落。目前在伯明翰大學擔任研究員職位，主要在政府人工智能中心和政府學院工作，專注研究自然語言處理和AI在政治學的應用。在此之前，我曾在都柏林大學和德國班貝格大學進行研究工作。 2023年1月，我從英國埃塞克斯大學取得政治學博士學位。我的博士研究聚焦於台灣的選舉改革、分配（肉桶）政治和地方政治，運用了多種數據分析和文本分析方法。在博士班期間，我很幸運地獲得了台灣教育部的獎學金和研究經費支持。在攻讀博士之前，我在國立臺北大學完成了公共行政與政策的學士和碩士學位。我現在研究重點主要放在立法研究、政治行為、政治制度和台灣政治上，特別關注東亞的政治環境。在研究方法上，我偏好使用數據分析和計算方法來研究政治立場，分析投票記錄、民調數據和政治演講。最近，我的研究方向是運用文本分析方法，探討政治精英的言論如何影響選民的看法、公眾態度以及對未來的期望。
+
 <!-- 
 ---
 Embiyax Su Hug (太魯閣族語 Hello),  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="25" height="25" alt="hi">
