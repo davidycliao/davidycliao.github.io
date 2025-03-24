@@ -95,7 +95,7 @@
 
 - How Electoral Systems Shape Policy Attention Proximity: Evidence from Taiwan's Ministerial Interpellations. (with <u><a href="https://sites.google.com/view/calvin-yuceng-liao/home" style="color: #2F4F4F;">Yu-Ceng Liao</a></u> and <u><a href="https://yitingw.com" style="color: #2F4F4F;">Yi-ting Wang</a></u>) <br>
 
-- From Legislators to Mayors: Political Career Paths and Distributive Politics in Taiwan.
+- From Legislators to Mayors: Political Career and Distributive Politics in Taiwan Municipalities.
 
 - Grandstanding under the Spotlight: Unveiling Elites Crisis Communication in the Council of the European Union. (with James Cross and Paula Montano) <br>
 
