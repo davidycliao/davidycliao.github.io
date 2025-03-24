@@ -91,11 +91,11 @@
 - Selecting and Validating Classifiers for Multilingual and Cross-Domain Stance Detection. (with <u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>) <br>
 
 
-- From Legislators to Mayors: Political Career Paths and Distributive Politics in Taiwan
-
 <!-- - Shock Rhetoric: Local Exposure to Trade Shocks and Rhetorical Extremism in the US House of Representatives. (with <a href="https://www.zikai.li" style="color: #2F4F4F;"><u>Zikai Li</u></a>) <br> -->
 
 - How Electoral Systems Shape Policy Attention Proximity: Evidence from Taiwan's Ministerial Interpellations. (with <u><a href="https://sites.google.com/view/calvin-yuceng-liao/home" style="color: #2F4F4F;">Yu-Ceng Liao</a></u> and <u><a href="https://yitingw.com" style="color: #2F4F4F;">Yi-ting Wang</a></u>) <br>
+
+- From Legislators to Mayors: Political Career Paths and Distributive Politics in Taiwan.
 
 - Grandstanding under the Spotlight: Unveiling Elites Crisis Communication in the Council of the European Union. (with James Cross and Paula Montano) <br>
 
