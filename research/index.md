@@ -95,6 +95,8 @@
 
 <!-- - Shock Rhetoric: Local Exposure to Trade Shocks and Rhetorical Extremism in the US House of Representatives. (with <a href="https://www.zikai.li" style="color: #2F4F4F;"><u>Zikai Li</u></a>) <br> -->
 
+- How Electoral Systems Shape Policy Attention Proximity: Evidence from Taiwan's Ministerial Interpellations. (with <u><a href="https://sites.google.com/view/calvin-yuceng-liao/home" style="color: #2F4F4F;">Yu-Ceng Liao</a></u> and <u><a href="https://yitingw.com" style="color: #2F4F4F;">Yi-ting Wang</a></u>) <br>
+
 - Grandstanding under the Spotlight: Unveiling Elites Crisis Communication in the Council of the European Union. (with James Cross and Paula Montano) <br>
 
 
@@ -113,8 +115,6 @@
 
 
 <div style="text-align: justify">
-
-- How Electoral Systems Shape Policy Attention Proximity: Evidence from Taiwan's Ministerial Interpellations. (with <u><a href="https://sites.google.com/view/calvin-yuceng-liao/home" style="color: #2F4F4F;">Yu-Ceng Liao</a></u> and <u><a href="https://yitingw.com" style="color: #2F4F4F;">Yi-ting Wang</a></u>) <br>
 
 - Dynamic and Multi-lingual Embedding Inference for Political Text. (with <u><a href="https://www.winniexia.com" style="color: #2F4F4F;">Winnie Xia</a></u> and <u><a href="https://sjankin.com" style="color: #2F4F4F;">Slava Jankin</a></u>) <br>
 
