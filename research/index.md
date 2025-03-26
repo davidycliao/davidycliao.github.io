@@ -123,7 +123,7 @@
 
 - Topic-Based Text Segmentation for Political Transcripts. (with <u><a href="https://phsieh.com" style="color: #2F4F4F;">Pei-Hsun Hsieh</a></u>)<br>
 
-<!-- - Game-Theoretic Multi-Agent System with LLMs for International Crisis Negotiations and Simulation. (with <u><a href="" style="color: #2F4F4F;">Shuli Zhang</a></u>)<br> -->
+- Game-Theoretic Multi-Agent System with LLMs for International Crisis Negotiations and Simulation. (with <u><a href="" style="color: #2F4F4F;">Shuli Zhang</a></u>)<br>
 
 <!-- - Topic-Based Text Segmentation for Political Transcripts.  (with <u><a href="https://phsieh.com" style="color: #2F4F4F;">Pei-Hsun Hsieh</a></u> </a></u>) <br>  -->
 
