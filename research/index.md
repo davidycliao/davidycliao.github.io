@@ -77,8 +77,8 @@
 <a href="https://www.dropbox.com/scl/fi/co0vftcpac1akfhutlnjx/Electoral_Systems_and_Geographically_Targeted.pdf?rlkey=639zkqpdblq94hsrw08qz38uy&st=1qmiaf7s&dl=0" style="color: #2F4F4F;" target="_blank">__[PDF]__</a>
 </span> -->
 
-- Who Believes and Shares Fake News: A Multi-Agentic System for Experimental Misinformation Research with Large Language Models. (with <u><a href="https://linettemlim.github.io" style="color: #2F4F4F;">Linette Lim</a></u> and <u><a href="https://sjankin.com" style="color: #2F4F4F;">Slava Jankin</a></u>) <span style="font-size: 11px;"> 
-  <a href="" 
+- Who Believes and Shares Fake News: A Multi-Agentic System for Experimental Misinformation Research with LLMs. (with <u><a href="https://linettemlim.github.io" style="color: #2F4F4F;">Linette Lim</a></u> and <u><a href="https://sjankin.com" style="color: #2F4F4F;">Slava Jankin</a></u>) <span style="font-size: 11px;"> 
+  <a href="https://www.dropbox.com/scl/fi/ei5nnymbob4fxsi6hfzsa/Who_Believes_and_Who_Shares_MAS.pdf?rlkey=jx4xikpzsm8mt2xvp6yyz5ehb&st=zsyumha3&dl=0" 
      style="color: #2F4F4F;" target="_blank">
     __[Preprint for PolMeth Europe 2025]__ 
   </a>
