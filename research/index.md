@@ -38,9 +38,9 @@
 <div style="text-align: justify">
 
 - Electoral Reform and Geographically-Targeted Oversight: Evidence from Taiwan Legislative Yuan. (with <u><a href="https://sites.google.com/view/litang2020" style="color: #2F4F4F;">Li Tang</a></u>)  <span style="font-size: 11px;"> 
-  <a href="" 
+  <a href="https://www.dropbox.com/scl/fi/ppxruc9jgwrlnwdnoxaxb/Electoral_Systems_and_Geographically_Targeted.pdf?rlkey=pg9owrhasrancnqvbrghcdclb&e=1&dl=0" 
      style="color: #2F4F4F;" target="_blank">
-     <u>[___Revised and Resubmitted___]</u> 
+     <u>[___Draft Revised and Resubmitted___]</u> 
   </a>
 </span>
 
@@ -80,7 +80,7 @@
 - Who Believes and Shares Fake News: A Multi-Agentic System for Experimental Misinformation Research with LLMs. (with <u><a href="https://linettemlim.github.io" style="color: #2F4F4F;">Linette Lim</a></u> and <u><a href="https://sjankin.com" style="color: #2F4F4F;">Slava Jankin</a></u>) <span style="font-size: 11px;"> 
   <a href="https://www.dropbox.com/scl/fi/ei5nnymbob4fxsi6hfzsa/Who_Believes_and_Who_Shares_MAS.pdf?rlkey=jx4xikpzsm8mt2xvp6yyz5ehb&st=zsyumha3&dl=0" 
      style="color: #2F4F4F;" target="_blank">
-    __[Draft for 2025 EPSA LLM Worshop]__ 
+    __[Draft Presentation for 2025 EPSA LLM Workshop]__ 
   </a>
   </span>
 
