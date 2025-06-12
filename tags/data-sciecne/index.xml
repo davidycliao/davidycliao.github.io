@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Data Sciecne - Tag - YEN-CHIEH LIAO</title>
-        <link>https://davidycliao.github.io/tags/data-sciecne/</link>
+        <link>http://localhost:1313/tags/data-sciecne/</link>
         <description>Data Sciecne - Tag - YEN-CHIEH LIAO</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 10 Jul 2021 21:29:01 &#43;0800</lastBuildDate><atom:link href="https://davidycliao.github.io/tags/data-sciecne/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 10 Jul 2021 21:29:01 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/tags/data-sciecne/" rel="self" type="application/rss+xml" /><item>
     <title>原住民族資料分析線上讀書會：R的基礎與應用</title>
-    <link>https://davidycliao.github.io/2021/07/databoot-camp/</link>
+    <link>http://localhost:1313/2021/07/databoot-camp/</link>
     <pubDate>Sat, 10 Jul 2021 21:29:01 &#43;0800</pubDate>
     <author>Author</author>
-    <guid>https://davidycliao.github.io/2021/07/databoot-camp/</guid>
+    <guid>http://localhost:1313/2021/07/databoot-camp/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/images/truku.png" referrerpolicy="no-referrer">
             </div>課程介紹與目的 建立這個工作坊的啟發源自「紐約時報」 “ Training the Next Generation of Indigenous Data Scientists ” 這篇報導，藉此我們也應該提升我們自己的原住民族與族群事務從業人員的資料分析能力，之後可將這些分析技術應用在族群政策評估、文化資料，甚至是語言資料的保護上。
