@@ -59,13 +59,6 @@
 </div>
 
 
-<!-- 
-### Review Article in Chinese
-
-<div style="text-align: justify">
-<a href="" target="_blank" style="color: #515151;"> __2025__ 官僚「再詮釋」領導人意識形態初探：以《人民日報》習近平外交思想的評論為例 (Bureaucratic ‘Reinterpretation’ of Leaders’ Ideologies: A Case Study of People's Daily's Commentary on Xi Jinping Thought on Diplomacy). </a> <a href="http://mcs.nccu.edu.tw/CHINA_Eng/editor.html" target="_blank" style="color: black;">  _中國大陸研究 Mainland China Studies (forthcoming)_.</a>  (with <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;">Yi-Nung Tsai</a></u>)
-</div> -->
-
 ---
 
 
@@ -84,8 +77,9 @@
   </a>
   </span>
 
+- Embedding Regression in Multilingual Political Text: An Application (with <u><a href="https://zengchen.org" style="color: #2F4F4F;">Chen Zheng </a></u> <u><a href="https://www.winniexia.com" style="color: #2F4F4F;">Winnie Xia</a></u> and <u><a href="https://sjankin.com" style="color: #2F4F4F;">Slava Jankin</a></u>)   <span style="font-size: 11px;"> <a href="https://www.dropbox.com/scl/fi/qwh2q1jsl5a8f8uc1o8ba/polmeth_poster.pdf?rlkey=lkj6us4kpw7vcn23k5qwt1kxj&dl=0" style="color: #2F4F4F;" target="_blank"> __[Poster Presentation for PolMeth Summer Meeting XLII 2025]__ </a>
+  </span>
 
-  <!-- <br> -->
 
 
 <!-- - Shock Rhetoric: Local Exposure to Trade Shocks and Rhetorical Extremism in the US House of Representatives. (with <a href="https://www.zikai.li" style="color: #2F4F4F;"><u>Zikai Li</u></a>) <br> -->
@@ -95,12 +89,15 @@
 - Selecting and Validating Classifiers for Multilingual and Cross-Domain Stance Detection. (with <u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>) <br>
 
 
-- From Legislators to Mayors: Political Career and Distributive Politics in Taiwan Municipalities.
+
+<!-- - From Legislators to Mayors: Political Career and Distributive Politics in Taiwan Municipalities. -->
 
 - Grandstanding under the Spotlight: Unveiling Elites Crisis Communication in the Council of the European Union. (with James Cross and Paula Montano) <br>
 
 
 </div>
+
+<br>
 
 
 
@@ -116,7 +113,6 @@
 
 <div style="text-align: justify">
 
-- Dynamic and Multi-lingual Embedding Inference for Political Text. (with <u><a href="https://www.winniexia.com" style="color: #2F4F4F;">Winnie Xia</a></u> and <u><a href="https://sjankin.com" style="color: #2F4F4F;">Slava Jankin</a></u>) <br>
 
 - Measuring Elite Loyalty and Political Cleavages in Maoist China. (with <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;">Yi-Nung Tsai</a></u>)
 <br>
