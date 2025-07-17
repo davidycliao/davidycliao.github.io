@@ -77,7 +77,7 @@
   </a>
   </span>
 
-- Embedding Regression in Multilingual Political Text: An Application (with <u><a href="https://zengchen.org" style="color: #2F4F4F;">Chen Zheng </a></u> <u><a href="https://www.winniexia.com" style="color: #2F4F4F;">Winnie Xia</a></u> and <u><a href="https://sjankin.com" style="color: #2F4F4F;">Slava Jankin</a></u>)   <span style="font-size: 11px;"> <a href="https://www.dropbox.com/scl/fi/p5ig9xvper1svrhqbft5x/Liao_Polmeth_2025_Poster.pdf?rlkey=nqoyu6ukv2y1r687pb55cp25v&dl=0" style="color: #2F4F4F;" target="_blank"> __[Poster Presentation for PolMeth Summer Meeting XLII 2025]__ </a>
+- Embedding Regression in Multilingual Political Text: An Application (with <u><a href="https://zengchen.org" style="color: #2F4F4F;">Chen Zheng </a></u> <u><a href="https://www.winniexia.com" style="color: #2F4F4F;">Winnie Xia</a></u> and <u><a href="https://sjankin.com" style="color: #2F4F4F;">Slava Jankin</a></u>)   <span style="font-size: 11px;"> <a href="https://www.dropbox.com/scl/fi/p5ig9xvper1svrhqbft5x/Liao_Polmeth_2025_Poster.pdf?rlkey=nqoyu6ukv2y1r687pb55cp25v&dl=0" style="color: #2F4F4F;" target="_blank"> __[Poster__ </a> | <span style="font-size: 11px;"> <a href="https://www.dropbox.com/scl/fi/50r8woftzilgjo75rnxyx/polmeth_paper.pdf?rlkey=5t9gfb0d80795qqv9g8n8oo49&dl=0" style="color: #2F4F4F;" target="_blank"> __Working Draft PolMeth Summer Meeting XLII 2025 ]__ </a> 
   </span>
 
 
