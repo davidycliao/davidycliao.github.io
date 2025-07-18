@@ -70,15 +70,25 @@
 <a href="https://www.dropbox.com/scl/fi/co0vftcpac1akfhutlnjx/Electoral_Systems_and_Geographically_Targeted.pdf?rlkey=639zkqpdblq94hsrw08qz38uy&st=1qmiaf7s&dl=0" style="color: #2F4F4F;" target="_blank">__[PDF]__</a>
 </span> -->
 
-- Who Believes and Shares Fake News: A Multi-Agentic System for Experimental Misinformation Research with LLMs. (with <u><a href="https://linettemlim.github.io" style="color: #2F4F4F;">Linette Lim</a></u> and <u><a href="https://sjankin.com" style="color: #2F4F4F;">Slava Jankin</a></u>) <span style="font-size: 11px;"> 
+<!-- - Who Believes and Shares Fake News: A Multi-Agentic System for Experimental Misinformation Research with LLMs. (with <u><a href="https://linettemlim.github.io" style="color: #2F4F4F;">Linette Lim</a></u> and <u><a href="https://sjankin.com" style="color: #2F4F4F;">Slava Jankin</a></u>) <span style="font-size: 11px;"> 
   <a href="https://www.dropbox.com/scl/fi/ei5nnymbob4fxsi6hfzsa/Who_Believes_and_Who_Shares_MAS.pdf?rlkey=jx4xikpzsm8mt2xvp6yyz5ehb&st=zsyumha3&dl=0" 
      style="color: #2F4F4F;" target="_blank">
-    __[Draft Presentation for 2025 EPSA LLM Workshop]__ 
+    __[WorkingDraft Presentation 2025 EPSA LLM Workshop]__ 
   </a>
-  </span>
+  </span> -->
 
-- Embedding Regression in Multilingual Political Text: An Application (with <u><a href="https://zengchen.org" style="color: #2F4F4F;">Chen Zheng </a></u> <u><a href="https://www.winniexia.com" style="color: #2F4F4F;">Winnie Xia</a></u> and <u><a href="https://sjankin.com" style="color: #2F4F4F;">Slava Jankin</a></u>)   <span style="font-size: 11px;"> <a href="https://www.dropbox.com/scl/fi/p5ig9xvper1svrhqbft5x/Liao_Polmeth_2025_Poster.pdf?rlkey=nqoyu6ukv2y1r687pb55cp25v&dl=0" style="color: #2F4F4F;" target="_blank"> __[Poster__ </a> | <span style="font-size: 11px;"> <a href="https://www.dropbox.com/scl/fi/50r8woftzilgjo75rnxyx/polmeth_paper.pdf?rlkey=5t9gfb0d80795qqv9g8n8oo49&dl=0" style="color: #2F4F4F;" target="_blank"> __Working Draft PolMeth Summer Meeting XLII 2025 ]__ </a> 
-  </span>
+- Who Believes and Shares Fake News: A Multi-Agentic System for Experimental Misinformation Research with LLMs. (with <u><a href="https://linettemlim.github.io" style="color: #2F4F4F;">Linette Lim</a></u> and <u><a href="https://sjankin.com" style="color: #2F4F4F;">Slava Jankin</a></u>) <span style="font-size: 11px;">
+ <a href="https://www.dropbox.com/scl/fi/ei5nnymbob4fxsi6hfzsa/Who_Believes_and_Who_Shares_MAS.pdf?rlkey=jx4xikpzsm8mt2xvp6yyz5ehb&st=zsyumha3&dl=0"
+ style="color: #2F4F4F;" target="_blank">
+**[<u>Working Draft</u> Presentation 2025 EPSA LLM]**
+</a>
+</span>  
+
+<!-- - Embedding Regression in Multilingual Political Text: An Application (with <u><a href="https://zengchen.org" style="color: #2F4F4F;">Chen Zheng </a></u> <u><a href="https://www.winniexia.com" style="color: #2F4F4F;">Winnie Xia</a></u> and <u><a href="https://sjankin.com" style="color: #2F4F4F;">Slava Jankin</a></u>)   <span style="font-size: 11px;"> <a href="https://www.dropbox.com/scl/fi/p5ig9xvper1svrhqbft5x/Liao_Polmeth_2025_Poster.pdf?rlkey=nqoyu6ukv2y1r687pb55cp25v&dl=0" style="color: #2F4F4F;" target="_blank"> __[Poster__ </a> | <span style="font-size: 11px;"> <a href="https://www.dropbox.com/scl/fi/50r8woftzilgjo75rnxyx/polmeth_paper.pdf?rlkey=5t9gfb0d80795qqv9g8n8oo49&dl=0" style="color: #2F4F4F;" target="_blank"> __Working Draft PolMeth Summer Meeting XLII 2025 ]__ </a> 
+  </span> -->
+
+- Embedding Regression in Multilingual Political Text: An Application (with <u><a href="https://zengchen.org" style="color: #2F4F4F;">Chen Zheng </a></u> <u><a href="https://www.winniexia.com" style="color: #2F4F4F;">Winnie Xia</a></u> and <u><a href="https://sjankin.com" style="color: #2F4F4F;">Slava Jankin</a></u>) <span style="font-size: 11px;"> <a href="https://www.dropbox.com/scl/fi/p5ig9xvper1svrhqbft5x/Liao_Polmeth_2025_Poster.pdf?rlkey=nqoyu6ukv2y1r687pb55cp25v&dl=0" style="color: #2F4F4F;" target="_blank"> **<u>[Poster</u>** </a> | <span style="font-size: 11px;"> <a href="https://www.dropbox.com/scl/fi/50r8woftzilgjo75rnxyx/polmeth_paper.pdf?rlkey=5t9gfb0d80795qqv9g8n8oo49&dl=0" style="color: #2F4F4F;" target="_blank"> **<u>Working Draft</u> PolMeth Summer Meeting XLII 2025 ]** </a>
+ </span>
 
 
 
