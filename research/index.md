@@ -17,14 +17,15 @@
 <a href="https://doi.org/10.1016/j.erss.2025.103955" target="_blank" style="color: #515151;"> __2025__ Catalysts for Progress? Mapping Policy Insights from Energy Research. </a>  <a href="https://www.sciencedirect.com/journal/energy-research-and-social-science" target="_blank" style="color: black;">  _Energy Research & Social Science_. </a>  (with <u><a href="https://brianpaulboyle.com" style="color: #2F4F4F;">Brian Boyle</a></u>, 
 <u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>, <u><a href="https://sarahaking.net" style="color: #2F4F4F;">Sarah King</a></u> and <u><a href="https://robinrauner.com" style="color: #2F4F4F;">Robin Rauner</a></u>)<br>
 
-<a href="https://www.cambridge.org/core/journals/political-science-research-and-methods/article/misperception-of-party-congruence-and-satisfaction-with-democracy/48E409867105FD3737126E6FA05F13ED" target="_blank" style="color: #515151;"> __2024__ (Mis)perception of Party-voter Congruence and Satisfaction with Democracy. </a> </a> <a href="https://www.cambridge.org/core/journals/political-science-research-and-methods" target="_blank" style="color: black;">  _Political Science Research and Methods_. </a> (with <u><a href="#" style="color: #2F4F4F;">Royce Carroll</a></u> and <u><a href="https://sites.google.com/view/litang2020" style="color: #2F4F4F;">Li Tang</a></u>) <br>
-
 <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/lsq.12459" target="_blank" style="color: #515151;"> __2024__ Electoral Reform and Fragmented Polarization: New Evidence from Taiwan Legislative Roll Call.</a>  <a href="https://onlinelibrary.wiley.com/journal/19399162" target="_blank" style="color: black;">  _Legislative Studies Quarterly_. </a>  <br>
+
+<a href="https://www.cambridge.org/core/journals/political-science-research-and-methods/article/misperception-of-party-congruence-and-satisfaction-with-democracy/48E409867105FD3737126E6FA05F13ED" target="_blank" style="color: #515151;"> __2024__ (Mis)perception of Party-voter Congruence and Satisfaction with Democracy. </a> </a> <a href="https://www.cambridge.org/core/journals/political-science-research-and-methods" target="_blank" style="color: black;">  _Political Science Research and Methods_. </a> (with <u><a href="#" style="color: #2F4F4F;">Royce Carroll</a></u> and <u><a href="https://sites.google.com/view/litang2020" style="color: #2F4F4F;">Li Tang</a></u>) <br>
 
 <a href="https://www.jstor.org/stable/27221360" target="_blank" style="color: #515151;"> __2023__ The Role of Rituals in Adversarial Parliaments: An Analysis of Expressions of Collegiality in the British House of Commons.</a>  <a href="https://www.gesis.org/en/hsr" target="_blank" style="color: black;">  _Historical Social Research_. </a> 48 (3): 209-234. (with <u><a href="https://www.uni-bamberg.de/comparpol/lehrstuhlteam/david-beck/" style="color: #2F4F4F;">David Beck</a></u> and <u><a href="https://www.uni-bamberg.de/vp-forschung/" style="color: #2F4F4F;">Thomas Saalfeld</a></u>) <br>
 
 <a href="https://academic.oup.com/irap/article-abstract/15/1/147/2937074?redirectedFrom=fulltext" target="_blank" style="color: #515151;">__2015__ The Rationale for Supporting Nuclear Power: Analysis of Taiwanese Public Opinion Survey.</a>  <a href="https://academic.oup.com/irap" target="_blank" style="color: black;">  _International Relations of the Asia-Pacific_. </a>
  15 (1): 147-176. (with <u><a href="https://scholar.google.com/citations?user=RIYMCiwAAAAJ&hl=en" style="color: #2F4F4F;">Xiaochen Su</a></u>, <u><a href="https://www.ipsas.sinica.edu.tw/en/研究人員/吳重禮/" style="color: #2F4F4F;">Chung-li Wu</a></u>, Tai-De Lee, and Chen Tsao) <br>
+
 
 </div>
 
@@ -66,16 +67,7 @@
 
 <div style="text-align: justify">
  
- <!-- <span style="font-size: 9px;">
-<a href="https://www.dropbox.com/scl/fi/co0vftcpac1akfhutlnjx/Electoral_Systems_and_Geographically_Targeted.pdf?rlkey=639zkqpdblq94hsrw08qz38uy&st=1qmiaf7s&dl=0" style="color: #2F4F4F;" target="_blank">__[PDF]__</a>
-</span> -->
 
-<!-- - Who Believes and Shares Fake News: A Multi-Agentic System for Experimental Misinformation Research with LLMs. (with <u><a href="https://linettemlim.github.io" style="color: #2F4F4F;">Linette Lim</a></u> and <u><a href="https://sjankin.com" style="color: #2F4F4F;">Slava Jankin</a></u>) <span style="font-size: 11px;"> 
-  <a href="https://www.dropbox.com/scl/fi/ei5nnymbob4fxsi6hfzsa/Who_Believes_and_Who_Shares_MAS.pdf?rlkey=jx4xikpzsm8mt2xvp6yyz5ehb&st=zsyumha3&dl=0" 
-     style="color: #2F4F4F;" target="_blank">
-    __[WorkingDraft Presentation 2025 EPSA LLM Workshop]__ 
-  </a>
-  </span> -->
 
 - Who Believes and Shares Fake News: A Multi-Agentic System for Experimental Misinformation Research with LLMs. (with <u><a href="https://linettemlim.github.io" style="color: #2F4F4F;">Linette Lim</a></u> and <u><a href="https://sjankin.com" style="color: #2F4F4F;">Slava Jankin</a></u>) <span style="font-size: 11px;">
  <a href="https://www.dropbox.com/scl/fi/ei5nnymbob4fxsi6hfzsa/Who_Believes_and_Who_Shares_MAS.pdf?rlkey=jx4xikpzsm8mt2xvp6yyz5ehb&st=zsyumha3&dl=0"
@@ -87,7 +79,7 @@
 <!-- - Embedding Regression in Multilingual Political Text: An Application (with <u><a href="https://zengchen.org" style="color: #2F4F4F;">Chen Zheng </a></u> <u><a href="https://www.winniexia.com" style="color: #2F4F4F;">Winnie Xia</a></u> and <u><a href="https://sjankin.com" style="color: #2F4F4F;">Slava Jankin</a></u>)   <span style="font-size: 11px;"> <a href="https://www.dropbox.com/scl/fi/p5ig9xvper1svrhqbft5x/Liao_Polmeth_2025_Poster.pdf?rlkey=nqoyu6ukv2y1r687pb55cp25v&dl=0" style="color: #2F4F4F;" target="_blank"> __[Poster__ </a> | <span style="font-size: 11px;"> <a href="https://www.dropbox.com/scl/fi/50r8woftzilgjo75rnxyx/polmeth_paper.pdf?rlkey=5t9gfb0d80795qqv9g8n8oo49&dl=0" style="color: #2F4F4F;" target="_blank"> __Working Draft PolMeth Summer Meeting XLII 2025 ]__ </a> 
   </span> -->
 
-- Embedding Regression in Multilingual Political Text: An Application (with <u><a href="https://zengchen.org" style="color: #2F4F4F;">Chen Zheng </a></u> <u><a href="https://www.winniexia.com" style="color: #2F4F4F;">Winnie Xia</a></u> and <u><a href="https://sjankin.com" style="color: #2F4F4F;">Slava Jankin</a></u>) <span style="font-size: 11px;"> <a href="https://www.dropbox.com/scl/fi/p5ig9xvper1svrhqbft5x/Liao_Polmeth_2025_Poster.pdf?rlkey=nqoyu6ukv2y1r687pb55cp25v&dl=0" style="color: #2F4F4F;" target="_blank"> **<u>[Poster</u>** </a> | <span style="font-size: 11px;"> <a href="https://www.dropbox.com/scl/fi/50r8woftzilgjo75rnxyx/polmeth_paper.pdf?rlkey=5t9gfb0d80795qqv9g8n8oo49&dl=0" style="color: #2F4F4F;" target="_blank"> **<u>Working Draft</u> PolMeth Summer Meeting XLII 2025 ]** </a>
+- Embedding Regression in Multilingual Political Text: An Application (with <u><a href="https://zengchen.org" style="color: #2F4F4F;">Chen Zheng </a>, </u> <u><a href="https://www.winniexia.com" style="color: #2F4F4F;">Winnie Xia</a></u> and <u><a href="https://sjankin.com" style="color: #2F4F4F;">Slava Jankin</a></u>) <span style="font-size: 11px;"> <a href="https://www.dropbox.com/scl/fi/p5ig9xvper1svrhqbft5x/Liao_Polmeth_2025_Poster.pdf?rlkey=nqoyu6ukv2y1r687pb55cp25v&dl=0" style="color: #2F4F4F;" target="_blank"> **<u>[Poster</u>** </a> | <span style="font-size: 11px;"> <a href="https://www.dropbox.com/scl/fi/50r8woftzilgjo75rnxyx/polmeth_paper.pdf?rlkey=5t9gfb0d80795qqv9g8n8oo49&dl=0" style="color: #2F4F4F;" target="_blank"> **<u>Working Draft</u> PolMeth Summer Meeting XLII 2025 ]** </a>
  </span>
 
 
@@ -118,25 +110,24 @@
 
 ---
 
-### In-Progress
+<!-- ### In-Progress -->
 
 
-<div style="text-align: justify">
+<!-- <div style="text-align: justify"> -->
 
 
-- Measuring Elite Loyalty and Political Cleavages in Maoist China. (with <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;">Yi-Nung Tsai</a></u>)
-<br>
+<!-- - Measuring Elite Loyalty and Political Cleavages in Maoist China. (with <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;">Yi-Nung Tsai</a></u>) -->
 
-- Topic-Based Text Segmentation for Political Transcripts. (with <u><a href="https://phsieh.com" style="color: #2F4F4F;">Pei-Hsun Hsieh</a></u>)<br>
+<!-- - Topic-Based Text Segmentation for Political Transcripts. (with <u><a href="https://phsieh.com" style="color: #2F4F4F;">Pei-Hsun Hsieh</a></u>)<br> -->
 
-- Game-Theoretic Multi-Agent System with LLMs for International Crisis Negotiations and Simulation. (with <u><a href="" style="color: #2F4F4F;">Shuli Zhang</a></u>)<br>
+<!-- - Game-Theoretic Multi-Agent System with LLMs for International Crisis Negotiations and Simulation. (with <u><a href="" style="color: #2F4F4F;">Shuli Zhang</a></u>)<br> -->
 
 <!-- - Topic-Based Text Segmentation for Political Transcripts.  (with <u><a href="https://phsieh.com" style="color: #2F4F4F;">Pei-Hsun Hsieh</a></u> </a></u>) <br>  -->
 
-- Climate Change and Public Perceptions of Institutional Compliance: A Multidimensional Scaling Approach to Cross-National Analysis. (with <u><a href="https://www.ninedtp.ac.uk/wangyin-zhao-a-disaster-for-whom-the-conditional-impact-of-natural-disasters-on-civil-conflicts/" style="color: #2F4F4F;">Wangyin Zhao</a></u> and <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;"> Yi-Nung Tsai</a></u>)<br>
+<!-- - Climate Change and Public Perceptions of Institutional Compliance: A Multidimensional Scaling Approach to Cross-National Analysis. (with <u><a href="https://www.ninedtp.ac.uk/wangyin-zhao-a-disaster-for-whom-the-conditional-impact-of-natural-disasters-on-civil-conflicts/" style="color: #2F4F4F;">Wangyin Zhao</a></u> and <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;"> Yi-Nung Tsai</a></u>)<br> -->
 
 
--  Multi-Dimensional Policy Congruence and Political Attitudes. ( with <u><a href="#" style="color: #2F4F4F;">Royce Carroll</a></u> and <u><a href="https://sites.google.com/view/litang2020" style="color: #2F4F4F;">Li Tang</a></u>)
+<!-- -  Multi-Dimensional Policy Congruence and Political Attitudes. ( with <u><a href="#" style="color: #2F4F4F;">Royce Carroll</a></u> and <u><a href="https://sites.google.com/view/litang2020" style="color: #2F4F4F;">Li Tang</a></u>) -->
   
 
 
@@ -152,9 +143,9 @@
 <!-- - The Effect of Misperception on Election Voting: Evidence from a Field Experiment (with <u><a href="#" style="color: #2F4F4F;">Royce Carroll</a></u>, <u><a href="https://sites.google.com/view/litang2020" style="color: #2F4F4F;">Li Tang</a></u>, and <u><a href="https://sites.google.com/site/yinpenghui2008/home" style="color: #2F4F4F;">Penghui Yin</a></u>)  -->
     
 
-</div>
+<!-- </div> -->
 
----
+<!-- ---
 
 ### Documentation and Report
 
@@ -162,6 +153,6 @@
 
 <!-- - User Manual for <strong>legisTaiwan</strong> R Package with Taiwan Legislative Yuan API (with <u><a href="" style="color: #2F4F4F;">Shaka Y.J. Li</a></u>) <br>  -->
 
--  <a href="https://davidycliao.github.io/legisTaiwan/" target="_blank" style="color: #515151;">  __legisTaiwan__ </a> : R Pacakge for Data Analysis and Applications with Taiwan Legislative Yuan API.
-</a> (with <u><a href="" style="color: #2F4F4F;">Shaka Y.J. Li</a></u>) <br>
+<!-- -  <a href="https://davidycliao.github.io/legisTaiwan/" target="_blank" style="color: #515151;">  __legisTaiwan__ </a> : R Pacakge for Data Analysis and Applications with Taiwan Legislative Yuan API. -->
+<!-- </a> (with <u><a href="" style="color: #2F4F4F;">Shaka Y.J. Li</a></u>) <br> --> 
 
