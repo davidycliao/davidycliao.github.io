@@ -4,11 +4,18 @@
 
 <div style="text-align: justify">
 
-I am a Research Fellow working on NLP and Generative AI applications in political science at <a href="https://www.birmingham.ac.uk/staff/profiles/gov/liao-yen-chieh" style="color: #778899; text-decoration: underline;" target="_blank">the Centre for Artificial Intelligence in Government (CAIG)</a>, and an Affiliate Fellow at <a href="https://www.birmingham.ac.uk/research/centres-institutes-data-and-ai" style="color: #778899; text-decoration: underline;" target="_blank">the Institute for Data and AI</a> at the University of Birmingham.
 
-I received a my PhD from Essex in politics (2023), and BA and MA from National Taipei University. My research primarily focuses on legislative studies, political behavior, political institutions, and Taiwan politics, with particular emphasis on the political contexts of East Asia.
+I am a Research Fellow working on NLP and Generative AI applications in political science at <a href="https://www.birmingham.ac.uk/staff/profiles/gov/liao-yen-chieh" style="color:#778899; text-decoration: underline;" target="_blank">the Centre for Artificial Intelligence in Government (CAIG)</a>, and an ffiliate at <a href="https://www.birmingham.ac.uk/research/centres-institutes-data-and-ai" style="color:#778899; text-decoration: underline;" target="_blank">the Institute for Data and AI</a> at the University of Birmingham.
 
-Methodologically, I am especially interested in measuring ideological preferences and political stances using quantitative and computational methods, including the analysis of legislative voting, surveys, parliamentary speeches, and political texts.
+
+
+I received my PhD from Essex in Politics (2023), and BA and MA from National Taipei University. My research focuses on legislative studies and comparative political institutions, with particular emphasis on the political contexts of Taiwan and East Asia.
+
+
+
+Methodologically, I am especially interested in measuring ideological preferences and political stances using quantitative and computational methods, including the analysis of legislative voting, surveys, and texts.
+
+
 
 
 <!-- Before joining Birmingham, I was a postdoctoral researcher at `<a href="" style="color: #778899; text-decoration: underline;" target="_blank">`UCD NEXSYS `</a>`, working under `<a href="" style="color: #778899; text-decoration: underline;" target="_blank">`Prof. Stefan Müller `</a>` from `<a href="https://www.ucd.ie/spire/" style="color: #778899; text-decoration: underline;" target="_blank">`the School of Politics and International Relations `</a>` at University College Dublin. Previously, I served as a pre-doctoral fellow at `<a href="https://www.uni-bamberg.de/en/comparpol/faculty-and-staff/thomas-saalfeld/" style="color: #778899; text-decoration: underline;" target="_blank">`the Chair of Comparative Politics `</a>`, University of Bamberg, under the supervision of Prof. Dr. Thomas Saalfeld. -->
@@ -20,11 +27,6 @@ Methodologically, I am especially interested in measuring ideological preference
 
 
 
-<!-- 
-
-Embiyax Su Hug (太魯閣族語 Hello),
-
-嗨！我是廖彥傑，出身於靠近太魯閣的秀林部落。目前在伯明翰大學擔任研究員，主要在政府人工智能中心和政府學院工作，專注研究自然語言處理和AI在政治學的應用。 在此之前，我於2023-2024年在都柏林大學擔任博士後研究，於2022-2023年在德國班貝格大學擔任博士級研究助理。2023年1月，我從英國埃塞克斯大學取得政治學博士學位。我的博士研究聚焦於台灣的選舉改革、分配（肉桶）政治和地方政治，運用了多種數據分析和文本分析方法。 -->
 
 
 <div style="text-align: center">
