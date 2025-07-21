@@ -4,17 +4,11 @@
 
 <div style="text-align: justify">
 
+I am an NLP Research Fellow working on Generative AI applications in political science at <a href="https://www.birmingham.ac.uk/staff/profiles/gov/liao-yen-chieh" style="color:#778899; text-decoration: underline;" target="_blank">the Centre for Artificial Intelligence in Government (CAIG)</a>, and an Affiliate Fellow at <a href="https://www.birmingham.ac.uk/research/centres-institutes-data-and-ai" style="color:#778899; text-decoration: underline;" target="_blank">the Institute for Data and AI</a> at the University of Birmingham.
 
-I am a Research Fellow working on NLP and Generative AI applications in political science at <a href="https://www.birmingham.ac.uk/staff/profiles/gov/liao-yen-chieh" style="color:#778899; text-decoration: underline;" target="_blank">the Centre for Artificial Intelligence in Government (CAIG)</a>, and an ffiliate at <a href="https://www.birmingham.ac.uk/research/centres-institutes-data-and-ai" style="color:#778899; text-decoration: underline;" target="_blank">the Institute for Data and AI</a> at the University of Birmingham.
+I received my PhD from Essex in Politics (2023), and BA and MA in Public Administration from National Taipei University. My research focuses on legislative studies and comparative political institutions, with particular emphasis on the political contexts of Taiwan and East Asia. Methodologically, I am especially interested in measuring ideological preferences and political stances using quantitative and computational methods, including the analysis of legislative voting, surveys, and texts.
 
-
-
-I received my PhD from Essex in Politics (2023), and BA and MA from National Taipei University. My research focuses on legislative studies and comparative political institutions, with particular emphasis on the political contexts of Taiwan and East Asia.
-
-
-
-Methodologically, I am especially interested in measuring ideological preferences and political stances using quantitative and computational methods, including the analysis of legislative voting, surveys, and texts.
-
+Recently, I have been working with <a href="https://www.birmingham.ac.uk/staff/profiles/gov/liao-yen-chieh" style="color:#778899; text-decoration: underline;" target="_blank">our center</a> to implement multi-agent systems with large language models for survey experiments and simulating political deliberation among political elites.
 
 
 
