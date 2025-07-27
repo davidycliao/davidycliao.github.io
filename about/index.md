@@ -9,7 +9,7 @@
 
  My name is  <a href="https://www.birmingham.ac.uk/staff/profiles/gov/liao-yen-chieh" style="color:#778899; text-decoration: bold;" target="_blank"> Yen-Chieh (David) Liao</a>. I am an NLP Research Fellow working on Generative AI applications in political science at <a href="https://www.birmingham.ac.uk/research/centres-institutes/centre-for-artificial-intelligence-in-government" style="color:#778899; text-decoration: underline;" target="_blank">the Centre for Artificial Intelligence in Government (CAIG)</a>, and an Affiliate Fellow at <a href="https://www.birmingham.ac.uk/research/centres-institutes/data-and-ai" style="color:#778899; text-decoration: underline;" target="_blank">the Institute for Data and AI</a> at the University of Birmingham.
 
-I received my PhD in Politics from the University of Essex (2023), and both my BA and MA in Public Administration from National Taipei University. My substantial work concentrates on legislative behavior and comparative political institutions, with particular focus on Taiwan and East Asian contexts.
+I received my PhD in Politics from Essex (2023), and both my BA and MA in Public Administration and Policy from National Taipei University. My substantial work concentrates on legislative behavior and comparative political institutions, with particular focus on Taiwan and East Asian contexts.
 
 Methodologically, I am especially interested in measuring ideological preferences and political stances using quantitative and computational methods, including the quantitative measurement of legislative voting, surveys, and political texts.
 
