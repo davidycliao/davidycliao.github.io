@@ -31,7 +31,10 @@ __2024__ Guest Lecturer in Weeks on Word Embeddings and Transformers --- _Postgr
 
 __2025__ Data Analysis and Applications with legisTaiwan R Package. _Taipei R LADIES_ [![Slide Notes](https://img.shields.io/badge/Slide%20Notes-000000?logo=googledocs&logoColor=white)](https://raw.githack.com/davidycliao/r-ladies-tpe-legistaiwan/main/r-ladies.pdf) [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/davidycliao/r-ladies-tpe-legistaiwan?tab=readme-ov-file)
 
-__2024__ Introduction to High-Performance Computing with SLURM --- _SPIRe PhD Workshop University College Dublin_  [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)]()
+__2024__ Introduction to High-Performance Computing with SLURM --- _SPIRe PhD Workshop University College Dublin_ 
+
+
+ <!-- [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)]() -->
 
 
 <br/>
