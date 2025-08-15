@@ -111,7 +111,7 @@
 
 - Measuring Elite Loyalty and Political Cleavages in Maoist China. (with <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;">Yi-Nung Tsai</a></u>)
 
-- Topic-Based Text Segmentation for Political Transcripts. (with <u><a href="https://phsieh.com" style="color: #2F4F4F;">Pei-Hsun Hsieh</a></u>)<br>
+<!-- - Topic-Based Text Segmentation for Political Transcripts. (with <u><a href="https://phsieh.com" style="color: #2F4F4F;">Pei-Hsun Hsieh</a></u>)<br> -->
 
 - Game-Theoretic Multi-Agent Systems with LLMs for Crisis Negotiation and Simulation. (with <u><a href="" style="color: #2F4F4F; text-decoration: underline;">Shuli Zhang</a></u>)<br>
 
