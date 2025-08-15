@@ -39,14 +39,12 @@
 
 <div style="text-align: justify">
 
-- Electoral Reform and Geographically-Targeted Oversight: Evidence from Taiwan Legislative Yuan. (with <u><a href="https://sites.google.com/view/litang2020" style="color: #2F4F4F;">Li Tang</a></u>)  ___Revise and Resubmit___
-<!--   
-<span style="font-size: 11px;"> 
-  <a href="" 
+- Electoral Reform and Geographically-Targeted Oversight: Evidence from Taiwan Legislative Yuan. (with <u><a href="https://sites.google.com/view/litang2020" style="color: #2F4F4F;">Li Tang</a></u>) <span style="font-size: 14px;"> 
+  <a href="https://www.dropbox.com/scl/fi/ppxruc9jgwrlnwdnoxaxb/Electoral_Systems_and_Geographically_Targeted.pdf?rlkey=pg9owrhasrancnqvbrghcdclb&dl=0" 
      style="color: #2F4F4F;" target="_blank">
-     <u>[___Revised and Resubmitted___]</u> 
+     <u>_Revised and Resubmitted_</u> 
   </a>
-</span> -->
+</span>
 
 
 <!--  
