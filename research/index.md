@@ -69,7 +69,7 @@
 <div style="text-align: justify">
  
 
-- Embedding Regression in Multilingual Political Text: An Application. (with <u><a href="https://zengchen.org" style="color: #2F4F4F;">Chen Zheng</a>, </u> <u><a href="https://www.winniexia.com" style="color: #2F4F4F;">Winnie Xia</a></u> and <u><a href="https://sjankin.com" style="color: #2F4F4F;">Slava Jankin</a></u>) 
+- Political Text Analysis with Embedding Regression: From Multilingual to Cross-lingual Application. (with <u><a href="https://zengchen.org" style="color: #2F4F4F;">Chen Zheng</a>, </u> <u><a href="https://www.winniexia.com" style="color: #2F4F4F;">Winnie Xia</a></u> and <u><a href="https://sjankin.com" style="color: #2F4F4F;">Slava Jankin</a></u>) 
 <!-- - 
 - 
 - <span style="font-size: 11px;"> <a href="https://www.dropbox.com/scl/fi/p5ig9xvper1svrhqbft5x/Liao_Polmeth_2025_Poster.pdf?rlkey=nqoyu6ukv2y1r687pb55cp25v&dl=0" style="color: #2F4F4F;" target="_blank"> [ __<u>Poster</u>__ </a> | <span style="font-size: 11px;"> <a href="https://www.dropbox.com/scl/fi/50r8woftzilgjo75rnxyx/polmeth_paper.pdf?rlkey=5t9gfb0d80795qqv9g8n8oo49&dl=0" style="color: #2F4F4F;" target="_blank"> __<u>Working Paper</u>__ ]</a> 
@@ -91,7 +91,7 @@
 - How Electoral Systems Shape Policy Attention Proximity: Evidence from Taiwan's Ministerial Interpellations. (with <u><a href="https://sites.google.com/view/calvin-yuceng-liao/home" style="color: #2F4F4F;">Yu-Ceng Liao</a></u> and <u><a href="https://yitingw.com" style="color: #2F4F4F;">Yi-ting Wang</a></u>) <br>
 
 
-- Grandstanding under the Spotlight: Unveiling Elites Crisis Communication in the Council of the European Union. (with James Cross and Paula Montano) <br>
+<!-- - Grandstanding under the Spotlight: Unveiling Elites Crisis Communication in the Council of the European Union. (with James Cross and Paula Montano) <br> -->
 
 <!-- - From Legislators to Mayors: Political Career and Distributive Politics in Taiwan Municipalities. -->
 
@@ -115,7 +115,7 @@
 <div style="text-align: justify">
 
 
-- Measuring Elite Loyalty and Political Cleavages in Maoist China. (with <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;">Yi-Nung Tsai</a></u>)
+- Vicar of Bray: Performative Loyalty and Career Survival in Maoist China. (with <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;">Yi-Nung Tsai</a></u>)
 
 <!-- - Topic-Based Text Segmentation for Political Transcripts. (with <u><a href="https://phsieh.com" style="color: #2F4F4F;">Pei-Hsun Hsieh</a></u>)<br> -->
 
