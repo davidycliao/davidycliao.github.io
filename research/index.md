@@ -54,7 +54,7 @@
 - Estimating Factions of Red Guard under Mao's China: A Slogan-based Text Scaling Method with Historical Documents. (with <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;">Yi-Nung Tsai</a></u>) <span style="font-size: 11px;"> 
   <a href="https://www.dropbox.com/scl/fi/qgnvl3w1y5hbsaq168blb/Estimating_Factions_of_Red_Guard_under_Mao_s_China.pdf?rlkey=c6bxr3o3di34vooivgjb2blcf&dl=0" 
      style="color: #2F4F4F;" target="_blank">
-    <u>_Under Review_</u>
+    <u>_Invited to Revise and Resubmit_</u>
   </a>
 </span>
 
