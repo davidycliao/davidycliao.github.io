@@ -144,14 +144,14 @@
 
 <div style="text-align: justify">
 
+- Game-Theoretic Multi-Agent Systems with LLMs for Crisis Negotiation and Simulation. (with <u><a href="" style="color: #2F4F4F; text-decoration: underline;">Shuli Zhang</a></u>)<br>
+
 - A Micro-Founded Model of Canvassing, Ideological Distance, and Political Misperception (with Li Tang)
 
 - Multi-Dimensional Policy Congruence and Political Attitudes (with Royce Carroll and Li Tang)
 
 - Vicar of Bray: Performative Loyalty and Career Survival in Maoist China. (with <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;">Yi-Nung Tsai</a></u>)
 
-
-- Game-Theoretic Multi-Agent Systems with LLMs for Crisis Negotiation and Simulation. (with <u><a href="" style="color: #2F4F4F; text-decoration: underline;">Shuli Zhang</a></u>)<br>
 
 
 
