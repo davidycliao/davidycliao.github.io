@@ -27,7 +27,6 @@
  15 (1): 147-176. (with <u><a href="https://scholar.google.com/citations?user=RIYMCiwAAAAJ&hl=en" style="color: #2F4F4F;">Xiaochen Su</a></u>, <u><a href="https://www.ipsas.sinica.edu.tw/en/研究人員/吳重禮/" style="color: #2F4F4F;">Chung-li Wu</a></u>, Tai-De Lee, and Chen Tsao) <br>
 
 
-</div>
 
 ---
 
@@ -37,6 +36,7 @@
 <a href="https://toaj.stpi.niar.org.tw/index/journal/volume/article/4b1141f9969effc90196a8f041000240" target="_blank" style="color: #515151;"> 2025 官僚「再詮釋」領導人意識形態初探：以《人民日報》習近平外交思想的評論為例  (Bureaucratic ‘Reinterpretation’ of Leaders’ Ideologies: A Case Study of People's Daily's Commentary on Xi Jinping Thought on Diplomacy). </a> <a href="http://mcs.nccu.edu.tw/CHINA_Eng/editor.html" target="_blank" style="color: #515151;">_中國大陸研究 Mainland China Studies_.</a>  (with <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;">Yi-Nung Tsai</a></u>) 
 
 <!-- <br/> -->
+</div>
 
 ---
 
