@@ -8,15 +8,14 @@
 
 <div style="text-align: left">
 
-### Publications
+
+### Peer-Reviewed Articles 
 
 <div style="text-align: justify">
 
 <a href="https://doi.org/10.1016/j.erss.2025.103955" target="_blank" style="color: #515151;"> 2025 Catalysts for Progress? Mapping Policy Insights from Energy Research. </a>  <a href="https://www.sciencedirect.com/journal/energy-research-and-social-science" target="_blank" style="color: #515151;">  _Energy Research & Social Science_. </a>  (with <u><a href="https://brianpaulboyle.com" style="color: #2F4F4F;">Brian Boyle</a></u>, 
 <u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>, <u><a href="https://sarahaking.net" style="color: #2F4F4F;">Sarah King</a></u> and <u><a href="https://robinrauner.com" style="color: #2F4F4F;">Robin Rauner</a></u>)<br>
 
-
-<a href="https://toaj.stpi.niar.org.tw/index/journal/volume/article/4b1141f9969effc90196a8f041000240" target="_blank" style="color: #515151;"> 2025 官僚「再詮釋」領導人意識形態初探：以《人民日報》習近平外交思想的評論為例  (Bureaucratic ‘Reinterpretation’ of Leaders’ Ideologies: A Case Study of People's Daily's Commentary on Xi Jinping Thought on Diplomacy). </a> <a href="http://mcs.nccu.edu.tw/CHINA_Eng/editor.html" target="_blank" style="color: #515151;">_中國大陸研究 Mainland China Studies_.</a>  (with <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;">Yi-Nung Tsai</a></u>) 
 
 <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/lsq.12459" target="_blank" style="color: #515151;"> 2024 Electoral Reform and Fragmented Polarization: New Evidence from Taiwan Legislative Roll Call.</a>  <a href="https://onlinelibrary.wiley.com/journal/19399162" target="_blank" style="color: #515151;">  _Legislative Studies Quarterly_. </a>  <br>
 
@@ -30,12 +29,18 @@
 
 </div>
 
+---
+
+
+### Peer-Reviewed Articles (in Chinese)
+
+<a href="https://toaj.stpi.niar.org.tw/index/journal/volume/article/4b1141f9969effc90196a8f041000240" target="_blank" style="color: #515151;"> 2025 官僚「再詮釋」領導人意識形態初探：以《人民日報》習近平外交思想的評論為例  (Bureaucratic ‘Reinterpretation’ of Leaders’ Ideologies: A Case Study of People's Daily's Commentary on Xi Jinping Thought on Diplomacy). </a> <a href="http://mcs.nccu.edu.tw/CHINA_Eng/editor.html" target="_blank" style="color: #515151;">_中國大陸研究 Mainland China Studies_.</a>  (with <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;">Yi-Nung Tsai</a></u>) 
 
 <!-- <br/> -->
 
 ---
 
-### Under Review
+### Working Pappers
 
 <div style="text-align: justify">
 
@@ -65,18 +70,8 @@
    Research on Red Guard publications during China's Cultural Revolution offers crucial insights into the period's political and cultural dynamics. We introduce a novel text analysis approach that addresses the challenges of analyzing non-spaced languages in historical contexts, advancing beyond traditional unsupervised text scaling –Wordfish– applications. Utilizing the Chinese Cultural Revolution Database, we combine keyword extraction techniques with Wordfish to estimate Red Guard units' ideological positioning. While our proposed approach largely aligns with historical accounts, we also reveal inconsistencies, particularly in how some Rebel-leaning Red Guard units rhetorically and ideologically act as fellow travelers with the Conservative coalition, deviating from established narratives and expert assessments. Our paper not only provides new insights into factional dynamics during the Cultural Revolution but also offers social scientists a new approach to studying Chinese politics and historical archives.
    </div>
 
-
-
-
-
-
 </div>
 
-
----
-
-
-### Working Papers
 
 <div style="text-align: justify">
  
@@ -86,11 +81,12 @@
    This research note examines how electoral reform — shifting from Single Non-Transferable Vote (SNTV) in multi-member districts to a mixed-member majoritarian system (MMM) — affects how closely legislators align with their party's policy attention. Using interpellations from 1999-2019 annotated with 422 fixed topic keywords, we estimate legislators' issue attention behavior across time using the Wordfish scaling method. We find that legislators under MMM prioritize more similar issues to their co-partisan members, while those under SNTV show greater divergence. Moreover, under SNTV, legislators from economically disadvantaged municipalities are more susceptible to local economic and demographic conditions. These findings indicate that SNTV creates stronger incentives for legislators to respond to local conditions, while MMM homogenizes legislative behavior across regional economic or demographic differences.
    </div>
 
-- Political Text Analysis with Embedding Regression: From Multilingual to Cross-lingual Application. (with <u><a href="https://zengchen.org" style="color: #2F4F4F;">Chen Zheng</a>, </u> <u><a href="https://www.winniexia.com" style="color: #2F4F4F;">Winnie Xia</a></u> and <u><a href="https://sjankin.com" style="color: #2F4F4F;">Slava Jankin</a></u>) 
+- Selecting and Validating Classifiers for Multilingual Stance Detection. (with <u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>) <br>
 
-  <div style="border: 1px solid #ddd; padding: 15px; margin: 10px 0; border-radius: 5px; background-color: #f9f9f9; font-style: italic;">
-   This research note builds upon existing embedding regression techniques (i.e., Rodriguez, Spirling and Stewart, 2023a,b; Wirsching et al., 2025) to systematically compare different embedding architectures for political text analysis. We examine three types: static (fastText and BPE), sequential contextual (LSTM-based architectures: Forward, Backward, and Forward+Backward), and dynamic embeddings (Transformer-based architectures: XLM-RoBERTa and mBERT). We analyze differences between these three types using Benoit et al. (2016)’s coal debates from Members of the European Parliament, available in English, German, Spanish, Italian, Polish, and Greek. Our experiments demonstrate that XLM-RoBERTa, Backward, Forward+Backward, and BPE achieve better performance in predicting political stance on coal policy, with stable cross-lingual flexibility and consistency suitable for comparative political analysis across multilingual settings. While XLM-RoBERTa and bidirectional sequence models maintain the highest accuracy, BPE offers an optimal balance of performance and computational efficiency. We are currently packaging this workflow as open-source software.
+   <div style="border: 1px solid #ddd; padding: 15px; margin: 10px 0; border-radius: 5px; background-color: #f9f9f9; font-style: italic;">
+   Measuring stances on specific policies provides valuable insights for understanding policy-making, changes in political preferences, and party competition. In this paper, we fine-tune three multilingual transformer machine learning models based on annotated texts of stances in over 53,000 comments on Twitter and more than 67,000 comments to 150 political questions in German, French, and Italian. We compare Sentence-BERT, Multilingual BERT, and XLM-RoBERTa and show that these transformers can classify stances in several languages. After identifying the most suitable fine-tuned model, we compare the automated stance classification with hand-annotated evaluations of politicians' support for the annual budget, social media posts about protest events, and stances across policy areas. Drawing from our systematic comparison and validation across three cross-lingual transformer architectures, we provide recommendations for researchers when applying stance detection models to political texts.
    </div>
+
 
 <!-- - 
 - 
@@ -109,11 +105,11 @@
   
   </a> -->
   
- 
-- Selecting and Validating Classifiers for Multilingual Stance Detection. (with <u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>) <br>
 
-   <div style="border: 1px solid #ddd; padding: 15px; margin: 10px 0; border-radius: 5px; background-color: #f9f9f9; font-style: italic;">
-   Measuring stances on specific policies provides valuable insights for understanding policy-making, changes in political preferences, and party competition. In this paper, we fine-tune three multilingual transformer machine learning models based on annotated texts of stances in over 53,000 comments on Twitter and more than 67,000 comments to 150 political questions in German, French, and Italian. We compare Sentence-BERT, Multilingual BERT, and XLM-RoBERTa and show that these transformers can classify stances in several languages. After identifying the most suitable fine-tuned model, we compare the automated stance classification with hand-annotated evaluations of politicians' support for the annual budget, social media posts about protest events, and stances across policy areas. Drawing from our systematic comparison and validation across three cross-lingual transformer architectures, we provide recommendations for researchers when applying stance detection models to political texts.
+- Political Text Analysis with Embedding Regression: From Multilingual to Cross-lingual Application. (with <u><a href="https://zengchen.org" style="color: #2F4F4F;">Chen Zheng</a>, </u> <u><a href="https://www.winniexia.com" style="color: #2F4F4F;">Winnie Xia</a></u> and <u><a href="https://sjankin.com" style="color: #2F4F4F;">Slava Jankin</a></u>) 
+
+  <div style="border: 1px solid #ddd; padding: 15px; margin: 10px 0; border-radius: 5px; background-color: #f9f9f9; font-style: italic;">
+   This research note builds upon existing embedding regression techniques (i.e., Rodriguez, Spirling and Stewart, 2023a,b; Wirsching et al., 2025) to systematically compare different embedding architectures for political text analysis. We examine three types: static (fastText and BPE), sequential contextual (LSTM-based architectures: Forward, Backward, and Forward+Backward), and dynamic embeddings (Transformer-based architectures: XLM-RoBERTa and mBERT). We analyze differences between these three types using Benoit et al. (2016)’s coal debates from Members of the European Parliament, available in English, German, Spanish, Italian, Polish, and Greek. Our experiments demonstrate that XLM-RoBERTa, Backward, Forward+Backward, and BPE achieve better performance in predicting political stance on coal policy, with stable cross-lingual flexibility and consistency suitable for comparative political analysis across multilingual settings. While XLM-RoBERTa and bidirectional sequence models maintain the highest accuracy, BPE offers an optimal balance of performance and computational efficiency. We are currently packaging this workflow as open-source software.
    </div>
 
 
@@ -124,7 +120,6 @@
 <!-- - Grandstanding under the Spotlight: Unveiling Elites Crisis Communication in the Council of the European Union. (with James Cross and Paula Montano) <br> -->
 
 <!-- - From Legislators to Mayors: Political Career and Distributive Politics in Taiwan Municipalities. -->
-
 
 </div>
 
@@ -152,7 +147,7 @@
 
 - Vicar of Bray: Performative Loyalty and Career Survival in Maoist China. (with <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;">Yi-Nung Tsai</a></u>)
 
-
+- From Legislators to Mayors: Political Career and Distributive Politics in Taiwan Municipalities.
 
 
 
