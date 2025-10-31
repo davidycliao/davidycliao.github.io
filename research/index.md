@@ -56,6 +56,13 @@
 
    </div>
 
+-  Electoral Reform and Issue Attention in Legislative Oversight: From SNTV to Mixed-Member Majoritarian System in Taiwan. (with <u><a href="https://sites.google.com/view/calvin-yuceng-liao/home" style="color: #2F4F4F;">Yu-Ceng Liao</a></u> and <u><a href="https://yitingw.com" style="color: #2F4F4F;">Yi-ting Wang</a></u>) <br>
+
+   <div style="border: 1px solid #ddd; padding: 15px; margin: 10px 0; border-radius: 5px; background-color: #f9f9f9; font-style: italic;">
+   This research note examines how electoral reform — shifting from Single Non-Transferable Vote (SNTV) in multi-member districts to a mixed-member majoritarian system (MMM) — affects how closely legislators align with their party's policy attention. Using interpellations from 1999-2019 annotated with 422 fixed topic keywords, we estimate legislators' issue attention behavior across time using the Wordfish scaling method. We find that legislators under MMM prioritize more similar issues to their co-partisan members, while those under SNTV show greater divergence. Moreover, under SNTV, legislators from economically disadvantaged municipalities are more susceptible to local economic and demographic conditions. These findings indicate that SNTV creates stronger incentives for legislators to respond to local conditions, while MMM homogenizes legislative behavior across regional economic or demographic differences.
+   </div>
+
+
 <!--  
 <a href="https://www.dropbox.com/scl/fi/ppxruc9jgwrlnwdnoxaxb/Electoral_Systems_and_Geographically_Targeted.pdf?rlkey=pg9owrhasrancnqvbrghcdclb&st=i5sgiejd&dl=0" 
      style="color: #2F4F4F;" target="_blank">__[PDF]__</a> -->
@@ -75,12 +82,6 @@
 
 <div style="text-align: justify">
  
--  Electoral Reform and Issue Attention in Legislative Oversight: From SNTV to Mixed-Member Majoritarian System in Taiwan. (with <u><a href="https://sites.google.com/view/calvin-yuceng-liao/home" style="color: #2F4F4F;">Yu-Ceng Liao</a></u> and <u><a href="https://yitingw.com" style="color: #2F4F4F;">Yi-ting Wang</a></u>) <br>
-
-   <div style="border: 1px solid #ddd; padding: 15px; margin: 10px 0; border-radius: 5px; background-color: #f9f9f9; font-style: italic;">
-   This research note examines how electoral reform — shifting from Single Non-Transferable Vote (SNTV) in multi-member districts to a mixed-member majoritarian system (MMM) — affects how closely legislators align with their party's policy attention. Using interpellations from 1999-2019 annotated with 422 fixed topic keywords, we estimate legislators' issue attention behavior across time using the Wordfish scaling method. We find that legislators under MMM prioritize more similar issues to their co-partisan members, while those under SNTV show greater divergence. Moreover, under SNTV, legislators from economically disadvantaged municipalities are more susceptible to local economic and demographic conditions. These findings indicate that SNTV creates stronger incentives for legislators to respond to local conditions, while MMM homogenizes legislative behavior across regional economic or demographic differences.
-   </div>
-
 - Selecting and Validating Classifiers for Multilingual Stance Detection. (with <u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>) <br>
 
    <div style="border: 1px solid #ddd; padding: 15px; margin: 10px 0; border-radius: 5px; background-color: #f9f9f9; font-style: italic;">
@@ -97,7 +98,7 @@
   (with <u><a href="https://linettemlim.github.io" style="color: #2F4F4F;">Linette Lim</a></u> and <u><a href="https://sjankin.com" style="color: #2F4F4F;">Slava Jankin</a></u>)
 
    <div style="border: 1px solid #ddd; padding: 15px; margin: 10px 0; border-radius: 5px; background-color: #f9f9f9; font-style: italic;">
-   In the digital age, misinformation research faces methodological and ethical challenges, especially when exposing human subjects to harmful content. To address these concerns, we create a Taiwan-based case, where elections are often influenced by misinformation under a complex geopolitical context. We build a multi-agent system (MAS) with LLM-operated agents based on anonymized Taiwanese survey data, implemented via AG2 (formerly AutoGen)—a framework for constructing AI agents and applications. Our simulated pseudo-lab environment enables the study of misinformation susceptibility safely through LLM agent interactions, removing direct ethical risks to human participants. We find that agents with stronger pro-China attitudes exhibit greater vulnerability to misinformation, particularly narratives fostering skepticism toward the United States. We further document our implementation and the system’s construction process—from data preprocessing and agent initialization to behavioral calibration and expert validation. Key implementation details, including environment setup, persona design, computational trade-offs, and scalability considerations, are provided. Finally, we make our prototype and AG2 implementation publicly available.
+   Misinformation experiments face ethical constraints when exposing participants to harmful content. We implement an LLM-based multi-agent framework using _AG2_ to replicate survey experimental conditions without human exposure risks. Calibrating AI agents to representative Taiwanese voter data (N=1,247), we test misinformation susceptibility and fact-checking effectiveness through randomized assignment. Pro-China agent respondents exhibit significantly higher acceptance of anti-US narratives than vaccine misinformation. Fact-checking reduces credibility ratings substantially (from 2.5 to 1.0 in treatment compared to control group), though political attitude correlations persist after controlling for demographics and regional effects. We provide complete implementation details and open-source code, demonstrating how MAS-based simulation enables experimental designs that would face prohibitive ethical constraints with human participants.
    </div>
 
   
@@ -147,7 +148,7 @@
 
 - Vicar of Bray: Performative Loyalty and Career Survival in Maoist China. (with <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;">Yi-Nung Tsai</a></u>)
 
-- From Legislators to Mayors: Political Career and Distributive Politics in Taiwan Municipalities.
+<!-- - From Legislators to Mayors: Political Career and Distributive Politics in Taiwan Municipalities. -->
 
 
 
