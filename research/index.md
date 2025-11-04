@@ -63,23 +63,6 @@
    </div>
 
 
-<!--  
-<a href="https://www.dropbox.com/scl/fi/ppxruc9jgwrlnwdnoxaxb/Electoral_Systems_and_Geographically_Targeted.pdf?rlkey=pg9owrhasrancnqvbrghcdclb&st=i5sgiejd&dl=0" 
-     style="color: #2F4F4F;" target="_blank">__[PDF]__</a> -->
-
-- Estimating Factions of Red Guard under Mao's China: A Slogan-based Text Scaling Method with Historical Documents. (with <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;">Yi-Nung Tsai</a></u>) <span style="font-size: 11px;"> 
-  <a href="https://www.dropbox.com/scl/fi/qgnvl3w1y5hbsaq168blb/Estimating_Factions_of_Red_Guard_under_Mao_s_China.pdf?rlkey=c6bxr3o3di34vooivgjb2blcf&dl=0" 
-     style="color: #2F4F4F;" target="_blank">
-    <u>_Invited to Revise and Resubmit_</u>
-  </a>
-</span>
-   <div style="border: 1px solid #ddd; padding: 15px; margin: 10px 0; border-radius: 5px; background-color: #f9f9f9; font-style: italic;">
-   Research on Red Guard publications during China's Cultural Revolution offers crucial insights into the period's political and cultural dynamics. We introduce a novel text analysis approach that addresses the challenges of analyzing non-spaced languages in historical contexts, advancing beyond traditional unsupervised text scaling –Wordfish– applications. Utilizing the Chinese Cultural Revolution Database, we combine keyword extraction techniques with Wordfish to estimate Red Guard units' ideological positioning. While our proposed approach largely aligns with historical accounts, we also reveal inconsistencies, particularly in how some Rebel-leaning Red Guard units rhetorically and ideologically act as fellow travelers with the Conservative coalition, deviating from established narratives and expert assessments. Our paper not only provides new insights into factional dynamics during the Cultural Revolution but also offers social scientists a new approach to studying Chinese politics and historical archives.
-   </div>
-
-</div>
-
-
 <div style="text-align: justify">
  
 - Selecting and Validating Classifiers for Multilingual Stance Detection. (with <u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>) <br>
@@ -89,11 +72,6 @@
    </div>
 
 
-<!-- - 
-- 
-- <span style="font-size: 11px;"> <a href="https://www.dropbox.com/scl/fi/p5ig9xvper1svrhqbft5x/Liao_Polmeth_2025_Poster.pdf?rlkey=nqoyu6ukv2y1r687pb55cp25v&dl=0" style="color: #2F4F4F;" target="_blank"> [ __<u>Poster</u>__ </a> | <span style="font-size: 11px;"> <a href="https://www.dropbox.com/scl/fi/50r8woftzilgjo75rnxyx/polmeth_paper.pdf?rlkey=5t9gfb0d80795qqv9g8n8oo49&dl=0" style="color: #2F4F4F;" target="_blank"> __<u>Working Paper</u>__ ]</a> 
-  </span> -->
-
 - Multi-Agent Systems with LLMs for Synthetic Survey Experiments on Misinformation: Design, Implementation, and Limitations 
   (with <u><a href="https://linettemlim.github.io" style="color: #2F4F4F;">Linette Lim</a></u> and <u><a href="https://sjankin.com" style="color: #2F4F4F;">Slava Jankin</a></u>)
 
@@ -101,16 +79,23 @@
    Misinformation experiments face ethical constraints when exposing participants to harmful content. We implement an LLM-based multi-agent framework using _AG2_ to replicate survey experimental conditions without human exposure risks. Calibrating AI agents to representative Taiwanese voter data (N=1,247), we test misinformation susceptibility and fact-checking effectiveness through randomized assignment. Pro-China agent respondents exhibit significantly higher acceptance of anti-US narratives than vaccine misinformation. Fact-checking reduces credibility ratings substantially (from 2.5 to 1.0 in treatment compared to control group), though political attitude correlations persist after controlling for demographics and regional effects. We provide complete implementation details and open-source code, demonstrating how MAS-based simulation enables experimental designs that would face prohibitive ethical constraints with human participants.
    </div>
 
-  
-  <!-- <span style="font-size: 11px;"> <a href="https://www.dropbox.com/scl/fi/ei5nnymbob4fxsi6hfzsa/Who_Believes_and_Who_Shares_MAS.pdf?rlkey=jx4xikpzsm8mt2xvp6yyz5ehb&st=zsyumha3&dl=0" style="color: #2F4F4F;" target="_blank"> <u>Working Paper</u>
-  
-  </a> -->
-  
 
 - Political Text Analysis with Embedding Regression: From Multilingual to Cross-lingual Application. (with <u><a href="https://zengchen.org" style="color: #2F4F4F;">Chen Zheng</a>, </u> <u><a href="https://www.winniexia.com" style="color: #2F4F4F;">Winnie Xia</a></u> and <u><a href="https://sjankin.com" style="color: #2F4F4F;">Slava Jankin</a></u>) 
 
   <div style="border: 1px solid #ddd; padding: 15px; margin: 10px 0; border-radius: 5px; background-color: #f9f9f9; font-style: italic;">
    This research note builds upon existing embedding regression techniques (i.e., Rodriguez, Spirling and Stewart, 2023a,b; Wirsching et al., 2025) to systematically compare different embedding architectures for political text analysis. We examine three types: static (fastText and BPE), sequential contextual (LSTM-based architectures: Forward, Backward, and Forward+Backward), and dynamic embeddings (Transformer-based architectures: XLM-RoBERTa and mBERT). We analyze differences between these three types using Benoit et al. (2016)’s coal debates from Members of the European Parliament, available in English, German, Spanish, Italian, Polish, and Greek. Our experiments demonstrate that XLM-RoBERTa, Backward, Forward+Backward, and BPE achieve better performance in predicting political stance on coal policy, with stable cross-lingual flexibility and consistency suitable for comparative political analysis across multilingual settings. While XLM-RoBERTa and bidirectional sequence models maintain the highest accuracy, BPE offers an optimal balance of performance and computational efficiency. We are currently packaging this workflow as open-source software.
+   </div>
+
+
+
+- Estimating Factions of Red Guard under Mao's China: A Slogan-based Text Scaling Method with Historical Documents. (with <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;">Yi-Nung Tsai</a></u>) <span style="font-size: 11px;"> 
+  <a href="https://www.dropbox.com/scl/fi/qgnvl3w1y5hbsaq168blb/Estimating_Factions_of_Red_Guard_under_Mao_s_China.pdf?rlkey=c6bxr3o3di34vooivgjb2blcf&dl=0" 
+     style="color: #2F4F4F;" target="_blank">
+    <u>_Invited to Revise and Resubmit_</u>
+  </a>
+</span>
+   <div style="border: 1px solid #ddd; padding: 15px; margin: 10px 0; border-radius: 5px; background-color: #f9f9f9; font-style: italic;">
+   Research on Red Guard publications during China's Cultural Revolution offers crucial insights into the period's political and cultural dynamics. We introduce a novel text analysis approach that addresses the challenges of analyzing non-spaced languages in historical contexts, advancing beyond traditional unsupervised text scaling –Wordfish– applications. Utilizing the Chinese Cultural Revolution Database, we combine keyword extraction techniques with Wordfish to estimate Red Guard units' ideological positioning. While our proposed approach largely aligns with historical accounts, we also reveal inconsistencies, particularly in how some Rebel-leaning Red Guard units rhetorically and ideologically act as fellow travelers with the Conservative coalition, deviating from established narratives and expert assessments. Our paper not only provides new insights into factional dynamics during the Cultural Revolution but also offers social scientists a new approach to studying Chinese politics and historical archives.
    </div>
 
 
