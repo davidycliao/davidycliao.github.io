@@ -45,7 +45,7 @@
 <div style="text-align: justify">
 
 - Electoral Systems and Geographically-Targeted Oversight: Evidence from Taiwan Legislative Yuan. (with <u><a href="https://sites.google.com/view/litang2020" style="color: #2F4F4F;">Li Tang</a></u>) <span style="font-size: 11px;"> 
-  <a href="https://www.dropbox.com/scl/fi/ppxruc9jgwrlnwdnoxaxb/Electoral_Systems_and_Geographically_Targeted.pdf?rlkey=pg9owrhasrancnqvbrghcdclb&dl=0" 
+  <a href="" 
      style="color: #2F4F4F;" target="_blank">
      <u>_Minor correction, Electoral Studies_</u> 
   </a>
@@ -58,7 +58,7 @@
 -  Electoral Reform and Issue Attention in Legislative Oversight: From SNTV to Mixed-Member Majoritarian System in Taiwan. (with <u><a href="https://sites.google.com/view/calvin-yuceng-liao/home" style="color: #2F4F4F;">Yu-Ceng Liao</a></u> and <u><a href="https://yitingw.com" style="color: #2F4F4F;">Yi-ting Wang</a></u>) <br>
 
    <div style="border: 1px solid #ddd; padding: 15px; margin: 10px 0; border-radius: 5px; background-color: #f9f9f9; font-style: italic;">
-   This research note examines how electoral reform — shifting from Single Non-Transferable Vote (SNTV) in multi-member districts to a mixed-member majoritarian system (MMM) — affects how closely legislators align with their party's policy attention. Using interpellations from 1999-2019 annotated with 422 fixed topic keywords, we estimate legislators' issue attention behavior across time using the Wordfish scaling method. We find that legislators under MMM prioritize more similar issues to their co-partisan members, while those under SNTV show greater divergence. Moreover, under SNTV, legislators from economically disadvantaged municipalities are more susceptible to local economic and demographic conditions. These findings indicate that SNTV creates stronger incentives for legislators to respond to local conditions, while MMM homogenizes legislative behavior across regional economic or demographic differences.
+   This research note examines how Taiwan's electoral reform—from Single Non-Transferable Vote (SNTV) in multi-member district (MMD) to a single-member district (SMD)-dominant mixed-member majoritarian system (MMM)—affects how closely legislators align with their party's policy attention. While existing work explains which issues legislators emphasize and where they position themselves, less is known about how electoral systems shape the cohesion of issue attention within parties. We address this gap using 1999–2019 interpellations from Taiwanese legislators annotated with 422 fixed topic keywords. We introduce a new application of Wordfish: instead of estimating ideology, we scale legislators' issue attention and compute their divergence from the party. We find significantly higher intra-party convergence under SMD than SNTV. Local socioeconomic conditions strongly influence attention variation under SNTV but are substantially attenuated after reform. The findings highlight a key institutional trade-off: SNTV incentivizes geographically differentiated agendas, whereas SMD promotes party-aligned priorities.
    </div>
 
 
@@ -71,11 +71,11 @@
    </div>
 
 
-- Multi-Agent Systems with LLMs for Synthetic Survey Experiments on Misinformation: Design, Implementation, and Limitations 
+- Multi-Agent Systems with LLMs for Synthetic Survey Experiments on Misinformation: Design and Implementation 
   (with <u><a href="https://linettemlim.github.io" style="color: #2F4F4F;">Linette Lim</a></u> and <u><a href="https://sjankin.com" style="color: #2F4F4F;">Slava Jankin</a></u>)
 
    <div style="border: 1px solid #ddd; padding: 15px; margin: 10px 0; border-radius: 5px; background-color: #f9f9f9; font-style: italic;">
-   Misinformation experiments face ethical constraints when exposing participants to harmful content. We implement an LLM-based multi-agent framework using _AG2_ to replicate survey experimental conditions without human exposure risks. Calibrating AI agents to representative Taiwanese voter data (N=1,247), we test misinformation susceptibility and fact-checking effectiveness through randomized assignment. Pro-China agent respondents exhibit significantly higher acceptance of anti-US narratives than vaccine misinformation. Fact-checking reduces credibility ratings substantially (from 2.5 to 1.0 in treatment compared to control group), though political attitude correlations persist after controlling for demographics and regional effects. We provide complete implementation details and open-source code, demonstrating how MAS-based simulation enables experimental designs that would face prohibitive ethical constraints with human participants.
+   Misinformation experiments face ethical constraints when exposing participants to harmful content. We implement an LLM-based multi-agent framework using AG2 to replicate survey experimental conditions without human exposure risks. Calibrating AI agents to representative Taiwanese voter data (N=1,247), we test misinformation susceptibility and fact-checking effectiveness through randomized assignment. Pro-China agent respondents exhibit significantly higher acceptance of anti-US narratives than vaccine misinformation. Fact-checking reduces credibility ratings substantially (from 2.5 to 1.0 in treatment compared to control group), though political attitude correlations persist after controlling for demographics and regional effects. We provide complete implementation details and open-source code, demonstrating how MAS-based simulation enables experimental designs that would face prohibitive ethical constraints with human participants.
    </div>
 
 
