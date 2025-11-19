@@ -71,7 +71,7 @@ details.abstract[open] summary {
 
 <div style="text-align: justify">
 
-<a href="" target="_blank" style="color: #515151;"> 2025 Electoral Systems and Geographically-Targeted Oversight: Evidence from Taiwan Legislative Yuan. </a> _Electoral Studies_  (with <u><a href="https://sites.google.com/view/litang2020" style="color: #2F4F4F;">Li Tang</a></u>)
+<a href="https://www.dropbox.com/scl/fi/ppxruc9jgwrlnwdnoxaxb/Electoral_Systems_and_Geographically_Targeted.pdf?rlkey=pg9owrhasrancnqvbrghcdclb&dl=0" target="_blank" style="color: #515151;"> 2025 Electoral Systems and Geographically-Targeted Oversight: Evidence from Taiwan Legislative Yuan. </a> _Electoral Studies_.  (with <u><a href="https://sites.google.com/view/litang2020" style="color: #2F4F4F;">Li Tang</a></u>) _Forthcoming_
 
 <a href="https://doi.org/10.1016/j.erss.2025.103955" target="_blank" style="color: #515151;"> 2025 Catalysts for Progress? Mapping Policy Insights from Energy Research. </a>  <a href="https://www.sciencedirect.com/journal/energy-research-and-social-science" target="_blank" style="color: #515151;">  _Energy Research & Social Science_. </a>  (with <u><a href="https://brianpaulboyle.com" style="color: #2F4F4F;">Brian Boyle</a></u>, 
 <u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>, <u><a href="https://sarahaking.net" style="color: #2F4F4F;">Sarah King</a></u> and <u><a href="https://robinrauner.com" style="color: #2F4F4F;">Robin Rauner</a></u>)<br>
