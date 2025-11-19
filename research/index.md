@@ -133,7 +133,7 @@ details.abstract[open] summary {
     </div>    
   </details>
 
-- Selecting and Validating Classifiers for Multilingual Stance Detection. (with <u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>) 
+- Selecting and Validating Classifiers for Multilingual Stance Detection. (with <u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>)
   <details class="abstract">
     <summary>Abstract</summary>
     <div style="font-size: 0.9em;">    
@@ -143,7 +143,7 @@ details.abstract[open] summary {
 
 
 
-- Political Text Analysis with Embedding Regression: From Multilingual to Cross-lingual Application. (with <u><a href="https://zengchen.org" style="color: #2F4F4F;">Chen Zheng</a>, </u> <u><a href="https://www.winniexia.com" style="color: #2F4F4F;">Winnie Xia</a></u> and <u><a href="https://sjankin.com" style="color: #2F4F4F;">Slava Jankin</a></u>)  
+- Political Text Analysis with Embedding Regression: From Multilingual to Cross-lingual Application. (with <u><a href="https://zengchen.org" style="color: #2F4F4F;">Chen Zheng</a>, </u> <u><a href="https://www.winniexia.com" style="color: #2F4F4F;">Winnie Xia</a></u> and <u><a href="https://sjankin.com" style="color: #2F4F4F;">Slava Jankin</a></u>)    {{< badge href="https://www.dropbox.com/scl/fi/vga6hfvy62zp5wzu3cah7/Political_Text_Analysis_with_Embedding_Regression.pdf?rlkey=bbock4mtmj63r33s2njl62di7&dl=0" icon="fa-file-pdf" text="PolMeth Poster" >}}
   
   <details class="abstract">
     <summary>Abstract</summary>
