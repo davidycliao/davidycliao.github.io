@@ -71,6 +71,8 @@ details.abstract[open] summary {
 
 <div style="text-align: justify">
 
+<a href="" target="_blank" style="color: #515151;"> 2025 Electoral Systems and Geographically-Targeted Oversight: Evidence from Taiwan Legislative Yuan. </a> _Electoral Studies_  (with <u><a href="https://sites.google.com/view/litang2020" style="color: #2F4F4F;">Li Tang</a></u>)
+
 <a href="https://doi.org/10.1016/j.erss.2025.103955" target="_blank" style="color: #515151;"> 2025 Catalysts for Progress? Mapping Policy Insights from Energy Research. </a>  <a href="https://www.sciencedirect.com/journal/energy-research-and-social-science" target="_blank" style="color: #515151;">  _Energy Research & Social Science_. </a>  (with <u><a href="https://brianpaulboyle.com" style="color: #2F4F4F;">Brian Boyle</a></u>, 
 <u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>, <u><a href="https://sarahaking.net" style="color: #2F4F4F;">Sarah King</a></u> and <u><a href="https://robinrauner.com" style="color: #2F4F4F;">Robin Rauner</a></u>)<br>
 
@@ -100,13 +102,6 @@ details.abstract[open] summary {
 
 <div style="text-align: justify">
 
-- Electoral Systems and Geographically-Targeted Oversight: Evidence from Taiwan Legislative Yuan. (with <u><a href="https://sites.google.com/view/litang2020" style="color: #2F4F4F;">Li Tang</a></u>) _Revised and Resubmitted, Electoral Studies_ {{< badge href="https://www.dropbox.com/scl/fi/ppxruc9jgwrlnwdnoxaxb/Electoral_Systems_and_Geographically_Targeted.pdf?rlkey=pg9owrhasrancnqvbrghcdclb&dl=0" icon="fa-file-pdf" text="PDF" >}} 
-  <details class="abstract">
-  <summary>Abstract</summary>
-  <div style="font-size: 0.9em;">
-  Electoral systems have profound effects on legislator–constituent communication and representation. We examine how Taiwan’s electoral reform — from multi-member districts under the Single Non-Transferable Vote (SNTV) to single-member districts under a Mixed Member Majoritarian system (MMM) — shapes district legislators’ particularistic behaviors. Using fine-tuned transformer-based text classification, we analyze over 63,000 parliamentary questions from 402 district legislators spanning two decades to identify geographically targeted content. After controlling for legislator and municipal characteristics, we find that the shift from SNTV to MMM reduces geographically targeted questions, though this effect varies substantially across municipalities with different economic profiles. Our analysis shows that SNTV generates greater particularistic responsiveness to local socioeconomic conditions than MMM, demonstrating that candidate-centered electoral systems create different behavioral incentives for legislators.
-  </div>  
-</details>
 
 
 - Estimating Factions of Red Guard under Mao's China: A Slogan-based Text Scaling Method with Historical Documents. (with <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;">Yi-Nung Tsai</a></u>) _Invited to Revise and Resubmit_ {{< badge href="https://www.dropbox.com/scl/fi/qgnvl3w1y5hbsaq168blb/Estimating_Factions_of_Red_Guard_under_Mao_s_China.pdf?rlkey=c6bxr3o3di34vooivgjb2blcf&dl=0" icon="fa-file-pdf" text="PDF" >}}
@@ -119,7 +114,7 @@ details.abstract[open] summary {
 
 
 
-- Electoral Reform and Issue Attention in Legislative Oversight: From SNTV to Mixed-Member Majoritarian System in Taiwan. (with <u><a href="https://sites.google.com/view/calvin-yuceng-liao/home" style="color: #2F4F4F;">Yu-Ceng Liao</a></u> and <u><a href="https://yitingw.com" style="color: #2F4F4F;">Yi-ting Wang</a></u>) _Under review_ {{< badge href="https://www.dropbox.com/scl/fi/n5wjjs063m3114c608ank/Electoral_Reform_and_Issue_Attention_in_Legislative_Oversight.pdf?rlkey=cne737myrmzxsqb3s0ojgjr6s&dl=0" icon="fa-file-pdf" text="PDF" >}}
+- Electoral Reform and Issue Attention in Legislative Oversight: From SNTV to Mixed-Member Majoritarian System in Taiwan. (with <u><a href="https://sites.google.com/view/calvin-yuceng-liao/home" style="color: #2F4F4F;">Yu-Ceng Liao</a></u> and <u><a href="https://yitingw.com" style="color: #2F4F4F;">Yi-ting Wang</a></u>) _Under Review_ {{< badge href="https://www.dropbox.com/scl/fi/n5wjjs063m3114c608ank/Electoral_Reform_and_Issue_Attention_in_Legislative_Oversight.pdf?rlkey=cne737myrmzxsqb3s0ojgjr6s&dl=0" icon="fa-file-pdf" text="PDF" >}}
 
   <details class="abstract">
     <summary>Abstract</summary>
