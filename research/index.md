@@ -71,15 +71,18 @@ details.abstract[open] summary {
 
 <div style="text-align: justify">
 
-<a href="https://www.dropbox.com/scl/fi/ppxruc9jgwrlnwdnoxaxb/Electoral_Systems_and_Geographically_Targeted.pdf?rlkey=pg9owrhasrancnqvbrghcdclb&dl=0" target="_blank" style="color: #515151;"> 2025 Electoral Systems and Geographically-Targeted Oversight: Evidence from Taiwan Legislative Yuan. </a> _Electoral Studies_.  (with <u><a href="https://sites.google.com/view/litang2020" style="color: #2F4F4F;">Li Tang</a></u>) _Forthcoming_
+<a href="https://www.dropbox.com/scl/fi/ppxruc9jgwrlnwdnoxaxb/Electoral_Systems_and_Geographically_Targeted.pdf?rlkey=pg9owrhasrancnqvbrghcdclb&dl=0" target="_blank" style="color: #515151;"> ___Forthcoming___ Electoral Systems and Geographically-Targeted Oversight: Evidence from Taiwan Legislative Yuan. </a> _Electoral Studies_.  (with <u><a href="https://sites.google.com/view/litang2020" style="color: #2F4F4F;">Li Tang</a></u>) 
 
-<a href="https://doi.org/10.1016/j.erss.2025.103955" target="_blank" style="color: #515151;"> 2025 Catalysts for Progress? Mapping Policy Insights from Energy Research. </a>  <a href="https://www.sciencedirect.com/journal/energy-research-and-social-science" target="_blank" style="color: #515151;">  _Energy Research & Social Science_. </a>  (with <u><a href="https://brianpaulboyle.com" style="color: #2F4F4F;">Brian Boyle</a></u>, 
+<a href="https://doi.org/10.1016/j.erss.2025.103955" target="_blank" style="color: #515151;"> __2025__ Catalysts for Progress? Mapping Policy Insights from Energy Research. </a>  <a href="https://www.sciencedirect.com/journal/energy-research-and-social-science" target="_blank" style="color: #515151;">  _Energy Research & Social Science_. 121: 103955.</a>  (with <u><a href="https://brianpaulboyle.com" style="color: #2F4F4F;">Brian Boyle</a></u>, 
 <u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>, <u><a href="https://sarahaking.net" style="color: #2F4F4F;">Sarah King</a></u> and <u><a href="https://robinrauner.com" style="color: #2F4F4F;">Robin Rauner</a></u>)<br>
 
 
-<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/lsq.12459" target="_blank" style="color: #515151;"> 2024 Electoral Reform and Fragmented Polarization: New Evidence from Taiwan Legislative Roll Call.</a>  <a href="https://onlinelibrary.wiley.com/journal/19399162" target="_blank" style="color: #515151;">  _Legislative Studies Quarterly_. </a>  <br>
+<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/lsq.12459" target="_blank" style="color: #515151;"> __2025__ Electoral Reform and Fragmented Polarization: New Evidence from Taiwan Legislative Roll Call.</a>  <a href="https://onlinelibrary.wiley.com/journal/19399162" target="_blank" style="color: #515151;">  _Legislative Studies Quarterly_. 50 (1): 3-21. </a>  <br>
 
-<a href="https://www.cambridge.org/core/journals/political-science-research-and-methods/article/misperception-of-party-congruence-and-satisfaction-with-democracy/48E409867105FD3737126E6FA05F13ED" target="_blank" style="color: #515151;"> 2024 (_Mis_)perception of Party-voter Congruence and Satisfaction with Democracy. </a> </a> <a href="https://www.cambridge.org/core/journals/political-science-research-and-methods" target="_blank" style="color: #515151;">  _Political Science Research and Methods_. </a> (with <u><a href="#" style="color: #2F4F4F;">Royce Carroll</a></u> and <u><a href="https://sites.google.com/view/litang2020" style="color: #2F4F4F;">Li Tang</a></u>) <br>
+
+
+<a href="https://www.cambridge.org/core/journals/political-science-research-and-methods/article/misperception-of-party-congruence-and-satisfaction-with-democracy/48E409867105FD3737126E6FA05F13ED" target="_blank" style="color: #515151;"> __2025__ (_Mis_)perception of Party-voter Congruence and Satisfaction with Democracy. </a> </a> <a href="https://www.cambridge.org/core/journals/political-science-research-and-methods" target="_blank" style="color: #515151;">  _Political Science Research and Methods_. 13 (5): 885-902. </a>  (with <u><a href="#" style="color: #2F4F4F;">Royce Carroll</a></u> and <u><a href="https://sites.google.com/view/litang2020" style="color: #2F4F4F;">Li Tang</a></u>) <br>
+
 
 <a href="https://www.jstor.org/stable/27221360" target="_blank" style="color: #515151;"> 2023 The Role of Rituals in Adversarial Parliaments: An Analysis of Expressions of Collegiality in the British House of Commons. (Invited Contribution)</a>  <a href="https://www.gesis.org/en/hsr" target="_blank" style="color: #515151;">  _Historical Social Research_. </a> 48 (3): 209-234. (with <u><a href="https://www.uni-bamberg.de/comparpol/lehrstuhlteam/david-beck/" style="color: #2F4F4F;">David Beck</a></u> and <u><a href="https://www.uni-bamberg.de/vp-forschung/" style="color: #2F4F4F;">Thomas Saalfeld</a></u>)<br>
 
@@ -90,7 +93,7 @@ details.abstract[open] summary {
 
 ### Peer-Reviewed Articles (in Chinese)
 
-<a href="https://toaj.stpi.niar.org.tw/index/journal/volume/article/4b1141f9969effc90196a8f041000240" target="_blank" style="color: #515151;"> 2025 官僚「再詮釋」領導人意識形態初探：以《人民日報》習近平外交思想的評論為例  (Bureaucratic ‘Reinterpretation’ of Leaders’ Ideologies: A Case Study of People's Daily's Commentary on Xi Jinping Thought on Diplomacy). </a> <a href="http://mcs.nccu.edu.tw/CHINA_Eng/editor.html" target="_blank" style="color: #515151;">_中國大陸研究 Mainland China Studies_.</a>  (with <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;">Yi-Nung Tsai</a></u>) 
+<a href="https://toaj.stpi.niar.org.tw/index/journal/volume/article/4b1141f9969effc90196a8f041000240" target="_blank" style="color: #515151;"> __2025__ 官僚「再詮釋」領導人意識形態初探：以《人民日報》習近平外交思想的評論為例  (Bureaucratic ‘Reinterpretation’ of Leaders’ Ideologies: A Case Study of People's Daily's Commentary on Xi Jinping Thought on Diplomacy). </a> <a href="http://mcs.nccu.edu.tw/CHINA_Eng/editor.html" target="_blank" style="color: #515151;">_中國大陸研究 Mainland China Studies_.</a>  (with <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;">Yi-Nung Tsai</a></u>) 
 
 
 </div>
@@ -177,9 +180,13 @@ details.abstract[open] summary {
 
 - Game-Theoretic Multi-Agent Systems with LLMs for Crisis Negotiation and Simulation. (with <u><a href="" style="color: #2F4F4F; text-decoration: underline;">Shuli Zhang</a></u>)<br>
 
+- How Do LLMs Differ Politically? A Multi-Agent Approach to Measuring AI Ideology. (with Ting Luo and Slava Jankin)<br> 
+
 - Partisan Canvassing and Ideological Misperception: Evidence of Asymmetric Belief Updating (with Li Tang)
 
-- Multi-Dimensional Policy Congruence and Political Attitudes (with Royce Carroll and Li Tang)
+- The Rural-Urban Divide in Populist Rhetoric: Cross-National Evidence from European Parliaments (with Edoardo Viganò)
+
+<!-- - Multi-Dimensional Policy Congruence and Political Attitudes (with Royce Carroll and Li Tang) -->
 
 - Vicar of Bray: Performative Loyalty and Career Survival in Maoist China. (with <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;">Yi-Nung Tsai</a></u>)
 
