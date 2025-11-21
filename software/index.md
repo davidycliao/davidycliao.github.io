@@ -50,8 +50,9 @@ R wrapper for accessing <span style="color:#5a5a5a">**flair NLP**</span> library
 
 <a href="https://davidycliao.github.io/legisTaiwan/" class="bottom-link"  target="_blank">__`legisTaiwan`__</a>  
 
-R package for downloading real-time legislative data of spoken meeting records, bill sponsor/co-sponsor, and more via Taiwan Legislative Library API.
-</div>
+R package for downloading real-time legislative data of spoken meeting records, bill sponsor/co-sponsor, and more via Taiwan Legislative Library API.[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14788364.svg)](https://doi.org/10.5281/zenodo.14788364)
+
+</div> 
 
 
 
