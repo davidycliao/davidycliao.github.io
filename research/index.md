@@ -136,7 +136,7 @@ details.abstract[open] summary {
     </div>    
   </details>
 
-- Selecting and Validating Classifiers for Multilingual Stance Detection. (with <u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>)
+- Cross-Lingual Stance Detection in Political Texts: Comparison and Application (with <u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>)
   <details class="abstract">
     <summary>Abstract</summary>
     <div style="font-size: 0.9em;">    
@@ -184,13 +184,15 @@ details.abstract[open] summary {
 
 - Partisan Canvassing and Ideological Misperception: Evidence of Asymmetric Belief Updating (with Li Tang)
 
-- The Rural-Urban Divide in Populist Rhetoric: Cross-National Evidence from European Parliaments (with Edoardo Viganò)
+- The Rural-Urban Divide in Populist Rhetoric: Cross-National Evidence from European Parliaments (with <u><a href="https://eavigano.github.io" style="color: #2F4F4F;"> Edoardo Viganò</a></u>)
+
 
 <!-- - Multi-Dimensional Policy Congruence and Political Attitudes (with Royce Carroll and Li Tang) -->
 
 - Vicar of Bray: Performative Loyalty and Career Survival in Maoist China. (with <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;">Yi-Nung Tsai</a></u>)
 
 <!-- - From Legislators to Mayors: Political Career and Distributive Politics in Taiwan Municipalities. -->
+
 
 
 
