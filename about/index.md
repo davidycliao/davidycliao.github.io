@@ -13,7 +13,7 @@ I received my PhD in Politics from Essex (2023), and both my BA and MA in Public
 
 Methodologically, I am especially interested in measuring ideological preferences and political stances using quantitative and computational methods, including the quantitative measurement of legislative voting, surveys, and political texts.
 
-Recently, I have been working with <a href="https://www.birmingham.ac.uk/research/centres-institutes/centre-for-artificial-intelligence-in-government" style="color:#778899; text-decoration: underline;" target="_blank">our center (CAIG)</a> and <a href="https://www.birmingham.ac.uk/research/centres-institutes/data-and-ai" style="color:#778899; text-decoration: underline;" target="_blank">the Institute for Data and AI</a>  to implement multi-agent systems with large language models for survey experiments and simulating political deliberation among political elites.
+Recently, I have been working with <a href="https://www.birmingham.ac.uk/research/centres-institutes/centre-for-artificial-intelligence-in-government" style="color:#778899; text-decoration: underline;" target="_blank">our center (CAIG)</a> and <a href="https://www.birmingham.ac.uk/research/centres-institutes/data-and-ai" style="color:#778899; text-decoration: underline;" target="_blank">the Institute for Data and AI</a>  to implement multi-agent systems with large language models for survey experiments and simulating political deliberation among political elites. 
 
 &nbsp;&nbsp;
 

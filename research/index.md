@@ -15,7 +15,6 @@ details.abstract {
 }
 
 details.abstract summary {
-  font-weight: 600;
   font-size: 0.9rem;
   color: #333;
   cursor: pointer;
@@ -182,7 +181,7 @@ details.abstract[open] summary {
 
 - How Do LLMs Differ Politically? A Multi-Agent Approach to Measuring AI Ideology. (with Ting Luo and Slava Jankin)<br> 
 
-- Partisan Canvassing and Ideological Misperception: Evidence of Asymmetric Belief Updating (with Li Tang)
+- Partisan Canvassing and Ideological Misperception in Britain: Evidence of Asymmetric Belief Updating from the British Election Studies. (with Li Tang)
 
 - The Rural-Urban Divide in Populist Rhetoric: Cross-National Evidence from European Parliaments (with <u><a href="https://eavigano.github.io" style="color: #2F4F4F;"> Edoardo Viganò</a></u>)
 
