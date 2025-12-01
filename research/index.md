@@ -100,56 +100,50 @@ details.abstract[open] summary {
 
 
 
-### Working Pappers
+### Working Papers
 
 <div style="text-align: justify">
 
-
-
-- Estimating Factions of Red Guard under Mao's China: A Slogan-based Text Scaling Method with Historical Documents. (with <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;">Yi-Nung Tsai</a></u>) _Invited to Revise and Resubmit_ {{< badge href="https://www.dropbox.com/scl/fi/qgnvl3w1y5hbsaq168blb/Estimating_Factions_of_Red_Guard_under_Mao_s_China.pdf?rlkey=c6bxr3o3di34vooivgjb2blcf&dl=0" icon="fa-file-pdf" text="PDF" >}}
-  <details class="abstract">
-    <summary>Abstract</summary>
-    <div style="font-size: 0.9em;">
-    Research on Red Guard publications during China's Cultural Revolution offers crucial insights into the period's political and cultural dynamics. We introduce a novel text analysis approach that addresses the challenges of analyzing non-spaced languages in historical contexts, advancing beyond traditional unsupervised text scaling –Wordfish– applications. Utilizing the Chinese Cultural Revolution Database, we combine keyword extraction techniques with Wordfish to estimate Red Guard units' ideological positioning. While our proposed approach largely aligns with historical accounts, we also reveal inconsistencies, particularly in how some Rebel-leaning Red Guard units rhetorically and ideologically act as fellow travelers with the Conservative coalition, deviating from established narratives and expert assessments. Our paper not only provides new insights into factional dynamics during the Cultural Revolution but also offers social scientists a new approach to studying Chinese politics and historical archives.
-    </div>
-</details>
-
-
-
 - Electoral Reform and Issue Attention in Legislative Oversight: From SNTV to Mixed-Member Majoritarian System in Taiwan. (with <u><a href="https://sites.google.com/view/calvin-yuceng-liao/home" style="color: #2F4F4F;">Yu-Ceng Liao</a></u> and <u><a href="https://yitingw.com" style="color: #2F4F4F;">Yi-ting Wang</a></u>) _Under Review_ {{< badge href="https://www.dropbox.com/scl/fi/n5wjjs063m3114c608ank/Electoral_Reform_and_Issue_Attention_in_Legislative_Oversight.pdf?rlkey=cne737myrmzxsqb3s0ojgjr6s&dl=0" icon="fa-file-pdf" text="PDF" >}}
 
-  <details class="abstract">
-    <summary>Abstract</summary>
-    <div style="font-size: 0.9em;">
+  <details class="abstract" style="font-weight: bold;">
+    <summary>Abstract <br> (Conference: 2023 EPSA, 2025 TPSA)</summary>
+    <div style="font-size: 0.9em; font-weight: normal;">    
     This research note examines how Taiwan's electoral reform—from Single Non-Transferable Vote (SNTV) in multi-member district (MMD) to a single-member district (SMD) -- dominant mixed-member majoritarian system (MMM) -- affects how closely legislators align with their party's policy attention. While existing work explains which issues legislators emphasize and where they position themselves, less is known about how electoral systems shape the cohesion of issue attention within parties. We address this gap using 1999–2019 interpellations from Taiwanese legislators annotated with 422 fixed topic keywords. We introduce a new application of Wordfish: instead of estimating ideology, we scale legislators' issue attention and compute their divergence from the party. We find significantly higher intra-party convergence under SMD than SNTV. Local socioeconomic conditions strongly influence attention variation under SNTV but are substantially attenuated after reform. The findings highlight a key institutional trade-off: SNTV incentivizes geographically differentiated agendas, whereas SMD promotes party-aligned priorities.
     </div>
   </details>
 
 
 
-- Multi-Agent Systems with LLMs for Synthetic Survey Experiments on Misinformation: Design and Implementation (with <u><a href="https://linettemlim.github.io" style="color: #2F4F4F;">Linette Lim</a></u> and  <u><a href="https://sjankin.com" style="color: #2F4F4F;"> Slava Jankin</a></u>) 
-  <details class="abstract">
-    <summary>Abstract</summary>
-    <div style="font-size: 0.9em;">    
+- Estimating Factions of Red Guard under Mao's China: A Slogan-based Text Scaling Method with Historical Documents. (with <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;">Yi-Nung Tsai</a></u>) _Invited to Revise and Resubmit_ {{< badge href="https://www.dropbox.com/scl/fi/qgnvl3w1y5hbsaq168blb/Estimating_Factions_of_Red_Guard_under_Mao_s_China.pdf?rlkey=c6bxr3o3di34vooivgjb2blcf&dl=0" icon="fa-file-pdf" text="PDF" >}}
+  <details class="abstract" style="font-weight: bold;">
+    <summary>Abstract <br> (Conference: 2021 AsianPolmeth VIII, 2022 EPSA)</summary>
+    <div style="font-size: 0.9em; font-weight: normal;">    
+    Research on Red Guard publications during China's Cultural Revolution offers crucial insights into the period's political and cultural dynamics. We introduce a novel text analysis approach that addresses the challenges of analyzing non-spaced languages in historical contexts, advancing beyond traditional unsupervised text scaling –Wordfish– applications. Utilizing the Chinese Cultural Revolution Database, we combine keyword extraction techniques with Wordfish to estimate Red Guard units' ideological positioning. While our proposed approach largely aligns with historical accounts, we also reveal inconsistencies, particularly in how some Rebel-leaning Red Guard units rhetorically and ideologically act as fellow travelers with the Conservative coalition, deviating from established narratives and expert assessments. Our paper not only provides new insights into factional dynamics during the Cultural Revolution but also offers social scientists a new approach to studying Chinese politics and historical archives.
+    </div>
+  </details>
+
+- Multi-Agent Systems with LLMs for Synthetic Survey Experiments on Misinformation: Design and Implementation (with <u><a href="https://linettemlim.github.io" style="color: #2F4F4F;">Linette Lim</a></u> and  <u><a href="https://sjankin.com" style="color: #2F4F4F;">Slava Jankin</a></u>) 
+  <details class="abstract" style="font-weight: bold;">
+    <summary>Abstract <br> (Conference: 2025 PolMeth Europe, 2025 CwC-LLM Workshop EPSA, 2025 APSA)</summary>
+    <div style="font-size: 0.9em; font-weight: normal;">    
     Experimental studies in misinformation face ethical constraints as they expose human participants to false or harmful content. We address this challenge by presenting an LLM-based multi-agent framework using AG2 to replicate survey experimental conditions without human exposure risks. We calibrate 1,247 synthetic agents to representative Taiwanese voter data and examine susceptibility to misinformation and the effectiveness of fact-checking interventions through randomized assignment. Synthetic agents with pro-China predispositions show significantly higher acceptance of misinformation. Corrective information substantially reduces credibility ratings—from 2.5 to 1.0 in the treatment group relative to controls. However, correlations between political attitudes and misinformation susceptibility persist after controlling for demographics and regional effects. We make our prototype and its AG2 implementation publicly available, providing full implementation details and open-source code to demonstrate how multi-agent simulations can enable experimental designs that would be infeasible with human participants.
     </div>    
   </details>
 
 - Cross-Lingual Stance Detection in Political Texts: Comparison and Application (with <u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>)
-  <details class="abstract">
-    <summary>Abstract</summary>
-    <div style="font-size: 0.9em;">    
-    Measuring stances on specific policies provides valuable insights for understanding policy-making, changes in political preferences, and party competition. In this paper, we fine-tune three multilingual transformer machine learning models based on annotated texts of stances in over 53,000 comments on Twitter and more than 67,000 comments to 150 political questions in German, French, and Italian. We compare Sentence-BERT, Multilingual BERT, and XLM-RoBERTa and show that these transformers can classify stances in several languages. After identifying the most suitable fine-tuned model, we compare the automated stance classification with hand-annotated evaluations of politicians' support for the annual budget, social media posts about protest events, and stances across policy areas. Drawing from our systematic comparison and validation across three cross-lingual transformer architectures, we provide recommendations for researchers when applying stance detection models to political texts.
+  <details class="abstract" style="font-weight: bold;">
+    <summary>Abstract <br> (Conference: 2024 ESPA, 2024 COMPTEXT)</summary>
+    <div style="font-size: 0.9em; font-weight: normal;">    
+    Measuring the stance on specific policies provides valuable insights for understanding policy-making, changes in political preferences, and party competition. In this paper, we fine-tune three multilingual transformer models — Sentence-BERT, Multilingual BERT, and XLM-RoBERTa on annotated texts of stances in more than 53,000 comments on Twitter and more than 67,000 comments to 150 political questions in German, French, and Italian. We benchmark our fine-tuned transformer models against open-source large language models (gpt-oss-120b and LLaMA 3.1) on ground truth annotations, finding that fine-tuned transformers achieve competitive performance with substantially better computational efficiency. After identifying the most suitable model, we validate our approach by applying this fine-tuned transformer to datasets from published journal articles: politicians’ support for the annual budget (Lowe and Benoit 2013), social media posts (Bestvater and Monroe 2023), and stances across policy areas (Green-Pedersen and Little 2023). Our findings demonstrate that fine-tuned multilingual transformers provide a scalable solution for large-scale stance detection in political texts. Drawing from our systematic comparison and validation, we provide methodological guidance for researchers applying stance detection to political texts. We release our fine-tuned models alongside benchmark ground truth data to enable researchers to deploy them directly or adapt them through further fine-tuning to new domains and languages, including those not covered in our German, French, and Italian training set.
     </div>  
   </details>
 
-
-
 - Political Text Analysis with Embedding Regression: From Multilingual to Cross-lingual Application. (with <u><a href="https://zengchen.org" style="color: #2F4F4F;">Chen Zheng</a>, </u> <u><a href="https://www.winniexia.com" style="color: #2F4F4F;">Winnie Xia</a></u> and <u><a href="https://sjankin.com" style="color: #2F4F4F;">Slava Jankin</a></u>)    {{< badge href="https://www.dropbox.com/scl/fi/vga6hfvy62zp5wzu3cah7/Political_Text_Analysis_with_Embedding_Regression.pdf?rlkey=bbock4mtmj63r33s2njl62di7&dl=0" icon="fa-file-pdf" text="PolMeth Poster" >}}
   
-  <details class="abstract">
-    <summary>Abstract</summary>
-    <div style="font-size: 0.9em;">    
+  <details class="abstract" style="font-weight: bold;">
+    <summary>Abstract <br> (Conference: 2025 PolMeth Summer Meeting, 2025 APSA)</summary>
+    <div style="font-size: 0.9em; font-weight: normal;">    
     This research note builds upon existing embedding regression techniques (i.e., Rodriguez, Spirling and Stewart, 2023a,b; Wirsching et al., 2025) to systematically compare different embedding architectures for political text analysis. We examine three types: static (fastText and BPE), sequential contextual (LSTM-based architectures: Forward, Backward, and Forward+Backward), and dynamic embeddings (Transformer-based architectures: XLM-RoBERTa and mBERT). We analyze differences between these three types using Benoit et al. (2016)’s coal debates from Members of the European Parliament, available in English, German, Spanish, Italian, Polish, and Greek. Our experiments demonstrate that XLM-RoBERTa, Backward, Forward+Backward, and BPE achieve better performance in predicting political stance on coal policy, with stable cross-lingual flexibility and consistency suitable for comparative political analysis across multilingual settings. While XLM-RoBERTa and bidirectional sequence models maintain the highest accuracy, BPE offers an optimal balance of performance and computational efficiency. We are currently packaging this workflow as open-source software.
     </div>  
   </details>
