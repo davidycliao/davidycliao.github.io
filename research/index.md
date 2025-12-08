@@ -114,22 +114,15 @@ details.abstract[open] summary {
   </details>
 
 
-
-- Estimating Factions of Red Guard under Mao's China: A Slogan-based Text Scaling Method with Historical Documents. (with <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;">Yi-Nung Tsai</a></u>) _Invited to Revise and Resubmit_ {{< badge href="https://www.dropbox.com/scl/fi/qgnvl3w1y5hbsaq168blb/Estimating_Factions_of_Red_Guard_under_Mao_s_China.pdf?rlkey=c6bxr3o3di34vooivgjb2blcf&dl=0" icon="fa-file-pdf" text="PDF" >}}
-  <details class="abstract" style="font-weight: bold;">
-    <summary>Abstract <br> (Conference: 2021 AsianPolmeth VIII, 2022 EPSA)</summary>
-    <div style="font-size: 0.9em; font-weight: normal;">    
-    Research on Red Guard publications during China's Cultural Revolution offers crucial insights into the period's political and cultural dynamics. We introduce a novel text analysis approach that addresses the challenges of analyzing non-spaced languages in historical contexts, advancing beyond traditional unsupervised text scaling –Wordfish– applications. Utilizing the Chinese Cultural Revolution Database, we combine keyword extraction techniques with Wordfish to estimate Red Guard units' ideological positioning. While our proposed approach largely aligns with historical accounts, we also reveal inconsistencies, particularly in how some Rebel-leaning Red Guard units rhetorically and ideologically act as fellow travelers with the Conservative coalition, deviating from established narratives and expert assessments. Our paper not only provides new insights into factional dynamics during the Cultural Revolution but also offers social scientists a new approach to studying Chinese politics and historical archives.
-    </div>
-  </details>
-
-- Multi-Agent Systems with LLMs for Synthetic Survey Experiments on Misinformation: Design and Implementation (with <u><a href="https://linettemlim.github.io" style="color: #2F4F4F;">Linette Lim</a></u> and  <u><a href="https://sjankin.com" style="color: #2F4F4F;">Slava Jankin</a></u>) 
+- Multi-Agent LLM Systems for Synthetic Survey Experiments in Ethically Constrained Settings (with <u><a href="https://linettemlim.github.io" style="color: #2F4F4F;">Linette Lim</a></u> and <u><a href="https://sjankin.com" style="color: #2F4F4F;">Slava Jankin</a></u>)   {{< badge href="https://www.dropbox.com/scl/fi/pnpv3t1dqji7qxnuoihqx/Multi_Agent_Systems_with_LLMs.pdf?rlkey=du7hl5mainlk6lp0a0ki6b5f0&dl=0" icon="fa-file-pdf" text="PDF" >}}
   <details class="abstract" style="font-weight: bold;">
     <summary>Abstract <br> (Conference: 2025 PolMeth Europe, 2025 CwC-LLM Workshop EPSA, 2025 APSA)</summary>
     <div style="font-size: 0.9em; font-weight: normal;">    
-    Experimental studies in misinformation face ethical constraints as they expose human participants to false or harmful content. We address this challenge by presenting an LLM-based multi-agent framework using AG2 to replicate survey experimental conditions without human exposure risks. We calibrate 1,247 synthetic agents to representative Taiwanese voter data and examine susceptibility to misinformation and the effectiveness of fact-checking interventions through randomized assignment. Synthetic agents with pro-China predispositions show significantly higher acceptance of misinformation. Corrective information substantially reduces credibility ratings—from 2.5 to 1.0 in the treatment group relative to controls. However, correlations between political attitudes and misinformation susceptibility persist after controlling for demographics and regional effects. We make our prototype and its AG2 implementation publicly available, providing full implementation details and open-source code to demonstrate how multi-agent simulations can enable experimental designs that would be infeasible with human participants.
+    Experimental studies of misinformation often face ethical constraints because they expose human participants to false or harmful content. We propose an LLM-based multi-agent framework, implemented in AG2, that reproduces core features of survey experiments in a fully synthetic environment, avoiding direct exposure of human subjects to misinformation. We calibrate a population of 1,140 synthetic agents to rich Taiwanese voter survey data and examine, within this population, susceptibility to misinformation and the effectiveness of fact-checking interventions under randomized assignment. Agents with more pro-China predispositions exhibit higher acceptance of misinformation. Corrective information substantially reduces credibility ratings -- from 2.5 to 1.0 on a five-point scale in the treatment group relative to controls -- yet correlations between political attitudes and misinformation susceptibility persist after controlling for demographics. We make the multi-agent design and implementation fully transparent, releasing code and agent specifications, and argue that such synthetic survey experiments can complement, rather than replace, human-subject studies by enabling pre-testing of experimental designs and exploration of ethically sensitive scenarios.
+
     </div>    
   </details>
+  
 
 - Cross-Lingual Stance Detection in Political Texts: Comparison and Application (with <u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>)
   <details class="abstract" style="font-weight: bold;">
@@ -149,6 +142,18 @@ details.abstract[open] summary {
   </details>
 
 
+
+
+- Estimating Factions of Red Guard under Mao's China: A Slogan-based Text Scaling Method with Historical Documents. (with <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;">Yi-Nung Tsai</a></u>) _Invited to Revise and Resubmit_ {{< badge href="https://www.dropbox.com/scl/fi/qgnvl3w1y5hbsaq168blb/Estimating_Factions_of_Red_Guard_under_Mao_s_China.pdf?rlkey=c6bxr3o3di34vooivgjb2blcf&dl=0" icon="fa-file-pdf" text="PDF" >}}
+  <details class="abstract" style="font-weight: bold;">
+    <summary>Abstract <br> (Conference: 2021 AsianPolmeth VIII, 2022 EPSA)</summary>
+    <div style="font-size: 0.9em; font-weight: normal;">    
+    Research on Red Guard publications during China's Cultural Revolution offers crucial insights into the period's political and cultural dynamics. We introduce a novel text analysis approach that addresses the challenges of analyzing non-spaced languages in historical contexts, advancing beyond traditional unsupervised text scaling –Wordfish– applications. Utilizing the Chinese Cultural Revolution Database, we combine keyword extraction techniques with Wordfish to estimate Red Guard units' ideological positioning. While our proposed approach largely aligns with historical accounts, we also reveal inconsistencies, particularly in how some Rebel-leaning Red Guard units rhetorically and ideologically act as fellow travelers with the Conservative coalition, deviating from established narratives and expert assessments. Our paper not only provides new insights into factional dynamics during the Cultural Revolution but also offers social scientists a new approach to studying Chinese politics and historical archives.
+    </div>
+  </details>
+
+ 
+ 
 <!-- - Shock Rhetoric: Local Exposure to Trade Shocks and Rhetorical Extremism in the US House of Representatives. (with <a href="https://www.zikai.li" style="color: #2F4F4F;"><u>Zikai Li</u></a>) <br> -->
 
 
