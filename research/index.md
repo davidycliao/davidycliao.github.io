@@ -65,8 +65,7 @@ details.abstract[open] summary {
 
 <div style="text-align: left">
 
-
-### Peer-Reviewed Articles 
+## Peer-Reviewed Articles 
 
 <div style="text-align: justify">
 
@@ -85,12 +84,12 @@ details.abstract[open] summary {
 
 <a href="https://www.jstor.org/stable/27221360" target="_blank" style="color: #515151;"> __2023__ The Role of Rituals in Adversarial Parliaments: An Analysis of Expressions of Collegiality in the British House of Commons. (Invited Contribution)</a>  <a href="https://www.gesis.org/en/hsr" target="_blank" style="color: #515151;">  _Historical Social Research_. </a> 48 (3): 209-234. (with <u><a href="https://www.uni-bamberg.de/comparpol/lehrstuhlteam/david-beck/" style="color: #2F4F4F;">David Beck</a></u> and <u><a href="https://www.uni-bamberg.de/vp-forschung/" style="color: #2F4F4F;">Thomas Saalfeld</a></u>)<br>
 
-<a href="https://academic.oup.com/irap/article-abstract/15/1/147/2937074?redirectedFrom=fulltext" target="_blank" style="color: #515151;"> __2015__ The Rationale for Supporting Nuclear Power: Analysis of Taiwanese Public Opinion Survey.</a>  <a href="https://academic.oup.com/irap" target="_blank" style="color: #515151;">  _International Relations of the Asia-Pacific_. </a>
- 15 (1): 147-176. (with <u><a href="https://scholar.google.com/citations?user=RIYMCiwAAAAJ&hl=en" style="color: #2F4F4F;">Xiaochen Su</a></u>, <u><a href="https://www.ipsas.sinica.edu.tw/en/研究人員/吳重禮/" style="color: #2F4F4F;">Chung-li Wu</a></u>, Tai-De Lee, and Chen Tsao) <br>
+<!-- <a href="https://academic.oup.com/irap/article-abstract/15/1/147/2937074?redirectedFrom=fulltext" target="_blank" style="color: #515151;"> __2015__ The Rationale for Supporting Nuclear Power: Analysis of Taiwanese Public Opinion Survey.</a>  <a href="https://academic.oup.com/irap" target="_blank" style="color: #515151;">  _International Relations of the Asia-Pacific_. </a>
+ 15 (1): 147-176. (with <u><a href="https://scholar.google.com/citations?user=RIYMCiwAAAAJ&hl=en" style="color: #2F4F4F;">Xiaochen Su</a></u>, <u><a href="https://www.ipsas.sinica.edu.tw/en/研究人員/吳重禮/" style="color: #2F4F4F;">Chung-li Wu</a></u>, Tai-De Lee, and Chen Tsao) <br> -->
 
 
 
-### Peer-Reviewed Articles (in Chinese)
+## Peer-Reviewed Articles (in Chinese)
 
 <a href="https://toaj.stpi.niar.org.tw/index/journal/volume/article/4b1141f9969effc90196a8f041000240" target="_blank" style="color: #515151;"> __2025__ 官僚「再詮釋」領導人意識形態初探：以《人民日報》習近平外交思想的評論為例  (Bureaucratic ‘Reinterpretation’ of Leaders’ Ideologies: A Case Study of People's Daily's Commentary on Xi Jinping Thought on Diplomacy). </a> <a href="http://mcs.nccu.edu.tw/CHINA_Eng/editor.html" target="_blank" style="color: #515151;">_中國大陸研究 Mainland China Studies_.</a>  (with <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;">Yi-Nung Tsai</a></u>) 
 
@@ -100,7 +99,7 @@ details.abstract[open] summary {
 
 
 
-### Working Papers
+## Working Papers
 
 <div style="text-align: justify">
 
@@ -171,7 +170,7 @@ details.abstract[open] summary {
     <span style="font-size: small; color: #2F4F4F;"> Latest Draft Available Upon Request </span>
 </div> 
 
-###  Manusripts in Progress
+##  Manusripts in Progress
 
 
 <div style="text-align: justify">
