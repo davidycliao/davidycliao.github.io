@@ -113,7 +113,7 @@ details.abstract[open] summary {
   </details>
 
 
-- Multi-Agent LLM Systems for Synthetic Survey Experiments in Ethically Constrained Settings (with <u><a href="https://linettemlim.github.io" style="color: #2F4F4F;">Linette Lim</a></u> and <u><a href="https://sjankin.com" style="color: #2F4F4F;">Slava Jankin</a></u>)   {{< badge href="https://www.dropbox.com/scl/fi/pnpv3t1dqji7qxnuoihqx/Multi_Agent_Systems_with_LLMs.pdf?rlkey=du7hl5mainlk6lp0a0ki6b5f0&dl=0" icon="fa-file-pdf" text="PDF" >}}
+- Multi-Agent LLM Systems for Synthetic Survey Experiments in Ethically Constrained Settings. (with <u><a href="https://linettemlim.github.io" style="color: #2F4F4F;">Linette Lim</a></u> and <u><a href="https://sjankin.com" style="color: #2F4F4F;">Slava Jankin</a></u>)   {{< badge href="https://www.dropbox.com/scl/fi/pnpv3t1dqji7qxnuoihqx/Multi_Agent_Systems_with_LLMs.pdf?rlkey=du7hl5mainlk6lp0a0ki6b5f0&dl=0" icon="fa-file-pdf" text="PDF" >}}
   <details class="abstract" style="font-weight: bold;">
     <summary>Abstract <br> (Conference: 2025 PolMeth Europe, 2025 CwC-LLM Workshop EPSA, 2025 APSA)</summary>
     <div style="font-size: 0.9em; font-weight: normal;">    
@@ -123,7 +123,7 @@ details.abstract[open] summary {
   </details>
   
 
-- Cross-Lingual Stance Detection in Political Texts: Comparison and Application (with <u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>)
+- Cross-Lingual Stance Detection in Political Texts: Comparison and Application. (with <u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>)
   <details class="abstract" style="font-weight: bold;">
     <summary>Abstract <br> (Conference: 2024 ESPA, 2024 COMPTEXT)</summary>
     <div style="font-size: 0.9em; font-weight: normal;">    
@@ -181,7 +181,7 @@ details.abstract[open] summary {
 
 - Partisan Canvassing and Ideological Misperception in Britain: Evidence of Asymmetric Belief Updating from the British Election Studies. (with Li Tang)
 
-- The Rural-Urban Divide in Populist Rhetoric: Cross-National Evidence from European Parliaments (with <u><a href="https://eavigano.github.io" style="color: #2F4F4F;"> Edoardo Viganò</a></u>)
+- The Rural-Urban Divide in Populist Rhetoric: Cross-National Evidence from European Parliaments. (with <u><a href="https://eavigano.github.io" style="color: #2F4F4F;"> Edoardo Viganò</a></u>)
 
 
 <!-- - Multi-Dimensional Policy Congruence and Political Attitudes (with Royce Carroll and Li Tang) -->
