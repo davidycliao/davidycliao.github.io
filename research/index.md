@@ -195,7 +195,7 @@ details.abstract[open] summary {
 
 - Partisan Canvassing and Ideological Misperception in Britain: Evidence of Asymmetric Belief Updating from the British Election Studies. (with Li Tang)
 
-- The Rural-Urban Divide in Populist Rhetoric: Cross-National Evidence from European Parliaments. (with <u><a href="https://eavigano.github.io" style="color: #2F4F4F;"> Edoardo Viganò</a></u>)
+<!-- - The Rural-Urban Divide in Populist Rhetoric: Cross-National Evidence from European Parliaments. (with <u><a href="https://eavigano.github.io" style="color: #2F4F4F;"> Edoardo Viganò</a></u>) -->
 
 
 <!-- - Multi-Dimensional Policy Congruence and Political Attitudes (with Royce Carroll and Li Tang) -->
