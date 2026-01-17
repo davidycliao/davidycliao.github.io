@@ -7,19 +7,11 @@
 
 <div style="text-align: justify">
 
-I am a Research Fellow in Natural Language Processing at the Centre for Artificial Intelligence in Government (CAIG) and an Affiliate Fellow at the Institute for Data and AI at the University of Birmingham. In 2021-2022, I was a predoctoral research fellow at the Chair of Comparative Politics at Universität Bamberg, and subsequently served as a postdoctoral researcher at University College Dublin in 2023.
+I am a Research Fellow in Natural Language Processing at the Centre for Artificial Intelligence in Government (CAIG) and an Affiliate Fellow at the Institute for Data and AI at the University of Birmingham. Prior to this, I was a predoctoral research fellow at the Chair of Comparative Politics at Universität Bamberg (2021-2022), and subsequently served as a postdoctoral researcher at University College Dublin (2023).
 
-<!-- I received my Ph.D. in Politics from the University of Essex in 2023, specializing in legislative behavior and comparative political institutions with particular focus on Taiwan and East Asian contexts. Additionally, I completed both my BA and MA in Public Administration and Policy at National Taipei University.
+I received my PhD in Politics from Essex (2023), and both my BA and MA in Public Administration and Policy from National Taipei University. My substantive work focuses on legislative behavior and comparative political institutions, with particular emphasis on Taiwan and East Asian contexts. Methodologically, I apply quantitative and computational approaches to measure ideological preferences and political stances of political elites. My research uses ideal point estimation from legislative voting, survey data analysis, and computational text analysis to understand how elites position themselves through their narratives and voting behavior and how this positioning shapes legislative behavior and public attitudes.
 
-My research has been published in outlets including _Legislative Studies Quarterly_, _Political Science Research and Methods_, and _Electoral Studies_. Methodologically, my work combines traditional scaling methods from political science with contemporary NLP techniques, applying these integrated approaches to questions of representation and legislative behavior in East Asian democracies. 
-
-Currently, I am working on multi-agent systems with large language models for synthetic survey experiments and simulating political deliberation among political elites. -->
-
-I received my PhD in Politics from Essex (2023), and both my BA and MA in Public Administration and Policy from National Taipei University. My substantial work concentrates on legislative behavior and comparative political institutions, with particular focus on Taiwan and East Asian contexts.
-
-Methodologically, I am especially interested in measuring ideological preferences and political stances using quantitative and computational methods, including the quantitative measurement of legislative voting, surveys, and political texts.
-
-Currently, I have been working with <a href="https://www.birmingham.ac.uk/research/centres-institutes/centre-for-artificial-intelligence-in-government" style="color:#778899; text-decoration: underline;" target="_blank">our center (CAIG)</a> and <a href="https://www.birmingham.ac.uk/research/centres-institutes/data-and-ai" style="color:#778899; text-decoration: underline;" target="_blank">the Institute for Data and AI</a>  to implement multi-agent systems with large language models for survey experiments and simulating political deliberation among political elites.
+Since joining Birmingham in 2024, I have extended these measurement approaches to multi-agent large language model systems. My current research interest focuses on multi-agent large language model system applications in political science. Working with <a href="https://www.birmingham.ac.uk/research/centres-institutes/centre-for-artificial-intelligence-in-government" style="color:#778899; text-decoration: underline;" target="_blank">CAIG</a> and <a href="https://www.birmingham.ac.uk/research/centres-institutes/data-and-ai" style="color:#778899; text-decoration: underline;" target="_blank">the Institute for Data and AI</a>, my research focuses on: (1) AI respondent multi-agent system survey experiments, (2) simulating political deliberation among elites, and (3) measuring the political orientations and ideological variations of AI systems themselves.
 
 
 
