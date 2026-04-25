@@ -13,7 +13,7 @@ I received my PhD in Politics from the University of Essex (2023), and both my B
 
 At Birmingham, I work with <a href="https://www.birmingham.ac.uk/research/centres-institutes/centre-for-artificial-intelligence-in-government" style="color:#778899; text-decoration: underline;" target="_blank">CAIG</a> and <a href="https://www.birmingham.ac.uk/research/centres-institutes/data-and-ai" style="color:#778899; text-decoration: underline;" target="_blank">IDAI</a> to implement multi-agent large language model systems for political science research, focusing on: (1) AI respondent survey experiments, (2) simulating political deliberation among elites, and (3) measuring the political orientations and ideological variations of AI systems themselves.
 
-I am primarily based across three locations in England: Colchester, London, and Birmingham. This year, I plan to attend the Soochow University Legislative Studies Workshop (Taipei, June 6–7), as well as PolMeth Europe (TCD, May 14–15), EPSS (Belfast, June 18–20), and APSA (Boston, September 3–6). If you are attending any of these conferences, or happen to be in one of these cities, feel free to reach out — I'd love to grab a coffee or a beer!
+I am primarily based across three locations in England: Colchester, London, and Birmingham. This year, I plan to attend the Soochow University Legislative Studies Workshop (Taipei, June 6–7), as well as PolMeth Europe (TCD, May 14–15), EPSS (Belfast, June 18–20), PolMeth Summer Meeting (MSU, July 15-18)  and APSA (Boston, September 3–6). If you are attending any of these conferences, or happen to be in one of these cities, feel free to reach out — I'd love to grab a coffee or a beer!
 
 
 &nbsp;&nbsp;
@@ -34,6 +34,6 @@ Embiyax su hug！哈囉！
 
 2024年加入伯明罕大學後，我開始運用人工智慧與自然語言處理技術進行政治學與公共政策分析。在持續測量政治菁英的偏好、立場與意識型態的基礎上，我透過量化與計算方法（如立法投票的理想點估計、調查數據分析與政治文本分析）建立測量框架，並將這些方法延伸至多智能體大型語言模型系統的應用，包括：(1) 大語言模型智能體在計算調查實驗的應用；(2) 智能體模擬政治菁英的審議過程 ；(3) 利用多智能體系統測量人工智慧的政治取向與意識型態差異。
 
-我主要活躍於英格蘭的Colchester、倫敦與伯明罕三地。我今年預計會參加東吳大學國會研討會（Taipei, June 6–7），以及 PolMeth Europe（Dublin, 14–15 May）、EPSS（Belfast, June 18–20）、APSA（Boston, September 3–6）會議。如果您也參加這些會議，或剛好在這幾個城市，歡迎隨時相約喝杯咖啡或啤酒！
+我主要活躍於英格蘭的Colchester、倫敦與伯明罕三地。我今年預計會參加東吳大學國會研討會（Taipei, June 6–7），以及 PolMeth Europe（Dublin, 14–15 May）、EPSS（Belfast, June 18–20）、 PolMeth Summer Meeting (MSU, July 15-18)、APSA（Boston, September 3–6）會議。如果您也參加這些會議，或剛好在這幾個城市，歡迎隨時相約喝杯咖啡或啤酒！
 
 
