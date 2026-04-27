@@ -57,7 +57,7 @@
 
 
 
-## Working Papers
+## Selected Working Papers
 
 <div style="text-align: justify">
 
@@ -82,21 +82,31 @@
   
 - Game-Theoretic Multi-Agent Systems with LLMs for Crisis Negotiation and Simulation. (with <u><a href="" style="color: #2F4F4F; text-decoration: underline;">Shuli Zhang</a></u>)<br>
   <details class="abstract" style="font-weight: bold;">
-    <summary>Abstract <br> (Conference: 2026 CwC-LLM Workshop SPSA ⬥ 11th Behavioral Models of Politics Conference,)</summary>
+    <summary>Abstract <br> (Conference: 2026 CwC-LLM Workshop SPSA ⬥ 11th Behavioral Models of Politics Conference)</summary>
     <div style="font-size: 0.9em; font-weight: normal;">    
 
   In this note, we integrate game-theoretic modeling with LLM-based multi-agent simulation to study belief-dependent crisis bargaining. Using Russia-Ukraine negotiations as a test case, we model a sequential game where Ukraine, Russia, and the US make strategic choices under uncertainty about adversary trustworthiness. Drawing on foreign policy typologies (Gravelle et al., 2017, 2020), we assign each leader one of four predispositions—Cooperative Internationalism (CI), Isolationism (ISO), Militant Internationalism (MI), and Global Justice (GJ)—while manipulating trust perceptions of Putin. This 2 × 4³ design yields 128 scenarios via AutoGen. Our results partiallyconfirm predictions while revealing asymmetries across actors: all actors conformstrongly to theory under hawkish orientations (ISO/MI), but under dovish orientations (CI/GJ), only Zelensky shows substantial cooperation (negotiating and implementing 75% and 50% of the time, respectively), while Putin never accepts demands and Trump never grants sanctions relief. Our LLM-based multi-agent simulation may help bridge the gap between game-theoretic models and behavioral implementation while providing a computational sandbox for exploring belief-dependent bargaining theories.
     </div>    
   </details>
 
+
 - Cross-Lingual Stance Detection in Political Texts: Comparison and Application. (with <u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>)
   <details class="abstract" style="font-weight: bold;">
-    <summary>Abstract <br> (Conference: 2024 ESPA ⬥ 2024 COMPTEXT)</summary>
+    <summary>Abstract <br> (Conference: 2024 ESPA ⬥ 2024 COMPTEXT ⬥ 2026 PolMeth Europe)</summary>
     <div style="font-size: 0.9em; font-weight: normal;">    
     Measuring the stance on specific policies provides valuable insights for understanding policy-making, changes in political preferences, and party competition. In this paper, we fine-tune three multilingual transformer models — Sentence-BERT, Multilingual BERT, and XLM-RoBERTa on annotated texts of stances in more than 53,000 comments on Twitter and more than 67,000 comments to 150 political questions in German, French, and Italian. We benchmark our fine-tuned transformer models against open-source large language models (gpt-oss-120b and LLaMA 3.1) on ground truth annotations, finding that fine-tuned transformers achieve competitive performance with substantially better computational efficiency. After identifying the most suitable model, we validate our approach by applying this fine-tuned transformer to datasets from published journal articles: politicians’ support for the annual budget (Lowe and Benoit 2013), social media posts (Bestvater and Monroe 2023), and stances across policy areas (Green-Pedersen and Little 2023). Our findings demonstrate that fine-tuned multilingual transformers provide a scalable solution for large-scale stance detection in political texts. Drawing from our systematic comparison and validation, we provide methodological guidance for researchers applying stance detection to political texts. We release our fine-tuned models alongside benchmark ground truth data to enable researchers to deploy them directly or adapt them through further fine-tuning to new domains and languages, including those not covered in our German, French, and Italian training set.
     </div>  
   </details>
 
+
+<!-- - Cross-Lingual Stance Detection in Political Texts: Comparison and Application. (with <u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>)
+  <details class="abstract" style="font-weight: bold;">
+    <summary>Abstract <br> (Conference: 2024 ESPA ⬥ 2024 COMPTEXT)</summary>
+    <div style="font-size: 0.9em; font-weight: normal;">    
+    Measuring the stance on specific policies provides valuable insights for understanding policy-making, changes in political preferences, and party competition. In this paper, we fine-tune three multilingual transformer models — Sentence-BERT, Multilingual BERT, and XLM-RoBERTa on annotated texts of stances in more than 53,000 comments on Twitter and more than 67,000 comments to 150 political questions in German, French, and Italian. We benchmark our fine-tuned transformer models against open-source large language models (gpt-oss-120b and LLaMA 3.1) on ground truth annotations, finding that fine-tuned transformers achieve competitive performance with substantially better computational efficiency. After identifying the most suitable model, we validate our approach by applying this fine-tuned transformer to datasets from published journal articles: politicians’ support for the annual budget (Lowe and Benoit 2013), social media posts (Bestvater and Monroe 2023), and stances across policy areas (Green-Pedersen and Little 2023). Our findings demonstrate that fine-tuned multilingual transformers provide a scalable solution for large-scale stance detection in political texts. Drawing from our systematic comparison and validation, we provide methodological guidance for researchers applying stance detection to political texts. We release our fine-tuned models alongside benchmark ground truth data to enable researchers to deploy them directly or adapt them through further fine-tuning to new domains and languages, including those not covered in our German, French, and Italian training set.
+    </div>  
+  </details> -->
+<!-- 
 - Political Text Analysis with Embedding Regression: From Multilingual to Cross-lingual Application. (with <u><a href="https://zengchen.org" style="color: #2F4F4F;">Chen Zheng</a>, </u> <u><a href="https://www.winniexia.com" style="color: #2F4F4F;">Winnie Xia</a></u> and <u><a href="https://sjankin.com" style="color: #2F4F4F;">Slava Jankin</a></u>)    {{< badge href="https://www.dropbox.com/scl/fi/vga6hfvy62zp5wzu3cah7/Political_Text_Analysis_with_Embedding_Regression.pdf?rlkey=bbock4mtmj63r33s2njl62di7&dl=0" icon="fa-file-pdf" text="PolMeth Poster" >}}
   
   <details class="abstract" style="font-weight: bold;">
@@ -105,9 +115,9 @@
     This research note builds upon existing embedding regression techniques (i.e., Rodriguez, Spirling and Stewart, 2023a,b; Wirsching et al., 2025) to systematically compare different embedding architectures for political text analysis. We examine three types: static (fastText and BPE), sequential contextual (LSTM-based architectures: Forward, Backward, and Forward+Backward), and dynamic embeddings (Transformer-based architectures: XLM-RoBERTa and mBERT). We analyze differences between these three types using Benoit et al. (2016)’s coal debates from Members of the European Parliament, available in English, German, Spanish, Italian, Polish, and Greek. Our experiments demonstrate that XLM-RoBERTa, Backward, Forward+Backward, and BPE achieve better performance in predicting political stance on coal policy, with stable cross-lingual flexibility and consistency suitable for comparative political analysis across multilingual settings. While XLM-RoBERTa and bidirectional sequence models maintain the highest accuracy, BPE offers an optimal balance of performance and computational efficiency. We are currently packaging this workflow as open-source software.
     </div>  
   </details>
+ -->
 
-
-- Estimating Factions of Red Guard under Mao's China: A Slogan-based Text Scaling Method with Historical Documents. (with <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;">Yi-Nung Tsai</a></u>) _Invited to Revise and Resubmit_ {{< badge href="https://www.dropbox.com/scl/fi/qgnvl3w1y5hbsaq168blb/Estimating_Factions_of_Red_Guard_under_Mao_s_China.pdf?rlkey=c6bxr3o3di34vooivgjb2blcf&dl=0" icon="fa-file-pdf" text="PDF" >}}
+<!-- - Estimating Factions of Red Guard under Mao's China: A Slogan-based Text Scaling Method with Historical Documents. (with <u><a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/蔡儀儂CV_202303-1-1.pdf" style="color: #2F4F4F;">Yi-Nung Tsai</a></u>) _Invited to Revise and Resubmit_ {{< badge href="https://www.dropbox.com/scl/fi/qgnvl3w1y5hbsaq168blb/Estimating_Factions_of_Red_Guard_under_Mao_s_China.pdf?rlkey=c6bxr3o3di34vooivgjb2blcf&dl=0" icon="fa-file-pdf" text="PDF" >}}
   <details class="abstract" style="font-weight: bold;">
     <summary>Abstract <br> (Conference: 2021 AsianPolmeth VIII ⬥ 2022 EPSA)</summary>
     <div style="font-size: 0.9em; font-weight: normal;">    
@@ -121,7 +131,7 @@
     <div style="font-size: 0.9em; font-weight: normal;">    
     Dictators, as political patrons, often depend on conspicuous displays of loyalty from protégés during periods of upheaval to discern true allegiance and consolidate power. Mass rallies during the Cultural Revolution provided a uniquely performative arena in which elites publicly pledged loyalty to Mao Zedong. By selectively rewarding these demonstrations, Mao identified his “disciples” and reinforced hierarchical control within the regime. To evaluate this dynamic, a transformer model is fine-tuned on big-character posters and pamphlets produced by both Rebel and Conservative factions, estimating the loyalty stance of elites toward Mao's Cultural Revolution. The results indicate that politically vulnerable elites lacking strong credentials were more likely to endorse the rebel Red Guards, aligning their rhetoric closely with Mao's radical discourse, whereas higher-ranking officials and military heroes tended to employ more restrained expressions. Furthermore, vulnerable elites who adopted radical stances in public were more likely to survive or advance after the Cultural Revolution, while stronger elites who expressed weaker loyalty often failed to progress or were purged. These findings demonstrate how public performances functioned as a mechanism of authoritarian survival, simultaneously consolidating power and magnifying internal divisions.
     </div>
-  </details>
+  </details> -->
 
  
 <!-- - Shock Rhetoric: Local Exposure to Trade Shocks and Rhetorical Extremism in the US House of Representatives. (with <a href="https://www.zikai.li" style="color: #2F4F4F;"><u>Zikai Li</u></a>) <br> -->
@@ -135,11 +145,11 @@
 </div>
 
 
-
+<!-- 
 <div style="text-align: center">
     <a href="#" target="_blank" style="color: blue;"> </a>  
     <span style="font-size: small; color: #2F4F4F;"> Latest Draft Available Upon Request </span>
-</div> 
+</div>  -->
 
 ##  Manusripts in Progress
 
