@@ -32,7 +32,7 @@
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https:\/\/davidycliao.github.io\/research\/"
-        },"genre": "page","wordcount":  1006 ,
+        },"genre": "page","wordcount":  1098 ,
         "url": "https:\/\/davidycliao.github.io\/research\/","datePublished": "2020-09-20T00:00:00+00:00","dateModified": "2020-09-20T00:00:00+00:00","publisher": {
             "@type": "Organization",
             "name": "Yen-Chieh Liao"},"author": {
@@ -230,9 +230,18 @@
 <li>
 <p>Cross-Lingual Stance Detection in Political Texts: Comparison and Application. (with <u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>)</p>
 <details class="abstract" style="font-weight: bold;">
-  <summary>Abstract <br> (Conference: 2024 ESPA ⬥ 2024 COMPTEXT ⬥ 2026 PolMeth Europe)</summary>
+  <summary>Abstract <br> (Conference: 2026 PolMeth Europe)</summary>
   <div style="font-size: 0.9em; font-weight: normal;">    
-  Measuring the stance on specific policies provides valuable insights for understanding policy-making, changes in political preferences, and party competition. In this paper, we fine-tune three multilingual transformer models — Sentence-BERT, Multilingual BERT, and XLM-RoBERTa on annotated texts of stances in more than 53,000 comments on Twitter and more than 67,000 comments to 150 political questions in German, French, and Italian. We benchmark our fine-tuned transformer models against open-source large language models (gpt-oss-120b and LLaMA 3.1) on ground truth annotations, finding that fine-tuned transformers achieve competitive performance with substantially better computational efficiency. After identifying the most suitable model, we validate our approach by applying this fine-tuned transformer to datasets from published journal articles: politicians’ support for the annual budget (Lowe and Benoit 2013), social media posts (Bestvater and Monroe 2023), and stances across policy areas (Green-Pedersen and Little 2023). Our findings demonstrate that fine-tuned multilingual transformers provide a scalable solution for large-scale stance detection in political texts. Drawing from our systematic comparison and validation, we provide methodological guidance for researchers applying stance detection to political texts. We release our fine-tuned models alongside benchmark ground truth data to enable researchers to deploy them directly or adapt them through further fine-tuning to new domains and languages, including those not covered in our German, French, and Italian training set.
+   In this paper, we benchmark automated stance annotation frameworks using the European Parliament coal debate corpus from Benoit et al. (2016)—36 MEP speeches in six languages, crowd-coded separately for each language alongside corresponding vote decisions. We compare fine-tuned multilingual transformer models (fine-tuned on the English-only PoliStance (Burnham, 2024) and multilingual X-Stance (Vamvas and Sennrich, 2020) datasets, the latter covering German, Italian, and English) and small, lightweight open-source decoder LLMs — Qwen 2.5 (7B), Gemma 3 (4B), and Mistral (3B) — prompted under zero-shot, fixed few-shot, and retrieval-augmented (RAG) strategies without any fine-tuning. Our results show that LLMs substantially outperform fine-tuned transformers across all languages and metrics, with retrieval-augmented Qwen 2.5 performing best overall, and that annotation errors are higher where even human coders disagree. Our findings suggest that small open-source LLMs with retrieval augmentation offer a more valid alternative to human coders for cross-lingual political text annotation, albeit at greater computational cost, though this is manageable with parallelisation on HPC clusters or high-performance workstations.
+  </div>  
+</details>
+<ul>
+<li>Selecting and Validating Classifiers for Multilingual and Cross-Domain Stance Detection. (with <u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>)</li>
+</ul>
+<details class="abstract" style="font-weight: bold;">
+  <summary>Abstract <br> (Conference: 2024 ESPA ⬥ 2024 COMPTEXT)</summary>
+  <div style="font-size: 0.9em; font-weight: normal;">    
+   Measuring the stance on specific policies provides valuable insights for understanding policy-making, changes in political preferences, and party competition. In this paper, we fine-tune three multilingual transformer machine learning models based on annotated texts of stances in over 53,000 comments on Twitter and more than 67,000 comments to 150 political questions in German, French, and Italian. We compare Sentence-BERT, Multilingual BERT, and XLM-RoBERTa and show that these transformers can classify stances in several languages. After identifying the most suitable fine-tuned model, we compare the automated stance classification with hand-annotated evaluations of politicians’ support for the annual budget, social media posts about protest events, and stances across policy areas. Drawing from our systematic comparison and validation of various methods, we provide recommendations for researchers applying stance detection to political texts.
   </div>  
 </details>
 </li>
