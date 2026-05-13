@@ -99,14 +99,14 @@
   </details>
 
 
-  - Selecting and Validating Classifiers for Multilingual and Cross-Domain Stance Detection. (with <u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>)
+  <!-- - Selecting and Validating Classifiers for Multilingual and Cross-Domain Stance Detection. (with <u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>)
   <details class="abstract" style="font-weight: bold;">
     <summary>Abstract <br> (Conference: 2024 ESPA ⬥ 2024 COMPTEXT)</summary>
     <div style="font-size: 0.9em; font-weight: normal;">    
      Measuring the stance on specific policies provides valuable insights for understanding policy-making, changes in political preferences, and party competition. In this paper, we fine-tune three multilingual transformer machine learning models based on annotated texts of stances in over 53,000 comments on Twitter and more than 67,000 comments to 150 political questions in German, French, and Italian. We compare Sentence-BERT, Multilingual BERT, and XLM-RoBERTa and show that these transformers can classify stances in several languages. After identifying the most suitable fine-tuned model, we compare the automated stance classification with hand-annotated evaluations of politicians’ support for the annual budget, social media posts about protest events, and stances across policy areas. Drawing from our systematic comparison and validation of various methods, we provide recommendations for researchers applying stance detection to political texts.
     </div>  
   </details>
-
+ -->
 
 
 <!-- - Cross-Lingual Stance Detection in Political Texts: Comparison and Application. (with <u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u>)
