@@ -1,14 +1,18 @@
-# Inviting the use of flairR to help us improve the user experience for R users
+# flairR: An R Wrapper for Accessing Flair NLP Tagging Features
 
 
-## FlaiR - Streamlining NLP and Custom Deep Learning Model 
+## FlaiR - R wrapper for Flair NLP 
 
 
 <div style="text-align: justify">
 
 
 
-We are currently in the process of testing `flairR`, an R wrapper specifically designed to train transformers and perform NLP tasks using Flair NLP in an R environment. This package is tailored to provide core sequence tagging features, including part-of-speech tasks, named entity recognition, and transformer-based sentiment analysis, especially for users in the social sciences who are accustomed to using R.
+We are currently in the process of testing our package, which is an R wrapper designed specifically for Flair NLP. This package is tailored to provide core sequence tagging features, including part-of-speech tasks, named entity recognition, and transformer-based sentiment analysis.
+
+One notable feature of our package is its ability to directly return a dataframe, which can be particularly useful for researchers in social or political science. Instead of returning complex objects, it simplifies the data output, making it more accessible and convenient for analysis.
+
+Additionally, we have extended our wrapper to include essential Flair NLP Python modules, allowing you to import and use functionalities like transformers, training models, classification, and sequence tasks within the R environment.
 
 We encourage you to engage with our package in various ways:
 
