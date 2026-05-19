@@ -41,34 +41,34 @@
 - Electoral Reform and Issue Attention in Legislative Oversight: From SNTV to Mixed-Member Majoritarian System in Taiwan. (與 <u><a href="https://sites.google.com/view/calvin-yuceng-liao/home" style="color: #2F4F4F;">廖育政</a></u> 及 <u><a href="https://yitingw.com" style="color: #2F4F4F;">王奕婷</a></u> 合著) _審查中_ {{< badge href="https://www.dropbox.com/scl/fi/n5wjjs063m3114c608ank/Electoral_Reform_and_Issue_Attention_in_Legislative_Oversight.pdf?rlkey=cne737myrmzxsqb3s0ojgjr6s&dl=0" icon="fa-file-pdf" text="PDF" >}}
 
   <details class="abstract" style="font-weight: bold;">
-    <summary>摘要 <br> (研討會：2023 EPSA ⬥ 2025 TPSA)</summary>
+    <summary>Abstract <br> (Conference: 2023 EPSA ⬥ 2025 TPSA)</summary>
     <div style="font-size: 0.9em; font-weight: normal;">
-    本研究探討台灣選舉制度改革——從複數選區單記不可讓渡投票制（SNTV）到單一選區兩票並立制（MMM）——如何影響立法委員對黨的政策關注度的配合程度。我們使用 1999–2019 年台灣立法委員質詢資料，以 422 個固定主題關鍵字進行標注，並引入 Wordfish 的新應用：估計立法委員的議題關注度並計算其與政黨的偏離程度。研究發現，單一選區制下黨內關注度收斂程度顯著高於 SNTV 制度。
+    This research note examines how Taiwan's electoral reform—from Single Non-Transferable Vote (SNTV) in multi-member district (MMD) to a single-member district (SMD) -- dominant mixed-member majoritarian system (MMM) -- affects how closely legislators align with their party's policy attention. While existing work explains which issues legislators emphasize and where they position themselves, less is known about how electoral systems shape the cohesion of issue attention within parties. We address this gap using 1999–2019 interpellations from Taiwanese legislators annotated with 422 fixed topic keywords. We introduce a new application of Wordfish: instead of estimating ideology, we scale legislators' issue attention and compute their divergence from the party. We find significantly higher intra-party convergence under SMD than SNTV. Local socioeconomic conditions strongly influence attention variation under SNTV but are substantially attenuated after reform. The findings highlight a key institutional trade-off: SNTV incentivizes geographically differentiated agendas, whereas SMD promotes party-aligned priorities.
     </div>
   </details>
 
 
 - Multi-Agent LLM Systems for Synthetic Survey Experiments in Ethically Constrained Settings. (與 <u><a href="https://linettemlim.github.io" style="color: #2F4F4F;">Linette Lim</a></u> 及 <u><a href="https://sjankin.com" style="color: #2F4F4F;">Slava Jankin</a></u> 合著)   {{< badge href="https://www.dropbox.com/scl/fi/pnpv3t1dqji7qxnuoihqx/Multi_Agent_Systems_with_LLMs.pdf?rlkey=du7hl5mainlk6lp0a0ki6b5f0&dl=0" icon="fa-file-pdf" text="PDF" >}}
   <details class="abstract" style="font-weight: bold;">
-    <summary>摘要 <br> (研討會：2025 PolMeth Europe ⬥ 2025 CwC-LLM Workshop EPSA ⬥ 2025 APSA)</summary>
+    <summary>Abstract <br> (Conference: 2025 PolMeth Europe ⬥ 2025 CwC-LLM Workshop EPSA ⬥ 2025 APSA)</summary>
     <div style="font-size: 0.9em; font-weight: normal;">
-    錯誤訊息的實驗研究常面臨倫理限制。本研究提出基於大型語言模型的多智能體框架（AG2 實作），在合成環境中重現調查實驗，將 1,140 個合成智能體校準至台灣選民調查數據，研究錯誤訊息易感性與事實查核介入效果。結果顯示對中國態度較親近的智能體對錯誤訊息接受度更高，糾正訊息顯著降低可信度評分。
+    Experimental studies of misinformation often face ethical constraints because they expose human participants to false or harmful content. We propose an LLM-based multi-agent framework, implemented in AG2, that reproduces core features of survey experiments in a fully synthetic environment, avoiding direct exposure of human subjects to misinformation. We calibrate a population of 1,140 synthetic agents to rich Taiwanese voter survey data and examine, within this population, susceptibility to misinformation and the effectiveness of fact-checking interventions under randomized assignment. Agents with more pro-China predispositions exhibit higher acceptance of misinformation. Corrective information substantially reduces credibility ratings -- from 2.5 to 1.0 on a five-point scale in the treatment group relative to controls -- yet correlations between political attitudes and misinformation susceptibility persist after controlling for demographics. We make the multi-agent design and implementation fully transparent, releasing code and agent specifications, and argue that such synthetic survey experiments can complement, rather than replace, human-subject studies by enabling pre-testing of experimental designs and exploration of ethically sensitive scenarios.
     </div>
   </details>
 
 - Game-Theoretic Multi-Agent Systems with LLMs for Crisis Negotiation and Simulation. (與 <u><a href="" style="color: #2F4F4F; text-decoration: underline;">Shuli Zhang</a></u> 合著)<br>
   <details class="abstract" style="font-weight: bold;">
-    <summary>摘要 <br> (研討會：2026 CwC-LLM Workshop SPSA ⬥ 第 11 屆政治行為模型研討會)</summary>
+    <summary>Abstract <br> (Conference: 2026 CwC-LLM Workshop SPSA ⬥ 11th Behavioral Models of Politics Conference)</summary>
     <div style="font-size: 0.9em; font-weight: normal;">
-    本研究將賽局理論模型與基於大型語言模型的多智能體模擬相結合，以俄烏談判為測試案例，建模序列賽局並以 AutoGen 產生 128 個場景。結果部分驗證理論預測，同時揭示行為者間的不對稱性。
+    In this note, we integrate game-theoretic modeling with LLM-based multi-agent simulation to study belief-dependent crisis bargaining. Using Russia-Ukraine negotiations as a test case, we model a sequential game where Ukraine, Russia, and the US make strategic choices under uncertainty about adversary trustworthiness. Drawing on foreign policy typologies (Gravelle et al., 2017, 2020), we assign each leader one of four predispositions—Cooperative Internationalism (CI), Isolationism (ISO), Militant Internationalism (MI), and Global Justice (GJ)—while manipulating trust perceptions of Putin. This 2 × 4³ design yields 128 scenarios via AutoGen. Our results partially confirm predictions while revealing asymmetries across actors: all actors conform strongly to theory under hawkish orientations (ISO/MI), but under dovish orientations (CI/GJ), only Zelensky shows substantial cooperation (negotiating and implementing 75% and 50% of the time, respectively), while Putin never accepts demands and Trump never grants sanctions relief.
     </div>
   </details>
 
 - Cross-Lingual Stance Detection in Political Texts: Comparison and Application. (與 <u><a href="https://muellerstefan.net" style="color: #2F4F4F;">Stefan Müller</a></u> 合著)
   <details class="abstract" style="font-weight: bold;">
-    <summary>摘要 <br> (研討會：2026 PolMeth Europe)</summary>
+    <summary>Abstract <br> (Conference: 2026 PolMeth Europe)</summary>
     <div style="font-size: 0.9em; font-weight: normal;">
-    本研究使用歐洲議會煤炭辯論語料庫（6 種語言，36 篇議員演講），對比微調多語言 Transformer 模型與小型開源解碼器語言模型（Qwen 2.5、Gemma 3、Mistral）在跨語言立場偵測的效果。結果顯示大型語言模型全面優於微調 Transformer，檢索增強的 Qwen 2.5 整體表現最佳。
+    In this paper, we benchmark automated stance annotation frameworks using the European Parliament coal debate corpus from Benoit et al. (2016)—36 MEP speeches in six languages, crowd-coded separately for each language alongside corresponding vote decisions. We compare fine-tuned multilingual transformer models and small, lightweight open-source decoder LLMs — Qwen 2.5 (7B), Gemma 3 (4B), and Mistral (3B) — prompted under zero-shot, fixed few-shot, and retrieval-augmented (RAG) strategies without any fine-tuning. Our results show that LLMs substantially outperform fine-tuned transformers across all languages and metrics, with retrieval-augmented Qwen 2.5 performing best overall, and that annotation errors are higher where even human coders disagree.
     </div>
   </details>
 
