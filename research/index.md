@@ -161,7 +161,7 @@
     <span style="font-size: small; color: #2F4F4F;"> Latest Draft Available Upon Request </span>
 </div>  -->
 
-##  Manusripts in Progress
+## Manuscripts in Progress
 
 
 <div style="text-align: justify">
