@@ -15,7 +15,7 @@ Embiyax su hug！哈囉！非常歡迎來到我的個人網頁！
 
 我主要活躍於英格蘭的 Colchester、倫敦與伯明罕三地。今年預計參加東吳大學國會研討會（台北，6 月 6–7 日）、PolMeth Europe（都柏林三一學院，5 月 14–15 日）、EPSS（貝爾法斯特，6 月 18–20 日）、PolMeth Summer Meeting（密西根州立大學，7 月 15–18 日）及 APSA（波士頓，9 月 3–6 日）。如果您也參加這些會議，歡迎隨時相約喝杯咖啡或啤酒！
 
-<div style="width:100%;height:160px;border-radius:8px;margin-bottom:1.5rem;overflow:hidden;position:relative;"><div class="about-banner-inner" style="position:absolute;inset:0;background-image:url('/images/taroko_station.jpg');background-size:cover;background-position:center;opacity:0.45;"></div></div>
+<div style="width:100%;height:160px;border-radius:8px;margin-bottom:1.5rem;overflow:hidden;position:relative;"><div class="about-banner-inner" style="position:absolute;inset:0;background-image:url('/images/taroko_station.jpg');background-size:cover;background-position:center;opacity:0.15;filter:brightness(1.5) saturate(0.5);"></div></div>
 
 </div>
 

@@ -19,7 +19,7 @@ I am primarily based across three locations in England: Colchester, London, and 
 
 
 
-<div style="width:100%;height:160px;border-radius:8px;margin-bottom:1.5rem;overflow:hidden;position:relative;"><div class="about-banner-inner" style="position:absolute;inset:0;background-image:url('/images/taroko_station.jpg');background-size:cover;background-position:center;opacity:0.45;"></div></div>
+<div style="width:100%;height:160px;border-radius:8px;margin-bottom:1.5rem;overflow:hidden;position:relative;"><div class="about-banner-inner" style="position:absolute;inset:0;background-image:url('/images/taroko_station.jpg');background-size:cover;background-position:center;opacity:0.15;filter:brightness(1.5) saturate(0.5);"></div></div>
 
 </div>
 
