@@ -35,7 +35,7 @@
     2026 Electoral Systems and Geographically-Targeted Oversight: Evidence from Taiwan Legislative Yuan. <em>Electoral Studies</em>. 99: 103026. (with Li Tang)  <strong style="font-size: 0.7em; text-decoration: underline;">SSCI 期刊</strong>
   </li>
   <li>
-    2025 官僚「再詮釋」領導人意識形態初探：以《人民日報》習近平外交思想的評論為例. <em>中國大陸研究</em>. (with <a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/%E8%94%A1%E5%84%80%E5%84%82CV_202303-1-1.pdf" style="color: #9ab8b8;">蔡儀儂</a>)<strong style="font-size: 0.7em; text-decoration: underline;">TSSCI 期刊</strong>
+    2025 官僚「再詮釋」領導人意識形態初探：以《人民日報》習近平外交思想的評論為例. <em>中國大陸研究</em>. (with <a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/%E8%94%A1%E5%84%80%E5%84%82CV_202303-1-1.pdf" style="color: #9ab8b8;">蔡儀儂</a>)  <strong style="font-size: 0.7em; text-decoration: underline;">TSSCI 期刊</strong>
   <li>
     2025 Catalysts for Progress? Mapping Policy Insights from Energy Research. <em>Energy Research &amp; Social Science</em>. 121: 103955. (with <a href="https://brianpaulboyle.com" style="color: #9ab8b8;">Brian Boyle</a>, <a href="https://muellerstefan.net" style="color: #9ab8b8;">Stefan Müller</a>, <a href="https://sarahaking.net" style="color: #9ab8b8;">Sarah King</a>, and <a href="https://robinrauner.com" style="color: #9ab8b8;">Robin Rauner</a>)  <strong style="font-size: 0.7em; text-decoration: underline;">SSCI 期刊</strong>
   </li>
