@@ -8,24 +8,40 @@
 
 <div style="text-align: justify">
 
+
+<div style="text-align: justify">
+
 ### 近期研究工作論文
 
+<u>誤判・因果信念・政治行為</u>
 <ol>
-  <li>Folk Theories about Political Conflict (with Slava Jankin and Li Tang)</li>
-  <li>Knocking on the Wrong Door: Partisan Canvassing and Asymmetric Belief Updating in Britain. (with Li Tang)</li>
-  <li>How Do 100+ LLMs Differ Politically? A Multi-Agent Approach to Measuring AI Ideology (with <a href="https://sites.google.com/view/drtingluo/home" style="color: #9ab8b8;">Ting Luo</a> and Slava Jankin)</li>
-  <li>The Rural-Urban Divide in Populist Rhetoric: Cross-National Evidence from European Parliaments (with <a href="https://eavigano.github.io" style="color: #9ab8b8;">Edoardo Viganò</a>)</li>
-  <li>Cross-Lingual Stance Detection in Political Texts: Comparison and Application. (with Stefan Müller)</li>
-  <li>AI Survey Respondents as Measurement Instruments: A Pre-Registered Total Survey Error Framework. (with Linette Lim and Slava Jankin)</li>
-  <li>Multi-Agent LLM Systems for Synthetic Survey Experiments in Ethically Constrained Settings. (with <a href="https://linettemlim.github.io" style="color: #9ab8b8;">Linette Lim</a> and <a href="https://sjankin.com" style="color: #9ab8b8;">Slava Jankin</a>)</li>
-  <li>Game-Theoretic Multi-Agent Systems with LLMs for Crisis Negotiation and Simulation. (with <a href="" style="color: #9ab8b8;">Shuli Zhang</a>)</li>
-  <li>Electoral Reform and Issue Attention in Legislative Oversight: From SNTV to Mixed-Member Majoritarian System in Taiwan. (with <a href="https://sites.google.com/view/calvin-yuceng-liao/home" style="color: #9ab8b8;">Yu-Ceng Liao</a> and <a href="https://yitingw.com" style="color: #9ab8b8;">Yi-ting Wang</a>)</li>
-</ol>
-<br>
+  Folk Theories about Political Conflict (with Slava Jankin and Li Tang)<br>
 
+  Knocking on the Wrong Door: Partisan Canvassing and Asymmetric Belief Updating in Britain. (with Li Tang)<br>
+
+  The Rural-Urban Divide in Populist Rhetoric: Cross-National Evidence from European Parliaments (with <a href="https://eavigano.github.io" style="color: #9ab8b8;">Edoardo Viganò</a>)
+
+  Electoral Reform and Issue Attention in Legislative Oversight: From SNTV to Mixed-Member Majoritarian System in Taiwan. (with <a href="https://sites.google.com/view/calvin-yuceng-liao/home" style="color: #9ab8b8;">Yu-Ceng Liao</a> and <a href="https://yitingw.com" style="color: #9ab8b8;">Yi-ting Wang</a>)<br>
+
+</ol>
+
+<u>大型語言模型・多智能體系統・模擬政治行為者</u>
+<ul>
+
+  AI Survey Respondents as Measurement Instruments: A Pre-Registered Total Survey Error Framework. (with Linette Lim and Slava Jankin)<br>
+
+  How Do 100+ LLMs Differ Politically? A Multi-Agent Approach to Measuring AI Ideology (with <a href="https://sites.google.com/view/drtingluo/home" style="color: #9ab8b8;">Ting Luo</a> and Slava Jankin)<br>
+  Multi-Agent LLM Systems for Synthetic Survey Experiments in Ethically Constrained Settings. (with <a href="https://linettemlim.github.io" style="color: #9ab8b8;">Linette Lim</a> and <a href="https://sjankin.com" style="color: #9ab8b8;">Slava Jankin</a>)<br>
+
+  Game-Theoretic Multi-Agent Systems with LLMs for Crisis Negotiation and Simulation. (with <a href="" style="color: #9ab8b8;">Shuli Zhang</a>)<br>
+
+  Cross-Lingual Stance Detection in Political Texts: Comparison and Application. (with Stefan Müller)<br>
+
+</ul>
 </div>
 
 
+-------
 <div style="text-align: justify">
 
 ### 期刊論文出版
