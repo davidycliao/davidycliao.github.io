@@ -23,7 +23,7 @@
 
 ## Working Papers
 
-<u>Misperception · Causal Beliefs · Behaviour</u>
+<u>(1) Misperception · Causal Beliefs · Behaviour</u>
 
 <ol>
   Folk Theories about Political Conflict (with Slava Jankin and Li Tang)<br>
@@ -38,7 +38,7 @@
     
 </ol>
 
-<u>LLMs · Multi-Agent Systems · Synthetic Actors</u>
+<u>(2) LLMs · Multi-Agent Systems · Synthetic Agentic Actors</u>
 
 <ul>
 

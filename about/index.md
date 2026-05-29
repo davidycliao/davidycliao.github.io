@@ -14,11 +14,12 @@ I received my PhD in Politics from the University of Essex (2023), and both my B
 At Birmingham, I work with the <a href="https://www.birmingham.ac.uk/research/centres-institutes/centre-for-artificial-intelligence-in-government" style="color:#778899; text-decoration: underline;" target="_blank">CAIG</a>, the <a href="https://www.birmingham.ac.uk/research/centres-institutes/data-and-ai" style="color:#778899; text-decoration: underline;" target="_blank">IDAI</a>, and the <a href="https://sites.google.com/view/litang2020" style="color:#778899; text-decoration: underline;" target="_blank">Department of Economics</a>, in collaboration with scholars at University College Dublin, Universidad Carlos III de Madrid, and Taiwan, on two related research themes.
 
 
-<p style="margin-left: 1.5em;"><u>(1) LLMs · Multi-Agent Systems · Synthetic Actors:</u></p>
-<p style="margin-left: 1.5em;">The first uses multi-agent large language model systems to simulate political behavior, spanning AI-respondent survey experiments, computational models of elite deliberation, and the systematic measurement of political orientations and ideological variation across AI systems.</p>
-
-<p style="margin-left: 1.5em;"><u>(2) Misperception · Causal Beliefs · Behaviour:</u> </p>
+__<p style="margin-left: 1.5em;"><u>(1) Misperception · Causal Beliefs · Behaviour:</u> </p>__
 <p style="margin-left: 1.5em;">The second examines how ordinary citizens construct causal explanations for democratic conflict — why partisan hostility has risen and why anti-establishment movements have gained traction. Drawing on survey experiments and NLP-based text analysis, I test whether these folk causal theories predict affective polarization, tolerance of democratic norm violations, and support for anti-establishment and populist parties across legislative settings, net of party identity and demographics. A related strand investigates how political elites strategically deploy populist rhetoric across geographically distinct constituencies, combining natural language analysis with experimental designs to examine the link between elite issue selection and voter mobilization.</p>
+
+
+__<p style="margin-left: 1.5em;"><u>(2) LLMs · Multi-Agent Systems · Synthetic Actors:</u></p>__
+<p style="margin-left: 1.5em;">The first uses multi-agent large language model systems to simulate political behavior, spanning AI-respondent survey experiments, computational models of elite deliberation, and the systematic measurement of political orientations and ideological variation across AI systems.</p>
 
 
 I am primarily based across three locations in England: Colchester, London, and Birmingham. This year, I plan to attend the Soochow University Legislative Studies Workshop (Taipei, June 6–7), as well as PolMeth Europe (TCD, May 14–15), EPSS (Belfast, June 18–20), PolMeth Summer Meeting (MSU, July 15-18)  and APSA (Boston, September 3–6). If you are attending any of these conferences, or happen to be in one of these cities, feel free to reach out — I'd love to grab a coffee or a beer!

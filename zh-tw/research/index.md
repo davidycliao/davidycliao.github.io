@@ -13,7 +13,7 @@
 
 ### 近期研究工作論文
 
-<u>誤判政黨位置・因果信念・立法與政治行為</u>
+<u>(1) 誤判政黨位置・因果信念・立法與政治行為</u>
 <ol>
   Folk Theories about Political Conflict (with Slava Jankin and Li Tang)<br>
 
@@ -28,7 +28,7 @@
 
 </ol>
 
-<u>大型語言模型・多智能體MAS・模擬政治行為者</u>
+<u>(2) 大型語言模型・多智能體MAS・模擬政治行為者</u>
 <ul>
 
   AI Survey Respondents as Measurement Instruments: A Pre-Registered Total Survey Error Framework. (with Linette Lim and Slava Jankin) <strong style="font-size: 0.7em; text-decoration: underline;">Under review</strong><br>  
