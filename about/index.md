@@ -11,15 +11,21 @@ I am a Research Fellow in Natural Language Processing at <a href="https://www.bi
 
 I received my PhD in Politics from the University of Essex (2023), and both my BA and MA in Public Administration and Policy from National Taipei University. My substantive work focuses on legislative behavior and comparative political institutions, with particular emphasis on Taiwan and East Asian contexts. Methodologically, I apply quantitative and computational approaches to measure the ideological preferences and political stances of political elites — drawing on ideal point estimation from legislative voting, survey data analysis, and computational text analysis. Through these methods, I examine how elites position themselves via their narratives and voting behavior, and how such positioning shapes legislative behavior and public attitudes.
 
-At Birmingham, I work with the <a href="https://www.birmingham.ac.uk/research/centres-institutes/centre-for-artificial-intelligence-in-government" style="color:#778899; text-decoration: underline;" target="_blank">CAIG</a>, the <a href="https://www.birmingham.ac.uk/research/centres-institutes/data-and-ai" style="color:#778899; text-decoration: underline;" target="_blank">IDAI</a>, and the <a href="https://sites.google.com/view/litang2020" style="color:#778899; text-decoration: underline;" target="_blank">Department of Economics</a> on two related research themes. The first uses multi-agent large language model systems to simulate political behavior, spanning AI-respondent survey experiments, computational models of elite deliberation, and the systematic measurement of political orientations and ideological variation across AI systems. The second examines how ordinary citizens construct causal explanations for democratic conflict — why partisan hostility has risen and why anti-establishment movements have gained traction — drawing on survey experiments and NLP-based text analysis to test whether these folk causal theories predict affective polarization, tolerance of democratic norm violations, and support for anti-establishment and populist parties across legislative settings, net of party identity and demographics.
+At Birmingham, I work with the <a href="https://www.birmingham.ac.uk/research/centres-institutes/centre-for-artificial-intelligence-in-government" style="color:#778899; text-decoration: underline;" target="_blank">CAIG</a>, the <a href="https://www.birmingham.ac.uk/research/centres-institutes/data-and-ai" style="color:#778899; text-decoration: underline;" target="_blank">IDAI</a>, and the <a href="https://sites.google.com/view/litang2020" style="color:#778899; text-decoration: underline;" target="_blank">Department of Economics</a> on two related research themes. 
+
+<p style="margin-left: 1.5em;"><u>LLMs · Multi-Agent Systems · Synthetic Actors:</u></p>
+<p style="margin-left: 1.5em;">(1) The first uses multi-agent large language model systems to simulate political behavior, spanning AI-respondent survey experiments, computational models of elite deliberation, and the systematic measurement of political orientations and ideological variation across AI systems.</p>
+
+<p style="margin-left: 1.5em;"><u>Misperception · Causal Beliefs · Behaviour:</u> </p>
+<p style="margin-left: 1.5em;">(2) The second examines how ordinary citizens construct causal explanations for democratic conflict — why partisan hostility has risen and why anti-establishment movements have gained traction. Drawing on survey experiments and NLP-based text analysis, I test whether these folk causal theories predict affective polarization, tolerance of democratic norm violations, and support for anti-establishment and populist parties across legislative settings, net of party identity and demographics.</p>
 
 I am primarily based across three locations in England: Colchester, London, and Birmingham. This year, I plan to attend the Soochow University Legislative Studies Workshop (Taipei, June 6–7), as well as PolMeth Europe (TCD, May 14–15), EPSS (Belfast, June 18–20), PolMeth Summer Meeting (MSU, July 15-18)  and APSA (Boston, September 3–6). If you are attending any of these conferences, or happen to be in one of these cities, feel free to reach out — I'd love to grab a coffee or a beer!
 
-
+<!-- 
 
 
 
 <div style="width:100%;height:160px;border-radius:8px;margin-bottom:1.5rem;overflow:hidden;position:relative;"><div class="about-banner-inner" style="position:absolute;inset:0;background-image:url('/images/taroko_station.jpg');background-size:cover;background-position:center;opacity:0.15;filter:brightness(1.5) saturate(0.5);"></div></div>
 
-</div>
+</div> -->
 

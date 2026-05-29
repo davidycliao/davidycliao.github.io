@@ -13,7 +13,7 @@
 
 ### 近期研究工作論文
 
-<u>誤判・因果信念・政治行為</u>
+<u>政治誤判・因果信念・立法與政治行為</u>
 <ol>
   Folk Theories about Political Conflict (with Slava Jankin and Li Tang)<br>
 
@@ -21,16 +21,17 @@
 
   The Rural-Urban Divide in Populist Rhetoric: Cross-National Evidence from European Parliaments (with <a href="https://eavigano.github.io" style="color: #9ab8b8;">Edoardo Viganò</a>)
 
-  Electoral Reform and Issue Attention in Legislative Oversight: From SNTV to Mixed-Member Majoritarian System in Taiwan. (with <a href="https://sites.google.com/view/calvin-yuceng-liao/home" style="color: #9ab8b8;">Yu-Ceng Liao</a> and <a href="https://yitingw.com" style="color: #9ab8b8;">Yi-ting Wang</a>)<br>
+  Electoral Reform and Issue Attention in Legislative Oversight: From SNTV to Mixed-Member Majoritarian System in Taiwan. (with <a href="https://sites.google.com/view/calvin-yuceng-liao/home" style="color: #9ab8b8;">Yu-Ceng Liao</a> and <a href="https://yitingw.com" style="color: #9ab8b8;">Yi-ting Wang</a>)  <strong style="font-size: 0.7em; text-decoration: underline;">Under review</strong><br>  
 
 </ol>
 
-<u>大型語言模型・多智能體系統・模擬政治行為者</u>
+<u>大型語言模型・多智能體MAS・模擬政治行為者</u>
 <ul>
 
-  AI Survey Respondents as Measurement Instruments: A Pre-Registered Total Survey Error Framework. (with Linette Lim and Slava Jankin)<br>
+  AI Survey Respondents as Measurement Instruments: A Pre-Registered Total Survey Error Framework. (with Linette Lim and Slava Jankin) <strong style="font-size: 0.7em; text-decoration: underline;">Under review</strong><br>  
 
   How Do 100+ LLMs Differ Politically? A Multi-Agent Approach to Measuring AI Ideology (with <a href="https://sites.google.com/view/drtingluo/home" style="color: #9ab8b8;">Ting Luo</a> and Slava Jankin)<br>
+  
   Multi-Agent LLM Systems for Synthetic Survey Experiments in Ethically Constrained Settings. (with <a href="https://linettemlim.github.io" style="color: #9ab8b8;">Linette Lim</a> and <a href="https://sjankin.com" style="color: #9ab8b8;">Slava Jankin</a>)<br>
 
   Game-Theoretic Multi-Agent Systems with LLMs for Crisis Negotiation and Simulation. (with <a href="" style="color: #9ab8b8;">Shuli Zhang</a>)<br>
