@@ -33,6 +33,9 @@
   The Rural-Urban Divide in Populist Rhetoric: Cross-National Evidence from European Parliaments (with <a href="https://eavigano.github.io" style="color: #9ab8b8;">Edoardo Viganò</a>)
 
   Electoral Reform and Issue Attention in Legislative Oversight: From SNTV to Mixed-Member Majoritarian System in Taiwan. (with <a href="https://sites.google.com/view/calvin-yuceng-liao/home" style="color: #9ab8b8;">Yu-Ceng Liao</a> and <a href="https://yitingw.com" style="color: #9ab8b8;">Yi-ting Wang</a>) <strong style="font-size: 0.7em; text-decoration: underline;">Under review</strong><br>  
+
+  Cross-Lingual Stance Detection in Political Texts: Comparison and Application. (with Stefan Müller)<br>
+    
 </ol>
 
 <u>LLMs · Multi-Agent Systems · Synthetic Actors</u>
@@ -47,7 +50,7 @@
 
   Game-Theoretic Multi-Agent Systems with LLMs for Crisis Negotiation and Simulation. (with <a href="" style="color: #9ab8b8;">Shuli Zhang</a>)<br>
 
-  Cross-Lingual Stance Detection in Political Texts: Comparison and Application. (with Stefan Müller)<br>
+
 
 </ul>
 </div>
