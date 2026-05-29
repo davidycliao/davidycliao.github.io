@@ -13,7 +13,7 @@
 
 ### 近期研究工作論文
 
-<u>政治誤判・因果信念・立法與政治行為</u>
+<u>誤判政黨位置・因果信念・立法與政治行為</u>
 <ol>
   Folk Theories about Political Conflict (with Slava Jankin and Li Tang)<br>
 
