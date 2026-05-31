@@ -13,12 +13,12 @@ Embiyax su hug！哈囉！非常歡迎來到我的個人網頁！
 
 2024 年 9 月加入伯明罕大學後，我與<a href="https://www.birmingham.ac.uk/research/centres-institutes/centre-for-artificial-intelligence-in-government" style="color:#778899; text-decoration: underline;" target="_blank">CAIG</a>、<a href="https://www.birmingham.ac.uk/research/centres-institutes/data-and-ai" style="color:#778899; text-decoration: underline;" target="_blank">IDAI</a> 及<a href="https://sites.google.com/view/litang2020" style="color:#778899; text-decoration: underline;" target="_blank">商學院經濟學系</a>的學者與資料科學家密切合作，同時與 University College Dublin、Universidad Carlos III de Madrid 及台灣學者保持跨國合作，目前聚焦於以下兩個研究方向。
 
-__<p style="margin-left: 1.5em;"><u>(1)政治誤判・因果信念・立法與政治行為:</u> </p>__
+__<p style="margin-left: 1.5em;">(1)政治誤判・因果信念・立法與政治行為: </p>__
 
 <p style="margin-left: 1.5em;"> 第一個主題則是探究一般公民如何為民主衝突建構因果敘事。我們藉由調查實驗與自然語言處理技術，檢驗公眾的日常因果歸因能否預測情感極化、對民主規範違反行為的容忍，以及對民粹與反建制政黨的支持。此外，我們亦關注政治菁英如何透過地域性議題運用民粹主義修辭與選民溝通，結合自然語言分析與實驗設計，系統性地檢驗菁英的策略性議題選擇與選民動員之間的關聯。
 
 
-__<p style="margin-left: 1.5em;"><u>(2)大型語言模型・多智能體MAS・模擬政治行為:</u> </p>__
+__<p style="margin-left: 1.5em;">(2)大型語言模型・多智能體MAS・模擬政治行為: </p>__
 <p style="margin-left: 1.5em;"> 第二個主題則是以多智能體大型語言模型系統模擬政治行為，涵蓋以智能體替代真實受訪者進行倫理敏感型調查實驗、菁英政治審議的計算模擬，以及 AI 系統意識形態傾向的系統性測量。 </p>
 
  </p>

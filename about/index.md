@@ -14,11 +14,11 @@ I received my PhD in Politics from the University of Essex (2023), and both my B
 At Birmingham, I work with the <a href="https://www.birmingham.ac.uk/research/centres-institutes/centre-for-artificial-intelligence-in-government" style="color:#778899; text-decoration: underline;" target="_blank">CAIG</a>, the <a href="https://www.birmingham.ac.uk/research/centres-institutes/data-and-ai" style="color:#778899; text-decoration: underline;" target="_blank">IDAI</a>, and the <a href="https://sites.google.com/view/litang2020" style="color:#778899; text-decoration: underline;" target="_blank">Department of Economics</a>, in collaboration with scholars at University College Dublin, Universidad Carlos III de Madrid, and Taiwan, on two related research themes.
 
 
-__<p style="margin-left: 1.5em;"><u>(1) Misperception · Causal Beliefs · Behaviour:</u> </p>__
+__<p style="margin-left: 1.5em;">(1) Misperception · Causal Beliefs · Behaviour:</p>__
 <p style="margin-left: 1.5em;">The first examines how ordinary citizens construct causal explanations for democratic conflict — why partisan hostility has risen and why anti-establishment movements have gained traction. Drawing on survey experiments and NLP-based text analysis, I test whether these folk causal theories predict affective polarization, tolerance of democratic norm violations, and support for anti-establishment and populist parties across legislative settings, net of party identity and demographics. A related strand investigates how political elites strategically deploy populist rhetoric across geographically distinct constituencies, combining natural language analysis with experimental designs to examine the link between elite issue selection and voter mobilization.</p>
 
 
-__<p style="margin-left: 1.5em;"><u>(2) LLMs · Multi-Agent Systems · Synthetic Actors:</u></p>__
+__<p style="margin-left: 1.5em;">(2) LLMs · Multi-Agent Systems · Synthetic Actors:</p>__
 <p style="margin-left: 1.5em;">The second uses multi-agent large language model systems to simulate political behavior, spanning AI-respondent survey experiments, computational models of elite deliberation, and the systematic measurement of political orientations and ideological variation across AI systems.</p>
 
 
