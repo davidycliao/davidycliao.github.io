@@ -28,11 +28,12 @@
 <ol>
   Folk Theories about Political Conflict (with Slava Jankin and Li Tang)<br>
 
+  Electoral Reform and Issue Attention in Legislative Oversight: From SNTV to Mixed-Member Majoritarian System in Taiwan. (with <a href="https://sites.google.com/view/calvin-yuceng-liao/home" style="color: #9ab8b8;">Yu-Ceng Liao</a> and <a href="https://yitingw.com" style="color: #9ab8b8;">Yi-ting Wang</a>) <strong style="font-size: 0.7em; text-decoration: underline;">Revise & resubmit</strong><br>  
+
   Knocking on the Wrong Door: Partisan Canvassing and Asymmetric Belief Updating in Britain. (with Li Tang)<br>
 
   The Rural-Urban Divide in Populist Rhetoric: Cross-National Evidence from European Parliaments (with <a href="https://eavigano.github.io" style="color: #9ab8b8;">Edoardo Viganò</a>)
 
-  Electoral Reform and Issue Attention in Legislative Oversight: From SNTV to Mixed-Member Majoritarian System in Taiwan. (with <a href="https://sites.google.com/view/calvin-yuceng-liao/home" style="color: #9ab8b8;">Yu-Ceng Liao</a> and <a href="https://yitingw.com" style="color: #9ab8b8;">Yi-ting Wang</a>) <strong style="font-size: 0.7em; text-decoration: underline;">Under review</strong><br>  
 
   Cross-Lingual Stance Detection in Political Texts: Comparison and Application. (with Stefan Müller)<br>
     
