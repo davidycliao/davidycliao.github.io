@@ -15,7 +15,14 @@ At Birmingham, I work with the <a href="https://www.birmingham.ac.uk/research/ce
 
 
 __<p style="margin-left: 1.5em;">(1) Misperception · Causal Beliefs & Narratives · Behaviour:</p>__
-<p style="margin-left: 1.5em;">The first examines how ordinary citizens construct causal explanations for democratic conflict — why partisan hostility has risen and why anti-establishment movements have gained traction. Drawing on survey experiments and NLP-based text analysis, I test whether these folk causal theories predict affective polarization, tolerance of democratic norm violations, and support for anti-establishment and populist parties across legislative settings, net of party identity and demographics. A related strand investigates how political elites strategically deploy populist rhetoric across geographically distinct constituencies, combining natural language analysis with experimental designs to examine the link between elite issue selection and voter mobilization.</p>
+
+<p style="margin-left: 1.5em;">
+The first examines how ordinary citizens construct causal explanations for democratic conflict — why partisan hostility has risen and why anti-establishment movements have gained traction. Drawing on survey experiments and NLP-based text analysis, I test whether these folk causal theories predict affective polarization, tolerance of democratic norm violations, and support for anti-establishment and populist parties across legislative settings, net of party identity and demographics.
+</p>
+
+<p style="margin-left: 1.5em;">
+A related strand investigates how political elites strategically deploy populist rhetoric across geographically distinct constituencies, combining natural language analysis with experimental designs to examine the link between elite issue selection and voter mobilization.
+</p>
 
 
 __<p style="margin-left: 1.5em;">(2) LLMs · Multi-Agent Systems · Synthetic Actors:</p>__

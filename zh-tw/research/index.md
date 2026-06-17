@@ -11,10 +11,12 @@
 
 <div style="text-align: justify">
 
-### 近期研究工作論文
+### 近期已完成研究初稿
 
 <u>(1) 誤判政黨位置・因果信念・立法與政治行為</u>
 <ol>
+
+  Electoral Reform and Issue Attention in Legislative Oversight: From SNTV to Mixed-Member Majoritarian System in Taiwan. (with <a href="https://sites.google.com/view/calvin-yuceng-liao/home" style="color: #9ab8b8;">Yu-Ceng Liao</a> and <a href="https://yitingw.com" style="color: #9ab8b8;">Yi-ting Wang</a>) <strong style="font-size: 0.7em; text-decoration: underline;">*R&R at Electoral Studies*</strong><br>  
 
   Knocking on the Wrong Door: Partisan Canvassing and Asymmetric Belief Updating in Britain. (with Li Tang)  <a href="https://www.dropbox.com/scl/fi/f8ni05i9gqca78jemhp1j/canvassing_and_misperception.pdf?rlkey=dx8g1w94dkq4yxxsa8efmx5av&st=sk5jg1bf&dl=0" target="_blank" style="color: inherit;"><strong style="font-size: 0.7em; text-decoration: underline;">*Working Draft*</strong></a><br> 
   
@@ -22,12 +24,6 @@
 
   Folk Theories about Political Conflict. (with Slava Jankin and Li Tang)<br>
 
-  Electoral Reform and Issue Attention in Legislative Oversight: From SNTV to Mixed-Member Majoritarian System in Taiwan. (with <a href="https://sites.google.com/view/calvin-yuceng-liao/home" style="color: #9ab8b8;">Yu-Ceng Liao</a> and <a href="https://yitingw.com" style="color: #9ab8b8;">Yi-ting Wang</a>) <strong style="font-size: 0.7em; text-decoration: underline;">*R&R at Electoral Studies*</strong><br>  
-
-  The Rural-Urban Divide in Populist Rhetoric: Cross-National Evidence from European Parliaments. (with <a href="https://eavigano.github.io" style="color: #9ab8b8;">Edoardo Viganò</a>)
-
-<br>
-    
 
 </ol>
 
@@ -46,11 +42,28 @@
 </ul>
 </div>
 
-
--------
+   
 <div style="text-align: justify">
 
-### 期刊論文出版
+### 正在進行中的項目
+
+<ul>
+
+
+  How Do 100+ LLMs Differ Politically? A Multi-Agent Approach to Measuring AI Ideology. (with <a href="https://sites.google.com/view/drtingluo/home" style="color: #9ab8b8;">Ting Luo</a> and Slava Jankin)<br>
+
+  The Rural-Urban Divide in Populist Rhetoric: Cross-National Evidence from European Parliaments. (with <a href="https://eavigano.github.io" style="color: #9ab8b8;">Edoardo Viganò</a>)
+
+
+</ul>
+
+</div>
+
+
+
+<div style="text-align: justify">
+
+### 即將或已出版期刊論文
 
 <ol>
   <li>
@@ -62,7 +75,7 @@
     2025 Catalysts for Progress? Mapping Policy Insights from Energy Research. <em>Energy Research &amp; Social Science</em>. 121: 103955. (with <a href="https://brianpaulboyle.com" style="color: #9ab8b8;">Brian Boyle</a>, <a href="https://muellerstefan.net" style="color: #9ab8b8;">Stefan Müller</a>, <a href="https://sarahaking.net" style="color: #9ab8b8;">Sarah King</a>, and <a href="https://robinrauner.com" style="color: #9ab8b8;">Robin Rauner</a>)  <strong style="font-size: 0.7em; text-decoration: underline;">SSCI 期刊</strong>
   </li>
   <li>
-    2024 Electoral Reform and Fragmented Polarization: New Evidence from Taiwan Legislative Roll Call. <em>Legislative Studies Quarterly</em>. 50 (1): 3-21. <strong style="font-size: 0.7em; text-decoration: underline;">SSCI 期刊</strong>
+    2024 Electoral Reform and Fragmented Polarization: New Evidence from Taiwan Legislative Roll Call. <em>Legislative Studies Quarterly</em>. 50 (1): 3-21. <strong style="font-size: 0.7em; text-decoration: underline;">SSCI 期刊，列為該期第一篇文章</strong>
   </li>
   <li>
     2024 (<em>Mis</em>)perception of Party-voter Congruence and Satisfaction with Democracy. <em>Political Science Research and Methods</em>. 13 (5): 885-902. (with <a href="#" style="color: #9ab8b8;">Royce Carroll</a> and <a href="https://sites.google.com/view/litang2020" style="color: #9ab8b8;">Li Tang</a>) <strong style="font-size: 0.7em; text-decoration: underline;">SSCI 期刊</strong>
