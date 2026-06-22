@@ -54,6 +54,14 @@
 
 
 </ul>
+
+<!-- 
+<p style="text-align: center;">
+  If you would like to access the latest version of the paper, please feel free to 
+  <a href="mailto:davidycliao@gmail.com">send me an email</a>.
+</p> -->
+
+
 </div>
 
 <br>
