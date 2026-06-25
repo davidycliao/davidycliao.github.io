@@ -21,11 +21,31 @@
 
 <div style="text-align: justify">
 
+## Work in Progress
+
+<ul>
+
+  Folk Theories about Political Conflict. (with Slava Jankin and Li Tang)<br>
+
+  How Do 100+ LLMs Differ Politically? A Multi-Agent Approach to Measuring AI Ideology. (with <a href="https://sites.google.com/view/drtingluo/home" style="color: #9ab8b8;">Ting Luo</a> and Slava Jankin)<br>
+
+  The Rural-Urban Divide in Populist Rhetoric: Cross-National Evidence from European Parliaments. (with <a href="https://eavigano.github.io" style="color: #9ab8b8;">Edoardo Viganò</a>)
+
+
+</ul>
+
+</div>
+
+
+
+<div style="text-align: justify">
+
 ## Working Papers
 
-<u>(1) Misperception · Causal Beliefs · Behaviour</u>
 
 <ol>
+
+  <u>(1) Misperception · Causal Beliefs · Behaviour</u> <br>  
 
   Electoral Reform and Issue Attention in Legislative Oversight: From SNTV to Mixed-Member Majoritarian System in Taiwan. (with <a href="https://sites.google.com/view/calvin-yuceng-liao/home" style="color: #9ab8b8;">Yu-Ceng Liao</a> and <a href="https://yitingw.com" style="color: #9ab8b8;">Yi-ting Wang</a>) <strong style="font-size: 0.7em; text-decoration: underline;">*R&R at Electoral Studies*</strong><br>  
 
@@ -33,17 +53,13 @@
   
   Cross-Lingual Stance Detection in Political Texts: Comparison and Application. (with Stefan Müller)<br>
 
-  Folk Theories about Political Conflict. (with Slava Jankin and Li Tang)<br>
 
-
-
-<br>
     
 </ol>
 
-<u>(2) LLMs · Multi-Agent Systems · Synthetic Agentic Actors</u>
-
 <ul>
+
+  <u>(2) LLMs · Multi-Agent Systems · Synthetic Agentic Actors</u> <br>  
 
   AI Survey Respondents as Measurement Instruments: A Pre-Registered Total Survey Error Framework. (with Linette Lim and Slava Jankin) <strong style="font-size: 0.7em; text-decoration: underline;">Under review</strong><br>  
   
@@ -63,27 +79,6 @@
 
 
 </div>
-
-<br>
-
-
-<div style="text-align: justify">
-
-## Work in Progress
-
-<ul>
-
-
-  How Do 100+ LLMs Differ Politically? A Multi-Agent Approach to Measuring AI Ideology. (with <a href="https://sites.google.com/view/drtingluo/home" style="color: #9ab8b8;">Ting Luo</a> and Slava Jankin)<br>
-
-  The Rural-Urban Divide in Populist Rhetoric: Cross-National Evidence from European Parliaments. (with <a href="https://eavigano.github.io" style="color: #9ab8b8;">Edoardo Viganò</a>)
-
-
-</ul>
-
-</div>
-
-<br>
 
 
 
