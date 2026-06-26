@@ -12,7 +12,7 @@ I completed my PhD in Politics at the University of Essex in 2023. My dissertati
 My research centres on legislative behaviour and comparative political institutions, with a particular focus on Taiwan and East Asia. I use quantitative and computational methods to study where political elites stand ideologically — estimating ideal points from legislative voting, analysing survey data, and drawing on computational text analysis. What runs through all of this is how elites stake out their positions through the narratives they tell and the votes they cast, and how that shapes both legislation and public opinion.
 
 
-At Birmingham, I also work with the <a href="https://sites.google.com/view/litang2020" style="color:#778899; text-decoration: underline;" target="_blank">Department of Economics</a>, alongside collaborators at University College Dublin, Universidad Carlos III de Madrid, and institutions in Taiwan. Building on this, my current work turns from how elites position themselves to how citizens make sense of political conflict — and, increasingly, to how AI systems can model both. It follows two related themes.
+At Birmingham, I also work with the <a href="https://litangmacro.github.io" style="color:#778899; text-decoration: underline;" target="_blank">Department of Economics</a>, alongside collaborators at University College Dublin, Universidad Carlos III de Madrid, and institutions in Taiwan. Building on this, my current work turns from how elites position themselves to how citizens make sense of political conflict — and, increasingly, to how AI systems can model both. It follows two related themes.
 
 <p style="margin-left: 1.5em;">(1) Misperception · Causal Beliefs & Narratives · Behaviour</p>
 <p style="margin-left: 1.5em;">

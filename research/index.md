@@ -25,12 +25,11 @@
 
 <ul>
 
-  Folk Theories about Political Conflict. (with Slava Jankin and Li Tang)<br>
+  Folk Theories about Political Conflict. (with <a href="https://sjankin.com" style="color: #9ab8b8;">Slava Jankin</a> and <a href="https://litangmacro.github.io" style="color: #9ab8b8;">Li Tang</a>)<br>
 
-  How Do 100+ LLMs Differ Politically? A Multi-Agent Approach to Measuring AI Ideology. (with <a href="https://sites.google.com/view/drtingluo/home" style="color: #9ab8b8;">Ting Luo</a> and Slava Jankin)<br>
+  How Do 100+ LLMs Differ Politically? A Multi-Agent Approach to Measuring AI Ideology. (with <a href="https://sites.google.com/view/drtingluo/home" style="color: #9ab8b8;">Ting Luo</a> and <a href="https://sjankin.com" style="color: #9ab8b8;">Slava Jankin</a>)<br>
 
   The Rural-Urban Divide in Populist Rhetoric: Cross-National Evidence from European Parliaments. (with <a href="https://eavigano.github.io" style="color: #9ab8b8;">Edoardo Viganò</a>)<br>
-
 
 </ul>
 
@@ -44,20 +43,25 @@
 
 <ol>
 
-  <u>__Misperception · Causal Beliefs · Behaviour__</u> <br>  
+  <u>__(1) Misperception · Causal Beliefs · Behaviour__</u> <br>  
+
   Electoral Reform and Issue Attention in Legislative Oversight: From SNTV to Mixed-Member Majoritarian System in Taiwan. (with <a href="https://sites.google.com/view/calvin-yuceng-liao/home" style="color: #9ab8b8;">Yu-Ceng Liao</a> and <a href="https://yitingw.com" style="color: #9ab8b8;">Yi-ting Wang</a>) <strong style="font-size: 0.7em; text-decoration: underline;">*R&R at Electoral Studies*</strong><br>  
 
-  Knocking on the Wrong Door: Partisan Canvassing and Asymmetric Belief Updating in Britain. (with Li Tang)  <a href="https://www.dropbox.com/scl/fi/g06t09yxv2rr6jhyq43cj/Canvassing_and_misperception.pdf?rlkey=h8gcnllltoqcntvot8fmew0rz&st=jxcxu9zr&dl=0" target="_blank" style="color: inherit;"><strong style="font-size: 0.7em; text-decoration: underline;">*Working Draft*</strong></a><br> 
+  Knocking on the Wrong Door: Partisan Canvassing and Asymmetric Belief Updating in Britain. (with <a href="https://litangmacro.github.io" style="color: #9ab8b8;">Li Tang</a>)  <a href="https://www.dropbox.com/scl/fi/g06t09yxv2rr6jhyq43cj/Canvassing_and_misperception.pdf?rlkey=h8gcnllltoqcntvot8fmew0rz&st=jxcxu9zr&dl=0" target="_blank" style="color: inherit;"><strong style="font-size: 0.7em; text-decoration: underline;">*Working Draft*</strong></a><br> 
   
-  Cross-Lingual Stance Detection in Political Texts: Comparison and Application. (with Stefan Müller)<br>
+  Cross-Lingual Stance Detection in Political Texts: Comparison and Application. (with <a href="https://muellerstefan.net" style="color: #9ab8b8;">Stefan Müller</a>)<br>
 
-  <u>__LLMs · Multi-Agent Systems · Synthetic Agentic Actors__</u> <br>  
+</ol>
 
-  AI Survey Respondents as Measurement Instruments: A Pre-Registered Total Survey Error Framework. (with Linette Lim and Slava Jankin) <strong style="font-size: 0.7em; text-decoration: underline;">Under review</strong><br>  
+<ul>
+
+  <u>__(2) LLMs · Multi-Agent Systems · Agentic Actors__</u> <br>  
+
+  AI Survey Respondents as Measurement Instruments: A Pre-Registered Total Survey Error Framework. (with  <a href="https://linettemlim.github.io" style="color: #9ab8b8;">Linette Lim</a> and <a href="https://sjankin.com" style="color: #9ab8b8;">Slava Jankin</a>) <strong style="font-size: 0.7em; text-decoration: underline;">Under review</strong><br>  
   
-  Multi-Agent LLM Systems for Synthetic Survey Experiments in Ethically Constrained Settings. (with <a href="https://linettemlim.github.io" style="color: #497272;">Linette Lim</a> and <a href="https://sjankin.com" style="color: #9ab8b8;">Slava Jankin</a>)<br>
+  Multi-Agent LLM Systems for Synthetic Survey Experiments in Ethically Constrained Settings. (with <a href="https://linettemlim.github.io" style="color: #9ab8b8;">Linette Lim</a> and <a href="https://sjankin.com" style="color: #9ab8b8;">Slava Jankin</a>)<br>
 
-  Game-Theoretic Multi-Agent Systems with LLMs for Crisis Negotiation and Simulation. (with <a href="" style="color: #9ab8b8;">Shuli Zhang</a>)<br>
+  Game-Theoretic Multi-Agent Systems with LLMs for Crisis Negotiation and Simulation. (with <a href="https://alexanderszhang.com" style="color: #9ab8b8;">Shuli Zhang</a>)<br>
 
 </ul>
 
@@ -79,7 +83,7 @@
 
 ## Peer-Reviewed Publication 
 <ol>
-  2026 Electoral Systems and Geographically-Targeted Oversight: Evidence from Taiwan Legislative Yuan. <em>Electoral Studies</em>. 99: 103026. (with Li Tang)<br>
+  2026 Electoral Systems and Geographically-Targeted Oversight: Evidence from Taiwan Legislative Yuan. <em>Electoral Studies</em>. 99: 103026. (with <a href="https://litangmacro.github.io" style="color: #9ab8b8;">Li Tang</a>)<br>
 
   2025 官僚「再詮釋」領導人意識形態初探：以《人民日報》習近平外交思想的評論為例 Bureaucratic "Re-interpretation" of Leadership Ideology: A Preliminary Study of Commentaries on Xi Jinping's Diplomatic Thought in People's Daily. <em>中國大陸研究 Mainland China Studies</em>. (with <a href="https://www.ipsas.sinica.edu.tw/wp-content/uploads/2023/03/%E8%94%A1%E5%84%80%E5%84%82CV_202303-1-1.pdf" style="color: #9ab8b8;">Yi-Nong Tsai</a>) (in Chinese) <br>
 
@@ -87,7 +91,7 @@
 
   2024 Electoral Reform and Fragmented Polarization: New Evidence from Taiwan Legislative Roll Call. <em>Legislative Studies Quarterly</em>. 50 (1): 3-21. <br>
 
-  2024 (<em>Mis</em>)perception of Party-voter Congruence and Satisfaction with Democracy. <em>Political Science Research and Methods</em>. 13 (5): 885-902. (with <a href="#" style="color: #9ab8b8;">Royce Carroll</a> and <a href="https://sites.google.com/view/litang2020" style="color: #9ab8b8;">Li Tang</a>) <br>
+  2024 (<em>Mis</em>)perception of Party-voter Congruence and Satisfaction with Democracy. <em>Political Science Research and Methods</em>. 13 (5): 885-902. (with <a href="#" style="color: #9ab8b8;">Royce Carroll</a> and <a href="https://litangmacro.github.io" style="color: #9ab8b8;">Li Tang</a>) <br>
   
   2023 The Role of Rituals in Adversarial Parliaments: An Analysis of Expressions of Collegiality in the British House of Commons. (Invited Contribution) <em>Historical Social Research</em>. 48 (3): 209-234. (with <a href="https://www.uni-bamberg.de/comparpol/lehrstuhlteam/david-beck/" style="color: #9ab8b8;">David Beck</a> and <a href="https://www.uni-bamberg.de/vp-forschung/" style="color: #9ab8b8;">Thomas Saalfeld</a>)<br>
   

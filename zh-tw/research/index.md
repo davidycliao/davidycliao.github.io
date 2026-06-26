@@ -12,12 +12,11 @@
 
 <ul>
 
-  Folk Theories about Political Conflict. (with Slava Jankin and Li Tang)<br>
+  Folk Theories about Political Conflict. (with <a href="https://sjankin.com" style="color: #9ab8b8;">Slava Jankin</a> and <a href="https://litangmacro.github.io" style="color: #9ab8b8;">Li Tang</a>)<br>
 
-  How Do 100+ LLMs Differ Politically? A Multi-Agent Approach to Measuring AI Ideology. (with <a href="https://sites.google.com/view/drtingluo/home" style="color: #9ab8b8;">Ting Luo</a> and Slava Jankin)<br>
+  How Do 100+ LLMs Differ Politically? A Multi-Agent Approach to Measuring AI Ideology. (with <a href="https://sites.google.com/view/drtingluo/home" style="color: #9ab8b8;">Ting Luo</a> and <a href="https://sjankin.com" style="color: #9ab8b8;">Slava Jankin</a>)<br>
 
-  The Rural-Urban Divide in Populist Rhetoric: Cross-National Evidence from European Parliaments. (with <a href="https://eavigano.github.io" style="color: #9ab8b8;">Edoardo Viganò</a>)
-
+  The Rural-Urban Divide in Populist Rhetoric: Cross-National Evidence from European Parliaments. (with <a href="https://eavigano.github.io" style="color: #9ab8b8;">Edoardo Viganò</a>)<br>
 
 </ul>
 
@@ -35,23 +34,21 @@
 
   Electoral Reform and Issue Attention in Legislative Oversight: From SNTV to Mixed-Member Majoritarian System in Taiwan. (with <a href="https://sites.google.com/view/calvin-yuceng-liao/home" style="color: #9ab8b8;">Yu-Ceng Liao</a> and <a href="https://yitingw.com" style="color: #9ab8b8;">Yi-ting Wang</a>) <strong style="font-size: 0.7em; text-decoration: underline;">*R&R at Electoral Studies*</strong><br>  
 
-  Knocking on the Wrong Door: Partisan Canvassing and Asymmetric Belief Updating in Britain. (with Li Tang)  <a href="https://www.dropbox.com/scl/fi/g06t09yxv2rr6jhyq43cj/Canvassing_and_misperception.pdf?rlkey=h8gcnllltoqcntvot8fmew0rz&st=jxcxu9zr&dl=0" target="_blank" style="color: inherit;"><strong style="font-size: 0.7em; text-decoration: underline;">*Working Draft*</strong></a><br> 
+  Knocking on the Wrong Door: Partisan Canvassing and Asymmetric Belief Updating in Britain. (with <a href="https://litangmacro.github.io" style="color: #9ab8b8;">Li Tang</a>)  <a href="https://www.dropbox.com/scl/fi/g06t09yxv2rr6jhyq43cj/Canvassing_and_misperception.pdf?rlkey=h8gcnllltoqcntvot8fmew0rz&st=jxcxu9zr&dl=0" target="_blank" style="color: inherit;"><strong style="font-size: 0.7em; text-decoration: underline;">*Working Draft*</strong></a><br> 
   
-  Cross-Lingual Stance Detection in Political Texts: Comparison and Application. (with Stefan Müller)<br>
-
+  Cross-Lingual Stance Detection in Political Texts: Comparison and Application. (with <a href="https://muellerstefan.net" style="color: #9ab8b8;">Stefan Müller</a>)<br>
 
 </ol>
 
 <ul>
 
   <u>(2) 大型語言模型・多智能體MAS・模擬政治行為者</u>
-
-
-  AI Survey Respondents as Measurement Instruments: A Pre-Registered Total Survey Error Framework. (with Linette Lim and Slava Jankin) <strong style="font-size: 0.7em; text-decoration: underline;">Under review</strong><br>  
+  
+  AI Survey Respondents as Measurement Instruments: A Pre-Registered Total Survey Error Framework. (with  <a href="https://linettemlim.github.io" style="color: #9ab8b8;">Linette Lim</a> and <a href="https://sjankin.com" style="color: #9ab8b8;">Slava Jankin</a>) <strong style="font-size: 0.7em; text-decoration: underline;">Under review</strong><br>  
   
   Multi-Agent LLM Systems for Synthetic Survey Experiments in Ethically Constrained Settings. (with <a href="https://linettemlim.github.io" style="color: #9ab8b8;">Linette Lim</a> and <a href="https://sjankin.com" style="color: #9ab8b8;">Slava Jankin</a>)<br>
 
-  Game-Theoretic Multi-Agent Systems with LLMs for Crisis Negotiation and Simulation. (with <a href="" style="color: #9ab8b8;">Shuli Zhang</a>)<br>
+  Game-Theoretic Multi-Agent Systems with LLMs for Crisis Negotiation and Simulation. (with <a href="https://alexanderszhang.com" style="color: #9ab8b8;">Shuli Zhang</a>)<br>
 
 </ul>
 
