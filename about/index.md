@@ -3,37 +3,33 @@
 
 <div style="text-align: justify">
 
-I am a Research Fellow in Natural Language Processing at 
-<a href="https://www.birmingham.ac.uk/research/centres-institutes/centre-for-artificial-intelligence-in-government" style="color:#778899; text-decoration: underline;" target="_blank">the Centre for Artificial Intelligence in Government (CAIG)</a>, 
-<a href="https://www.birmingham.ac.uk/about/college-of-social-sciences/school-of-government/our-research-government" style="color:#778899; text-decoration: underline;" target="_blank">the School of Government</a>, 
-and an Affiliate Fellow at 
-<a href="https://www.birmingham.ac.uk/research/centres-institutes/data-and-ai" style="color:#778899; text-decoration: underline;" target="_blank">the Institute for Data and AI (IDAI)</a>, 
-University of Birmingham. Friends and colleagues may also know me as David Liao. Prior to this, I was a doctoral researcher at the Chair of Comparative Politics, Universität Bamberg (2021–2022), before joining University College Dublin as a Postdoctoral Researcher (2023–2024).
+I am a Research Fellow at <a href="https://www.birmingham.ac.uk/research/centres-institutes/centre-for-artificial-intelligence-in-government" style="color:#778899; text-decoration: underline;" target="_blank">the Centre for Artificial Intelligence in Government (CAIG)</a>, <a href="https://www.birmingham.ac.uk/about/college-of-social-sciences/school-of-government/our-research-government" style="color:#778899; text-decoration: underline;" target="_blank">the School of Government</a>, and an Affiliate Fellow at <a href="https://www.birmingham.ac.uk/research/centres-institutes/data-and-ai" style="color:#778899; text-decoration: underline;" target="_blank">the Institute for Data and AI (IDAI)</a>, University of Birmingham. Friends and colleagues may also know me as David Liao. Before this, I was a doctoral researcher at the Chair of Comparative Politics, Universität Bamberg (2021–2022), and a Postdoctoral Researcher at University College Dublin (2023–2024).
 
-I received my PhD in Politics from the University of Essex in 2023, and my BA and MA in Public Administration and Policy from National Taipei University. My substantive research focuses on legislative behaviour and comparative political institutions, with particular emphasis on Taiwan and East Asian politics. Methodologically, I use quantitative and computational approaches to study the ideological preferences and political stances of political elites, drawing on ideal point estimation from legislative voting, survey data analysis, and computational text analysis. Through these methods, I examine how elites position themselves through narratives and voting behaviour, and how such positioning shapes legislative behaviour and public attitudes.
 
-At Birmingham, I work with 
-<a href="https://www.birmingham.ac.uk/research/centres-institutes/centre-for-artificial-intelligence-in-government" style="color:#778899; text-decoration: underline;" target="_blank">CAIG</a>, 
-<a href="https://www.birmingham.ac.uk/research/centres-institutes/data-and-ai" style="color:#778899; text-decoration: underline;" target="_blank">IDAI</a>, 
-and the 
-<a href="https://sites.google.com/view/litang2020" style="color:#778899; text-decoration: underline;" target="_blank">Department of Economics</a>, 
-in collaboration with scholars at University College Dublin, Universidad Carlos III de Madrid, and institutions in Taiwan. My current work is organised around two related research themes.
+I completed my PhD in Politics at the University of Essex in 2023. My dissertation examined how Taiwan's electoral system shapes the way legislators represent voters; it was supervised by <a href="https://nicolebaerg.com" style="color:#778899; text-decoration: underline;" target="_blank">Nicole Baerg</a>, <a  href="https://www.uh.edu/class/political-science/faculty-and-staff/professors/carroll/" style="color:#778899; text-decoration: underline;" target="_blank"> Royce Carroll</a>, and  <a href="https://amatsuo.net" style="color:#778899; text-decoration: underline;" target="_blank">Akitaka Matsuo</a>, and funded by the Taiwan Government Scholarship for Study Abroad (legislative and comparative politics, 2017-2021) and the Taiwanese Overseas Pioneers Grant (TOP Grant, 2022-2023).
 
-__<p style="margin-left: 1.5em;">(1) Misperception · Causal Beliefs & Narratives · Behaviour</p>__
 
+My research centres on legislative behaviour and comparative political institutions, with a particular focus on Taiwan and East Asia. I use quantitative and computational methods to study where political elites stand ideologically — estimating ideal points from legislative voting, analysing survey data, and drawing on computational text analysis. What runs through all of this is how elites stake out their positions through the narratives they tell and the votes they cast, and how that shapes both legislation and public opinion.
+
+
+At Birmingham, I also work with the <a href="https://sites.google.com/view/litang2020" style="color:#778899; text-decoration: underline;" target="_blank">Department of Economics</a>, alongside collaborators at University College Dublin, Universidad Carlos III de Madrid, and institutions in Taiwan. Building on this, my current work turns from how elites position themselves to how citizens make sense of political conflict — and, increasingly, to how AI systems can model both. It follows two related themes.
+
+<p style="margin-left: 1.5em;">(1) Misperception · Causal Beliefs & Narratives · Behaviour</p>
 <p style="margin-left: 1.5em;">
-The first theme examines how ordinary citizens construct causal explanations for democratic conflict — including why partisan hostility has risen and why anti-establishment movements have gained traction. Drawing on survey experiments and NLP-based text analysis, I test whether these folk causal theories predict affective polarization, tolerance of democratic norm violations, and support for anti-establishment and populist parties, net of party identity and demographics.
+The first asks how ordinary citizens explain democratic conflict to themselves — why partisan hostility has risen, why anti-establishment movements have caught on. Using survey experiments and NLP-based text analysis, I test whether these folk explanations predict affective polarization, tolerance of democratic norm violations, and support for populist parties, over and above party identity and demographics.
 </p>
 
 <p style="margin-left: 1.5em;">
-A related strand investigates how political elites strategically deploy populist rhetoric across geographically distinct constituencies, combining natural language analysis with experimental designs to examine the link between elite issue selection and voter mobilization.
+A related strand looks at how elites tailor populist rhetoric to different constituencies, pairing text analysis with experiments to trace the link between the issues they pick and the voters they mobilise.
 </p>
 
-__<p style="margin-left: 1.5em;">(2) LLMs · Multi-Agent Systems · Synthetic Actors</p>__
-
+<p style="margin-left: 1.5em;">(2) LLMs · Multi-Agent Systems · Synthetic Actors</p>
 <p style="margin-left: 1.5em;">
-The second theme uses multi-agent large language model systems to simulate political behaviour, spanning AI-respondent survey experiments, computational models of elite deliberation, and the systematic measurement of political orientations and ideological variation across AI systems.
+The second uses multi-agent large language model systems to simulate political behaviour — running survey experiments on AI respondents, modelling elite deliberation, and measuring how political orientations and ideology vary across AI systems.
+
 </p>
+
+
 
 I split my time between Colchester, London, and Birmingham. This year, I plan to attend the Soochow University Legislative Studies Workshop in Taipei, PolMeth Europe at Trinity College Dublin, EPSS in Belfast, the PolMeth Summer Meeting at Michigan State University, and APSA in Boston. If you are attending any of these conferences, or happen to be in one of these cities, feel free to reach out. I would be very happy to grab a coffee or a beer.
 

@@ -29,13 +29,12 @@
 
   How Do 100+ LLMs Differ Politically? A Multi-Agent Approach to Measuring AI Ideology. (with <a href="https://sites.google.com/view/drtingluo/home" style="color: #9ab8b8;">Ting Luo</a> and Slava Jankin)<br>
 
-  The Rural-Urban Divide in Populist Rhetoric: Cross-National Evidence from European Parliaments. (with <a href="https://eavigano.github.io" style="color: #9ab8b8;">Edoardo Viganò</a>)
+  The Rural-Urban Divide in Populist Rhetoric: Cross-National Evidence from European Parliaments. (with <a href="https://eavigano.github.io" style="color: #9ab8b8;">Edoardo Viganò</a>)<br>
 
 
 </ul>
 
 </div>
-
 
 
 <div style="text-align: justify">
@@ -45,29 +44,20 @@
 
 <ol>
 
-  <u>(1) Misperception · Causal Beliefs · Behaviour</u> <br>  
-
+  <u>__Misperception · Causal Beliefs · Behaviour__</u> <br>  
   Electoral Reform and Issue Attention in Legislative Oversight: From SNTV to Mixed-Member Majoritarian System in Taiwan. (with <a href="https://sites.google.com/view/calvin-yuceng-liao/home" style="color: #9ab8b8;">Yu-Ceng Liao</a> and <a href="https://yitingw.com" style="color: #9ab8b8;">Yi-ting Wang</a>) <strong style="font-size: 0.7em; text-decoration: underline;">*R&R at Electoral Studies*</strong><br>  
 
   Knocking on the Wrong Door: Partisan Canvassing and Asymmetric Belief Updating in Britain. (with Li Tang)  <a href="https://www.dropbox.com/scl/fi/g06t09yxv2rr6jhyq43cj/Canvassing_and_misperception.pdf?rlkey=h8gcnllltoqcntvot8fmew0rz&st=jxcxu9zr&dl=0" target="_blank" style="color: inherit;"><strong style="font-size: 0.7em; text-decoration: underline;">*Working Draft*</strong></a><br> 
   
   Cross-Lingual Stance Detection in Political Texts: Comparison and Application. (with Stefan Müller)<br>
 
-
-    
-</ol>
-
-<ul>
-
-  <u>(2) LLMs · Multi-Agent Systems · Synthetic Agentic Actors</u> <br>  
+  <u>__LLMs · Multi-Agent Systems · Synthetic Agentic Actors__</u> <br>  
 
   AI Survey Respondents as Measurement Instruments: A Pre-Registered Total Survey Error Framework. (with Linette Lim and Slava Jankin) <strong style="font-size: 0.7em; text-decoration: underline;">Under review</strong><br>  
   
-  Multi-Agent LLM Systems for Synthetic Survey Experiments in Ethically Constrained Settings. (with <a href="https://linettemlim.github.io" style="color: #9ab8b8;">Linette Lim</a> and <a href="https://sjankin.com" style="color: #9ab8b8;">Slava Jankin</a>)<br>
+  Multi-Agent LLM Systems for Synthetic Survey Experiments in Ethically Constrained Settings. (with <a href="https://linettemlim.github.io" style="color: #497272;">Linette Lim</a> and <a href="https://sjankin.com" style="color: #9ab8b8;">Slava Jankin</a>)<br>
 
   Game-Theoretic Multi-Agent Systems with LLMs for Crisis Negotiation and Simulation. (with <a href="" style="color: #9ab8b8;">Shuli Zhang</a>)<br>
-
-
 
 </ul>
 
