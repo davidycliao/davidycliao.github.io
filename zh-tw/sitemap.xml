@@ -2,6 +2,42 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>https://davidycliao.github.io/zh-tw/supervision/</loc><lastmod>2026-07-03T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://davidycliao.github.io/supervision/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-tw"
+                    href="https://davidycliao.github.io/zh-tw/supervision/"
+                    /></url><url>
+            <loc>https://davidycliao.github.io/zh-tw/teaching/</loc><lastmod>2026-07-03T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://davidycliao.github.io/teaching/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-tw"
+                    href="https://davidycliao.github.io/zh-tw/teaching/"
+                    /></url><url>
+            <loc>https://davidycliao.github.io/zh-tw/</loc><lastmod>2026-07-03T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://davidycliao.github.io/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-tw"
+                    href="https://davidycliao.github.io/zh-tw/"
+                    /></url><url>
+            <loc>https://davidycliao.github.io/zh-tw/about/</loc><lastmod>2026-07-03T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://davidycliao.github.io/about/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-tw"
+                    href="https://davidycliao.github.io/zh-tw/about/"
+                    /></url><url>
             <loc>https://davidycliao.github.io/zh-tw/research/</loc><lastmod>2020-09-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
@@ -19,33 +55,6 @@
                     rel="alternate"
                     hreflang="zh-tw"
                     href="https://davidycliao.github.io/zh-tw/software/"
-                    /></url><url>
-            <loc>https://davidycliao.github.io/zh-tw/</loc><lastmod>2020-09-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://davidycliao.github.io/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-tw"
-                    href="https://davidycliao.github.io/zh-tw/"
-                    /></url><url>
-            <loc>https://davidycliao.github.io/zh-tw/about/</loc><lastmod>2020-09-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://davidycliao.github.io/about/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-tw"
-                    href="https://davidycliao.github.io/zh-tw/about/"
-                    /></url><url>
-            <loc>https://davidycliao.github.io/zh-tw/teaching/</loc><lastmod>2020-04-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://davidycliao.github.io/teaching/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-tw"
-                    href="https://davidycliao.github.io/zh-tw/teaching/"
                     /></url><url>
             <loc>https://davidycliao.github.io/zh-tw/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"

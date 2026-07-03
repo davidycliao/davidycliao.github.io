@@ -1,28 +1,24 @@
 # 教學
 
-
 <br/><br/>
-
 <div style="text-align: justify">
+
+### 國立臺灣大學
+
+**2026 秋季** — 東亞比較立法政治專題
+
+**2026 秋季** — 文本作為資料：社會科學研究的計算方法
 
 <br/>
 
-### 課程講授與教學助理
 
-<div style="text-align: justify">
+### Workshops and Lectures
 
-__2024__ 客座講師：詞向量與 Transformer 模組 — _都柏林大學學院（UCD）量化文本分析研究所課程_（課程主持：<a href="https://muellerstefan.net" style="color:#778899; text-decoration: underline;" target="_blank">Stefan Müller</a>）[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/davidycliao/guess-lecturing)
+**2025** — Data Analysis and Applications with the legisTaiwan R Package. *Taipei R-Ladies* [![Slide Notes](https://img.shields.io/badge/Slide%20Notes-000000?logo=googledocs&logoColor=white)](https://raw.githack.com/davidycliao/r-ladies-tpe-legistaiwan/main/r-ladies.pdf) [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/davidycliao/r-ladies-tpe-legistaiwan?tab=readme-ov-file)
 
-<br/>
+**2024** — Guest Lecturer on Word Embeddings and Transformers — *Postgraduate Course in Quantitative Text Analysis, University College Dublin* (led by <a href="https://muellerstefan.net" style="color:#778899; text-decoration: underline;" target="_blank">Stefan Müller</a>) [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/davidycliao/guess-lecturing)
 
-### 工作坊
+**2024** — Introduction to High-Performance Computing with SLURM — *SPIRe PhD Workshop, University College Dublin*
 
-<div style="text-align: justify">
-
-__2025__ legisTaiwan R 套件的資料分析與應用。_台北 R-Ladies_ [![Slide Notes](https://img.shields.io/badge/Slide%20Notes-000000?logo=googledocs&logoColor=white)](https://raw.githack.com/davidycliao/r-ladies-tpe-legistaiwan/main/r-ladies.pdf) [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/davidycliao/r-ladies-tpe-legistaiwan?tab=readme-ov-file)
-
-__2024__ 高效能計算與 SLURM 入門 — _都柏林大學學院 SPIRe 博士生工作坊_
-
-</div>
 </div>
 
