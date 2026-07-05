@@ -1,6 +1,21 @@
 <!DOCTYPE html>
 <html lang="zh-TW">
-    <head>
+    <head><script type="text/javascript">
+        (function () {
+            try {
+                var KEY = 'langChosen';
+                if (window.localStorage && localStorage.getItem(KEY)) { return; }
+                if (window.localStorage) { localStorage.setItem(KEY, '1'); }
+                var path = window.location.pathname || '/';
+                if (path.indexOf('/zh-tw') === 0) { return; }
+                var lang = (navigator.language || navigator.userLanguage || '').toLowerCase();
+                if (lang.indexOf('zh') === 0) {
+                    window.location.replace('/zh-tw' + path + window.location.search + window.location.hash);
+                }
+            } catch (e) {}
+        })();
+        </script>
+
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="robots" content="noodp" />
@@ -29,7 +44,7 @@
             <a href="/zh-tw/" title="廖彥傑">廖彥傑</a>
         </div>
         <div class="menu">
-            <div class="menu-inner"><a class="menu-item" href="/zh-tw/about/"> 關於 </a><a class="menu-item" href="/zh-tw/research/"> 研究 </a><a class="menu-item" href="/zh-tw/software/"> 程式碼 </a><a class="menu-item" href="/zh-tw/teaching/"> 教學 </a><a class="menu-item" href="/zh-tw/supervision/"> 指導 </a><a class="menu-item" href="https://raw.githack.com/davidycliao/cv_show/main/CV.pdf" rel="noopener noreffer" target="_blank"> 履歷 </a><a class="menu-item" href="https://github.com/davidycliao" title="GitHub" rel="noopener noreffer" target="_blank"><i class='fab fa-github fa-fw'></i>  </a><span class="menu-item delimiter"></span><a href="javascript:void(0);" class="menu-item language" title="選擇語言">台灣正體<i class="fas fa-chevron-right fa-fw"></i>
+            <div class="menu-inner"><a class="menu-item" href="/zh-tw/about/"> 關於 </a><a class="menu-item" href="/zh-tw/research/"> 研究 </a><a class="menu-item" href="/zh-tw/software/"> 程式碼 </a><a class="menu-item" href="/zh-tw/teaching/"> 教學 </a><a class="menu-item" href="https://raw.githack.com/davidycliao/cv_show/main/CV.pdf" rel="noopener noreffer" target="_blank"> 履歷 </a><a class="menu-item" href="https://github.com/davidycliao" title="GitHub" rel="noopener noreffer" target="_blank"><i class='fab fa-github fa-fw'></i>  </a><span class="menu-item delimiter"></span><a href="javascript:void(0);" class="menu-item language" title="選擇語言">台灣正體<i class="fas fa-chevron-right fa-fw"></i>
                         <select class="language-select" id="language-select-desktop" onchange="location = this.value;"><option value="/tags/">English</option><option value="/zh-tw/tags/" selected>台灣正體</option></select>
                     </a><a href="javascript:void(0);" class="menu-item theme-switch" title="切換主題">
                     <i class="fas fa-adjust fa-fw"></i>
@@ -47,7 +62,7 @@
                 <span></span><span></span><span></span>
             </div>
         </div>
-        <div class="menu" id="menu-mobile"><a class="menu-item" href="/zh-tw/about/" title="">關於</a><a class="menu-item" href="/zh-tw/research/" title="">研究</a><a class="menu-item" href="/zh-tw/software/" title="">程式碼</a><a class="menu-item" href="/zh-tw/teaching/" title="">教學</a><a class="menu-item" href="/zh-tw/supervision/" title="">指導</a><a class="menu-item" href="https://raw.githack.com/davidycliao/cv_show/main/CV.pdf" title="" rel="noopener noreffer" target="_blank">履歷</a><a class="menu-item" href="https://github.com/davidycliao" title="GitHub" rel="noopener noreffer" target="_blank"><i class='fab fa-github fa-fw'></i></a><a href="javascript:void(0);" class="menu-item theme-switch" title="切換主題">
+        <div class="menu" id="menu-mobile"><a class="menu-item" href="/zh-tw/about/" title="">關於</a><a class="menu-item" href="/zh-tw/research/" title="">研究</a><a class="menu-item" href="/zh-tw/software/" title="">程式碼</a><a class="menu-item" href="/zh-tw/teaching/" title="">教學</a><a class="menu-item" href="https://raw.githack.com/davidycliao/cv_show/main/CV.pdf" title="" rel="noopener noreffer" target="_blank">履歷</a><a class="menu-item" href="https://github.com/davidycliao" title="GitHub" rel="noopener noreffer" target="_blank"><i class='fab fa-github fa-fw'></i></a><a href="javascript:void(0);" class="menu-item theme-switch" title="切換主題">
                 <i class="fas fa-adjust fa-fw"></i>
             </a><a href="javascript:void(0);" class="menu-item" title="選擇語言">台灣正體<i class="fas fa-chevron-right fa-fw"></i>
                     <select class="language-select" onchange="location = this.value;"><option value="/tags/">English</option><option value="/zh-tw/tags/" selected>台灣正體</option></select>
@@ -65,7 +80,7 @@
             </main><footer class="footer">
         <div class="footer-container"><div class="footer-line">Powered by <a href="https://gohugo.io/" target="_blank" rel="noopener noreffer" title="Hugo 0.152.2">Hugo</a> | Theme - <a href="https://github.com/dillonzq/LoveIt" target="_blank" rel="noopener noreffer" title="LoveIt 0.2.10"><i class="far fa-kiss-wink-heart fa-fw"></i> LoveIt</a>
                 </div><div class="footer-line"><i class="far fa-copyright fa-fw"></i><span itemprop="copyrightYear">2026</span><span class="author" itemprop="copyrightHolder">&nbsp;<a href="https://www.birmingham.ac.uk/staff/profiles/gov/liao-yen-chieh" target="_blank">廖彥傑</a></span><span class="icp-splitter">&nbsp;|&nbsp;</span><br class="icp-br"/>
-                    <span class="icp">Colchester, UK - Taipei + Taroko, TW 🇹🇼</span></div>
+                    <span class="icp">Colchester, 🏴󠁧󠁢󠁥󠁮󠁧󠁿 - Taipei + Taroko, TW 🇹🇼</span></div>
         </div>
     </footer></div>
 
