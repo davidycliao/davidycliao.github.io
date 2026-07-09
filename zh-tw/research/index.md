@@ -8,7 +8,7 @@
    
 <div style="text-align: justify">
 
-## 正在進行中的項目
+#### 正在進行中的項目
 
 <ul>
 
@@ -26,7 +26,7 @@
 
 <div style="text-align: justify">
 
-## 近期已完成研究初稿
+#### 近期已完成研究初稿
 
 <ol>
 
@@ -46,7 +46,9 @@
   
   AI Survey Respondents as Measurement Instruments: A Pre-Registered Total Survey Error Framework. (with  <a href="https://linettemlim.github.io" style="color: #9ab8b8;">Linette Lim</a> and <a href="https://sjankin.com" style="color: #9ab8b8;">Slava Jankin</a>) <strong style="font-size: 0.7em; text-decoration: underline;">Under review</strong><br>  
   
-  Multi-Agent LLM Systems for Synthetic Survey Experiments in Ethically Constrained Settings. (with <a href="https://linettemlim.github.io" style="color: #9ab8b8;">Linette Lim</a> and <a href="https://sjankin.com" style="color: #9ab8b8;">Slava Jankin</a>)<br>
+  Multi-Agent LLM Systems for Synthetic Survey Experiments in Ethically Constrained Settings. (with <a href="https://linettemlim.github.io" style="color: #9ab8b8;">Linette Lim</a> and <a href="https://sjankin.com" style="color: #9ab8b8;">Slava Jankin</a>) <a href="https://www.dropbox.com/scl/fi/pnpv3t1dqji7qxnuoihqx/Multi_Agent_Systems_with_LLMs.pdf?rlkey=du7hl5mainlk6lp0a0ki6b5f0&dl=0
+" target="_blank" style="color: inherit;"><strong style="font-size: 0.7em; text-decoration: underline;">*Working Draft*</strong></a><br> 
+  
 
   Game-Theoretic Multi-Agent Systems with LLMs for Crisis Negotiation and Simulation. (with <a href="https://alexanderszhang.com" style="color: #9ab8b8;">Shuli Zhang</a>)<br>
 
@@ -59,7 +61,7 @@
 
 <div style="text-align: justify">
 
-## 即將或已出版期刊論文
+#### 即將或已出版期刊論文
 
 <ol>
   <li>
