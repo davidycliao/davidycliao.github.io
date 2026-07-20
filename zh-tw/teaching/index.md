@@ -8,7 +8,7 @@
 
 **2026** — 東亞比較立法政治專題 (秋季)
 
-**2026** — 文本作為資料：社會科學研究的計算方 (秋季)
+**2026** — Text as Data: Computational Methods for Social Science Research 文本作為資料：社會科學研究的計算方 (秋季 英語授課)
 
 ---
 
