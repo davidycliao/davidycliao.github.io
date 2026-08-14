@@ -19,10 +19,12 @@
 
 </div>
 
+<p style="text-align: center;"><strong>正在進行中的項目</strong></p>
+
 
 <ul>
 
-__正在進行中的項目__
+
 
   Folk Theories about Political Conflict. (with <a href="https://sjankin.com" style="color: #9ab8b8;">Slava Jankin</a> and <a href="https://litangmacro.github.io" style="color: #9ab8b8;">Li Tang</a>)<br>
 
@@ -41,10 +43,10 @@ __正在進行中的項目__
 
 <div style="text-align: justify">
 
+<p style="text-align: center;"><strong>研究初稿</strong></p>
+
 
 <ol>
-
-__研究初稿__
 
 
   <u>(1) 誤判政黨位置・因果信念・立法與政治行為</u>
@@ -78,9 +80,10 @@ __研究初稿__
 
 <div style="text-align: justify">
 
+<p style="text-align: center;"><strong>即將或已出版期刊論文</strong></p>
+
 <ul>
 
-__即將或已出版期刊論文__
 
   2026 Electoral Systems and Geographically-Targeted Oversight: Evidence from Taiwan Legislative Yuan. <em>Electoral Studies</em>. 99: 103026. (with Li Tang)  <strong style="font-size: 0.7em; text-decoration: underline;">SSCI 期刊</strong>
 
