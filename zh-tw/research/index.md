@@ -18,7 +18,7 @@
 
   <!-- The Rural-Urban Divide in Populist Rhetoric (with <a href="https://eavigano.github.io" style="color: #9ab8b8;">Edoardo Viganò</a> and <a href="https://eavigano.github.io" style="color: #9ab8b8;">Edoardo Viganò</a>)<br> -->
 
-    The Rural-Urban Divide in Populist Rhetoric (with <a href="https://eavigano.github.io" style="color: #9ab8b8;">Edoardo Viganò</a> and <a href="https://www.javiermcanto.es" style="color: #9ab8b8;">   Javier Martínez‑Cantó</a>)<br>
+  The Rural-Urban Divide in Populist Rhetoric (with <a href="https://eavigano.github.io" style="color: #9ab8b8;">Edoardo Viganò</a> and <a href="https://www.javiermcanto.es" style="color: #9ab8b8;">Javier Martínez‑Cantó</a>)<br>
 
 
 </ul>
