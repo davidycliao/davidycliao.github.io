@@ -3,7 +3,30 @@
 <br/><br/>
 <div style="text-align: justify">
 
-I am a computational political scientist and will join the Graduate Institute of National Development at National Taiwan University as an Assistant Professor in the Division of China and East Asian Studies in August 2026. My work bridges political science and data science to study electoral behaviour and legislative politics, with a substantive focus on Taiwan and East Asia more broadly. Previously, I held postdoctoral fellowships at the University of Birmingham and University College Dublin, and completed my PhD in Politics at the Department of Government, University of Essex, in 2023.
+<p>I am a computational political scientist and Assistant Professor at the Graduate Institute of National Development, National Taiwan University, where I am affiliated with the Division of China and East Asian Studies. My work bridges political science and data science to study electoral behaviour and legislative politics, with a substantive focus on Taiwan and East Asia more broadly. Previously, I held postdoctoral fellowships at the University of Birmingham and University College Dublin, and completed my PhD in Politics at the Department of Government, University of Essex, in 2023. I am currently a non-resident affiliated member of the <a href="https://politics-and-data.com" style="color: #9ab8b8;">Politics and Data Research Group</a> at University College Dublin and the <a href="https://www.birmingham.ac.uk/research/centres-institutes/centre-for-artificial-intelligence-in-government" style="color: #9ab8b8;">Centre for Artificial Intelligence in Government</a> at the University of Birmingham.</p>
+
+
+<p>My current research examines how people and institutions make sense of political information, and how those interpretations shape representation, belief updating, and democratic governance. My work is anchored in the comparative study of East Asian politics, particularly Taiwan, while also drawing on cases from the UK, the US, and continental Europe. I use legislative data, survey experiments, and text-as-data methods. With these tools, I study how electoral systems shape legislative behaviour and why citizens come to misperceive politics. I also examine large language models and other AI systems, both as political actors and as instruments of measurement.</p>
+
+
+<p>If you are attending APSA in Boston this year, visiting Taipei or Hualien (Taroko), or just passing through Taiwan after the summer, please feel free to reach out. I would be very happy to grab a coffee or a beer.</p>
+
+
+<!-- 
+
+I am a computational political scientist and will join the Graduate Institute of National Development at National Taiwan University as an Assistant Professor in the Division of China and East Asian Studies in August 2026. My work bridges political science and data science to study electoral behaviour and legislative politics, with a substantive focus on Taiwan and East Asia more broadly. Previously, I held postdoctoral fellowships at the University of Birmingham and University College Dublin, and completed my PhD in Politics at the Department of Government, University of Essex, in 2023. I am currentet non resident affliated member of Politics and Data Research Group
+
+<a href="https://politics-and-data.com" style="color: #9ab8b8;"> Politics and Data Research Group</a> based in  University College Dublin and   <a href="h[ttps://politics-and-data.com](https://www.birmingham.ac.uk/research/centres-institutes/centre-for-artificial-intelligence-in-government)" style="color: #9ab8b8;"> the Centre for Artificial Intelligence in Government </a> in Univerisity of Birmingham in the UK. 
+
+
+
+
+
+My current research examines how people and institutions make sense of political information, and how those interpretations shape representation, belief updating, and democratic governance. Anchored in the comparative study of East Asian politics, particularly Taiwan, but drawing on cases from the UK, the US, and continental Europe, I use legislative data, survey experiments, and text-as-data methods to study how electoral systems shape legislative behaviour and why citizens come to misperceive politics. I also examine large language models and other AI systems both as political actors and as instruments of measurement.
+If you are attending APSA in Boston this year, visiting Taipei or Hualien (Taroko), or just passing through Taiwan after the summer, please feel free to reach out. I would be very happy to grab a coffee or a beer.
+ -->
+
+
 
 
 
@@ -16,10 +39,6 @@ I am a computational political scientist and will join the Graduate Institute of
 
 
 If you are attending APSA in Boston this year, visiting Taipei or Hualien (Taroko), or just happen to be in Taiwan after the summer, please feel free to reach out. I would be very happy to grab a coffee or a beer. -->
-
-
-My current research examines how people and institutions make sense of political information, and how those interpretations shape representation, belief updating, and democratic governance. Anchored in the comparative study of East Asian politics, particularly Taiwan, but drawing on cases from the UK, the US, and continental Europe, I use legislative data, survey experiments, and text-as-data methods to study how electoral systems shape legislative behaviour and why citizens come to misperceive politics. I also examine large language models and other AI systems both as political actors and as instruments of measurement.
-If you are attending APSA in Boston this year, visiting Taipei or Hualien (Taroko), or just passing through Taiwan after the summer, please feel free to reach out. I would be very happy to grab a coffee or a beer.
 
 
 
