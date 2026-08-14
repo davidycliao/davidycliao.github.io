@@ -16,7 +16,10 @@
 
   How Do 100+ LLMs Differ Politically? A Multi-Agent Approach to Measuring AI Ideology. (with <a href="https://sites.google.com/view/drtingluo/home" style="color: #9ab8b8;">Ting Luo</a> and <a href="https://sjankin.com" style="color: #9ab8b8;">Slava Jankin</a>)<br>
 
-  The Rural-Urban Divide in Populist Rhetoric: Cross-National Evidence from European Parliaments. (with <a href="https://eavigano.github.io" style="color: #9ab8b8;">Edoardo Viganò</a>)<br>
+  <!-- The Rural-Urban Divide in Populist Rhetoric (with <a href="https://eavigano.github.io" style="color: #9ab8b8;">Edoardo Viganò</a> and <a href="https://eavigano.github.io" style="color: #9ab8b8;">Edoardo Viganò</a>)<br> -->
+
+    The Rural-Urban Divide in Populist Rhetoric (with <a href="https://eavigano.github.io" style="color: #9ab8b8;">Edoardo Viganò</a> and <a href="https://www.javiermcanto.es" style="color: #9ab8b8;">   Javier Martínez‑Cantó</a>)<br>
+
 
 </ul>
 
