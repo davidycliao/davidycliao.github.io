@@ -3,7 +3,7 @@
 <br/><br/>
 <div style="text-align: justify">
 
-<p>Embiyax su hug! I am from the Truku community in Xiulin, Hualien.</p>
+<!-- <p>Embiyax su hug! I am from the Truku community in Xiulin, Hualien.</p> -->
 
 <p>I am a computational political scientist and Assistant Professor at the Graduate Institute of National Development, National Taiwan University (Division of China and East Asian Studies), where my research and teaching focus on comparative political institutions in East Asia. My work bridges political science and data science to study electoral behaviour and legislative politics, with a substantive focus on Taiwan and East Asia more broadly. Previously, I held postdoctoral fellowships at the University of Birmingham and University College Dublin, and was a visiting doctoral researcher at the University of Bamberg. I completed my PhD in Politics at the Department of Government, University of Essex, in 2023. I am currently a non-resident affiliated member of the <a href="https://politics-and-data.com" style="color: #9ab8b8;">Politics and Data Research Group</a> at University College Dublin and the <a href="https://www.birmingham.ac.uk/research/centres-institutes/centre-for-artificial-intelligence-in-government" style="color: #9ab8b8;">Centre for Artificial Intelligence in Government</a> at the University of Birmingham.</p>
 
