@@ -11,11 +11,11 @@
 
 <p>回到臺灣工作後，我的研究大致規劃為三個主題，也希望透過這些研究，讓世界更認識臺灣 🇹🇼。</p>
 
-<p>第1個主題，是我從碩士班就開始研究的老問題：原住民族的政治代表究竟如何運作，族群之間如何競爭資源，利益又如何分配。當年我從臺東縣議員的建議款分配做起，後來延伸到原住民族地區的補助款；這些年在國外受的方法訓練，如今總算能帶回這個問題，把分析推進到立法委員層級。在保障席次制度下，原住民立委宣稱代表誰、資源實際流向何處，以及平埔原住民身分法制化正在打開的邊界政治，都是我想以實證資料回答的問題，藉此更完整地理解原住民選民與政治菁英。</p>
+<p>第1個主題，是我從碩士班就關心問題：原住民族的政治代表究竟如何運作，族群之間如何競爭資源，利益又如何分配。當年我從臺東縣議員的建議款分配做起，後來延伸到原住民族地區的補助款；這些年在國外受的方法訓練，如今總算能帶回這個問題，把分析推進到立法委員層級。在保障席次制度下，原住民立委宣稱代表誰、資源實際流向何處，以及平埔原住民身分法制化正在打開的邊界政治，都是我想以實證資料回答的問題，藉此更完整地理解原住民選民與政治菁英之間的互動關係。</p>
 
 <p>第2個主題，是我擔任博士後研究員時開始關注的：公民怎麼向自己解釋國家為何走向對立？這些關於衝突成因的「民間因果理論」，會不會比黨派敵意本身更能左右人們對民主規範的承諾？這條研究線我與英國的團隊合作進行，並把臺灣放進跨國比較之中。</p>
 
-<p>第3個主題，則延續我在歐洲的合作研究：我與義大利、西班牙的學者合作，利用九個歐洲民主國家、超過六百萬筆的國會演說，分析議員在談論鄉村與經濟弱勢地區時，是否更傾向使用民粹式語言，而這種修辭又是否已從民粹政黨蔓延至主流政黨。下一步，我們也計畫將臺灣與日本納入比較，把這個問題帶進東亞的脈絡。</p>
+<p>第3個主題，則延續我在歐洲的合作研究：我與義大利、西班牙的學者合作，利用九個歐洲民主國家、超過六百萬筆的國會演說，分析議員在談論鄉村與經濟弱勢地區時，是否更傾向使用民粹式語言表達模式，而這種修辭又是否已從民粹政黨蔓延至主流政黨。下一步，我們也計畫將相似的研究架構移植到臺灣與日本做比較，把這個問題帶進東亞的脈絡。</p>
 
 </div>
 
@@ -63,7 +63,7 @@
 
   <u>(2) 大型語言模型・多智能體MAS・模擬政治行為者</u>
   
-  AI Survey Respondents as Measurement Instruments: A Pre-Registered Total Survey Error Framework. (with  <a href="https://linettemlim.github.io" style="color: #9ab8b8;">Linette Lim</a> and <a href="https://sjankin.com" style="color: #9ab8b8;">Slava Jankin</a>) <strong style="font-size: 0.7em; text-decoration: underline;">Under review</strong><br>  
+  AI Survey Respondents as Measurement Instruments: A Pre-Registered Total Survey Error Framework. (with  <a href="https://linettemlim.github.io" style="color: #9ab8b8;">Linette Lim</a> and <a href="https://sjankin.com" style="color: #9ab8b8;">Slava Jankin</a>) <strong style="font-size: 0.7em; text-decoration: underline;">*R&R at Public Opinion Quarterly* </strong><br>  
   
   Multi-Agent LLM Systems for Synthetic Survey Experiments in Ethically Constrained Settings. (with <a href="https://linettemlim.github.io" style="color: #9ab8b8;">Linette Lim</a> and <a href="https://sjankin.com" style="color: #9ab8b8;">Slava Jankin</a>) <a href="https://www.dropbox.com/scl/fi/pnpv3t1dqji7qxnuoihqx/Multi_Agent_Systems_with_LLMs.pdf?rlkey=du7hl5mainlk6lp0a0ki6b5f0&dl=0
 " target="_blank" style="color: inherit;"><strong style="font-size: 0.7em; text-decoration: underline;">*Working Draft*</strong></a><br> 
