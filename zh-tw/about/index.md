@@ -25,7 +25,7 @@
 
 <p>哈囉，歡迎來到我的個人網頁！我是廖彥傑，來自花蓮秀林部落。</p>
 
-<p>我現任國立臺灣大學國家發展研究所專任助理教授，從事東亞政治與發展相關領域的研究與教學工作。我於 2023 年在英國艾塞克斯大學（University of Essex）政府系取得博士學位。此前，我曾在英國伯明罕大學（University of Birmingham）與愛爾蘭都柏林大學學院（University College Dublin）擔任博士後研究員，也曾於德國班堡大學（University of Bamberg）擔任博士候選人訪問學者。目前我亦為都柏林大學學院 <a href="https://politics-and-data.com" style="color: #9ab8b8;">Politics and Data Research Group</a> 與伯明罕大學 <a href="https://www.birmingham.ac.uk/research/centres-institutes/centre-for-artificial-intelligence-in-government" style="color: #9ab8b8;">Centre for Artificial Intelligence in Government</a> 的通訊研究成員。</p>
+<p>我現任國立臺灣大學國家發展研究所專任助理教授，從事東亞政治與發展相關領域的研究與教學工作。我於 2023 年在英國艾塞克斯大學（University of Essex）政府系取得博士學位。此前，我曾在英國伯明罕大學（University of Birmingham）與愛爾蘭都柏林大學學院（University College Dublin）擔任博士後研究員，也曾於德國班堡大學（University of Bamberg）擔任博士候選人訪問學者。同時，也附屬於都柏林大學學院 <a href="https://politics-and-data.com" style="color: #9ab8b8;">Politics and Data Research Group</a> 與伯明罕大學 <a href="https://www.birmingham.ac.uk/research/centres-institutes/centre-for-artificial-intelligence-in-government" style="color: #9ab8b8;">Centre for Artificial Intelligence in Government</a> 的通訊（無給職）的研究成員。</p>
 
 <p>我目前的研究關注人們與制度如何理解政治資訊，以及這些理解如何形塑代表性、信念更新與民主治理。我的研究以東亞政治的比較研究為核心，特別聚焦臺灣，同時以英國、美國與歐陸國家作為比較案例。我結合立法資料、問卷實驗與文本分析方法，探討選舉制度如何形塑立法行為、公民為何對政治產生錯誤認知，以及民粹修辭如何反映城鄉之間的政治分歧。我也研究大型語言模型與人工智慧系統，兼及其作為政治行動者與測量工具的角色。</p>
 
