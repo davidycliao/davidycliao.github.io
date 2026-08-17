@@ -6,11 +6,17 @@
                 var KEY = 'langChosen';
                 if (window.localStorage && localStorage.getItem(KEY)) { return; }
                 if (window.localStorage) { localStorage.setItem(KEY, '1'); }
-                var path = window.location.pathname || '/';
-                if (path.indexOf('/zh-tw') === 0) { return; }
+                var BASE = "\/";
+                if (BASE.charAt(BASE.length - 1) !== '/') { BASE += '/'; }
+                var path = window.location.pathname || BASE;
+                if (path === BASE.slice(0, -1)) { path = BASE; }
+                var rel = path.slice(0, BASE.length) === BASE
+                    ? path.slice(BASE.length)
+                    : path.replace(/^\/+/, '');
+                if (rel.slice(0, 5) === 'zh-tw') { return; }
                 var lang = (navigator.language || navigator.userLanguage || '').toLowerCase();
                 if (lang.indexOf('zh') === 0) {
-                    window.location.replace('/zh-tw' + path + window.location.search + window.location.hash);
+                    window.location.replace(BASE + 'zh-tw/' + rel + window.location.search + window.location.hash);
                 }
             } catch (e) {}
         })();
@@ -40,9 +46,8 @@ Folk Theories about Political Conflict. (with Slava Jankin and Li Tang) How Do 1
 Electoral Reform and Issue Attention in Legislative Oversight: From SNTV to Mixed-Member Majoritarian System in Taiwan. (with Yu-Ceng Liao and Yi-ting Wang) Revise and Resubmit at Electoral Studies Knocking on the Wrong Door: Partisan Canvassing and Asymmetric Belief Updating in Britain. (with Li Tang) Working Draft Cross-Lingual Stance Detection in Political Texts: Comparison and Application. (with Stefan Müller) (2) LLMs · Multi-Agent Systems · Agentic Actors">
       <meta name="twitter:site" content="@liaoyenchieh">
 <meta name="application-name" content="Yen-Chieh Liao">
-<meta name="apple-mobile-web-app-title" content="Yen-Chieh Liao"><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
-        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="manifest" href="/site.webmanifest"><link rel="canonical" href="https://davidycliao.github.io/research/" /><link rel="prev" href="https://davidycliao.github.io/data/" /><link rel="next" href="https://davidycliao.github.io/software/" /><link rel="stylesheet" href="/lib/normalize/normalize.min.css"><link rel="stylesheet" href="/css/style.min.css"><link rel="stylesheet" href="/lib/fontawesome-free/all.min.css"><link rel="stylesheet" href="/lib/animate/animate.min.css"><script type="application/ld+json">
+<meta name="apple-mobile-web-app-title" content="Yen-Chieh Liao"><link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-source_hu_4e23ef7971aae30.png">
+            <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-source_hu_6821d21204b68f24.png"><link rel="apple-touch-icon" sizes="180x180" href="/images/favicon-source_hu_1ce731258c4c3942.png"><link rel="manifest" href="/manifest.en.webmanifest"><link rel="canonical" href="https://davidycliao.github.io/research/" /><link rel="prev" href="https://davidycliao.github.io/data/" /><link rel="next" href="https://davidycliao.github.io/software/" /><link rel="stylesheet" href="/lib/normalize/normalize.min.css"><link rel="stylesheet" href="/css/style.min.css"><link rel="stylesheet" href="/lib/fontawesome-free/all.min.css"><link rel="stylesheet" href="/lib/animate/animate.min.css"><script type="application/ld+json">
     {
         "@context": "http://schema.org",
         "@type": "BlogPosting",

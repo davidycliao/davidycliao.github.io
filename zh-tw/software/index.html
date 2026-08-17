@@ -6,11 +6,17 @@
                 var KEY = 'langChosen';
                 if (window.localStorage && localStorage.getItem(KEY)) { return; }
                 if (window.localStorage) { localStorage.setItem(KEY, '1'); }
-                var path = window.location.pathname || '/';
-                if (path.indexOf('/zh-tw') === 0) { return; }
+                var BASE = "\/";
+                if (BASE.charAt(BASE.length - 1) !== '/') { BASE += '/'; }
+                var path = window.location.pathname || BASE;
+                if (path === BASE.slice(0, -1)) { path = BASE; }
+                var rel = path.slice(0, BASE.length) === BASE
+                    ? path.slice(BASE.length)
+                    : path.replace(/^\/+/, '');
+                if (rel.slice(0, 5) === 'zh-tw') { return; }
                 var lang = (navigator.language || navigator.userLanguage || '').toLowerCase();
                 if (lang.indexOf('zh') === 0) {
-                    window.location.replace('/zh-tw' + path + window.location.search + window.location.hash);
+                    window.location.replace(BASE + 'zh-tw/' + rel + window.location.search + window.location.hash);
                 }
             } catch (e) {}
         })();
@@ -34,9 +40,8 @@
   <meta name="twitter:description" content="flaiR R R 語言封裝套件，用於在 R 中存取 Python 的 flair NLP 函式庫。Flair NLP 以其獨特的字元級別與上下文感知嵌入著稱，支援 BERT、ELMo、RoBERTa 等多種模型架構，並可存取 Hugging Face 上的最新模型。">
       <meta name="twitter:site" content="@liaoyenchieh">
 <meta name="application-name" content="廖彥傑">
-<meta name="apple-mobile-web-app-title" content="廖彥傑"><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
-        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="manifest" href="/site.webmanifest"><link rel="canonical" href="https://davidycliao.github.io/zh-tw/software/" /><link rel="prev" href="https://davidycliao.github.io/zh-tw/research/" /><link rel="next" href="https://davidycliao.github.io/zh-tw/about/" /><link rel="stylesheet" href="/lib/normalize/normalize.min.css"><link rel="stylesheet" href="/css/style.min.css"><link rel="stylesheet" href="/lib/fontawesome-free/all.min.css"><link rel="stylesheet" href="/lib/animate/animate.min.css"><script type="application/ld+json">
+<meta name="apple-mobile-web-app-title" content="廖彥傑"><link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-source_hu_4e23ef7971aae30.png">
+            <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-source_hu_6821d21204b68f24.png"><link rel="apple-touch-icon" sizes="180x180" href="/images/favicon-source_hu_1ce731258c4c3942.png"><link rel="manifest" href="/manifest.zh-tw.webmanifest"><link rel="canonical" href="https://davidycliao.github.io/zh-tw/software/" /><link rel="prev" href="https://davidycliao.github.io/zh-tw/research/" /><link rel="next" href="https://davidycliao.github.io/zh-tw/about/" /><link rel="stylesheet" href="/lib/normalize/normalize.min.css"><link rel="stylesheet" href="/css/style.min.css"><link rel="stylesheet" href="/lib/fontawesome-free/all.min.css"><link rel="stylesheet" href="/lib/animate/animate.min.css"><script type="application/ld+json">
     {
         "@context": "http://schema.org",
         "@type": "BlogPosting",
