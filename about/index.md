@@ -1,51 +1,37 @@
 # About
 
-<br/><br/>
+
+<br/><br> <br> 
+
+
 <div style="text-align: justify">
 
-<!-- <p>Embiyax su hug! I am from the Truku community in Xiulin, Hualien.</p> -->
+Hi There! 
 
-<!-- <p>I am a computational political scientist and Assistant Professor at the Graduate Institute of National Development, National Taiwan University (Division of China and East Asian Studies), where my research and teaching focus on comparative political institutions in East Asia. My work bridges political science and data science to study electoral behaviour and legislative politics, with a substantive focus on Taiwan and East Asia more broadly. Previously, I held postdoctoral fellowships at the University of Birmingham and University College Dublin, and was a visiting doctoral researcher at the University of Bamberg. I completed my PhD in Politics at the Department of Government, University of Essex, in 2023. I am currently a non-resident affiliated member of the <a href="https://politics-and-data.com" style="color: #9ab8b8;">Politics and Data Research Group</a> at University College Dublin and the <a href="https://www.birmingham.ac.uk/research/centres-institutes/centre-for-artificial-intelligence-in-government" style="color: #9ab8b8;">Centre for Artificial Intelligence in Government</a> at the University of Birmingham.</p> -->
+I'm David (Yen-Chieh) Liao. I am a researcher at <a href="https://www.nexsys-energy.ie/about-nexsys/" style="color: #778899; text-decoration: underline;">NexSys</a> and a postdoc in <a href="https://text-and-policy.com" style="color: #778899; text-decoration: underline;">the Text and Policy Research Group</a>, led by <a href="https://muellerstefan.net" style="color: #2F4F4F;">Dr. Stefan Müller</a>, based in the School of Politics and International Relations, University College Dublin. Additionally, I'm a member of the <a href="https://www.ucd.ie/connected_politics/people/academicstaff/" style="color: #778899; text-decoration: underline;">Connected_Politics Lab</a>.
 
-<p>I am a computational political scientist and Assistant Professor at the Graduate Institute of National Development, National Taiwan University (Division of China and East Asian Studies), and an affiliate member of the <a href="https://politics-and-data.com" style="color: #9ab8b8;">Politics and Data Research Group</a> at University College Dublin and the <a href="https://www.birmingham.ac.uk/research/centres-institutes/centre-for-artificial-intelligence-in-government" style="color: #9ab8b8;">Centre for Artificial Intelligence in Government</a> at the University of Birmingham. My research and teaching focus on comparative political institutions in East Asia, bridging political science and data science to study electoral behaviour and legislative politics, with a substantive focus on Taiwan. Previously, I held postdoctoral fellowships at the University of Birmingham and University College Dublin. I completed my PhD at the Department of Government, University of Essex, in 2023; in my final year, I was a visiting PhD researcher at the University of Bamberg.</p>
+I obtained my PhD in January 2023 from the Department of Government at the University of Essex. During my completion year between 2021 and 2022, I worked as a predoctoral fellow for the Chair of Comparative Politics, <a href="https://www.uni-bamberg.de/vp-forschung/" style="color: #2F4F4F;">Prof. Thomas Saalfeld</a>, on the research project titled <span style="color:#778899; text-decoration: underline;">Legislators between Accountability and Collective Agency</span> at the University of Bamberg in Germany. Before coming to UCD, I had a short postdoc experience at Global Studies in Aarhus University, where I helped analyze social media data related to social movement activities and their network relationships. 
 
-
-<p>My current research examines how people and institutions make sense of political information, and how those interpretations shape representation, belief updating, and democratic governance. My work is anchored in the comparative study of East Asian politics, particularly Taiwan, while also drawing on cases from the UK, the US, and continental Europe. I use legislative data, survey experiments, and text-as-data methods. With these tools, I study how electoral systems shape legislative behaviour and why citizens come to misperceive politics. I also examine large language models and other AI systems, both as political actors and as instruments of measurement.</p>
-
-<p>If you are attending APSA in Boston this year, visiting Taipei or Hualien (or Taroko/Truku), or just passing through Taiwan after the summer, please feel free to reach out. I would be very happy to grab a coffee or a beer.</p>
+My main research interests include legislative studies, party competition, representative behavior, and electoral systems. I have a specific interest in the measurement of ideological preferences through methods such as legislative voting, expert surveys, and the analysis of parliamentary speeches. My recent research agenda focuses on quantitative text analysis and computational methods to gain a deeper understanding of how political elites position themselves through their political narratives. In addition, I explore how these narratives influence political behaviors and shape the attitudes and expectations of the masses concerning the future.
 
 
 <!-- 
+---
+Embiyax Su Hug (太魯閣族語 Hello),  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="25" height="25" alt="hi">
 
-I am a computational political scientist and will join the Graduate Institute of National Development at National Taiwan University as an Assistant Professor in the Division of China and East Asian Studies in August 2026. My work bridges political science and data science to study electoral behaviour and legislative politics, with a substantive focus on Taiwan and East Asia more broadly. Previously, I held postdoctoral fellowships at the University of Birmingham and University College Dublin, and completed my PhD in Politics at the Department of Government, University of Essex, in 2023. I am currentet non resident affliated member of Politics and Data Research Group
-
-<a href="https://politics-and-data.com" style="color: #9ab8b8;"> Politics and Data Research Group</a> based in  University College Dublin and   <a href="h[ttps://politics-and-data.com](https://www.birmingham.ac.uk/research/centres-institutes/centre-for-artificial-intelligence-in-government)" style="color: #9ab8b8;"> the Centre for Artificial Intelligence in Government </a> in Univerisity of Birmingham in the UK. 
-
-
-
-
-
-My current research examines how people and institutions make sense of political information, and how those interpretations shape representation, belief updating, and democratic governance. Anchored in the comparative study of East Asian politics, particularly Taiwan, but drawing on cases from the UK, the US, and continental Europe, I use legislative data, survey experiments, and text-as-data methods to study how electoral systems shape legislative behaviour and why citizens come to misperceive politics. I also examine large language models and other AI systems both as political actors and as instruments of measurement.
-If you are attending APSA in Boston this year, visiting Taipei or Hualien (Taroko), or just passing through Taiwan after the summer, please feel free to reach out. I would be very happy to grab a coffee or a beer.
- -->
+我目前於[<span style="color:#778899">**丹麥奧胡斯大學文化與社會學院全球事務研究系**</span>](https://pure.au.dk/portal/en/persons/yenchieh-liao(0a64ba05-9c47-40b2-8ff6-c3d8aeab26f7).html)擔任博士後研究人員。在加入奧胡斯大學之前，也參與[<span style="color:#778899">**德國班貝格大學政治系比較政治研究中心**</span>](https://projectlacan.wordpress.com/team/)，協助執行德國與英國議會質詢資料之搜集、建立與自然語言分析之工作。 在碩士求學階段，關注台灣原住民族群政治、大族政治、資源分配與競爭等議題。在博士論文主題方面，我學習利用計算機社會科學方法，分析選舉制度如何改變台灣政黨競爭與肉桶立法代表行為，該論文計畫也獲得[<span style="color:#778899">**110年度台灣科技部人文及社會科學研究海外人才培育計畫**</span>](https://www.stpi.narl.org.tw/public/show?id=4b1141647ad2a353017af136d1ae0fa5)。 與此同時，也結合文本分析技術研究當代中國政治，以及利用開源預預訓練模型，分析社會運動及其對民主參與價值的影響。空閒之餘，喜歡跟我的伴侶研究如何做地道的重慶料理。 若同為原住民，未來也計畫繼續升學或出國進修，歡迎與我聯繫，希望能藉由過往的學習歷程提供個人淺見及協助。 -->
 
 
 
 
 
-<!-- I am a computational political scientist and will join the Graduate Institute of National Development at National Taiwan University as an Assistant Professor in the Division of China and East Asian Studies in August 2026. My work bridges political science and data science to study electoral behaviour and legislative politics. Previously, I held postdoctoral fellowships at the University of Birmingham and University College Dublin, and I completed my PhD in Politics in the Department of Government at the University of Essex in 2023. -->
+<div style="text-align: center">
 
+*Update: 21 August 2023*
 
-<!-- My current research agenda focuses on how people and institutions make sense of political information, and how these interpretations shape representation, belief updating, and democratic governance. Drawing on cases from Taiwan, the UK, the US, and Europe, I combine legislative data, survey experiments, and text-as-data methods to study electoral systems, legislative behaviour, and political misperception. I also examine large language models and AI systems as political and measurement actors. -->
-
-<!-- My current research examines how people and institutions make sense of political information, and how those interpretations shape representation, belief updating, and democratic governance. Anchored in the comparative study of East Asian politics but drawing on cases from Taiwan, the UK, the US, and Europe, I use legislative data, survey experiments, and text-as-data methods to study how electoral systems shape legislative behaviour and why citizens come to misperceive politics. I also examine large language models and other AI systems both as political actors and as instruments of measurement.
-
-
-If you are attending APSA in Boston this year, visiting Taipei or Hualien (Taroko), or just happen to be in Taiwan after the summer, please feel free to reach out. I would be very happy to grab a coffee or a beer. -->
-
-
-
-<!-- This year, I plan to attend the Soochow University Legislative Studies Workshop in Taipei, PolMeth Europe at Trinity College Dublin, EPSS in Belfast, the PolMeth Summer Meeting at Michigan State University, and APSA in Boston. If you are attending any of these conferences, or happen to be in Taipei, please feel free to reach out. I would be very happy to grab a coffee or a beer.  -->
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/authwall?trk=gf&trkInfo=AQERrkO9JeuxgQAAAYGIXxZw-IMriZ16fxaCyQ9B4fcr8SgrQXFIA4WvPBytf98cJPl4KsPT6KiRHzqt-s3Ozl8_IoJ8cn9_lBY1_kQiozmVJV_bXf0xolwYZIIc_TwCBrvqjMU=&original_referer=https://davidycliao.github.io/&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdavid-yen-chieh-liao-51a0a3168%2F)
+[![Twitter Badge](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/liaoyenchieh)
+[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidycliao@gamil.com)
 
 
 </div>

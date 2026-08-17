@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="robots" content="noodp" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+        <title>原住民族資料分析線上讀書會：R的基礎與應用 - DAVID LIAO</title><meta name="Description" content="Analyzing Aboriginal Data in R: Basics"><meta property="og:title" content="原住民族資料分析線上讀書會：R的基礎與應用" />
+<meta property="og:description" content="Analyzing Aboriginal Data in R: Basics" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://davidycliao.github.io/2021/07/databoot-camp/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2021-07-10T21:29:01+08:00" />
+<meta property="article:modified_time" content="2021-07-11T22:55:01+08:00" />
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="原住民族資料分析線上讀書會：R的基礎與應用"/>
+<meta name="twitter:description" content="Analyzing Aboriginal Data in R: Basics"/>
+<meta name="application-name" content="DAVID LIAO">
+<meta name="apple-mobile-web-app-title" content="DAVID LIAO"><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="manifest" href="/site.webmanifest"><link rel="canonical" href="https://davidycliao.github.io/2021/07/databoot-camp/" /><link rel="prev" href="https://davidycliao.github.io/2023/06/ccp/" /><link rel="next" href="https://davidycliao.github.io/2023/06/pkg/" /><link rel="stylesheet" href="/lib/normalize/normalize.min.css"><link rel="stylesheet" href="/css/style.min.css"><link rel="stylesheet" href="/lib/fontawesome-free/all.min.css"><link rel="stylesheet" href="/lib/animate/animate.min.css"><script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "BlogPosting",
+        "headline": "原住民族資料分析線上讀書會：R的基礎與應用",
+        "inLanguage": "en",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https:\/\/davidycliao.github.io\/2021\/07\/databoot-camp\/"
+        },"genre": "posts","keywords": "R, Data Sciecne","wordcount":  139 ,
+        "url": "https:\/\/davidycliao.github.io\/2021\/07\/databoot-camp\/","datePublished": "2021-07-10T21:29:01+08:00","dateModified": "2021-07-11T22:55:01+08:00","license": "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.","publisher": {
+            "@type": "Organization",
+            "name": "David Liao | Kacing | 廖彥傑"},"author": {
+                "@type": "Person",
+                "name": "David Liao | Kacing | 廖彥傑"
+            },"description": "Analyzing Aboriginal Data in R: Basics"
+    }
+    </script></head>
+    <body header-desktop="fixed" header-mobile="auto"><script type="text/javascript">(window.localStorage && localStorage.getItem('theme') ? localStorage.getItem('theme') === 'dark' : ('auto' === 'auto' ? window.matchMedia('(prefers-color-scheme: dark)').matches : 'auto' === 'dark')) && document.body.setAttribute('theme', 'dark');</script>
+
+        <div id="mask"></div><div class="wrapper"><header class="desktop" id="header-desktop">
+    <div class="header-wrapper">
+        <div class="header-title">
+            <a href="/" title="DAVID LIAO">DAVID LIAO</a>
+        </div>
+        <div class="menu">
+            <div class="menu-inner"><a class="menu-item" href="/about/"> About </a><a class="menu-item" href="/research/"> Research </a><a class="menu-item" href="/toolbox/"> Toolbox </a><a class="menu-item" href="https://raw.githack.com/davidycliao/cv_show/main/CV.pdf" rel="noopener noreffer" target="_blank"> CV </a><a class="menu-item" href="/categories/"><i class=' fas fa-paste'></i>  </a><a class="menu-item" href="https://github.com/davidycliao" title="GitHub" rel="noopener noreffer" target="_blank"><i class='fab fa-github fa-fw'></i>  </a><span class="menu-item delimiter"></span><a href="javascript:void(0);" class="menu-item theme-switch" title="Switch Theme">
+                    <i class="fas fa-adjust fa-fw"></i>
+                </a>
+            </div>
+        </div>
+    </div>
+</header><header class="mobile" id="header-mobile">
+    <div class="header-container">
+        <div class="header-wrapper">
+            <div class="header-title">
+                <a href="/" title="DAVID LIAO">DAVID LIAO</a>
+            </div>
+            <div class="menu-toggle" id="menu-toggle-mobile">
+                <span></span><span></span><span></span>
+            </div>
+        </div>
+        <div class="menu" id="menu-mobile"><a class="menu-item" href="/about/" title="">About</a><a class="menu-item" href="/research/" title="">Research</a><a class="menu-item" href="/toolbox/" title="">Toolbox</a><a class="menu-item" href="https://raw.githack.com/davidycliao/cv_show/main/CV.pdf" title="" rel="noopener noreffer" target="_blank">CV</a><a class="menu-item" href="/categories/" title=""><i class=' fas fa-paste'></i></a><a class="menu-item" href="https://github.com/davidycliao" title="GitHub" rel="noopener noreffer" target="_blank"><i class='fab fa-github fa-fw'></i></a><a href="javascript:void(0);" class="menu-item theme-switch" title="Switch Theme">
+                <i class="fas fa-adjust fa-fw"></i>
+            </a></div>
+    </div>
+</header>
+<div class="search-dropdown desktop">
+    <div id="search-dropdown-desktop"></div>
+</div>
+<div class="search-dropdown mobile">
+    <div id="search-dropdown-mobile"></div>
+</div>
+<main class="main">
+                <div class="container"><div class="toc" id="toc-auto">
+            <h2 class="toc-title">Contents</h2>
+            <div class="toc-content" id="toc-content-auto"></div>
+        </div><article class="page single"><h1 class="single-title animated flipInX">原住民族資料分析線上讀書會：R的基礎與應用</h1><div class="post-meta">
+            <div class="post-meta-line"><span class="post-author"><a href="/" title="Author" rel=" author" class="author"><i class="fas fa-user-circle fa-fw"></i>David Liao | Kacing | 廖彥傑</a></span>&nbsp;<span class="post-category">included in <a href="/categories/teaching/"><i class="far fa-folder fa-fw"></i>Teaching</a></span></div>
+            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="2021-07-10">2021-07-10</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;139 words&nbsp;
+                <i class="far fa-clock fa-fw"></i>&nbsp;One minute&nbsp;<span id="/2021/07/databoot-camp/" class="leancloud_visitors" data-flag-title="原住民族資料分析線上讀書會：R的基礎與應用">
+                        <i class="far fa-eye fa-fw"></i>&nbsp;<span class=leancloud-visitors-count></span>&nbsp;views
+                    </span>&nbsp;</div>
+        </div><div class="featured-image"><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="/images/truku.png"
+        data-srcset="/images/truku.png, /images/truku.png 1.5x, /images/truku.png 2x"
+        data-sizes="auto"
+        alt="/images/truku.png"
+        title="Analyzing Aboriginal Data in R: Basics" /></div><div class="details toc" id="toc-static"  kept="">
+                <div class="details-summary toc-title">
+                    <span>Contents</span>
+                    <span><i class="details-icon fas fa-angle-right"></i></span>
+                </div>
+                <div class="details-content toc-content" id="toc-content-static"><nav id="TableOfContents">
+  <ul>
+    <li><a href="#課程介紹與目的">課程介紹與目的</a>
+      <ul>
+        <li><a href="#講師-instructors">講師 （Instructors）</a></li>
+        <li><a href="#軟體環境">軟體環境</a></li>
+      </ul>
+    </li>
+    <li><a href="#課表">課表</a>
+      <ul>
+        <li><a href="#第一週-717-pm1900">第一週 (7/17 PM19:00)</a></li>
+        <li><a href="#第二週-724-pm1900">第二週 (7/24 PM19:00)</a></li>
+        <li><a href="#第三週87-pm1900">第三週(8/7 PM19:00)</a></li>
+        <li><a href="#第四週-821-pm1900">第四週 (8/21 PM19:00)</a></li>
+        <li><a href="#第五週-828-pm1900-">第五週 (8/28 PM19:00 )</a></li>
+        <li><a href="#實作資料">實作資料</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav></div>
+            </div><div class="content" id="content"><h2 id="課程介紹與目的">課程介紹與目的</h2>
+<p>建立這個工作坊的啟發源自「紐約時報」 “<a href="https://www.nytimes.com/2021/06/29/science/indigenous-data-microbiome-science.html" target="_blank" rel="noopener noreffer"><span style="color:#323434"> <strong>Training the Next Generation of Indigenous Data Scientists</strong></span></a>
+” 這篇報導，藉此我們也應該提升我們自己的原住民族與族群事務從業人員的資料分析能力，之後可將這些分析技術應用在族群政策評估、文化資料，甚至是語言資料的保護上。</p>
+<p>另外，隨著資料科學（data science）的分析與應用逐漸受重視，R作為一套免費開放原始碼工具，無論在學術分析研究與商業使用上相當受歡迎。在政策分析、統計運算與視覺化上，R也是許多學者或政策分析從業人員喜歡使用的分析工具。而此次課程設計主要聚焦在R語言的基礎概念建立與資料分析應用，希望幫助原住民同學（或有興趣的朋友）學習R的基本指令與運作生態。此外，本課程也鼓勵來上課的同學，把自己學業或工作上所需要分析的資料帶過來，透過所學的指令應用在自己的計畫或工作項目。同時，課程也安排簡單的上機實作，實體演練真實的官方資料。</p>
+<p>本課程屬於R語言中入門的階段，並以案例問題為教學導向，主要透過R編寫代碼完成獨立分析。課程大致上聚焦在幾個主題：R入門概念與tidyverse、資料結構、函數設計、非常基礎的基礎統計、文字分析應用（Quatitative Text Analysis）與機器學習（machine learning）於社會科學的應用與實現。</p>
+<h3 id="講師-instructors">講師 （Instructors）</h3>
+<ul>
+<li>
+<p><strong>廖彥傑 (Kacing)</strong>
+<br />太魯閣族，秀林人目前為英國艾塞克斯大學（University of Essex）政府系博士生與兼任研究助理（research officer）。研究興趣為原住民分配政治、政黨競爭與極化、態度與意識空間估計（Ideal Point Estimation）與計算社會科學研究（Computational Social Science）。<br /></p>
+</li>
+<li>
+<p><a href="https://joufeihuang.weebly.com" target="_blank" rel="noopener noreffer"><span style="color:#323434"> <strong>黃柔翡</strong></span></a>
+<br />目前是紐約州立大學水牛城分校(University at Buffalo, SUNY)博士候選人，現在為中央研究院人文社會科學博士候選人培育人員。研究興趣為威權政治、選舉問責、公共財分配、外援。<br /></p>
+</li>
+</ul>
+<h3 id="軟體環境">軟體環境</h3>
+<ul>
+<li>R 4.0</li>
+<li>RStudio Desktop</li>
+<li>安裝Ｒ與Rstudio</li>
+</ul>
+<h2 id="課表">課表</h2>
+<ul>
+<li>每週六碰面，課程一堂共1小時40分鐘。一堂課會聚焦在三個基本觀念，一次15-20分鐘觀念講授（lecture），10-15分鐘實作（lab），3次循環。</li>
+<li><a href="https://docs.google.com/document/d/1MH9jQ0Oic_EeUCzo05AMZ8Gc_yOCI0TNrcGNMD3tuQg/edit" target="_blank" rel="noopener noreffer">上課互動筆記白板</a></li>
+</ul>
+<h3 id="第一週-717-pm1900">第一週 (7/17 PM19:00)</h3>
+<ul>
+<li><strong>講課</strong> : 作業環境安裝（R與RStudio關係）、基礎R語言、資料結構與套件導入、R的社群生態</li>
+<li><strong>教學檔案</strong> : <a href="https://github.com/davidycliao/indigenous-data-scientists/blob/main/Week-01/Week-01.pdf" target="_blank" rel="noopener noreffer"><code>PDF</code></a>｜<a href="https://raw.githack.com/davidycliao/indigenous-data-scientists/main/Week-01/Week-01.html" target="_blank" rel="noopener noreffer"><code>HTML</code></a> | <a href="https://github.com/davidycliao/indigenous-data-scientists" target="_blank" rel="noopener noreffer"><code>files</code></a></li>
+</ul>
+<h3 id="第二週-724-pm1900">第二週 (7/24 PM19:00)</h3>
+<ul>
+<li><strong>講課</strong> : 向量(vector)、序列（list）、矩陣（matrix）、資料框架（dataframe）與新型資料框架（tibbles）</li>
+<li><strong>實作演練</strong> : 台東縣議員建議款分配的政治分析 <a href="https://github.com/davidycliao/indigenous-data-scientists/blob/main/Week-02/practice.Rmd" target="_blank" rel="noopener noreffer"><code>Rmd</code></a> | <a href="https://raw.githack.com/davidycliao/indigenous-data-scientists/main/Week-02/practice.nb.html" target="_blank" rel="noopener noreffer"><code>html</code></a></li>
+<li><strong>教學檔案</strong> : <a href="https://raw.githack.com/davidycliao/indigenous-data-scientists/main/Week-02/Week-02.pdf" target="_blank" rel="noopener noreffer"><code>PDF</code></a>｜<a href="https://raw.githack.com/davidycliao/indigenous-data-scientists/main/Week-02/Week-02.html#1" target="_blank" rel="noopener noreffer"><code>HTML</code></a> | <a href="https://github.com/davidycliao/indigenous-data-scientists" target="_blank" rel="noopener noreffer"><code>files</code></a> | <a href="https://docs.google.com/document/d/1fUUlYASHbpwTNfLnKE2ctWbqfU3PayZ05n_KY4C0A6Y/edit" target="_blank" rel="noopener noreffer"><code>共同作業</code></a></li>
+</ul>
+<h3 id="第三週87-pm1900">第三週(8/7 PM19:00)</h3>
+<ul>
+<li><strong>講課</strong> ： Tidyverse  模組系列（一）、數據處理</li>
+<li><strong>實作演練</strong> : <a href="https://raw.githack.com/davidycliao/indigenous-data-scientists/main/Week-03/data/TIGCR-TGBS2019/Chinese/Panel%20and%20new%20samples/TIGCR-TGBS2019_CH_Questionnaire.pdf" target="_blank" rel="noopener noreffer">實作：2019 年文官調查資料</a></li>
+<li><strong>教學檔案</strong> : <a href="https://raw.githack.com/davidycliao/indigenous-data-scientists/main/Week-03/Week-03.pdf" target="_blank" rel="noopener noreffer"><code>PDF</code></a>｜<a href="https://raw.githack.com/davidycliao/indigenous-data-scientists/main/Week-03/Week-03.html" target="_blank" rel="noopener noreffer"><code>HTML</code></a> | <a href="https://github.com/davidycliao/indigenous-data-scientists" target="_blank" rel="noopener noreffer"><code>files</code></a></li>
+</ul>
+<h3 id="第四週-821-pm1900">第四週 (8/21 PM19:00)</h3>
+<ul>
+<li><strong>講課</strong> : Tidyverse  模組系列（二）、迭代循環（Iteration）、資料視覺化EDA</li>
+<li><strong>教學檔案</strong> : <a href="https://raw.githack.com/davidycliao/indigenous-data-scientists/main/Week-04/Week-04.pdf" target="_blank" rel="noopener noreffer"><code>PDF</code></a>｜<a href="https://raw.githack.com/davidycliao/indigenous-data-scientists/main/Week-04/Week-04.html" target="_blank" rel="noopener noreffer"><code>HTML</code></a> | <a href="https://github.com/davidycliao/indigenous-data-scientists" target="_blank" rel="noopener noreffer"><code>files</code></a></li>
+</ul>
+<h3 id="第五週-828-pm1900-">第五週 (8/28 PM19:00 )</h3>
+<ul>
+<li><strong>講師</strong> : 黃柔翡 博士候選人</li>
+<li><strong>講課</strong> :  用R檢視地圖資料、地圖packages介紹和應用、製作互動式地圖</li>
+<li><strong>教學檔案</strong> : <a href="https://raw.githack.com/joufeihuang/2021maps/main/electionmap.html" target="_blank" rel="noopener noreffer"><code>HTML</code></a>｜<a href="https://github.com/joufeihuang/2021maps" target="_blank" rel="noopener noreffer"><code>files</code></a></li>
+</ul>
+<h3 id="實作資料">實作資料</h3>
+<ul>
+<li>台灣政經傳播研究多年期研究規劃：一般民眾定群追蹤面訪調查資料 、文官定群追蹤網路調查資料</li>
+<li>台灣選舉與民主化調查</li>
+<li>The British Election Study (英國選舉資料)</li>
+<li>The British Election Study Expert Survey (英國選舉專家調查)</li>
+</ul>
+<h1 id="備註">備註</h1>
+<ul>
+<li>將會使用google meet 的方式進行，因此請大家務必填寫信箱，將會使用google行事曆，告知大家上課時間及日期。</li>
+<li>上課日期：7月17日至8月14日, 每堂課於PM19:00至PM20:30m</li>
+<li>課程完全免費，有關上課資訊或連結請洽「台灣原住民族太魯閣族學生青年會」（email:trukuyouth@gmail.com）。</li>
+</ul>
+</div><div class="post-footer" id="post-footer">
+    <div class="post-info">
+        <div class="post-info-line">
+            <div class="post-info-mod">
+                <span>Updated on 2021-07-11</span>
+            </div>
+            <div class="post-info-license"></div>
+        </div>
+        <div class="post-info-line">
+            <div class="post-info-md"><span>
+                            <a class="link-to-markdown" href="/2021/07/databoot-camp/index.md" target="_blank">Read Markdown</a>
+                        </span></div>
+            <div class="post-info-share">
+                <span></span>
+            </div>
+        </div>
+    </div>
+
+    <div class="post-info-more">
+        <section class="post-tags"><i class="fas fa-tags fa-fw"></i>&nbsp;<a href="/tags/r/">R</a>,&nbsp;<a href="/tags/data-sciecne/">Data Sciecne</a></section>
+        <section>
+            <span><a href="javascript:void(0);" onclick="window.history.back();">Back</a></span>&nbsp;|&nbsp;<span><a href="/">Home</a></span>
+        </section>
+    </div>
+
+    <div class="post-nav"><a href="/2023/06/ccp/" class="prev" rel="prev" title="Co-authored Paper Presentation @Glasgow EPSA  "><i class="fas fa-angle-left fa-fw"></i>Co-authored Paper Presentation @Glasgow EPSA  </a>
+            <a href="/2023/06/pkg/" class="next" rel="next" title="flairR: An R Wrapper for Accessing Flair NLP Tagging Features">flairR: An R Wrapper for Accessing Flair NLP Tagging Features<i class="fas fa-angle-right fa-fw"></i></a></div>
+</div>
+<div id="comments"><div id="valine" class="comment"></div><noscript>
+                Please enable JavaScript to view the comments powered by <a href="https://valine.js.org/">Valine</a>.
+            </noscript></div></article></div>
+            </main><footer class="footer">
+        <div class="footer-container"><div class="footer-line">Powered by <a href="https://gohugo.io/" target="_blank" rel="noopener noreffer" title="Hugo 0.117.0">Hugo</a> | Theme - <a href="https://github.com/dillonzq/LoveIt" target="_blank" rel="noopener noreffer" title="LoveIt 0.2.10"><i class="far fa-kiss-wink-heart fa-fw"></i> LoveIt</a>
+                </div><div class="footer-line"><i class="far fa-copyright fa-fw"></i><span itemprop="copyrightYear">2017 - 2023</span><span class="author" itemprop="copyrightHolder">&nbsp;<a href="/" target="_blank">David, Yen-Chieh Liao</a></span><span class="icp-splitter">&nbsp;|&nbsp;</span><br class="icp-br"/>
+                    <span class="icp">Colchester 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | Dublin 🇮🇪</span></div>
+        </div>
+    </footer></div>
+
+        <div id="fixed-buttons"><a href="#" id="back-to-top" class="fixed-button" title="Back to Top">
+                <i class="fas fa-arrow-up fa-fw"></i>
+            </a><a href="#" id="view-comments" class="fixed-button" title="View Comments">
+                <i class="fas fa-comment fa-fw"></i>
+            </a>
+        </div><link rel="stylesheet" href="/lib/valine/valine.min.css"><link rel="stylesheet" href="/lib/lightgallery/lightgallery.min.css"><script type="text/javascript" src="/lib/valine/Valine.min.js"></script><script type="text/javascript" src="/lib/smooth-scroll/smooth-scroll.min.js"></script><script type="text/javascript" src="/lib/lazysizes/lazysizes.min.js"></script><script type="text/javascript" src="/lib/lightgallery/lightgallery.min.js"></script><script type="text/javascript" src="/lib/lightgallery/lg-thumbnail.min.js"></script><script type="text/javascript" src="/lib/lightgallery/lg-zoom.min.js"></script><script type="text/javascript" src="/lib/clipboard/clipboard.min.js"></script><script type="text/javascript" src="/lib/sharer/sharer.min.js"></script><script type="text/javascript">window.config={"code":{"copyTitle":"Copy to clipboard","maxShownLines":10},"comment":{"valine":{"appId":"9xm6vOY5V9nyCSWYiOwzs7yO-MdYXbMMI","appKey":"j7BY2E4qGcIPVGnMnzOhF6HX","avatar":"mp","el":"#valine","emojiCDN":"https://cdn.jsdelivr.net/npm/emoji-datasource-google@5.0.1/img/google/64/","emojiMaps":{"100":"1f4af.png","alien":"1f47d.png","anger":"1f4a2.png","angry":"1f620.png","anguished":"1f627.png","astonished":"1f632.png","black_heart":"1f5a4.png","blue_heart":"1f499.png","blush":"1f60a.png","bomb":"1f4a3.png","boom":"1f4a5.png","broken_heart":"1f494.png","brown_heart":"1f90e.png","clown_face":"1f921.png","cold_face":"1f976.png","cold_sweat":"1f630.png","confounded":"1f616.png","confused":"1f615.png","cry":"1f622.png","crying_cat_face":"1f63f.png","cupid":"1f498.png","dash":"1f4a8.png","disappointed":"1f61e.png","disappointed_relieved":"1f625.png","dizzy":"1f4ab.png","dizzy_face":"1f635.png","drooling_face":"1f924.png","exploding_head":"1f92f.png","expressionless":"1f611.png","face_vomiting":"1f92e.png","face_with_cowboy_hat":"1f920.png","face_with_hand_over_mouth":"1f92d.png","face_with_head_bandage":"1f915.png","face_with_monocle":"1f9d0.png","face_with_raised_eyebrow":"1f928.png","face_with_rolling_eyes":"1f644.png","face_with_symbols_on_mouth":"1f92c.png","face_with_thermometer":"1f912.png","fearful":"1f628.png","flushed":"1f633.png","frowning":"1f626.png","ghost":"1f47b.png","gift_heart":"1f49d.png","green_heart":"1f49a.png","grimacing":"1f62c.png","grin":"1f601.png","grinning":"1f600.png","hankey":"1f4a9.png","hear_no_evil":"1f649.png","heart":"2764-fe0f.png","heart_decoration":"1f49f.png","heart_eyes":"1f60d.png","heart_eyes_cat":"1f63b.png","heartbeat":"1f493.png","heartpulse":"1f497.png","heavy_heart_exclamation_mark_ornament":"2763-fe0f.png","hole":"1f573-fe0f.png","hot_face":"1f975.png","hugging_face":"1f917.png","hushed":"1f62f.png","imp":"1f47f.png","innocent":"1f607.png","japanese_goblin":"1f47a.png","japanese_ogre":"1f479.png","joy":"1f602.png","joy_cat":"1f639.png","kiss":"1f48b.png","kissing":"1f617.png","kissing_cat":"1f63d.png","kissing_closed_eyes":"1f61a.png","kissing_heart":"1f618.png","kissing_smiling_eyes":"1f619.png","laughing":"1f606.png","left_speech_bubble":"1f5e8-fe0f.png","love_letter":"1f48c.png","lying_face":"1f925.png","mask":"1f637.png","money_mouth_face":"1f911.png","nauseated_face":"1f922.png","nerd_face":"1f913.png","neutral_face":"1f610.png","no_mouth":"1f636.png","open_mouth":"1f62e.png","orange_heart":"1f9e1.png","partying_face":"1f973.png","pensive":"1f614.png","persevere":"1f623.png","pleading_face":"1f97a.png","pouting_cat":"1f63e.png","purple_heart":"1f49c.png","rage":"1f621.png","relaxed":"263a-fe0f.png","relieved":"1f60c.png","revolving_hearts":"1f49e.png","right_anger_bubble":"1f5ef-fe0f.png","robot_face":"1f916.png","rolling_on_the_floor_laughing":"1f923.png","scream":"1f631.png","scream_cat":"1f640.png","see_no_evil":"1f648.png","shushing_face":"1f92b.png","skull":"1f480.png","skull_and_crossbones":"2620-fe0f.png","sleeping":"1f634.png","sleepy":"1f62a.png","slightly_frowning_face":"1f641.png","slightly_smiling_face":"1f642.png","smile":"1f604.png","smile_cat":"1f638.png","smiley":"1f603.png","smiley_cat":"1f63a.png","smiling_face_with_3_hearts":"1f970.png","smiling_imp":"1f608.png","smirk":"1f60f.png","smirk_cat":"1f63c.png","sneezing_face":"1f927.png","sob":"1f62d.png","space_invader":"1f47e.png","sparkling_heart":"1f496.png","speak_no_evil":"1f64a.png","speech_balloon":"1f4ac.png","star-struck":"1f929.png","stuck_out_tongue":"1f61b.png","stuck_out_tongue_closed_eyes":"1f61d.png","stuck_out_tongue_winking_eye":"1f61c.png","sunglasses":"1f60e.png","sweat":"1f613.png","sweat_drops":"1f4a6.png","sweat_smile":"1f605.png","thinking_face":"1f914.png","thought_balloon":"1f4ad.png","tired_face":"1f62b.png","triumph":"1f624.png","two_hearts":"1f495.png","unamused":"1f612.png","upside_down_face":"1f643.png","weary":"1f629.png","white_frowning_face":"2639-fe0f.png","white_heart":"1f90d.png","wink":"1f609.png","woozy_face":"1f974.png","worried":"1f61f.png","yawning_face":"1f971.png","yellow_heart":"1f49b.png","yum":"1f60b.png","zany_face":"1f92a.png","zipper_mouth_face":"1f910.png","zzz":"1f4a4.png"},"enableQQ":null,"highlight":true,"lang":"en","pageSize":10,"placeholder":"leave your messeges ...","recordIP":true,"visitor":true}},"lightGallery":{"actualSize":false,"exThumbImage":"data-thumbnail","hideBarsDelay":2000,"selector":".lightgallery","speed":400,"thumbContHeight":80,"thumbWidth":80,"thumbnail":true}};</script><script type="text/javascript" src="/js/theme.min.js"></script><script type="text/javascript">
+            window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());
+            gtag('config', 'G-LPGB10C8JY');
+        </script><script type="text/javascript" src="https://www.googletagmanager.com/gtag/js?id=G-LPGB10C8JY" async></script></body>
+</html>

@@ -1,38 +1,70 @@
-# Teaching
+# 
+
+<!-- +++ 
+title = "Teaching" 
+date = "2020-04-20" 
+menu = "main" 
++++
+
 
 <br/><br/>
+
 <div style="text-align: justify">
 
-### National Taiwan University
-
-**2026** — Seminar on Comparative Legislative Politics in East Asia (Fall)
-
-**2026** — Text as Data: Computational Methods for Social Science Research (Fall)
-
----
-
-### NTU MA & PhD Supervision
-
-If you are an MA or PhD student at NTU's Graduate Institute of National Development looking for a supervisor or a thesis committee member, I would be glad to <a href="mailto:davidycliao@gmail.com">hear from you</a>; students from other departments in the College of Social Sciences who would like me to serve on their thesis committee are equally welcome. I am especially happy to supervise or serve on committees for work on:
-
-<ul>
-<li>Electoral systems, legislative behaviour, and political representation</li>
-<li>Indigenous public opinion, Indigenous political representation, and the behaviour of elected representatives</li>
-<li>Large language models and AI systems as political and measurement actors, and text-as-data methods more broadly</li>
-<li>Political misperception and belief updating, including survey-experimental designs</li>
-</ul>
-
----
+I have been a Teaching Assistant to [<span style="color:#778899">The Essex Summer School in Social Science Data Analysis</span>](https://essexsummerschool.com/) (2019, 2020, 2021),  [<span style="color:#778899">The Empirical Implications of Theoretical Models Summer Institute Europe</span>](https://www.sowi.uni-mannheim.de/eitm/) (2021), and  [<span style="color:#778899">The ECPR Summer School in Methods and Techniques </span>](https://ecpr.eu/SummerSchool) (2020).  In 2021, I together with [<span style="color:#778899"> Dr. Shih-chan Dai (UCLA)</span>](https://polsci.umass.edu/people/shih-chan-dai) and [<span style="color:#778899">Jou Fei Huang (PhD Candidate, The University at Buffalo)</span>](https://joufeihuang.weebly.com/) volunteer to run a **Free Data Science Bootcamp Using R Programming Language** for Taiwan indigenous students who aim to improve their data analytic skills in R. 
+</div>
 
 
-### University College Dublin
+<br/>
 
-**2025** — Data Analysis and Applications with the legisTaiwan R Package. *Taipei R-Ladies* [![Slide Notes](https://img.shields.io/badge/Slide%20Notes-000000?logo=googledocs&logoColor=white)](https://raw.githack.com/davidycliao/r-ladies-tpe-legistaiwan/main/r-ladies.pdf) [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/davidycliao/r-ladies-tpe-legistaiwan?tab=readme-ov-file)
+<div style="text-align: center">
 
-
-**2024** — Guest Lecturer on Word Embeddings and Transformers — *Postgraduate Course in Quantitative Text Analysis, University College Dublin* (led by <a href="https://muellerstefan.net" style="color:#778899; text-decoration: underline;" target="_blank" rel="noopener noreferrer">Stefan Müller</a>) [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/davidycliao/guess-lecturing)
-
-**2024** — Introduction to High-Performance Computing with SLURM — *SPIRe PhD Workshop, University College Dublin*
+## Teaching & Repository
 
 </div>
 
+
+
+<div style="text-align: justify">
+
+
+__[<span style="color:#778899">**Big Data and Computation for Social Data Science**</span>](https://www.gesis.org/en/home)__ (Co-teaching with Dr. Akitaka Matsuo, *GESIS Fall Seminar in Computational Social Science 2023*) 
+
+This course is tailored for social science researchers and practitioners who seek to extract insights from large data sets using Python and R. The course's objective is to equip participants with the knowledge of essential infrastructure for data manipulation and analysis, along with practical guidance on how to proficiently employ statistical and programming languages within that framework.
+
+</div>
+
+---
+
+
+<div style="text-align: justify">
+
+
+__[<span style="color:#778899">**原住民族資料分析線上讀書會：R的基礎與應用**</span>](https://davidycliao.github.io/2021/07/databoot-camp/)__ 
+
+本課程屬於R語言中入門的階段，並以原住民資料為教學導向，主要透過R編寫代碼完成獨立分析。課程大致上聚焦在幾個主題：R入門概念與tidyverse、資料結構、函數設計、非常基礎的基礎統計、文字分析應用（Quatitative Text Analysis）與機器學習（machine learning）於社會科學的應用與實現。
+
+</div>
+
+
+---
+
+
+<div style="text-align: justify">
+
+**[<span style="color:#778899">**ESS3L**</span>](https://github.com/davidycliao/2020-ESS3L)** (with Royce Carroll, 2020 53rd Essex Summer School in Social Science Data Analysis) 
+
+The repository stores lesson files for "**3L Scaling Methods for Social Science: Estimating Patterns and Preferences in Surveys and Behavior**", taught by Royce Carroll. This course focuses on methods to discover, understand and visualize latent patterns in data and is especially suited to students with projects using survey data and other forms of relational data. The course introduces students to measurement theory and methods of scaling techniques, including Multidimensional Scaling,Ideal Point Estimation, and Item Response Theory. 
+
+</div>
+
+----
+
+
+<div style="text-align: justify">
+
+__[<span style="color:#778899">**DMASS**</span>](https://github.com/davidycliao/DMASS)__ (with Shih-chan Dai, Spring Term 2021, University of Massachusetts-Amherst) 
+
+The repository stores lesson files for "**Data Management and Analysis for Social Sciences**", University of Massachusetts-Amherst. This course aims to provide students with an overview of the theoretical and practical foundations required for managing and analyzing data, especially those in social sciences.
+
+</div> -->
