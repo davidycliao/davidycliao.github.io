@@ -2,66 +2,66 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://davidycliao.github.io/zh-tw/teaching/</loc><lastmod>2026-07-03T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>http://localhost:1313/zh-tw/teaching/</loc><lastmod>2026-07-03T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://davidycliao.github.io/teaching/"
+                        href="http://localhost:1313/teaching/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-tw"
-                    href="https://davidycliao.github.io/zh-tw/teaching/"
+                    href="http://localhost:1313/zh-tw/teaching/"
                     /></url><url>
-            <loc>https://davidycliao.github.io/zh-tw/</loc><lastmod>2026-07-03T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>http://localhost:1313/zh-tw/</loc><lastmod>2026-07-03T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://davidycliao.github.io/"
+                        href="http://localhost:1313/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-tw"
-                    href="https://davidycliao.github.io/zh-tw/"
+                    href="http://localhost:1313/zh-tw/"
                     /></url><url>
-            <loc>https://davidycliao.github.io/zh-tw/about/</loc><lastmod>2026-07-03T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>http://localhost:1313/zh-tw/about/</loc><lastmod>2026-07-03T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://davidycliao.github.io/about/"
+                        href="http://localhost:1313/about/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-tw"
-                    href="https://davidycliao.github.io/zh-tw/about/"
+                    href="http://localhost:1313/zh-tw/about/"
                     /></url><url>
-            <loc>https://davidycliao.github.io/zh-tw/software/</loc><lastmod>2020-09-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>http://localhost:1313/zh-tw/software/</loc><lastmod>2020-09-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://davidycliao.github.io/software/"
+                        href="http://localhost:1313/software/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-tw"
-                    href="https://davidycliao.github.io/zh-tw/software/"
+                    href="http://localhost:1313/zh-tw/software/"
                     /></url><url>
-            <loc>https://davidycliao.github.io/zh-tw/research/</loc><lastmod>2020-09-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>http://localhost:1313/zh-tw/research/</loc><lastmod>2020-09-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://davidycliao.github.io/research/"
+                        href="http://localhost:1313/research/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-tw"
-                    href="https://davidycliao.github.io/zh-tw/research/"
+                    href="http://localhost:1313/zh-tw/research/"
                     /></url><url>
-            <loc>https://davidycliao.github.io/zh-tw/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>http://localhost:1313/zh-tw/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://davidycliao.github.io/categories/"
+                        href="http://localhost:1313/categories/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-tw"
-                    href="https://davidycliao.github.io/zh-tw/categories/"
+                    href="http://localhost:1313/zh-tw/categories/"
                     /></url><url>
-            <loc>https://davidycliao.github.io/zh-tw/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>http://localhost:1313/zh-tw/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://davidycliao.github.io/tags/"
+                        href="http://localhost:1313/tags/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-tw"
-                    href="https://davidycliao.github.io/zh-tw/tags/"
+                    href="http://localhost:1313/zh-tw/tags/"
                     /></url></urlset>
