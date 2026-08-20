@@ -6,9 +6,9 @@
 
 ### 國立臺灣大學
 
-**2026** — 東亞比較立法政治專題 (秋季)
+**2026 秋季** — 東亞比較立法政治專題 {{< badge href="https://www.dropbox.com/scl/fi/8a1sh95mbbavocl3bsxw2/NTLDEV_7191.pdf?rlkey=d669yq38fmmow2pag4d45vyht&dl=0" icon="fa-file-pdf" text="課程大綱" >}}
 
-**2026** — Text as Data: Computational Methods for Social Science Research 文本作為資料：社會科學研究的計算方 (秋季 英語授課)
+**2026 秋季** — Text as Data: Computational Methods for Social Science Research {{< badge href="https://www.dropbox.com/scl/fi/giau11y5r44eng4v2j9qp/NtlDev_7192.pdf?rlkey=1wm5iaqyeuqgdn1kigwk8ttyy&dl=0" icon="fa-file-pdf" text="課程大綱" >}}
 
 ---
 

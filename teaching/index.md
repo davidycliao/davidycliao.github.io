@@ -5,9 +5,9 @@
 
 ### National Taiwan University
 
-**2026** — Seminar on Comparative Legislative Politics in East Asia (Fall)
+**2026 Fall** — Seminar on Comparative Legislative Politics in East Asia {{< badge href="https://www.dropbox.com/scl/fi/8a1sh95mbbavocl3bsxw2/NTLDEV_7191.pdf?rlkey=d669yq38fmmow2pag4d45vyht&dl=0" icon="fa-file-pdf" text="Syllabus" >}}
 
-**2026** — Text as Data: Computational Methods for Social Science Research (Fall)
+**2026 Fall** — Text as Data: Computational Methods for Social Science Research {{< badge href="https://www.dropbox.com/scl/fi/giau11y5r44eng4v2j9qp/NtlDev_7192.pdf?rlkey=1wm5iaqyeuqgdn1kigwk8ttyy&dl=0" icon="fa-file-pdf" text="Syllabus" >}}
 
 ---
 
