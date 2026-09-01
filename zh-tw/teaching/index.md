@@ -11,7 +11,7 @@
 **2026 秋季** — Text as Data: Computational Methods for Social Science Research {{< badge href="https://www.dropbox.com/scl/fi/8a1sh95mbbavocl3bsxw2/NTLDEV_7191.pdf?rlkey=d669yq38fmmow2pag4d45vyht&dl=0" icon="fa-file-pdf" text="課程大綱" >}}
 
 ---
-
+<!-- 
 ### 國立臺灣大學 碩博士論文指導
 
 如果你是國立臺灣大學國家發展研究所的碩士或博士生，正在尋找指導教授或論文口試委員，<a href="mailto:davidycliao@gmail.com">歡迎與我聯繫</a>。國立臺灣大學社會科學院其他系所的研究生，若希望邀請我擔任論文口試委員，也非常歡迎與我聯繫。我特別樂於指導或擔任以下主題研究的口試委員：
@@ -23,7 +23,7 @@
 <li>政治錯誤認知與信念更新，包括調查實驗設計方法</li>
 </ul>
 
----
+--- -->
 
 ### 都柏林大學（University College Dublin）
 

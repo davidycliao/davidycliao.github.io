@@ -9,7 +9,7 @@
 
 **2026 Fall** — Text as Data: Computational Methods for Social Science Research {{< badge href="https://www.dropbox.com/scl/fi/8a1sh95mbbavocl3bsxw2/NTLDEV_7191.pdf?rlkey=d669yq38fmmow2pag4d45vyht&dl=0" icon="fa-file-pdf" text="Syllabus" >}}
 
----
+<!-- ---
 
 ### NTU MA & PhD Supervision
 
@@ -20,7 +20,7 @@ If you are an MA or PhD student at NTU's Graduate Institute of National Developm
 <li>Indigenous public opinion, Indigenous political representation, and the behaviour of elected representatives</li>
 <li>Large language models and AI systems as political and measurement actors, and text-as-data methods more broadly</li>
 <li>Political misperception and belief updating, including survey-experimental designs</li>
-</ul>
+</ul> -->
 
 ---
 
