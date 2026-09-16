@@ -2,68 +2,68 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://localhost:1313/about/</loc><lastmod>2026-07-03T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://davidycliao.github.io/about/</loc><lastmod>2026-07-03T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-tw"
-                        href="http://localhost:1313/zh-tw/about/"
+                        href="https://davidycliao.github.io/zh-tw/about/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://localhost:1313/about/"
+                    href="https://davidycliao.github.io/about/"
                     /></url><url>
-            <loc>http://localhost:1313/teaching/</loc><lastmod>2026-07-03T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://davidycliao.github.io/teaching/</loc><lastmod>2026-07-03T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-tw"
-                        href="http://localhost:1313/zh-tw/teaching/"
+                        href="https://davidycliao.github.io/zh-tw/teaching/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://localhost:1313/teaching/"
+                    href="https://davidycliao.github.io/teaching/"
                     /></url><url>
-            <loc>http://localhost:1313/</loc><lastmod>2026-07-03T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://davidycliao.github.io/</loc><lastmod>2026-07-03T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-tw"
-                        href="http://localhost:1313/zh-tw/"
+                        href="https://davidycliao.github.io/zh-tw/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://localhost:1313/"
+                    href="https://davidycliao.github.io/"
                     /></url><url>
-            <loc>http://localhost:1313/software/</loc><lastmod>2020-09-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://davidycliao.github.io/software/</loc><lastmod>2020-09-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-tw"
-                        href="http://localhost:1313/zh-tw/software/"
+                        href="https://davidycliao.github.io/zh-tw/software/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://localhost:1313/software/"
+                    href="https://davidycliao.github.io/software/"
                     /></url><url>
-            <loc>http://localhost:1313/research/</loc><lastmod>2020-09-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://davidycliao.github.io/research/</loc><lastmod>2020-09-20T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-tw"
-                        href="http://localhost:1313/zh-tw/research/"
+                        href="https://davidycliao.github.io/zh-tw/research/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://localhost:1313/research/"
+                    href="https://davidycliao.github.io/research/"
                     /></url><url>
-            <loc>http://localhost:1313/data/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://localhost:1313/project/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://localhost:1313/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://davidycliao.github.io/data/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://davidycliao.github.io/project/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://davidycliao.github.io/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-tw"
-                        href="http://localhost:1313/zh-tw/categories/"
+                        href="https://davidycliao.github.io/zh-tw/categories/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://localhost:1313/categories/"
+                    href="https://davidycliao.github.io/categories/"
                     /></url><url>
-            <loc>http://localhost:1313/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://davidycliao.github.io/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-tw"
-                        href="http://localhost:1313/zh-tw/tags/"
+                        href="https://davidycliao.github.io/zh-tw/tags/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://localhost:1313/tags/"
+                    href="https://davidycliao.github.io/tags/"
                     /></url></urlset>
