@@ -5,22 +5,9 @@
 
 ### National Taiwan University
 
-**2026 Fall** — Seminar on Comparative Legislative Politics in East Asia {{< badge href="https://www.dropbox.com/scl/fi/50904i72rz337u8ekj2i8/NTLDEV_7192.pdf?rlkey=vhf6r23r8nypnbfwb8m58x7fi&dl=0" icon="fa-file-pdf" text="Syllabus" >}}
+**2026 Fall** — Seminar on Comparative Legislative Politics in East Asia [![Syllabus](https://img.shields.io/badge/Syllabus-000000?logo=adobeacrobatreader&logoColor=white)](https://www.dropbox.com/scl/fi/50904i72rz337u8ekj2i8/NTLDEV_7192.pdf?rlkey=vhf6r23r8nypnbfwb8m58x7fi&dl=0) [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/davidycliao/guess-lecturing) [![Slide Notes](https://img.shields.io/badge/Slide%20Notes-000000?logo=googledocs&logoColor=white)](https://raw.githack.com/davidycliao/r-ladies-tpe-legistaiwan/main/r-ladies.pdf)
 
-**2026 Fall** — Text as Data: Computational Methods for Social Science Research {{< badge href="https://www.dropbox.com/scl/fi/tvjzhuohrjofltgvlkv7v/NTLDEV_7191.pdf?rlkey=9mnq08bg8i8hfo4jinzc408w7&dl=0" icon="fa-file-pdf" text="Syllabus" >}}
-
-<!-- ---
-
-### NTU MA & PhD Supervision
-
-If you are an MA or PhD student at NTU's Graduate Institute of National Development looking for a supervisor or a thesis committee member, I would be glad to <a href="mailto:davidycliao@gmail.com">hear from you</a>; students from other departments in the College of Social Sciences who would like me to serve on their thesis committee are equally welcome. I am especially happy to supervise or serve on committees for work on:
-
-<ul>
-<li>Electoral systems, legislative behaviour, and political representation</li>
-<li>Indigenous public opinion, Indigenous political representation, and the behaviour of elected representatives</li>
-<li>Large language models and AI systems as political and measurement actors, and text-as-data methods more broadly</li>
-<li>Political misperception and belief updating, including survey-experimental designs</li>
-</ul> -->
+**2026 Fall** — Text as Data: Computational Methods for Social Science Research [![Syllabus](https://img.shields.io/badge/Syllabus-000000?logo=adobeacrobatreader&logoColor=white)](https://www.dropbox.com/scl/fi/tvjzhuohrjofltgvlkv7v/NTLDEV_7191.pdf?rlkey=9mnq08bg8i8hfo4jinzc408w7&dl=0) [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/davidycliao/guess-lecturing) [![Slide Notes](https://img.shields.io/badge/Slide%20Notes-000000?logo=googledocs&logoColor=white)](https://raw.githack.com/davidycliao/r-ladies-tpe-legistaiwan/main/r-ladies.pdf)
 
 ---
 
