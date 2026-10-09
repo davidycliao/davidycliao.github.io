@@ -23,7 +23,7 @@
     <div class="student-card__name">Jiaqi Liu
       <span class="student-card__meta">MSc in AI and Sustainable Development, School of Government, University of Birmingham</span>
     </div>
-    <p class="student-card__bio">Completed an MSc in AI and Sustainable Development at the School of Government, University of Birmingham. Their technical strength lies in machine learning, which they bring to questions at the intersection of governance, public policy, and sustainability.</p>
+    <p class="student-card__bio">Completed an MSc in AI and Sustainable Development at the School of Government, University of Birmingham. His technical strength lies in machine learning, which he brings to questions at the intersection of governance, public policy, and sustainability.</p>
   </div>
 </div>
 
