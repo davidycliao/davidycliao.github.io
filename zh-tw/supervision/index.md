@@ -15,6 +15,18 @@
   </div>
 </div>
 
+### 畢業學生
+
+<div class="student-card">
+  <img class="student-card__photo" src="/images/students/uob.jpg" alt="伯明罕大學" loading="lazy" />
+  <div class="student-card__body">
+    <div class="student-card__name">Jiaqi Liu
+      <span class="student-card__meta">英國伯明罕大學政府學院 人工智慧與永續發展碩士</span>
+    </div>
+    <p class="student-card__bio">英國伯明罕大學政府學院人工智慧與永續發展碩士。技術專長為機器學習，並將其應用於治理、公共政策與永續發展交會的研究問題。</p>
+  </div>
+</div>
+
 <!--
 ---
 

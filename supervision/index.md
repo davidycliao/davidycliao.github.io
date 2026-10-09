@@ -3,7 +3,7 @@
 <br/><br/>
 <div style="text-align: justify">
 
-### Students
+### Current Students
 
 <div class="student-card">
   <img class="student-card__photo" src="/images/students/roy.jpg" alt="Gui-Ping (Roy) Liang" loading="lazy" />
@@ -12,6 +12,18 @@
       <span class="student-card__meta">Master's student, Graduate Institute of National Development, NTU</span>
     </div>
     <p class="student-card__bio">Master's student at NTU GIND with a background in business and finance. His research utilizes Language Models to measure corporate political rhetoric, specializing in automated text analysis, quantitative methods, and GIS spatial analytics.</p>
+  </div>
+</div>
+
+### Past Students
+
+<div class="student-card">
+  <img class="student-card__photo" src="/images/students/uob.jpg" alt="University of Birmingham" loading="lazy" />
+  <div class="student-card__body">
+    <div class="student-card__name">Jiaqi Liu
+      <span class="student-card__meta">MSc in AI and Sustainable Development, School of Government, University of Birmingham</span>
+    </div>
+    <p class="student-card__bio">Completed an MSc in AI and Sustainable Development at the School of Government, University of Birmingham. Their technical strength lies in machine learning, which they bring to questions at the intersection of governance, public policy, and sustainability.</p>
   </div>
 </div>
 
