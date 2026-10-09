@@ -8,7 +8,7 @@
 <div class="student-card">
   <img class="student-card__photo" src="/images/students/roy.jpg" alt="梁貴評（Gui-Ping Roy Liang）" loading="lazy" />
   <div class="student-card__body">
-    <div class="student-card__name">Gui-Ping (Roy) Liang
+    <div class="student-card__name">梁貴評
       <span class="student-card__meta">國立臺灣大學國家發展研究所 碩士生</span>
     </div>
     <p class="student-card__bio">臺大國發所碩士生，具商管金融背景。專注以語言模型測量企業政治修辭，熟練文本、量化及 GIS 空間分析。</p>
