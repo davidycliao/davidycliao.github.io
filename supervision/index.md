@@ -23,9 +23,9 @@ If you are a master's or PhD student at the Graduate Institute of National Devel
 
 <ul>
 <li>Electoral systems, legislative behaviour, and political representation</li>
-<li>Indigenous public opinion, Indigenous political representation, and the behaviour of elected representatives</li>
 <li>Large language models and AI systems as political and measurement actors, and text-as-data applications in social science research more broadly</li>
 <li>Political misperception and belief updating, including survey experimental design</li>
+<li>Indigenous public opinion, Indigenous political representation, and the behaviour of elected representatives</li>
 </ul>
 
 </div>
