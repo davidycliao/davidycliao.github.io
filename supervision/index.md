@@ -15,6 +15,7 @@
   </div>
 </div>
 
+<!--
 ---
 
 ### National Taiwan University
@@ -27,6 +28,7 @@ If you are a master's or PhD student at the Graduate Institute of National Devel
 <li>Political misperception and belief updating, including survey experimental design</li>
 <li>Indigenous public opinion, Indigenous political representation, and the behaviour of elected representatives</li>
 </ul>
+-->
 
 </div>
 
