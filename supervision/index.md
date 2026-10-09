@@ -8,7 +8,7 @@
 <div class="student-card">
   <img class="student-card__photo" src="/images/students/roy.jpg" alt="Gui-Ping (Roy) Liang" loading="lazy" />
   <div class="student-card__body">
-    <div class="student-card__name">Gui-Ping (Roy) Liang
+    <div class="student-card__name">Gui-Ping (Roy) Liang <a class="student-card__badge" href="https://royliang12.github.io" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Website-000000?logo=githubpages&logoColor=white" alt="Website" loading="lazy" /></a>
       <span class="student-card__meta">Master's student, Graduate Institute of National Development, NTU</span>
     </div>
     <p class="student-card__bio">Master's student at NTU GIND with a background in business and finance. His research utilizes Language Models to measure corporate political rhetoric, specializing in automated text analysis, quantitative methods, and GIS spatial analytics.</p>
