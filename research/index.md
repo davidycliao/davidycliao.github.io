@@ -19,7 +19,7 @@
 
 <ul style="padding-left: 2.5em;">
   <li>Electoral Reform and Issue Attention in Legislative Oversight: From SNTV to Mixed-Member Majoritarian System in Taiwan. (with <a href="https://sites.google.com/view/calvin-yuceng-liao/home" style="color: #9ab8b8;">Yu-Ceng Liao</a> and <a href="https://yitingw.com" style="color: #9ab8b8;">Yi-ting Wang</a>) <strong style="font-size: 0.7em; text-decoration: underline;"><em>Revise and Resubmit at Electoral Studies</em></strong></li>
-  <li>Knocking on the Wrong Door: Partisan Canvassing and Asymmetric Belief Updating in Britain. (with <a href="https://litangmacro.github.io" style="color: #9ab8b8;">Li Tang</a>) <a href="https://www.dropbox.com/scl/fi/g06t09yxv2rr6jhyq43cj/Canvassing_and_misperception.pdf?rlkey=h8gcnllltoqcntvot8fmew0rz&amp;st=jxcxu9zr&amp;dl=0" target="_blank" style="color: inherit;"><strong style="font-size: 0.7em; text-decoration: underline;"><em>Working Draft</em></strong></a></li>
+  <li>Knocking on the Wrong Door: Partisan Canvassing and Asymmetric Belief Updating in Britain. (with <a href="https://litangmacro.github.io" style="color: #9ab8b8;">Li Tang</a>) <a href="https://www.dropbox.com/scl/fi/g06t09yxv2rr6jhyq43cj/Canvassing_and_misperception.pdf?rlkey=h8gcnllltoqcntvot8fmew0rz&amp;st=jxcxu9zr&amp;dl=0" target="_blank" style="color: inherit;"><strong style="font-size: 0.7em; text-decoration: underline;"><em>Under Review</em></strong></a></li>
   <li>Cross-Lingual Stance Detection in Political Texts: Comparison and Application. (with <a href="https://muellerstefan.net" style="color: #9ab8b8;">Stefan Müller</a>)</li>
 </ul>
 
