@@ -26,7 +26,7 @@
 <p style="padding-left: 1em; margin-top: 1em; margin-bottom: 0.5em;"><u>(2) LLMs · Multi-Agent Systems · Agentic Actors</u></p>
 
 <ul style="padding-left: 2.5em;">
-  <li>AI Survey Respondents as Measurement Instruments: A Pre-Registered Total Survey Error Framework. (with <a href="https://linettemlim.github.io" style="color: #9ab8b8;">Linette Lim</a> and <a href="https://sjankin.com" style="color: #9ab8b8;">Slava Jankin</a>) <strong style="font-size: 0.7em; text-decoration: underline;"><em>Revise and Resubmit</em></strong></li>
+  <li>AI Survey Respondents as Measurement Instruments: A Pre-Registered Total Survey Error Framework. (with <a href="https://linettemlim.github.io" style="color: #9ab8b8;">Linette Lim</a> and <a href="https://sjankin.com" style="color: #9ab8b8;">Slava Jankin</a>) <strong style="font-size: 0.7em; text-decoration: underline;"><em>Revise and Resubmit at Public Opinion Quarterly</em></strong></li>
   <li>Multi-Agent LLM Systems for Synthetic Survey Experiments in Ethically Constrained Settings. (with <a href="https://linettemlim.github.io" style="color: #9ab8b8;">Linette Lim</a> and <a href="https://sjankin.com" style="color: #9ab8b8;">Slava Jankin</a>) <a href="https://www.dropbox.com/scl/fi/pnpv3t1dqji7qxnuoihqx/Multi_Agent_Systems_with_LLMs.pdf?rlkey=du7hl5mainlk6lp0a0ki6b5f0&amp;dl=0" target="_blank" style="color: inherit;"><strong style="font-size: 0.7em; text-decoration: underline;"><em>Working Draft</em></strong></a></li>
   <li>Game-Theoretic Multi-Agent Systems with LLMs for Crisis Negotiation and Simulation. (with <a href="https://alexanderszhang.com" style="color: #9ab8b8;">Shuli Zhang</a>)</li>
 </ul>
